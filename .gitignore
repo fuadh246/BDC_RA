@@ -1,5 +1,5 @@
 # add .env file to .gitignore
 echo ".env" >> .gitignore
 
-venv/
+/BDC_RA/venv
 csv_file/
