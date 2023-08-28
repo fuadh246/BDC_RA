@@ -2,4 +2,4 @@
 echo ".env" >> .gitignore
 git rm --cached .env
 
-venv/
+venv/.env
