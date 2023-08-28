@@ -1,0 +1,4 @@
+# add .env file to .gitignore
+echo ".env" >> .gitignore
+git rm --cached .env
+
