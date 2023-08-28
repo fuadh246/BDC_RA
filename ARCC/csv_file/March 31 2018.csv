@@ -1,28 +1,28 @@
 ,Company(1),Business Description,Investment,Interest(6)(12),Acquisition  Date,Amortized  Cost,Fair  Value
-2,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($18.9 par due 1/2022),11.63% (Libor + 9.33%/Q),1/5/2016,18.9,18.0
-3,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($5.1 par due 1/2022),11.63% (Libor + 9.33%/Q),1/5/2016,5.1,4.8
-4,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4.0,1.1
-5,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0.0
-7,"Acessa Health Inc. (fka HALT Medical, Inc.)",Medical supply provider,"Common stock (569,823 shares)",0,6/22/2017,0.1,0.0
-8,"ADCS Billings Intermediate Holdings, LLC (23)",Dermatology practice,First lien senior secured revolving loan ($2.5 par due 5/2022),9.50% (Base Rate + 4.75%/Q),5/18/2016,2.5,2.5
-9,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.46% (Libor + 4.75%/M),9/28/2016,1.0,1.0
-10,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.57% (Libor + 4.75%/M),9/28/2016,1.0,0.9
-11,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($8.5 par due 9/2022),6.63% (Libor + 4.75%/M),9/28/2016,8.5,8.3
-12,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($0.8 par due 9/2022),8.50% (Base Rate + 3.75%/Q),9/28/2016,0.8,0.8
-13,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,Second lien senior secured loan ($87.5 par due 3/2024),10.88% (Libor + 9.00%/M),9/28/2016,87.5,81.4
-14,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3.0,1.9
-16,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,Senior subordinated loan ($182.7 par due 3/2026),9.64% (Libor + 7.88%/M),3/14/2018,182.7,182.7
-17,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,"Warrant to purchase up to 115,733 units of common stock (expires 3/2028)",0,3/14/2018,0.9,0.9
-19,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($7.7 par due 10/2019),7.16% (Libor + 5.50%/M),1/3/2017,7.7,7.7
-20,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($2.0 par due 10/2019),7.21% (Libor + 5.50%/M),1/3/2017,2.0,2.0
-21,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($15.9 par due 10/2019),7.29% (Libor + 5.50%/M),1/3/2017,15.9,15.9
-22,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($10.0 par due 10/2020),7.38% (Libor + 5.50%/M),1/3/2017,10.0,10.0
-23,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($95.4 par due 10/2020),7.38% (Libor + 5.50%/M),1/3/2017,95.4,95.4
-24,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($0.2 par due 10/2020),11.25% (Base Rate + 6.50%/Q),1/3/2017,0.2,0.2
-25,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($37.5 par due 10/2020),14.75% PIK,1/3/2017,37.5,37.5
-26,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($38.0 par due 10/2020),15.25% PIK,1/3/2017,25.8,38.0
-27,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($25.0 par due 10/2020),12.25%,1/3/2017,25.0,25.0
-28,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($30.0 par due 10/2020),11.75%,1/3/2017,30.0,30.0
-29,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($30.0 par due 10/2020),12.00%,1/3/2017,30.0,30.0
-30,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,"Series R preferred membership units (30,000 units)",0,1/3/2017,0.0,155.6
-31,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,"Series R-2 preferred membership units (54,936 units)",0,1/3/2017,0.0,86.2
+0,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($18.9 par due 1/2022),11.63% (Libor + 9.33%/Q),1/5/2016,18.9,18.0
+1,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($5.1 par due 1/2022),11.63% (Libor + 9.33%/Q),1/5/2016,5.1,4.8
+2,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4.0,1.1
+3,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0.0
+4,"Acessa Health Inc. (fka HALT Medical, Inc.)",Medical supply provider,"Common stock (569,823 shares)",0,6/22/2017,0.1,0.0
+5,"ADCS Billings Intermediate Holdings, LLC (23)",Dermatology practice,First lien senior secured revolving loan ($2.5 par due 5/2022),9.50% (Base Rate + 4.75%/Q),5/18/2016,2.5,2.5
+6,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.46% (Libor + 4.75%/M),9/28/2016,1.0,1.0
+7,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.57% (Libor + 4.75%/M),9/28/2016,1.0,0.9
+8,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($8.5 par due 9/2022),6.63% (Libor + 4.75%/M),9/28/2016,8.5,8.3
+9,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,First lien senior secured revolving loan ($0.8 par due 9/2022),8.50% (Base Rate + 3.75%/Q),9/28/2016,0.8,0.8
+10,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,Second lien senior secured loan ($87.5 par due 3/2024),10.88% (Libor + 9.00%/M),9/28/2016,87.5,81.4
+11,"ADG, LLC and RC IV GEDC Investor LLC (23)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3.0,1.9
+12,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,Senior subordinated loan ($182.7 par due 3/2026),9.64% (Libor + 7.88%/M),3/14/2018,182.7,182.7
+13,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,"Warrant to purchase up to 115,733 units of common stock (expires 3/2028)",0,3/14/2018,0.9,0.9
+14,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($7.7 par due 10/2019),7.16% (Libor + 5.50%/M),1/3/2017,7.7,7.7
+15,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($2.0 par due 10/2019),7.21% (Libor + 5.50%/M),1/3/2017,2.0,2.0
+16,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured revolving loan ($15.9 par due 10/2019),7.29% (Libor + 5.50%/M),1/3/2017,15.9,15.9
+17,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($10.0 par due 10/2020),7.38% (Libor + 5.50%/M),1/3/2017,10.0,10.0
+18,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($95.4 par due 10/2020),7.38% (Libor + 5.50%/M),1/3/2017,95.4,95.4
+19,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,First lien senior secured loan ($0.2 par due 10/2020),11.25% (Base Rate + 6.50%/Q),1/3/2017,0.2,0.2
+20,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($37.5 par due 10/2020),14.75% PIK,1/3/2017,37.5,37.5
+21,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($38.0 par due 10/2020),15.25% PIK,1/3/2017,25.8,38.0
+22,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($25.0 par due 10/2020),12.25%,1/3/2017,25.0,25.0
+23,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($30.0 par due 10/2020),11.75%,1/3/2017,30.0,30.0
+24,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,Senior subordinated loan ($30.0 par due 10/2020),12.00%,1/3/2017,30.0,30.0
+25,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,"Series R preferred membership units (30,000 units)",0,1/3/2017,0.0,155.6
+26,"Alcami Holdings, LLC (8)(23)",Outsourced drug development services provider,"Series R-2 preferred membership units (54,936 units)",0,1/3/2017,0.0,86.2

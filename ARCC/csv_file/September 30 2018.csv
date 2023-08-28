@@ -1,25 +1,25 @@
 ,Company(1),Business Description,Investment,Interest(5)(10),Acquisition  Date,Amortized  Cost,Fair  Value
-2,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($19.1 par due 1/2022),11.67% (Libor + 9.28%/Q),1/5/2016,19.1,17.0
-3,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($5.1 par due 1/2022),11.67% (Libor + 9.28%/Q),1/5/2016,5.1,4.5
-4,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4.0,0.3
-5,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0.0
-7,"Acessa Health Inc. (fka HALT Medical, Inc.)",Medical supply provider,"Common stock (569,823 shares)",0,6/22/2017,0.1,0.0
-8,"ADCS Billings Intermediate Holdings, LLC (21)",Dermatology practice,First lien senior secured revolving loan ($2.5 par due 5/2022),8.04% (Libor + 5.75%/Q),5/18/2016,2.5,2.4
-9,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($2.1 par due 9/2022),6.99% (Libor + 4.75%/M),9/28/2016,2.1,2.0
-10,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.90% (Libor + 4.75%/M),9/28/2016,1.0,1.0
-11,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($4.1 par due 9/2022),9.00% (Base Rate + 3.75%/M),9/28/2016,4.1,4.0
-12,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,Second lien senior secured loan ($87.5 par due 3/2024),11.24% (Libor + 9.00%/M),9/28/2016,87.5,79.6
-13,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3.0,1.2
-15,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,Senior subordinated loan ($182.7 par due 3/2026),10.04% (Libor + 7.88%/M),3/14/2018,182.7,182.7
-16,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,"Warrant to purchase up to 115,733 units of common stock (expires 3/2028)",0,3/14/2018,0.9,1.7
-18,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,First lien senior secured loan ($30.2 par due 7/2025),6.40% (Libor + 4.25%/M),7/12/2018,30.0,30.0
-19,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,Second lien senior secured loan ($77.5 par due 7/2026),10.14% (Libor + 8.00%/M),7/12/2018,76.7,76.7
-20,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,"Common units (3,269,900 units)",0,7/12/2018,32.7,32.7
-22,"Alteon Health, LLC",Provider of physician management services,First lien senior secured loan ($3.0 par due 9/2022),8.74% (Libor + 6.50%/M),5/15/2017,3.0,2.6
-23,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured revolving loan ($0.9 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,0.9,0.9
-24,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured loan ($108.4 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,108.4,108.4
-25,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured loan ($72.4 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,72.4,72.4
-26,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",Senior subordinated loan ($78.7 par due 6/2023),"16.33% (Libor + 8.00% Cash, 6.00% PIK/Q)",12/15/2017,78.7,78.7
-28,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured revolving loan ($2.8 par due 10/2022),8.24% (Libor + 6.00%/M),10/17/2017,2.8,2.8
-29,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured revolving loan ($1.4 par due 10/2022),8.14% (Libor + 6.00%/M),10/17/2017,1.4,1.4
-30,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured loan ($31.0 par due 10/2023),8.24% (Libor + 6.00%/M),10/17/2017,31.0,31.0
+0,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($19.1 par due 1/2022),11.67% (Libor + 9.28%/Q),1/5/2016,19.1,17.0
+1,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,First lien senior secured loan ($5.1 par due 1/2022),11.67% (Libor + 9.28%/Q),1/5/2016,5.1,4.5
+2,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4.0,0.3
+3,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0.0
+4,"Acessa Health Inc. (fka HALT Medical, Inc.)",Medical supply provider,"Common stock (569,823 shares)",0,6/22/2017,0.1,0.0
+5,"ADCS Billings Intermediate Holdings, LLC (21)",Dermatology practice,First lien senior secured revolving loan ($2.5 par due 5/2022),8.04% (Libor + 5.75%/Q),5/18/2016,2.5,2.4
+6,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($2.1 par due 9/2022),6.99% (Libor + 4.75%/M),9/28/2016,2.1,2.0
+7,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($1.0 par due 9/2022),6.90% (Libor + 4.75%/M),9/28/2016,1.0,1.0
+8,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,First lien senior secured revolving loan ($4.1 par due 9/2022),9.00% (Base Rate + 3.75%/M),9/28/2016,4.1,4.0
+9,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,Second lien senior secured loan ($87.5 par due 3/2024),11.24% (Libor + 9.00%/M),9/28/2016,87.5,79.6
+10,"ADG, LLC and RC IV GEDC Investor LLC (21)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3.0,1.2
+11,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,Senior subordinated loan ($182.7 par due 3/2026),10.04% (Libor + 7.88%/M),3/14/2018,182.7,182.7
+12,"Air Medical Group Holdings, Inc. and Air Medical Buyer Corp.",Emergency air medical services provider,"Warrant to purchase up to 115,733 units of common stock (expires 3/2028)",0,3/14/2018,0.9,1.7
+13,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,First lien senior secured loan ($30.2 par due 7/2025),6.40% (Libor + 4.25%/M),7/12/2018,30.0,30.0
+14,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,Second lien senior secured loan ($77.5 par due 7/2026),10.14% (Libor + 8.00%/M),7/12/2018,76.7,76.7
+15,"Alcami Corporation and ACM Holdings I, LLC (21)",Outsourced drug development services provider,"Common units (3,269,900 units)",0,7/12/2018,32.7,32.7
+16,"Alteon Health, LLC",Provider of physician management services,First lien senior secured loan ($3.0 par due 9/2022),8.74% (Libor + 6.50%/M),5/15/2017,3.0,2.6
+17,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured revolving loan ($0.9 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,0.9,0.9
+18,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured loan ($108.4 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,108.4,108.4
+19,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",First lien senior secured loan ($72.4 par due 12/2022),8.64% (Libor + 6.25%/Q),12/15/2017,72.4,72.4
+20,"American Academy Holdings, LLC (21)","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",Senior subordinated loan ($78.7 par due 6/2023),"16.33% (Libor + 8.00% Cash, 6.00% PIK/Q)",12/15/2017,78.7,78.7
+21,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured revolving loan ($2.8 par due 10/2022),8.24% (Libor + 6.00%/M),10/17/2017,2.8,2.8
+22,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured revolving loan ($1.4 par due 10/2022),8.14% (Libor + 6.00%/M),10/17/2017,1.4,1.4
+23,Bambino CI Inc. (21),Manufacturer and provider of single-use obstetrics products,First lien senior secured loan ($31.0 par due 10/2023),8.24% (Libor + 6.00%/M),10/17/2017,31.0,31.0

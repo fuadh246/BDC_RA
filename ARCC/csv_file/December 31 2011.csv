@@ -1,18 +1,1182 @@
-,Company(1),Business Description,Investment,Interest(5)(12),,Amortized  Cost,Fair Value
-2,"AGILE Fund I, LLC(7)(9)",Investment partnership,Member interest (0.50% interest),0,4/1/2010,216,132
-3,"CIC Flex, LP(9)",Investment partnership,Limited partnership units (0.94 unit),0,9/7/2007,2533,3130
-4,"Covestia Capital Partners, LP(9)",Investment partnership,Limited partnership interest (47.00% interest),0,6/17/2008,1059,1111
-5,"Dynamic India Fund IV, LLC(9)",Investment company,Member interest (5.44% interest),0,4/1/2010,4822,4728
-6,Firstlight Financial Corporation(6)(9),Investment company,"Senior subordinated loan ($71,542 par due 12/2016)",1.00% PIK,12/31/2006,71269,67947
-7,Firstlight Financial Corporation(6)(9),Investment company,"Class A common stock (10,000 shares)",0,12/31/2006,10000,0
-8,Firstlight Financial Corporation(6)(9),Investment company,"Class B common stock (30,000 shares)",0,12/31/2006,30000,0
-10,"HCI Equity, LLC(7)(8)(9)",Investment company,Member interest (100.00% interest),0,4/1/2010,808,730
-11,"Imperial Capital Private Opportunities, LP(9)",Investment partnership,Limited partnership interest (80.00% interest),0,5/10/2007,6643,5120
-12,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)",Investment company,"Class B deferrable interest notes ($40,000 par due 11/2018)",6.25% (Libor + 6.00%/Q),11/20/2007,40000,38000
-13,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)",Investment company,Subordinated notes ($16 par due 11/2018),15.00%,11/20/2007,15515,16000
-15,"Kodiak Funding, LP(9)",Investment partnership,Limited partnership interest (1.52% interest),0,4/1/2010,868,823
-16,"Novak Biddle Venture Partners III, L.P.(9)",Investment partnership,Limited partnership interest (2.47% interest),0,4/1/2010,221,196
-17,"Partnership Capital Growth Fund I, L.P.(9)",Investment partnership,Limited partnership interest (25.00% interest),0,6/16/2006,1791,3726
-18,"Partnership Capital Growth Fund III, L.P.(9)",Investment partnership,Limited partnership interest (2.50% interest),0,10/5/2011,1322,1250
-19,Senior Secured Loan Fund LLC(7)(11)(19),Co-investment vehicle,"Subordinated certificates ($1,044,977 par due 12/2020)",8.38% (Libor + 8.00%/Q),10/30/2009,1034254,1059178
-20,VSC Investors LLC(9),Investment company,Membership interest (1.95% interest),0,1/24/2008,1139,997
+,Company(1),,Business Description,,Investment,,Interest(5)(12),,Acquisition  Date,,Amortized  Cost,Fair Value
+0,"AGILE Fund I, LLC(7)(9)",0,Investment partnership,0,Member interest (0.50% interest),0,0,0,0,4/1/2010,216.0,132.0
+1,"CIC Flex, LP(9)",0,Investment partnership,0,Limited partnership units (0.94 unit),0,0,0,0,9/7/2007,2533.0,3130.0
+2,"Covestia Capital Partners, LP(9)",0,Investment partnership,0,Limited partnership interest (47.00% interest),0,0,0,0,6/17/2008,1059.0,1111.0
+3,"Dynamic India Fund IV, LLC(9)",0,Investment company,0,Member interest (5.44% interest),0,0,0,0,4/1/2010,4822.0,4728.0
+4,Firstlight Financial Corporation(6)(9),0,Investment company,0,"Senior subordinated loan ($71,542 par due 12/2016)",0,1.00% PIK,0,0,12/31/2006,71269.0,67947.0
+5,Firstlight Financial Corporation(6)(9),0,0,0,"Class A common stock (10,000 shares)",0,0,0,0,12/31/2006,10000.0,0.0
+6,Firstlight Financial Corporation(6)(9),0,0,0,"Class B common stock (30,000 shares)",0,0,0,0,12/31/2006,30000.0,0.0
+7,"HCI Equity, LLC(7)(8)(9)",0,Investment company,0,Member interest (100.00% interest),0,0,0,0,4/1/2010,808.0,730.0
+8,"Imperial Capital Private Opportunities, LP(9)",0,Investment partnership,0,Limited partnership interest (80.00% interest),0,0,0,0,5/10/2007,6643.0,5120.0
+9,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)",0,Investment company,0,"Class B deferrable interest notes ($40,000 par due 11/2018)",0,6.25% (Libor + 6.00%/Q),0,0,11/20/2007,40000.0,38000.0
+10,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)",0,0,0,Subordinated notes ($16 par due 11/2018),0,15.00%,0,0,11/20/2007,15515.0,16000.0
+11,"Kodiak Funding, LP(9)",0,Investment partnership,0,Limited partnership interest (1.52% interest),0,0,0,0,4/1/2010,868.0,823.0
+12,"Novak Biddle Venture Partners III, L.P.(9)",0,Investment partnership,0,Limited partnership interest (2.47% interest),0,0,0,0,4/1/2010,221.0,196.0
+13,"Partnership Capital Growth Fund I, L.P.(9)",0,Investment partnership,0,Limited partnership interest (25.00% interest),0,0,0,0,6/16/2006,1791.0,3726.0
+14,"Partnership Capital Growth Fund III, L.P.(9)",0,Investment partnership,0,Limited partnership interest (2.50% interest),0,0,0,0,10/5/2011,1322.0,1250.0
+15,Senior Secured Loan Fund LLC(7)(11)(19),0,Co-investment vehicle,0,"Subordinated certificates ($1,044,977 par due 12/2020)",0,8.38% (Libor + 8.00%/Q),0,0,10/30/2009,1034254.0,1059178.0
+16,VSC Investors LLC(9),0,Investment company,0,Membership interest (1.95% interest),0,0,0,0,1/24/2008,1139.0,997.0
+17,BenefitMall Holdings Inc.(7),0,Employee benefits broker services company,0,"Senior subordinated loan ($40,326 par due 6/2014)",0,18.00%,0,0,4/1/2010,40326.0,40326.0
+18,BenefitMall Holdings Inc.(7),0,0,0,"Common stock (39,274,290 shares)",0,0,0,0,4/1/2010,53510.0,59990.0
+19,BenefitMall Holdings Inc.(7),0,0,0,Warrants,0,0,0,0,4/1/2010,0.0,0.0
+20,"CCS Group Holdings, LLC",0,Correctional facility healthcare operator,0,"Class A units (601,937 units)",0,0,0,0,8/19/2010,602.0,1158.0
+21,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,Healthcare analysis services,0,"Senior secured loan ($7,245 par due 3/2017)",0,7.75% (Libor + 6.50%/Q),0,0,3/15/2011,7245.0,6883.0
+22,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,0,0,Senior secured loan ($18 par due 3/2017),0,8.75% (Base Rate + 5.50%/Q),0,0,3/15/2011,18.0,17.0
+23,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,0,0,"Senior secured loan ($7,642 par due 3/2017)",0,7.75% (Libor + 6.50%/Q),0,0,3/15/2011,7642.0,7260.0
+24,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,0,0,Senior secured loan ($19 par due 3/2017),0,8.75% (Base Rate + 5.50%/Q),0,0,3/15/2011,19.0,18.0
+25,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,0,0,"Class A common stock (9,679 shares)",0,0,0,0,6/15/2007,4000.0,8745.0
+26,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC(6)",0,0,0,"Class C common stock (1,546 shares)",0,0,0,0,6/15/2007,0.0,1397.0
+27,"INC Research, Inc.",0,Pharmaceutical and biotechnology consulting services,0,"Common stock (1,410,000 shares)",0,0,0,0,9/27/2010,1512.0,1403.0
+28,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",0,Healthcare professional provider,0,"Senior secured loan ($12,638 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,12638.0,12638.0
+29,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",0,0,0,"Senior secured loan ($44,393 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,44393.0,44393.0
+30,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",0,0,0,"Senior secured loan ($8,257 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,8257.0,8257.0
+31,MW Dental Holding Corp.,0,Dental services,0,"Senior secured revolving loan ($1,700 par due 4/2017)",0,8.50% (Libor + 7.00%/M),0,0,4/12/2011,1700.0,1700.0
+32,MW Dental Holding Corp.,0,0,0,"Senior secured loan ($15,384 par due 4/2017)",0,8.50% (Libor + 7.00%/M),0,0,4/12/2011,15384.0,15384.0
+33,MW Dental Holding Corp.,0,0,0,"Senior secured loan ($49,750 par due 4/2017)",0,8.50% (Libor + 7.00%/M),0,0,4/12/2011,49750.0,49750.0
+34,MW Dental Holding Corp.,0,0,0,"Senior secured loan ($2,686 par due 4/2017)",0,8.50% (Libor + 7.00%/M),0,0,4/12/2011,2686.0,2686.0
+35,Napa Management Services Corporation,0,Anesthesia management services provider,0,"Senior secured loan ($10,892 par due 4/2016)",0,8.50% (Libor + 7.00%/Q),0,0,4/15/2011,10563.0,10892.0
+36,Napa Management Services Corporation,0,0,0,"Senior secured loan ($29,437 par due 4/2016)",0,8.50% (Libor + 7.00%/Q),0,0,4/15/2011,29437.0,29437.0
+37,Napa Management Services Corporation,0,0,0,"Senior secured loan ($7,752 par due 4/2016)",0,8.50% (Libor + 7.00%/Q),0,0,4/15/2011,7752.0,7752.0
+38,Napa Management Services Corporation,0,0,0,"Common units (5,000 units)",0,0,0,0,4/15/2011,5000.0,5513.0
+39,"NS Merger Sub. Inc. and NS Holdings, Inc.",0,Healthcare technology provider,0,Senior subordinated loan ($579 par due 6/2017),0,13.50%,0,0,6/21/2010,579.0,579.0
+40,"NS Merger Sub. Inc. and NS Holdings, Inc.",0,0,0,"Senior subordinated loan ($50,000 par due 6/2017)",0,13.50%,0,0,6/21/2010,50000.0,50000.0
+41,"NS Merger Sub. Inc. and NS Holdings, Inc.",0,0,0,"Common stock (2,500,000 shares)",0,0,0,0,6/21/2010,2500.0,2985.0
+42,OnCURE Medical Corp.,0,Radiation oncology care provider,0,"Common stock (857,143 shares)",0,0,0,0,8/18/2006,3000.0,3073.0
+43,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",0,Healthcare technology provider,0,"Series A preferred stock (1,594,457 shares)",0,0,0,0,7/30/2008,11156.0,9218.0
+44,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",0,0,0,"Common stock (16,106 shares)",0,0,0,0,7/30/2008,100.0,0.0
+45,"PG Mergersub, Inc. and PGA Holdings, Inc.",0,"Provider of patient surveys, management reports and national databases for the integrated healthcare delivery system",0,"Senior secured loan ($9,108 par due 11/2015)",0,6.75% (Libor + 5.00%/Q),0,0,11/3/2010,9085.0,9108.0
+46,"PG Mergersub, Inc. and PGA Holdings, Inc.",0,0,0,"Senior subordinated loan ($4,000 par due 3/2016)",0,12.50%,0,0,3/12/2008,3956.0,4000.0
+47,"PG Mergersub, Inc. and PGA Holdings, Inc.",0,0,0,Preferred stock (333 shares),0,0,0,0,3/12/2008,125.0,15.0
+48,"PG Mergersub, Inc. and PGA Holdings, Inc.",0,0,0,"Common stock (16,667 shares)",0,0,0,0,3/12/2008,167.0,754.0
+49,"PRA Holdings, Inc.",0,Drug testing services,0,"Senior secured loan ($11,330 par due 12/2014)",0,4.56% (Libor + 4.00%/Q),0,0,12/14/2007,11034.0,11103.0
+50,"PRA Holdings, Inc.",0,0,0,"Senior secured loan ($12,000 par due 12/2014)",0,4.56% (Libor + 4.00%/Q),0,0,12/14/2007,11682.0,11760.0
+51,"RCHP, Inc.",0,Operator of general acute care hospitals,0,"Junior secured loan ($15,000 par due 5/2019)",0,11.50% (Libor + 10.00%/Q),0,0,11/4/2011,15000.0,15000.0
+52,"RCHP, Inc.",0,0,0,"Junior secured loan ($50,000 par due 5/2019)",0,11.50% (Libor + 10.00%/Q),0,0,11/4/2011,50000.0,50000.0
+53,"Reed Group, Ltd.",0,Medical disability management services provider,0,"Senior secured revolving loan ($1,650 par due 12/2013)",0,0,0,0,4/1/2010,1497.0,1402.0
+54,"Reed Group, Ltd.",0,0,0,"Senior secured loan ($10,755 par due 12/2013)",0,0,0,0,4/1/2010,9129.0,9142.0
+55,"Reed Group, Ltd.",0,0,0,"Senior secured loan ($20,777 par due 12/2013)",0,0,0,0,4/1/2010,15918.0,2431.0
+56,"Reed Group, Ltd.",0,0,0,Equity interests,0,0,0,0,4/1/2010,203.0,0.0
+57,"Soteria Imaging Services, LLC(6)",0,Outpatient medical imaging provider,0,"Junior secured loan ($1,189 par due 11/2010)",0,14.50%,0,0,4/1/2010,1057.0,808.0
+58,"Soteria Imaging Services, LLC(6)",0,0,0,"Junior secured loan ($1,699 par due 11/2010)",0,12.50%,0,0,4/1/2010,1529.0,1154.0
+59,"Soteria Imaging Services, LLC(6)",0,0,0,"Preferred member units (1,823,179 units)",0,0,0,0,4/1/2010,0.0,0.0
+60,"Sunquest Information Systems, Inc.",0,Laboratory software solutions provider,0,"Junior secured loan ($75,000 par due 6/2017)",0,9.75% (Libor + 8.50%/Q),0,0,12/16/2010,75000.0,74250.0
+61,"Sunquest Information Systems, Inc.",0,0,0,"Junior secured loan ($50,000 par due 6/2017)",0,9.75% (Libor + 8.50%/Q),0,0,12/16/2010,50000.0,49500.0
+62,"U.S. Renal Care, Inc.",0,Dialysis provider,0,"Senior secured loan ($7,444 par due 12/2016)",0,5.50% (Libor + 4.00%/Q),0,0,6/9/2011,7407.0,7295.0
+63,"U.S. Renal Care, Inc.",0,0,0,"Senior subordinated loan ($50,569 par due 6/2018)",0,"11.25% Cash, 2.00% PIK",0,0,5/24/2010,50569.0,50569.0
+64,"Vantage Oncology, Inc.",0,Radiation oncology care provider,0,"Common stock (62,157 shares)",0,0,0,0,2/3/2011,4670.0,5057.0
+65,"American Academy Holdings, LLC",0,"Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals",0,Senior secured revolving loan ($100 par due 3/2016),0,9.50% (Libor + 8.50%/Q),0,0,3/18/2011,100.0,100.0
+66,"American Academy Holdings, LLC",0,0,0,"Senior secured loan ($26,199 par due 3/2016)",0,9.50% (Libor + 8.50%/Q),0,0,3/18/2011,26199.0,26199.0
+67,"American Academy Holdings, LLC",0,0,0,"Senior secured loan ($53,468 par due 3/2016)",0,9.50% (Libor + 8.50%/Q),0,0,3/18/2011,53468.0,53468.0
+68,Campus Management Corp. and Campus Management Acquisition Corp.(6),0,Education software developer,0,"Preferred stock (485,159 shares)",0,0,0,0,2/8/2008,10520.0,11096.0
+69,"Community Education Centers, Inc.",0,Offender re-entry and in-prison treatment services provider,0,"Senior secured loan ($17,857 par due 12/2014)",0,6.25% (Libor + 5.25%/Q),0,0,12/10/2010,17857.0,17857.0
+70,"Community Education Centers, Inc.",0,0,0,"Junior secured loan ($31,835 par due 12/2015)",0,"15.40% (Libor + 11.00% Cash, 4.00% PIK /Q)",0,0,12/10/2010,31835.0,31835.0
+71,"Community Education Centers, Inc.",0,0,0,"Junior secured loan ($9,582 par due 12/2015)",0,"15.46% (Libor + 11.00% Cash, 4.00% PIK /Q)",0,0,12/10/2010,9582.0,9582.0
+72,"Community Education Centers, Inc.",0,0,0,"Warrants to purchase up to 578,427 shares",0,0,0,0,12/10/2010,0.0,258.0
+73,eInstruction Corporation,0,Developer and manufacturer of educational software products,0,"Junior secured loan ($17,000 par due 7/2014)",0,12.00% (Base Rate + 8.25%/M),0,0,4/1/2010,15396.0,12410.0
+74,eInstruction Corporation,0,0,0,"Senior subordinated loan ($27,281 par due 1/2015)",0,0,0,0,4/1/2010,24151.0,1467.0
+75,eInstruction Corporation,0,0,0,"Common stock (2,406 shares)",0,0,0,0,4/1/2010,926.0,0.0
+76,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)",0,"Developer, manufacturer and distributor of educational products",0,"Preferred stock (99,492 shares)",0,0,0,0,8/1/2011,10149.0,9154.0
+77,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)",0,0,0,"Common stock (50,800 shares)",0,0,0,0,8/1/2011,51.0,0.0
+78,"Infilaw Holding, LLC",0,Operator of for-profit law schools,0,"Senior secured loan ($29,925 par due 8/2016)",0,9.50% (Libor + 8.50%/Q),0,0,8/25/2011,29925.0,29925.0
+79,"Infilaw Holding, LLC",0,0,0,"Series A preferred units (131,000 units)",0,10.75% (Base Rate + 7.50%/Q),0,0,8/25/2011,131000.0,131000.0
+80,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",0,Private school operator,0,"Series B preferred stock (1,750,000 shares)",0,0,0,0,8/5/2010,5000.0,6153.0
+81,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",0,0,0,"Series C preferred stock (2,512,586 shares)",0,0,0,0,6/7/2010,689.0,303.0
+82,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",0,0,0,Common stock (20 shares),0,0,0,0,6/7/2010,0.0,0.0
+83,"JTC Education Holdings, Inc.",0,Postsecondary school operator,0,"Senior secured revolving loan ($2,225 par due 12/2014)",0,12.75% (Base Rate + 9.50%/Q),0,0,12/31/2009,2225.0,2225.0
+84,"JTC Education Holdings, Inc.",0,0,0,"Senior secured loan ($20,056 par due 12/2014)",0,12.50% (Libor + 9.50%/M),0,0,12/31/2009,20056.0,20056.0
+85,"JTC Education Holdings, Inc.",0,0,0,"Senior secured loan ($9,714 par due 12/2014)",0,12.50% (Libor + 9.50%/M),0,0,12/31/2009,9714.0,9714.0
+86,"Lakeland Tours, LLC",0,Educational travel provider,0,"Senior secured revolving loan ($3,750 par due 12/2016)",0,6.75% (Base Rate + 3.50%/Q),0,0,10/4/2011,3750.0,3750.0
+87,"Lakeland Tours, LLC",0,0,0,"Senior secured loan ($64,338 par due 12/2016)",0,10.00% (Libor + 8.50%/Q),0,0,10/4/2011,64136.0,64338.0
+88,"Lakeland Tours, LLC",0,0,0,"Senior secured loan ($15,362 par due 12/2016)",0,6.00% (Libor + 4.50%/Q),0,0,10/4/2011,15314.0,15362.0
+89,"Lakeland Tours, LLC",0,0,0,"Senior secured loan ($40,362 par due 12/2016)",0,10.00% (Libor + 8.50%/Q),0,0,10/4/2011,40231.0,40362.0
+90,"Lakeland Tours, LLC",0,0,0,"Senior secured loan ($9,638 par due 12/2016)",0,6.00% (Libor + 4.50%/Q),0,0,10/4/2011,9606.0,9638.0
+91,"Lakeland Tours, LLC",0,0,0,"Common stock (5,000 shares)",0,0,0,0,10/4/2011,5000.0,5000.0
+92,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,Medical school operator,0,"Senior secured loan ($6,162 par due 4/2013)",0,9.00% (Libor + 6.00%/Q),0,0,9/21/2007,6162.0,11508.0
+93,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,0,0,"Senior secured loan ($4,819 par due 4/2013)",0,9.00% (Libor + 6.00%/Q),0,0,9/21/2007,4819.0,8996.0
+94,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,0,0,"Senior secured loan ($6,509 par due 4/2013)",0,13.00% PIK,0,0,12/8/2009,4030.0,12149.0
+95,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,0,0,"Preferred stock (8,800 shares)",0,0,0,0,7/30/2008,2200.0,1650.0
+96,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,0,0,Common membership interest (26.27% interest),0,0,0,0,9/21/2007,15800.0,23207.0
+97,"R3 Education, Inc. and EIC Acquisitions Corp. (8)",0,0,0,"Warrants to purchase up to 27,890 shares",0,0,0,0,12/8/2009,0.0,0.0
+98,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,Restaurant owner and operator,0,"Senior secured revolving loan ($2,010 par due 11/2013)",0,6.50% (Libor + 3.50%/Q),0,0,11/27/2006,2010.0,2010.0
+99,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,Senior secured revolving loan ($258 par due 11/2013),0,6.50% (Base Rate + 2.50%/Q),0,0,11/27/2006,258.0,258.0
+100,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,"Senior secured loan ($7,305 par due 11/2013)",0,6.50% (Libor + 3.50%/Q),0,0,11/27/2006,7305.0,7305.0
+101,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,Senior secured loan ($64 par due 11/2013),0,6.50% (Base Rate + 2.50%/Q),0,0,11/27/2006,64.0,64.0
+102,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,"Senior secured loan ($11,277 par due 11/2014)",0,12.50% (Libor + 9.50%/Q),0,0,11/27/2006,11280.0,11277.0
+103,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,"Senior secured loan ($9,402 par due 11/2014)",0,12.50% (Libor + 9.50%/Q),0,0,11/27/2006,9402.0,9402.0
+104,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,"Promissory note ($14,897,360 par due 11/2016)",0,0,0,0,6/1/2006,14886.0,10905.0
+105,"ADF Capital, Inc. & ADF Restaurant Group, LLC",0,0,0,Warrants to purchase up to 0.61 shares,0,0,0,0,6/1/2006,0.0,0.0
+106,"Huddle House, Inc. (7)",0,Restaurant owner and operator,0,"Senior subordinated loan ($20,924 par due 12/2015)",0,"12.00% Cash, 3.00% PIK",0,0,4/1/2010,20641.0,18939.0
+107,"Huddle House, Inc. (7)",0,0,0,"Common stock (358,279 shares)",0,0,0,0,4/1/2010,0.0,0.0
+108,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,Convenience food service retailer,0,"Senior secured revolving loan ($3,300 par due 9/2014)",0,10.75% (Base Rate + 7.50%/M),0,0,4/1/2010,3300.0,3300.0
+109,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,0,0,"Senior secured loan ($33,917 par due 9/2014)",0,10.00% (Libor + 8.50%/Q),0,0,4/1/2010,33917.0,33917.0
+110,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,0,0,"Junior secured loan ($37,552 par due 9/2014)",0,14.00%,0,0,4/1/2010,26111.0,30483.0
+111,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,0,0,"Preferred units (10,000 units)",0,0,0,0,10/28/2010,0.0,0.0
+112,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,0,0,"Class A common units (25,001 units)",0,0,0,0,4/1/2010,0.0,0.0
+113,"Orion Foods, LLC (fka Hot Stuff Foods, LLC) (7)",0,0,0,"Class B common units (1,122,452 units)",0,0,0,0,4/1/2010,0.0,0.0
+114,"OTG Management, Inc.",0,Airport restaurant operator,0,"Senior secured revolving loan ($1,875 par due 8/2016)",0,8.50% (Libor + 7.00%/Q),0,0,8/9/2011,1875.0,1875.0
+115,"OTG Management, Inc.",0,0,0,Senior secured revolving loan ($937 par due 8/2016),0,9.25% (Base Rate + 6.00%/M),0,0,8/9/2011,937.0,937.0
+116,"OTG Management, Inc.",0,0,0,"Senior secured loan ($17,187 par due 8/2016)",0,8.50% (Libor + 7.00%/Q),0,0,8/9/2011,17187.0,17187.0
+117,"OTG Management, Inc.",0,0,0,"Junior secured loan ($29,285 par due 8/2016)",0,14.50% (Libor + 13.00%/M),0,0,8/9/2011,29285.0,29285.0
+118,"OTG Management, Inc.",0,0,0,"Common units (3,000,000 units)",0,0,0,0,1/5/2011,3000.0,2610.0
+119,"OTG Management, Inc.",0,0,0,"Warrants to purchase up to 100,866 shares of common stock",0,0,0,0,6/19/2008,100.0,4544.0
+120,"PMI Holdings, Inc.",0,Restaurant owner and operator,0,"Senior secured revolving loan ($2,500 par due 5/2015)",0,10.00% (Libor + 8.00%/M),0,0,5/5/2010,2500.0,2500.0
+121,"PMI Holdings, Inc.",0,0,0,Senior secured revolving loan ($250 par due 5/2015),0,10.25% (Base Rate + 7.00%/Q),0,0,5/5/2010,250.0,250.0
+122,"PMI Holdings, Inc.",0,0,0,"Senior secured loan ($9,008 par due 5/2015)",0,10.00% (Libor + 8.00%/M),0,0,5/5/2010,9008.0,9008.0
+123,"PMI Holdings, Inc.",0,0,0,Senior secured loan ($4 par due 5/2015),0,10.25% (Base Rate + 7.00%/M),0,0,5/5/2010,4.0,4.0
+124,"PMI Holdings, Inc.",0,0,0,"Senior secured loan ($9,008 par due 5/2015)",0,10.00% (Libor + 8.00%/M),0,0,5/5/2010,9008.0,9008.0
+125,"PMI Holdings, Inc.",0,0,0,Senior secured loan ($4 par due 5/2015),0,10.25% (Base Rate + 7.00%/M),0,0,5/5/2010,4.0,4.0
+126,S.B. Restaurant Company,0,Restaurant owner and operator,0,"Senior secured loan ($34,575 par due 7/2012)",0,"13.00% (Libor + 9.00% Cash, 2.00% PIK /Q)",0,0,4/1/2010,31283.0,34575.0
+127,S.B. Restaurant Company,0,0,0,"Preferred stock (46,690 shares)",0,0,0,0,4/1/2010,0.0,117.0
+128,S.B. Restaurant Company,0,0,0,"Warrants to purchase up to 257,429 shares of common stock",0,0,0,0,4/1/2010,0.0,0.0
+129,Vistar Corporation and Wellspring Distribution Corp.,0,Food service distributor,0,"Junior secured loan ($70,250 par due 5/2015)",0,11.00%,0,0,5/23/2008,68885.0,70250.0
+130,Vistar Corporation and Wellspring Distribution Corp.,0,0,0,"Junior secured loan ($30,000 par due 5/2015)",0,11.00%,0,0,5/23/2008,30000.0,30000.0
+131,Vistar Corporation and Wellspring Distribution Corp.,0,0,0,"Class A non-voting common stock (1,366,120 shares)",0,0,0,0,5/3/2008,7500.0,6211.0
+132,"Acentia (fka Interactive Technology Solutions, LLC)",0,IT services provider,0,"Senior secured loan ($7,332 par due 6/2015)",0,8.75% (Base Rate + 5.50%/Q),0,0,10/21/2010,7332.0,7332.0
+133,"Acentia (fka Interactive Technology Solutions, LLC)",0,0,0,"Senior secured loan ($8,214 par due 6/2015)",0,8.75% (Base Rate + 5.50%/Q),0,0,10/21/2010,8214.0,8214.0
+134,Aviation Properties Corporation(7),0,Aviation services,0,Common stock (100 shares),0,0,0,0,4/1/2010,0.0,0.0
+135,"CIBT Investment Holdings, LLC",0,Travel documents services,0,"Class A shares (2,500 shares)",0,0,0,0,12/15/2011,2500.0,2500.0
+136,CitiPostal Inc.(7),0,Document storage and management services,0,"Senior secured revolving loan ($3,200 par due 12/2013)",0,6.75% (Base Rate + 3.25%/Q),0,0,4/1/2010,3200.0,3200.0
+137,CitiPostal Inc.(7),0,0,0,Senior secured loan ($499 par due 12/2013),0,"8.50% Cash, 5.50% PIK",0,0,4/1/2010,499.0,499.0
+138,CitiPostal Inc.(7),0,0,0,"Senior secured loan ($51,161 par due 12/2013)",0,"8.50% Cash, 5.50% PIK",0,0,4/1/2010,51161.0,51161.0
+139,CitiPostal Inc.(7),0,0,0,"Senior subordinated loan ($14,698 par due 12/2015)",0,0,0,0,4/1/2010,13038.0,1574.0
+140,CitiPostal Inc.(7),0,0,0,"Common stock (37,024 shares)",0,0,0,0,4/1/2010,0.0,0.0
+141,"Cornerstone Records Management, LLC",0,Physical records storage and management service provider,0,"Senior secured loan ($18,377 par due 8/2016)",0,8.50% (Libor + 7.00%/Q),0,0,8/12/2011,18377.0,18193.0
+142,"Coverall North America, Inc.(7)",0,Commercial janitorial service provider,0,"Subordinated notes ($9,386 par due 2/2016)",0,"10.00% Cash, 2.00% PIK",0,0,2/22/2011,9386.0,9386.0
+143,"Diversified Collections Services, Inc.",0,Collections services,0,"Senior secured loan ($34,000 par due 9/2012)",0,14.00% (Base Rate+ 10.75%/M),0,0,6/25/2010,34000.0,34000.0
+144,"Diversified Collections Services, Inc.",0,0,0,"Senior secured loan ($5,263 par due 3/2012)",0,7.75% (Base Rate + 4.50%/M),0,0,6/25/2010,5263.0,5263.0
+145,"Diversified Collections Services, Inc.",0,0,0,"Senior secured loan ($2,000 par due 9/2012)",0,14.00% (Base Rate + 10.75%/M),0,0,6/25/2010,2000.0,2000.0
+146,"Diversified Collections Services, Inc.",0,0,0,"Preferred stock (14,927 shares)",0,0,0,0,5/18/2006,169.0,328.0
+147,"Diversified Collections Services, Inc.",0,0,0,"Common stock (478,816 shares)",0,0,0,0,4/1/2010,1478.0,3274.0
+148,"Diversified Collections Services, Inc.",0,0,0,"Common stock (114,004 shares)",0,0,0,0,2/5/2005,295.0,918.0
+149,"HCP Acquisition Holdings, LLC(7)",0,Healthcare compliance advisory services,0,"Class A units (11,092,585 units)",0,0,0,0,6/26/2008,11093.0,4923.0
+150,"Impact Innovations Group, LLC",0,IT consulting and outsourcing services,0,Member interest (50.00% interest),0,0,0,0,4/1/2010,0.0,200.0
+151,"Investor Group Services, LLC(6)",0,Business consulting for private equity and corporate clients,0,Limited liability company membership interest (10.00% interest),0,0,0,0,6/22/2006,0.0,859.0
+152,"Multi-Ad Services, Inc.(6)",0,Marketing services and software provider,0,"Preferred units (1,725,280 units)",0,0,0,0,4/1/2010,788.0,1828.0
+153,"Multi-Ad Services, Inc.(6)",0,0,0,"Common units (1,725,280 units)",0,0,0,0,4/1/2010,0.0,0.0
+154,"MVL Group, Inc.(7)",0,Marketing research provider,0,"Senior secured loan ($22,772 par due 7/2012)",0,12.00%,0,0,4/1/2010,22772.0,22772.0
+155,"MVL Group, Inc.(7)",0,0,0,"Senior subordinated loan ($35,851 par due 7/2012)",0,"12.00% Cash, 2.50% PIK",0,0,4/1/2010,35283.0,33844.0
+156,"MVL Group, Inc.(7)",0,0,0,Junior subordinated loan ($144 par due 7/2012),0,10.00%,0,0,4/1/2010,0.0,0.0
+157,"MVL Group, Inc.(7)",0,0,0,"Common stock (560,716 shares)",0,0,0,0,4/1/2010,0.0,0.0
+158,Pillar Processing LLC and PHL Holding Co.(6),0,Mortgage services,0,"Senior secured loan ($7,375 par due 5/2014)",0,0,0,0,7/31/2008,7375.0,1250.0
+159,Pillar Processing LLC and PHL Holding Co.(6),0,0,0,"Senior secured loan ($7,142 par due 11/2013)",0,0,0,0,11/20/2007,7064.0,6571.0
+160,Pillar Processing LLC and PHL Holding Co.(6),0,0,0,"Senior secured loan ($4,458 par due 11/2013)",0,0,0,0,11/20/2007,4409.0,4101.0
+161,Pillar Processing LLC and PHL Holding Co.(6),0,0,0,Common stock (85 shares),0,0,0,0,0,3768.0,0.0
+162,"Prommis Solutions, LLC, E-Default Services, LLC, Statewide Tax and Title Services, LLC & Statewide Publishing Services, LLC",0,Bankruptcy and foreclosure processing services,0,"Senior subordinated loan ($44,926 par due 2/2014)",0,0,0,0,2/9/2007,43819.0,5273.0
+163,"Prommis Solutions, LLC, E-Default Services, LLC, Statewide Tax and Title Services, LLC & Statewide Publishing Services, LLC",0,0,0,"Preferred units (30,000 units)",0,0,0,0,4/11/2006,3000.0,0.0
+164,"Promo Works, LLC",0,Marketing services,0,"Senior secured loan ($8,655 par due 12/2013)",0,0,0,0,4/1/2010,4222.0,3389.0
+165,R2 Acquisition Corp.,0,Marketing services,0,"Common stock (250,000 shares)",0,0,0,0,5/29/2007,250.0,157.0
+166,Summit Business Media Parent Holding Company LLC,0,Business media consulting services,0,Limited liability company membership interest (45.98% interest),0,0,0,0,5/20/2011,0.0,566.0
+167,"Tradesmen International, Inc.",0,Construction labor support,0,"Junior secured loan ($10,050 par due 5/2014)",0,"13.00% Cash, 1.00% PIK",0,0,4/1/2010,7872.0,10050.0
+168,"Tradesmen International, Inc.",0,0,0,"Warrants to purchase up to 771,036 shares",0,0,0,0,4/1/2010,0.0,5002.0
+169,"Tripwire, Inc.",0,IT security software provider,0,"Senior secured loan ($30,000 par due 5/2018)",0,8.50% (Libor + 7.25%/Q),0,0,5/23/2011,30000.0,30000.0
+170,"Tripwire, Inc.",0,0,0,"Senior secured loan ($50,000 par due 5/2018)",0,8.50% (Libor + 7.25%/Q),0,0,5/23/2011,50000.0,50000.0
+171,"Tripwire, Inc.",0,0,0,"Class B common stock (2,655,638 shares)",0,0,0,0,5/23/2011,30.0,38.0
+172,"Tripwire, Inc.",0,0,0,"Class A common stock (2,970 shares)",0,0,0,0,5/23/2011,2970.0,3754.0
+173,"Venturehouse-Cibernet Investors, LLC",0,Financial settlement services for intercarrier wireless roaming,0,Equity interest,0,0,0,0,4/1/2010,0.0,0.0
+174,"VSS-Tranzact Holdings, LLC(6)",0,Management consulting services,0,Series B preferred units (854 units),0,0,0,0,11/7/2011,867.0,768.0
+175,"VSS-Tranzact Holdings, LLC(6)",0,0,0,Common membership interest (8.54% interest),0,0,0,0,10/26/2007,10204.0,200.0
+176,"VSS-Tranzact Holdings, LLC(6)",0,0,0,"Warrants to purchase up to 4,206 units",0,0,0,0,11/7/2011,0.0,98.0
+177,"AllBridge Financial, LLC(7)",0,Asset management services,0,Equity interests,0,0,0,0,4/1/2010,11395.0,11733.0
+178,Callidus Capital Corporation(7),0,Asset management services,0,Common stock (100 shares),0,0,0,0,4/1/2010,3000.0,776.0
+179,Ciena Capital LLC(7),0,Real estate and small business loan servicer,0,"Senior secured revolving loan ($14,000 par due 12/2013)",0,6.00%,0,0,11/29/2010,14000.0,14000.0
+180,Ciena Capital LLC(7),0,0,0,"Senior secured loan ($32,000 par due 12/2015)",0,12.00%,0,0,11/29/2010,32000.0,32000.0
+181,Ciena Capital LLC(7),0,0,0,Equity interests,0,0,0,0,11/29/2010,53374.0,20051.0
+182,"Commercial Credit Group, Inc.",0,Commercial equipment finance and leasing company,0,"Senior subordinated loan ($19,500 par due 6/2015)",0,15.00%,0,0,4/1/2010,19500.0,19500.0
+183,"Cook Inlet Alternative Risk, LLC",0,Risk management services,0,"Senior subordinated loan ($3,750 par due 9/2015)",0,9.00%,0,0,9/30/2011,3750.0,3550.0
+184,Financial Pacific Company,0,Commercial finance leasing,0,"Preferred stock (6,500 shares)",0,8.00% PIK,0,0,10/13/2010,6500.0,7822.0
+185,Financial Pacific Company,0,0,0,"Common stock (650,000 shares)",0,0,0,0,10/13/2010,0.0,0.0
+186,"Imperial Capital Group, LLC",0,Investment services,0,"Class A common units (7,710 units)",0,0,0,0,5/10/2007,14997.0,20445.0
+187,"Imperial Capital Group, LLC",0,0,0,"2006 Class B common units (2,526 units)",0,0,0,0,5/10/2007,3.0,4.0
+188,"Imperial Capital Group, LLC",0,0,0,2007 Class B common units (315 units),0,0,0,0,5/10/2007,0.0,0.0
+189,"Ivy Hill Asset Management, L.P.(7)(9)",0,Asset management services,0,Member interest (100.00% interest),0,0,0,0,6/15/2009,112876.0,194597.0
+190,"Augusta Sportswear, Inc.",0,Manufacturer of athletic apparel,0,Senior secured loan ($26 par due 7/2015),0,9.50% (Base Rate + 6.25%/Q),0,0,9/3/2010,26.0,26.0
+191,"Augusta Sportswear, Inc.",0,0,0,"Senior secured loan ($8,819 par due 7/2015)",0,8.50% (Libor + 7.50%/Q),0,0,9/3/2010,8819.0,8819.0
+192,"Gilchrist & Soames, Inc.",0,Personal care manufacturer,0,"Senior secured loan ($21,941 par due 10/2013)",0,13.44%,0,0,4/1/2010,21435.0,21941.0
+193,"Implus Footcare, LLC",0,Provider of footwear and other accessories,0,Preferred stock (455 shares),0,6.00% PIK,0,0,10/31/2011,4591.0,4591.0
+194,"Implus Footcare, LLC",0,0,0,Common stock (455 shares),0,0,0,0,10/31/2011,455.0,455.0
+195,Insight Pharmaceuticals Corporation(6),0,OTC drug products manufactuer,0,"Junior secured loan ($25,000 par due 8/2017)",0,13.25% (Libor + 11.75%/Q),0,0,8/26/2011,24740.0,24000.0
+196,Insight Pharmaceuticals Corporation(6),0,0,0,"Class A common stock (155,000 shares)",0,0,0,0,8/26/2011,6035.0,9559.0
+197,Insight Pharmaceuticals Corporation(6),0,0,0,"Class B common stock (155,000 shares)",0,0,0,0,8/26/2011,6035.0,9559.0
+198,"Making Memories Wholesale, Inc.(7)",0,Scrapbooking branded products manufacturer,0,"Senior secured revolving loan ($2,250 par due 8/2014)",0,0,0,0,8/21/2009,2229.0,963.0
+199,"Making Memories Wholesale, Inc.(7)",0,0,0,"Senior secured loan ($9,625 par due 8/2014)",0,0,0,0,8/21/2009,7193.0,0.0
+200,"Making Memories Wholesale, Inc.(7)",0,0,0,"Senior secured loan ($5,973 par due 8/2014)",0,0,0,0,8/21/2009,3874.0,0.0
+201,"Making Memories Wholesale, Inc.(7)",0,0,0,Common stock (100 shares),0,0,0,0,8/21/2009,0.0,0.0
+202,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",0,Developer and marketer of over-the-counter healthcare products,0,"Senior secured revolving loan ($10,000 par due 6/2016)",0,13.00% (Libor + 12.00%/M),0,0,6/30/2011,10000.0,9700.0
+203,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",0,0,0,"Senior secured loan ($41,437 par due 6/2016)",0,13.00% (Libor + 12.00%/Q),0,0,6/30/2011,41178.0,40194.0
+204,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",0,0,0,"Warrants to purchase up to 1,654,678 shares of common stock",0,0,0,0,7/27/2011,0.0,0.0
+205,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",0,0,0,"Warrants to purchase up to 1,489 shares of preferred stock",0,0,0,0,7/27/2011,0.0,1504.0
+206,"The Step2 Company, LLC",0,Toy manufacturer,0,"Junior secured loan ($27,000 par due 4/2015)",0,10.00%,0,0,4/1/2010,25764.0,27000.0
+207,"The Step2 Company, LLC",0,0,0,"Junior secured loan ($31,178 par due 4/2015)",0,"10.00% Cash, 5.00% PIK",0,0,4/1/2010,29879.0,28060.0
+208,"The Step2 Company, LLC",0,0,0,"Common units (1,116,879 units)",0,0,0,0,4/1/2010,24.0,25.0
+209,"The Step2 Company, LLC",0,0,0,"Warrants to purchase up to 3,157,895 units",0,0,0,0,4/1/2010,0.0,72.0
+210,"The Thymes, LLC(7)",0,Cosmetic products manufacturer,0,"Preferred units (6,283 units)",0,8.00% PIK,0,0,6/21/2007,6111.0,6420.0
+211,"The Thymes, LLC(7)",0,0,0,"Common units (5,400 units)",0,0,0,0,6/21/2007,0.0,754.0
+212,Woodstream Corporation,0,Pet products manufacturer,0,"Senior subordinated loan ($45,000 par due 2/2015)",0,12.00%,0,0,1/22/2010,40444.0,44100.0
+213,Woodstream Corporation,0,0,0,"Common stock (4,254 shares)",0,0,0,0,1/22/2010,1222.0,2280.0
+214,"ICSH, Inc.",0,"Industrial container manufacturer, reconditioner and servicer",0,"Senior secured loan ($71,318 par due 8/2016)",0,8.00% (Libor + 7.00%/Q),0,0,8/31/2011,71318.0,69891.0
+215,"ICSH, Inc.",0,0,0,"Senior secured loan ($49,873 par due 8/2016)",0,8.00% (Libor + 7.00%/Q),0,0,8/31/2011,49873.0,48875.0
+216,Microstar Logistics LLC,0,Keg management solutions provider,0,"Junior secured loan ($60,000 par due 8/2016)",0,10.00% (Libor + 9.00%/Q),0,0,8/5/2011,60000.0,60000.0
+217,Microstar Logistics LLC,0,0,0,"Junior secured loan ($50,000 par due 8/2016)",0,10.00% (Libor + 9.00%/Q),0,0,8/5/2011,50000.0,50000.0
+218,"AP Global Holdings, Inc.",0,Safety and security equipment manufacturer,0,"Senior secured loan ($134,475 par due 7/2017)",0,7.25% (Libor + 5.75%/M),0,0,7/22/2011,134475.0,132794.0
+219,"AP Global Holdings, Inc.",0,0,0,"Senior secured loan ($49,875 par due 7/2017)",0,7.25% (Libor + 5.75%/M),0,0,7/22/2011,49875.0,49252.0
+220,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",0,"Provider of specialized engineering, scientific and technical services",0,Senior preferred stock (775 shares),0,8.00% PIK,0,0,1/17/2008,95.0,95.0
+221,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",0,0,0,"Common stock (1,885,195 shares)",0,0,0,0,1/17/2008,2291.0,1920.0
+222,"Component Hardware Group, Inc.",0,Commercial equipment,0,"Junior secured loan ($3,106 par due 12/2014)",0,"7.00% Cash, 3.00% PIK",0,0,8/4/2010,3106.0,3106.0
+223,"Component Hardware Group, Inc.",0,0,0,"Senior subordinated loan ($10,596 par due 12/2014)",0,"7.50% Cash, 5.00% PIK",0,0,4/1/2010,6932.0,10596.0
+224,"Component Hardware Group, Inc.",0,0,0,"Warrants to purchase up to 1,462,500 shares of common stock",0,0,0,0,8/4/2010,0.0,3181.0
+225,HOPPY Holdings Corp.,0,Automotive and recreational vehicle aftermarket products,0,"Senior secured loan ($13,988 par due 6/2016)",0,5.00% (Libor + 3.75%/M),0,0,6/3/2011,13988.0,13289.0
+226,"MWI Holdings, Inc.",0,"Highly engineered springs, fastners, and other precision components",0,"Senior secured loan ($29,914 par due 6/2017)",0,10.00% (Libor + 8.00%/Q),0,0,6/15/2011,29914.0,29914.0
+227,"NetShape Technologies, Inc.",0,Metal precision engineered components manufacturer,0,Senior secured revolving loan ($91 par due 2/2013),0,3.96% (Libor + 3.75%/M),0,0,4/1/2010,44.0,69.0
+228,"NetShape Technologies, Inc.",0,0,0,Senior secured revolving loan ($778 par due 2/2013),0,4.33% (Libor + 3.75%/Q),0,0,4/1/2010,374.0,587.0
+229,"Protective Industries, Inc.",0,Plastic protection products,0,Senior secured loan ($14 par due 5/2017),0,6.25% (Base Rate + 3.00%/M),0,0,5/23/2011,14.0,14.0
+230,"Protective Industries, Inc.",0,0,0,"Senior secured loan ($5,589 par due 5/2017)",0,5.75% (Libor + 4.25%/M),0,0,5/23/2011,5589.0,5421.0
+231,"Protective Industries, Inc.",0,0,0,Senior subordinated loan ($720 par due 5/2018),0,"8.00% Cash, 7.25% PIK",0,0,5/23/2011,720.0,720.0
+232,"Protective Industries, Inc.",0,0,0,"Preferred stock (2,379,361 shares)",0,0,0,0,5/23/2011,2307.0,3101.0
+233,Saw Mill PCG Partners LLC,0,Metal precision engineered components,0,"Common units (1,000 units)",0,0,0,0,1/30/2007,1000.0,0.0
+234,"Sigma International Group, Inc.(8)",0,Water treatment parts,0,"Junior secured loan ($4,048 par due 4/2014)",0,"10.00% (Libor + 3.50% Cash, 5.00% PIK /A)",0,0,7/8/2011,4048.0,3036.0
+235,"WP CPP Holdings, LLC",0,Precision engineered castings,0,"Senior secured loan ($20,822 par due 10/2017)",0,8.50% (Libor + 7.00%/M),0,0,10/11/2011,20720.0,20406.0
+236,"WP CPP Holdings, LLC",0,0,0,"Senior secured loan ($50,000 par due 10/2017)",0,8.50% (Libor + 7.00%/M),0,0,10/11/2011,49745.0,49000.0
+237,The Dwyer Group(6),0,Operator of multiple franchise concepts primarily related to home maintenance or repairs,0,"Senior subordinated loan ($17,100 par due 12/2016)",0,14.50%,0,0,12/22/2010,17100.0,17100.0
+238,The Dwyer Group(6),0,0,0,"Series A preferred units (13,292,377 units)",0,8.00% PIK,0,0,12/22/2010,14413.0,17011.0
+239,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",0,Laundry service and equipment provider,0,"Senior secured loan ($4,850 par due 8/2014)",0,7.00% (Base Rate + 3.75%/Q),0,0,6/15/2009,4723.0,4850.0
+240,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",0,0,0,"Junior secured loan ($36,900 par due 8/2015)",0,10.88% (Libor + 9.38%/Q),0,0,1/25/2011,36900.0,36900.0
+241,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",0,0,0,"Junior secured loan ($50,000 par due 8/2015)",0,10.88% (Libor + 9.38%/Q),0,0,1/25/2011,50000.0,50000.0
+242,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",0,0,0,"Junior secured loan ($3,100 par due 8/2015)",0,10.88% (Libor + 9.38%/Q),0,0,1/25/2011,3100.0,3100.0
+243,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,Broadband communication services,0,"Senior secured loan ($8,754 par due 9/2013)",0,7.50% (Libor + 5.50%/Q),0,0,9/1/2010,8754.0,8754.0
+244,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,0,0,"Senior subordinated loan ($10,529 par due 11/2014)",0,"12.00% Cash, 2.00% PIK",0,0,11/7/2007,10529.0,10529.0
+245,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,0,0,"Senior subordinated loan ($22,150 par due 11/2014)",0,"12.00% Cash, 4.00% PIK",0,0,9/1/2010,22150.0,22150.0
+246,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,0,0,"Senior subordinated loan ($33,429 par due 11/2014)",0,"12.00% Cash, 2.00% PIK",0,0,2/8/2008,33429.0,33429.0
+247,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,0,0,Warrants to purchase up to 378 shares,0,0,0,0,11/7/2007,0.0,6286.0
+248,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",0,0,0,Warrants to purchase up to 200 shares,0,0,0,0,9/1/2010,0.0,3326.0
+249,Dialog Telecom LLC,0,Broadband communication services,0,"Senior secured loan ($16,412 par due 12/2012)",0,"12.08% (Libor + 7.50% Cash, 4.00% PIK /Q)",0,0,6/20/2011,16412.0,16412.0
+250,"Startec Equity, LLC(7)",0,Communication services,0,Member interest,0,0,0,0,4/1/2010,0.0,0.0
+251,Grocery Outlet Inc.,0,Value grocery retailer,0,"Senior secured revolving loan ($3,100 par due 12/2017)",0,11.25% (Base Rate + 8.00%/Q),0,0,12/15/2011,3100.0,3100.0
+252,Grocery Outlet Inc.,0,0,0,"Senior secured loan ($91,500 par due 12/2017)",0,10.50% (Libor + 9.00%/Q),0,0,12/15/2011,91500.0,91500.0
+253,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)",0,Membership based buying club franchisor and operator,0,"Limited partnership interest (66,667 shares)",0,0,0,0,4/1/2010,2594.0,0.0
+254,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)",0,0,0,"Limited partnership interest (83,333 shares)",0,0,0,0,11/30/2007,8333.0,0.0
+255,Fulton Holdings Corp.,0,Airport restaurant operator,0,"Senior secured loan ($40,000 par due 5/2016)",0,12.50%,0,0,5/28/2010,40000.0,40000.0
+256,Fulton Holdings Corp.,0,0,0,"Common stock (19,672 shares)",0,0,0,0,5/28/2010,1967.0,1618.0
+257,"Savers, Inc. and SAI Acquisition Corporation",0,For-profit thrift retailer,0,"Common stock (1,218,481 shares)",0,0,0,0,8/8/2006,4909.0,12556.0
+258,Things Remembered Inc. and TRM Holdings Corporation,0,Personalized gifts retailer,0,"Senior secured loan ($21,433 par due 3/2014)",0,9.00% (Base Rate + 7.00%/M),0,0,9/28/2006,21414.0,21433.0
+259,Things Remembered Inc. and TRM Holdings Corporation,0,0,0,"Senior secured loan ($8,226 par due 3/2014)",0,9.00% (Base Rate + 7.00%/M),0,0,9/28/2006,8302.0,8226.0
+260,Things Remembered Inc. and TRM Holdings Corporation,0,0,0,Class B Preferred stock (73 shares),0,0,0,0,3/19/2009,0.0,2056.0
+261,Things Remembered Inc. and TRM Holdings Corporation,0,0,0,Preferred stock (80 shares),0,0,0,0,9/28/2006,1800.0,2249.0
+262,Things Remembered Inc. and TRM Holdings Corporation,0,0,0,Common stock (800 shares),0,0,0,0,9/28/2006,200.0,2172.0
+263,Things Remembered Inc. and TRM Holdings Corporation,0,0,0,Warrants to purchase up to 859 shares of preferred stock,0,0,0,0,3/19/2009,0.0,2324.0
+264,"La Paloma Generating Company, LLC",0,"Natural gas fired, combined cycle plant operator",0,"Junior secured loan ($59,000 par due 8/2018)",0,10.25% (Libor + 8.75%/Q),0,0,8/9/2011,57775.0,56050.0
+265,USG Nevada LLC,0,"Geothermal, renewable energy, developer for electrical power and direct uses",0,"Junior secured loan ($7,500 par due 6/2012)",0,3.94% (Libor + 3.50%/Q),0,0,11/9/2011,7500.0,7500.0
+266,"Driven Holdings, LLC",0,Automotive aftermarket car care franchisor,0,"Preferred stock (247,500 units)",0,0,0,0,12/16/2011,2475.0,2475.0
+267,"Driven Holdings, LLC",0,0,0,"Common stock (25,000 units)",0,0,0,0,12/16/2011,25.0,25.0
+268,"Stag-Parkway, Inc.(7)",0,Automotive aftermarket components supplier,0,"Senior secured loan ($34,500 par due 12/2014)",0,12.50% (Libor + 11.00%/Q),0,0,9/30/2010,34500.0,34500.0
+269,"Stag-Parkway, Inc.(7)",0,0,0,"Preferred stock (4,200 shares)",0,16.50% PIK,0,0,9/30/2010,2368.0,4200.0
+270,"Stag-Parkway, Inc.(7)",0,0,0,"Common stock (10,200 shares)",0,0,0,0,9/30/2010,0.0,14807.0
+271,"10th Street, LLC(6)",0,Real estate holding company,0,"Senior subordinated loan ($24,213 par due 11/2014)",0,"8.93% Cash, 4.07% PIK",0,0,4/1/2010,24213.0,24213.0
+272,"10th Street, LLC(6)",0,0,0,Member interest (10.00% interest),0,0,0,0,4/1/2010,594.0,529.0
+273,"10th Street, LLC(6)",0,0,0,"Option (25,000 units)",0,0,0,0,4/1/2010,25.0,25.0
+274,"Allied Capital REIT, Inc.(7)",0,Real estate investment trust,0,Real estate equity interests,0,0,0,0,4/1/2010,50.0,50.0
+275,"Allied Capital REIT, Inc.(7)",0,0,0,Real estate equity interests,0,0,0,0,4/1/2010,325.0,639.0
+276,"American Commercial Coatings, Inc.",0,Real estate property,0,"Commercial mortgage loan ($2,000 par due 12/2025)",0,0,0,0,4/1/2010,1611.0,1967.0
+277,"Aquila Binks Forest Development, LLC",0,Real estate developer,0,"Commercial mortgage loan ($13,477 par due 12/2014)",0,0,0,0,4/1/2010,11900.0,4013.0
+278,"Aquila Binks Forest Development, LLC",0,0,0,Real estate equity interests,0,0,0,0,4/1/2010,0.0,0.0
+279,"Cleveland East Equity, LLC",0,Hotel operator,0,Real estate equity interests,0,0,0,0,4/1/2010,1026.0,2507.0
+280,"Commons R-3, LLC",0,Real estate developer,0,Real estate equity interests,0,0,0,0,4/1/2010,0.0,0.0
+281,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,Hotel operator,0,Senior secured loan ($433 par due 6/2010),0,10.00%,0,0,4/1/2010,433.0,444.0
+282,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,"Senior subordinated loan ($9,071 par due 1/2012)",0,0,0,0,4/1/2010,1475.0,138.0
+283,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,"Senior subordinated loan ($9,399 par due 6/2017)",0,0,0,0,4/1/2010,2410.0,241.0
+284,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,"Senior subordinated loan ($10,967 par due 9/2012)",0,0,0,0,4/1/2010,2051.0,202.0
+285,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,Senior subordinated loan ($261 par due 3/2013),0,0,0,0,4/1/2010,263.0,9.0
+286,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,"Senior subordinated loan ($2,236 par due 9/2011)",0,0,0,0,4/1/2010,0.0,0.0
+287,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,Preferred equity interest,0,0,0,0,4/1/2010,0.0,39.0
+288,"Crescent Hotels & Resorts, LLC and affiliates(7)",0,0,0,Common equity interest,0,0,0,0,4/1/2010,35.0,0.0
+289,"Hot Light Brands, Inc.(7)",0,Real estate holding company,0,"Senior secured loan ($35,239 par due 2/2011)",0,0,0,0,4/1/2010,3945.0,3692.0
+290,"Hot Light Brands, Inc.(7)",0,0,0,"Common stock (93,500 shares)",0,0,0,0,4/1/2010,0.0,0.0
+291,"NPH, Inc.",0,Hotel property,0,Real estate equity interests,0,0,0,0,4/1/2010,5291.0,7959.0
+292,"Apple & Eve, LLC and US Juice Partners, LLC(6)",0,Juice manufacturer,0,"Senior secured revolving loan ($2,000 par due 10/2013)",0,12.00% (Libor + 9.00%/M),0,0,10/5/2007,2000.0,2000.0
+293,"Apple & Eve, LLC and US Juice Partners, LLC(6)",0,0,0,"Senior secured revolving loan ($2,500 par due 10/2013)",0,12.00% (Base Rate + 8.00%/Q),0,0,10/5/2007,2500.0,2500.0
+294,"Apple & Eve, LLC and US Juice Partners, LLC(6)",0,0,0,"Senior secured loan ($13,325 par due 10/2013)",0,12.00% (Libor + 9.00%/M),0,0,10/5/2007,13325.0,13325.0
+295,"Apple & Eve, LLC and US Juice Partners, LLC(6)",0,0,0,"Senior secured loan ($14,019 par due 10/2013)",0,12.00% (Libor + 9.00%/M),0,0,10/5/2007,14019.0,14019.0
+296,"Apple & Eve, LLC and US Juice Partners, LLC(6)",0,0,0,"Senior units (50,000 units)",0,0,0,0,10/5/2007,5000.0,3326.0
+297,"Charter Baking Company, Inc.",0,Baked goods manufacturer,0,"Senior subordinated loan ($7,615 par due 2/2013)",0,16.00% PIK,0,0,2/6/2008,7615.0,7615.0
+298,"Charter Baking Company, Inc.",0,0,0,"Preferred stock (6,258 shares)",0,0,0,0,9/1/2006,2500.0,1519.0
+299,Distant Lands Trading Co.,0,Coffee manufacturer,0,"Class A common stock (1,294 shares)",0,0,0,0,4/1/2010,980.0,568.0
+300,Distant Lands Trading Co.,0,0,0,"Class A-1 common stock (2,157 shares)",0,0,0,0,4/1/2010,0.0,0.0
+301,Bushnell Inc.,0,Sports optics manufacturer,0,"Junior secured loan ($41,325 par due 2/2014)",0,7.08% (Libor + 6.50%/Q),0,0,4/1/2010,33467.0,37192.0
+302,PODS Funding Corp.,0,Storage and warehousing,0,"Junior subordinated loan ($37,020 par due 5/2017)",0,"10.50% Cash, 5.00% PIK",0,0,11/29/2011,37020.0,37020.0
+303,"United Road Towing, Inc.",0,Towing company,0,Warrants to purchase up to 607 shares,0,0,0,0,4/1/2010,0.0,0.0
+304,"AWTP, LLC(7)",0,Water treatment services,0,"Junior secured loan ($4,109 par due 6/2015)",0,"5.00% Cash, 5.00% PIK",0,0,4/18/2011,4109.0,4109.0
+305,"AWTP, LLC(7)",0,0,0,Junior secured loan ($896 par due 6/2015),0,15.00% PIK,0,0,4/18/2011,896.0,623.0
+306,"AWTP, LLC(7)",0,0,0,"Junior secured loan ($4,518 par due 6/2015)",0,15.00% PIK,0,0,4/18/2011,4518.0,3142.0
+307,"AWTP, LLC(7)",0,0,0,Membership interests (90% interest),0,0,0,0,4/18/2011,0.0,0.0
+308,"RE Community Holdings II, Inc.and Pegasus Community Energy, LLC.",0,Operator of municipal recycling facilities,0,"Preferred stock (1,000 shares)",0,12.50% PIK,0,0,3/1/2011,8311.0,8283.0
+309,"Waste Pro USA, Inc",0,Waste management services,0,"Preferred Class A common equity (611,615 shares)",0,0,0,0,11/9/2006,12263.0,20540.0
+310,"Geotrace Technologies, Inc.",0,"Reservoir processing, development",0,"Warrants to purchase up to 69,978 shares of common stock",0,0,0,0,4/1/2010,88.0,0.0
+311,"Geotrace Technologies, Inc.",0,0,0,"Warrants to purchase up to 210,453 shares of preferred stock",0,0,0,0,4/1/2010,2805.0,172.0
+312,"UL Holding Co., LLC",0,Petroleum product manufacturer,0,"Junior secured loan ($2,098 par due 12/2012)",0,9.31% (Libor + 8.88%/Q),0,0,12/24/2007,2098.0,2098.0
+313,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($4,073 par due 12/2012)",0,14.00%,0,0,12/24/2007,4073.0,4073.0
+314,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($2,000 par due 12/2012)",0,9.45% (Libor + 8.88%/Q),0,0,6/17/2011,2000.0,2000.0
+315,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($5,000 par due 12/2012)",0,15.00%,0,0,8/13/2010,5000.0,5000.0
+316,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($2,926 par due 12/2012)",0,14.00%,0,0,12/24/2007,2926.0,2926.0
+317,"UL Holding Co., LLC",0,0,0,Junior secured loan ($835 par due 12/2012),0,9.31% (Libor + 8.88%/Q),0,0,12/24/2007,835.0,835.0
+318,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($1,801 par due 12/2012)",0,14.00%,0,0,12/24/2007,1801.0,1801.0
+319,"UL Holding Co., LLC",0,0,0,"Junior secured loan ($10,728 par due 12/2012)",0,9.32% (Libor + 8.88%/Q),0,0,12/24/2007,10728.0,10728.0
+320,"UL Holding Co., LLC",0,0,0,"Class A common units (8,982 units)",0,0,0,0,6/17/2011,90.0,46.0
+321,"UL Holding Co., LLC",0,0,0,"Class B-4 common units (50,000 units)",0,0,0,0,4/25/2008,500.0,255.0
+322,"UL Holding Co., LLC",0,0,0,"Class B-5 common units (499,000 units)",0,0,0,0,6/17/2011,4990.0,2541.0
+323,"UL Holding Co., LLC",0,0,0,"Class C common units (549,491 units)",0,0,0,0,4/25/2008,0.0,2798.0
+324,"Emerald Performance Materials, LLC",0,Polymers and performance materials manufacturer,0,"Senior secured loan ($3,603 par due 11/2013)",0,"13.00% Cash, 3.00% PIK",0,0,5/22/2006,3603.0,3603.0
+325,"Emerald Performance Materials, LLC",0,0,0,"Senior secured loan ($9,967 par due 11/2013)",0,10.25% (Base Rate + 3.50%/M),0,0,6/29/2011,9967.0,9967.0
+326,"Emerald Performance Materials, LLC",0,0,0,"Senior secured loan ($6,639 par due 11/2013)",0,10.00% (Libor + 6.00%/M),0,0,6/29/2011,6639.0,6639.0
+327,"Emerald Performance Materials, LLC",0,0,0,"Senior secured loan ($5,246 par due 11/2013)",0,"13.00% Cash, 3.00% PIK",0,0,5/22/2006,5246.0,5246.0
+328,"Emerald Performance Materials, LLC",0,0,0,"Senior secured loan ($8,227 par due 11/2013)",0,8.25% (Libor + 4.25%/M),0,0,5/22/2006,8227.0,8227.0
+329,"Emerald Performance Materials, LLC",0,0,0,Senior secured loan ($915 par due 11/2013),0,10.25% (Base Rate + 3.50%/M),0,0,6/29/2011,915.0,915.0
+330,"Emerald Performance Materials, LLC",0,0,0,Senior secured loan ($610 par due 11/2013),0,10.00% (Libor + 6.00%/M),0,0,6/29/2011,610.0,610.0
+331,"EarthColor, Inc.(7)",0,Printing management services,0,"Common stock (89,435 shares)",0,0,0,0,4/1/2010,0.0,0.0
+332,LVCG Holdings LLC(7),0,Commercial printer,0,Membership interests (56.53% interest),0,0,0,0,10/12/2007,6600.0,0.0
+333,"National Print Group, Inc.",0,Printing management services,0,"Senior secured revolving loan ($1,141 par due 10/2013)",0,9.00% (Libor + 6.00%/M),0,0,3/2/2006,1141.0,1027.0
+334,"National Print Group, Inc.",0,0,0,"Senior secured revolving loan ($1,031 par due 10/2013)",0,9.00% (Base Rate + 5.00%/M),0,0,3/2/2006,1031.0,928.0
+335,"National Print Group, Inc.",0,0,0,Senior secured loan ($20 par due 10/2013),0,"10.00% (Libor + 6.00% Cash, 1.00% PIK/Q)",0,0,3/2/2006,20.0,18.0
+336,"National Print Group, Inc.",0,0,0,"Senior secured loan ($7,520 par due 10/2013)",0,"10.00% (Libor + 6.00% Cash, 1.00% PIK/Q)",0,0,3/2/2006,7217.0,6919.0
+337,"National Print Group, Inc.",0,0,0,Senior secured loan ($181 par due 10/2013),0,"10.00% (Base Rate + 5.00% Cash, 1.00% PIK/M)",0,0,3/2/2006,174.0,166.0
+338,"National Print Group, Inc.",0,0,0,"Preferred stock (9,344 shares)",0,0,0,0,3/2/2006,2000.0,0.0
+339,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",0,Education publications provider,0,"Preferred stock (21,711 shares)",0,0,0,0,9/29/2006,2171.0,5339.0
+340,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",0,0,0,"Common stock (15,393 shares)",0,0,0,0,9/29/2006,3.0,13.0
+341,"Athletic Club Holdings, Inc.",0,Premier health club operator,0,"Senior secured loan ($11,500 par due 10/2013)",0,4.80% (Libor + 4.50%/M),0,0,10/11/2007,11500.0,11270.0
+342,"BECO Holding Company, Inc.",0,Wholesale distributor of first response fire protection equipment and related parts,0,"Common stock (25,000 shares)",0,0,0,0,7/30/2010,2500.0,3151.0
+343,"BECO Holding Company, Inc.",Company,0,Purchases,0,Redemptions  (cost),0,Sales  (cost),0,Interest  income,0.0,0.0
+344,"BECO Holding Company, Inc.","10th Street, LLC",0,0,0,0,0,0,0,0,0.0,3096.0
+345,"BECO Holding Company, Inc.","Apple & Eve, LLC and US Juice Partners, LLC",0,0,5500,0,0,3918,0,0,0.0,3478.0
+346,"BECO Holding Company, Inc.","BB&T Capital Partners/Windsor Mezzanine Fund, LLC",0,0,0,0,0,2640,0,0,9260.0,0.0
+347,"BECO Holding Company, Inc.","Carador, PLC",0,0,0,0,0,0,0,0,9033.0,0.0
+348,"BECO Holding Company, Inc.",Campus Management Corp. and Campus Management Acquisition Corp.,0,0,571,0,0,0,0,0,0.0,0.0
+349,"BECO Holding Company, Inc.","CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings, LLC",0,0,0,0,0,75,0,0,8763.0,943.0
+350,"BECO Holding Company, Inc.","Direct Buy Holdings, Inc. and Direct Buy Investors, LP",0,0,38800,0,0,80315,0,0,40695.0,2637.0
+351,"BECO Holding Company, Inc.","Driven Brands, Inc.",0,0,0,0,0,3569,0,0,4939.0,255.0
+352,"BECO Holding Company, Inc.","DSI Renal, Inc.",0,0,0,0,0,77774,0,0,19684.0,7919.0
+353,"BECO Holding Company, Inc.",The Dwyer Group,0,0,0,0,0,0,0,0,11708.0,3479.0
+354,"BECO Holding Company, Inc.","ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation",0,0,137200,0,0,135661,0,0,0.0,1056.0
+355,"BECO Holding Company, Inc.",Firstlight Financial Corporation,0,0,0,0,0,2988,0,0,0.0,681.0
+356,"BECO Holding Company, Inc.","Growing Family, Inc. and GFH Holdings, LLC",0,0,0,0,0,34,0,0,10296.0,615.0
+357,"BECO Holding Company, Inc.","Industrial Container Services, LLC",0,0,3304,0,0,8491,0,0,1800.0,69.0
+358,"BECO Holding Company, Inc.",Insight Pharmaceuticals Corporation,0,0,24730,0,0,56080,0,0,0.0,4424.0
+359,"BECO Holding Company, Inc.","Investor Group Services, LLC",0,0,500,0,0,500,0,0,0.0,3.0
+360,"BECO Holding Company, Inc.","Multi-Ad Services, Inc.",0,0,0,0,0,0,0,0,0.0,0.0
+361,"BECO Holding Company, Inc.",Pillar Processing LLC and PHL Holding Co.,0,0,0,0,0,12450,0,0,0.0,1584.0
+362,"BECO Holding Company, Inc.","Primis Marketing Group, Inc. and Primis Holdings, LLC",0,0,0,0,0,154,0,0,14068.0,0.0
+363,"BECO Holding Company, Inc.","Regency Healthcare Group, LLC",0,0,0,0,0,0,0,0,2007.0,0.0
+364,"BECO Holding Company, Inc.","Soteria Imaging Services, LLC",0,0,0,0,0,1419,0,0,0.0,321.0
+365,"BECO Holding Company, Inc.","VSS-Tranzact Holdings, LLC",0,0,867,0,0,0,0,0,0.0,0.0
+366,"BECO Holding Company, Inc.","Universal Environmental Services, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+367,"BECO Holding Company, Inc.",Universal Trailer Corporation,0,0,0,0,0,0,0,0,7930.0,0.0
+368,"BECO Holding Company, Inc.",Company,0,Purchases,0,Redemptions  (cost),0,Sales  (cost),0,Interest  income,0.0,0.0
+369,"BECO Holding Company, Inc.","AGILE Fund I, LLC",0,0,0,0,0,36,0,0,0.0,0.0
+370,"BECO Holding Company, Inc.","Allied Capital REIT, Inc.",0,0,325,0,0,115,0,0,0.0,0.0
+371,"BECO Holding Company, Inc.","AllBridge Financial, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+372,"BECO Holding Company, Inc.",Aviation Properties Corporation,0,0,0,0,0,0,0,0,0.0,0.0
+373,"BECO Holding Company, Inc.","AWTP, LLC",0,0,2926,0,0,0,0,0,0.0,751.0
+374,"BECO Holding Company, Inc.","BenefitMall Holdings, Inc.",0,0,0,0,0,0,0,0,0.0,7360.0
+375,"BECO Holding Company, Inc.","Border Foods, Inc.",0,0,0,0,0,28526,0,0,34818.0,1401.0
+376,"BECO Holding Company, Inc.",Callidus Capital Corporation,0,0,6000,0,0,3000,0,0,0.0,0.0
+377,"BECO Holding Company, Inc.",Ciena Capital LLC,0,0,0,0,0,0,0,0,0.0,3549.0
+378,"BECO Holding Company, Inc.","Citipostal, Inc.",0,0,2850,0,0,2802,0,0,0.0,7356.0
+379,"BECO Holding Company, Inc.","Coverall North America, Inc.",0,0,0,0,0,30907,0,0,0.0,642.0
+380,"BECO Holding Company, Inc.","Crescent Hotels & Resorts, LLC and affiliates",0,0,0,0,0,0,0,0,0.0,213.0
+381,"BECO Holding Company, Inc.","EarthColor, Inc.",0,0,0,0,0,0,0,0,0.0,0.0
+382,"BECO Holding Company, Inc.","HCI Equity, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+383,"BECO Holding Company, Inc.","HCP Acquisition Holdings, LLC",0,0,1048,0,0,0,0,0,0.0,0.0
+384,"BECO Holding Company, Inc.","Hot Light Brands, Inc.",0,0,0,0,0,929,0,0,0.0,0.0
+385,"BECO Holding Company, Inc.",Huddle House Inc.,0,0,0,0,0,0,0,0,0.0,3123.0
+386,"BECO Holding Company, Inc.","Industrial Air Tool, LP and affiliates",0,0,0,0,0,0,0,0,13419.0,0.0
+387,"BECO Holding Company, Inc.","Ivy Hill Asset Management, L.P.",0,0,9419,0,0,0,0,0,0.0,0.0
+388,"BECO Holding Company, Inc.","Ivy Hill Middle Market Credit Fund, Ltd.",0,0,0,0,0,0,0,0,0.0,4879.0
+389,"BECO Holding Company, Inc.",Knightsbridge CLO 2007-1 Ltd.,0,0,0,0,0,0,0,0,14852.0,1019.0
+390,"BECO Holding Company, Inc.",Knightsbridge CLO 2008-1 Ltd.,0,0,0,0,0,36996,0,0,0.0,2568.0
+391,"BECO Holding Company, Inc.","LVCG Holdings, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+392,"BECO Holding Company, Inc.","Making Memories Wholesale, Inc.",0,0,1750,0,0,345,0,0,0.0,34.0
+393,"BECO Holding Company, Inc.","MVL Group, Inc.",0,0,0,0,0,0,0,0,0.0,8452.0
+394,"BECO Holding Company, Inc.","Orion Foods, LLC",0,0,3300,0,0,330,0,0,0.0,10265.0
+395,"BECO Holding Company, Inc.","Penn Detroit Diesel Allison, LLC",0,0,0,0,0,4077,0,0,15993.0,0.0
+396,"BECO Holding Company, Inc.",Reflexite Corporation,0,0,0,0,0,9281,0,0,27435.0,1130.0
+397,"BECO Holding Company, Inc.",Senior Secured Loan Fund LLC*,0,0,496816,0,0,0,0,0,0.0,118420.0
+398,"BECO Holding Company, Inc.","Stag-Parkway, Inc.",0,0,0,0,0,0,0,0,0.0,4372.0
+399,"BECO Holding Company, Inc.","Startec Equity, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+400,"BECO Holding Company, Inc.","The Thymes, LLC",0,0,0,0,0,1162,0,0,0.0,0.0
+401,"AGILE Fund I, LLC(7)(9)","The Thymes, LLC",Investment partnership,0,Member interest (0.50% interest),0,0,0,0,4/1/2010,264.0,217.0
+402,"BB&T Capital Partners/Windsor Mezzanine Fund, LLC(6)(9)","The Thymes, LLC",Investment company,0,Member interest (32.59% interest),0,0,0,0,4/1/2010,11900.0,15704.0
+403,"Callidus Debt Partners CDO Fund I, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Class C notes ($18,800 par due 12/2013)",0,0,0,0,4/1/2010,2669.0,1239.0
+404,"Callidus Debt Partners CDO Fund I, Ltd.(8)(9)","The Thymes, LLC",0,0,"Class D notes ($9,400 par due 12/2013)",0,0,0,0,4/1/2010,0.0,0.0
+405,"Callidus Debt Partners CLO Fund III, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Preferred shares (23,600,000 shares)",0,7.18%,0,0,4/1/2010,4343.0,7324.0
+406,"Callidus Debt Partners CLO Fund IV, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Class D notes ($3,000 par due 4/2020)",0,4.84% (Libor + 4.55%/Q),0,0,4/1/2010,1824.0,1817.0
+407,"Callidus Debt Partners CLO Fund IV, Ltd.(8)(9)","The Thymes, LLC",0,0,"Subordinated notes ($17,500 par due 4/2020)",0,14.92%,0,0,4/1/2010,6935.0,11720.0
+408,"Callidus Debt Partners CLO Fund V, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Subordinated notes ($14,150 par due 11/2020)",0,23.49%,0,0,4/1/2010,8586.0,11995.0
+409,"Callidus Debt Partners CLO Fund VI, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Class D notes ($9,000 par due 10/2021)",0,6.29% (Libor + 6.00%/Q),0,0,4/1/2010,4039.0,5538.0
+410,"Callidus Debt Partners CLO Fund VI, Ltd.(8)(9)","The Thymes, LLC",0,0,"Subordinated notes ($25,500 par due 10/2021)",0,20.14%,0,0,4/1/2010,11572.0,22711.0
+411,"Callidus Debt Partners CLO Fund VII, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Subordinated notes ($28,000 par due 1/2021)",0,11.94%,0,0,4/1/2010,10216.0,17197.0
+412,Callidus MAPS CLO Fund I LLC,"The Thymes, LLC",Investment company,0,"Class E notes ($17,000 par due 12/2017)",0,5.79% (Libor + 5.5%/Q),0,0,4/1/2010,11863.0,11535.0
+413,Callidus MAPS CLO Fund I LLC,"The Thymes, LLC",0,0,"Subordinated notes ($47,900 par due 12/2017)",0,8.62%,0,0,4/1/2010,12652.0,19156.0
+414,"Callidus MAPS CLO Fund II, Ltd.(8)(9)","The Thymes, LLC",Investment company,0,"Class D notes ($7,700 par due 7/2022)",0,4.54% (Libor + 4.25%/Q),0,0,4/1/2010,3428.0,4364.0
+415,"Callidus MAPS CLO Fund II, Ltd.(8)(9)","The Thymes, LLC",0,0,"Subordinated notes ($17,900 par due 7/2022)",0,18.41%,0,0,4/1/2010,8857.0,13624.0
+416,Carador PLC(6)(8)(9)(10),"The Thymes, LLC",Investment company,0,"Ordinary shares (7,110,525 shares)",0,0,0,0,12/15/2006,9033.0,5333.0
+417,"CIC Flex, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership units (0.94 unit),0,0,0,0,9/7/2007,2553.0,2500.0
+418,"Covestia Capital Partners, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (47.00% interest),0,0,0,0,6/17/2008,1059.0,1041.0
+419,Dryden XVIII Leveraged Loan 2007 Limited(8)(9),"The Thymes, LLC",Investment company,0,"Class B notes ($9,000 par due 10/2019)",0,4.79% (Libor + 4.50%/Q),0,0,4/1/2010,3816.0,4823.0
+420,Dryden XVIII Leveraged Loan 2007 Limited(8)(9),"The Thymes, LLC",0,0,"Subordinated notes ($21,164 par due 10/2019)",0,23.01%,0,0,4/1/2010,12266.0,19436.0
+421,"Dynamic India Fund IV, LLC(9)","The Thymes, LLC",Investment company,0,Member interest (5.44% interest),0,0,0,0,4/1/2010,4822.0,4822.0
+422,"Fidus Mezzanine Capital, L.P.(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (29.12% interest),0,0,0,0,4/1/2010,9206.0,7499.0
+423,Firstlight Financial Corporation(6)(9),"The Thymes, LLC",Investment company,0,"Senior subordinated loan ($73,811 par due 12/2016)",0,1.00% PIK,0,0,12/31/2006,73569.0,54050.0
+424,Firstlight Financial Corporation(6)(9),"The Thymes, LLC",0,0,"Common stock (10,000 shares)",0,0,0,0,12/31/2006,10000.0,0.0
+425,Firstlight Financial Corporation(6)(9),"The Thymes, LLC",0,0,"Common stock (30,000 shares)",0,0,0,0,12/31/2006,30000.0,0.0
+426,"HCI Equity, LLC(7)(8)(9)","The Thymes, LLC",Investment company,0,Member interest (100% interest),0,0,0,0,4/1/2010,808.0,993.0
+427,"Imperial Capital Private Opportunities, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (80% interest),0,0,0,0,5/10/2007,6643.0,5300.0
+428,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)","The Thymes, LLC",Investment company,0,"Class B deferrable interest notes ($40,000 par due 11/2018)",0,6.25% (Libor + 6.00%/Q),0,0,11/20/2007,40000.0,37200.0
+429,"Ivy Hill Middle Market Credit Fund, Ltd.(7)(8)(9)","The Thymes, LLC",0,0,"Subordinated notes ($15,351 par due 11/2018)",0,15.50%,0,0,11/20/2007,15351.0,14737.0
+430,Knightsbridge CLO 2007-1 Ltd.(7)(8)(9),"The Thymes, LLC",Investment company,0,"Class E notes ($20,350 par due 1/2022)",0,9.29% (Libor + 9.00%/Q),0,0,3/24/2010,14852.0,14545.0
+431,Knightsbridge CLO 2008-1 Ltd.(7)(8)(9),"The Thymes, LLC",Investment company,0,"Class C notes ($14,400 par due 6/2018)",0,7.80% (Libor + 7.50%/Q),0,0,3/24/2010,14400.0,14400.0
+432,Knightsbridge CLO 2008-1 Ltd.(7)(8)(9),"The Thymes, LLC",0,0,"Class D notes ($9,000 par due 6/2018)",0,8.79% (Libor + 8.50%/Q),0,0,3/24/2010,9000.0,9000.0
+433,Knightsbridge CLO 2008-1 Ltd.(7)(8)(9),"The Thymes, LLC",0,0,"Class E notes ($14,850 par due 6/2018)",0,5.29% (Libor + 5.00%/Q),0,0,3/24/2010,13596.0,10488.0
+434,"Kodiak Funding, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (1.52% interest),0,0,0,0,4/1/2010,918.0,788.0
+435,"Novak Biddle Venture Partners III, L.P.(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (2.47% interest),0,0,0,0,4/1/2010,221.0,254.0
+436,Pangaea CLO 2007-1 Ltd. (8)(9),"The Thymes, LLC",Investment company,0,"Class D notes ($15,000 par due 1/2021)",0,5.04% (Libor + 4.75%/Q),0,0,4/1/2010,9061.0,8307.0
+437,"Partnership Capital Growth Fund I, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (25% interest),0,0,0,0,6/16/2006,2370.0,2393.0
+438,Senior Secured Loan Fund LLC(7)(16),"The Thymes, LLC",Co-investment vehicle,0,"Subordinated certificates ($548,161 par due 12/2020)",0,8.30% (Libor + 8.00%/Q),0,0,10/30/2009,537439.0,561674.0
+439,"Trivergance Capital Partners, LP(9)","The Thymes, LLC",Investment partnership,0,Limited partnership interest (100% interest),0,0,0,0,6/5/2008,3162.0,0.0
+440,VSC Investors LLC(9),"The Thymes, LLC",Investment company,0,Membership interest (4.63% interest),0,0,0,0,1/24/2008,994.0,699.0
+441,"Axium Healthcare Pharmacy, Inc.","The Thymes, LLC",Specialty pharmacy provider,0,"Senior subordinated loan ($3,160 par due 3/2015)",0,8.00%,0,0,4/1/2010,2915.0,3002.0
+442,BenefitMall Holdings Inc.(7),"The Thymes, LLC",Employee benefits broker services,0,"Senior subordinated loan ($40,326 par due 6/2014)",0,18.00%,0,0,4/1/2010,40326.0,40326.0
+443,BenefitMall Holdings Inc.(7),"The Thymes, LLC",0,0,"Common stock (39,274,290 shares)",0,0,0,0,4/1/2010,53510.0,50450.0
+444,BenefitMall Holdings Inc.(7),"The Thymes, LLC",0,0,Warrants,0,0,0,0,4/1/2010,0.0,0.0
+445,"CCS Group Holdings, LLC","The Thymes, LLC",Correctional facility healthcare operator,0,"Class A units (1,000,000 units)",0,0,0,0,8/19/2010,1000.0,1000.0
+446,"CT Technologies Intermediate Holdings, Inc. and CT","The Thymes, LLC",Healthcare analysis services,0,"Preferred stock (7,427 shares)",0,0,0,0,6/15/2007,8763.0,8325.0
+447,"Technologies Holdings, LLC(6)","The Thymes, LLC",0,0,"Common stock (9,679 shares)",0,0,0,0,6/15/2007,4000.0,9656.0
+448,"Technologies Holdings, LLC(6)","The Thymes, LLC",0,0,"Common stock (1,546 shares)",0,0,0,0,6/15/2007,0.0,1542.0
+449,DSI Renal Inc.(6),"The Thymes, LLC",Dialysis provider,0,"Senior secured loan ($9,359 par due 3/2013)",0,8.50% (Libor + 6.50%/M),0,0,4/4/2006,9284.0,9359.0
+450,DSI Renal Inc.(6),"The Thymes, LLC",0,0,"Senior subordinated loan ($69,009 par due 4/2014)",0,"6.00% Cash, 10.00% PIK",0,0,4/4/2006,68523.0,69006.0
+451,DSI Renal Inc.(6),"The Thymes, LLC",0,0,"Common units (19,726 units)",0,0,0,0,4/4/2006,19684.0,40687.0
+452,"GG Merger Sub I, Inc.","The Thymes, LLC",Drug testing services,0,"Senior secured loan ($11,330 par due 12/2014)",0,4.31% (Libor + 4.0%/Q),0,0,12/14/2007,10944.0,10764.0
+453,"GG Merger Sub I, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($12,000 par due 12/2014)",0,4.31% (Libor + 4.0%/Q),0,0,12/14/2007,11586.0,11400.0
+454,"Heartland Dental Care, Inc.","The Thymes, LLC",Dental services,0,"Senior subordinated loan ($27,717 par due 7/2014)",0,14.25%,0,0,7/31/2008,27717.0,28548.0
+455,"INC Research, Inc.","The Thymes, LLC",Pharmaceutical and biotechnology consulting,0,"Senior subordinated loan ($10,039 par due 9/2017)",0,13.50%,0,0,9/27/2010,10039.0,10039.0
+456,"INC Research, Inc.","The Thymes, LLC",services,0,"Common stock (1,000,000 shares)",0,0,0,0,9/27/2010,1000.0,1000.0
+457,"Magnacare Holdings, Inc., Magnacare Administrative","The Thymes, LLC",Healthcare professional provider,0,"Senior secured loan ($66,169 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,66169.0,66169.0
+458,"Services, LLC, and Magnacare, LLC","The Thymes, LLC",0,0,"Senior secured loan ($48,511 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,48511.0,48511.0
+459,"Services, LLC, and Magnacare, LLC","The Thymes, LLC",0,0,"Senior secured loan ($9,023 par due 9/2016)",0,9.75% (Libor + 8.75%/Q),0,0,9/15/2010,9023.0,9023.0
+460,"MPBP Holdings, Inc., Cohr Holdings, Inc. and MPBP","The Thymes, LLC",Healthcare equipment services,0,"Junior secured loan ($18,851 par due 1/2014)",0,0,0,0,1/31/2007,18851.0,943.0
+461,"Acquisition Co., Inc.","The Thymes, LLC",0,0,"Junior secured loan ($11,310 par due 1/2014)",0,0,0,0,1/31/2007,11310.0,566.0
+462,"Acquisition Co., Inc.","The Thymes, LLC",0,0,"Common stock (50,000 shares)",0,0,0,0,1/31/2007,5000.0,0.0
+463,"MWD Acquisition Sub, Inc.","The Thymes, LLC",Dental services,0,"Junior secured loan ($5,000 par due 5/2013)",0,6.51% (Libor + 6.25%/M),0,0,5/3/2007,5000.0,4800.0
+464,"NS Merger Sub. Inc. and NS Holdings, Inc.","The Thymes, LLC",Healthcare technology provider,0,Senior subordinated loan ($579 par due 6/2017),0,13.50%,0,0,6/21/2010,579.0,579.0
+465,"NS Merger Sub. Inc. and NS Holdings, Inc.","The Thymes, LLC",0,0,"Senior subordinated loan ($50,000 par due 6/2017)",0,13.50%,0,0,6/21/2010,50000.0,50000.0
+466,"NS Merger Sub. Inc. and NS Holdings, Inc.","The Thymes, LLC",0,0,"Common stock (2,500,000 shares)",0,0,0,0,6/21/2010,2500.0,2500.0
+467,OnCURE Medical Corp.,"The Thymes, LLC",Radiation oncology care provider,0,"Common stock (857,143 shares)",0,0,0,0,8/18/2006,3000.0,2910.0
+468,"Passport Health Communications, Inc., Passport","The Thymes, LLC",Healthcare technology provider,0,"Senior secured loan ($11,287 par due 5/2014)",0,8.25% (Libor + 7.0%/Q),0,0,5/9/2008,11287.0,11287.0
+469,Holding Corp. and Prism Holding Corp.,"The Thymes, LLC",0,0,"Senior secured loan ($10,419 par due 5/2014)",0,8.25% (Libor + 7.0%/Q),0,0,5/9/2008,10419.0,10419.0
+470,Holding Corp. and Prism Holding Corp.,"The Thymes, LLC",0,0,"Series A preferred stock (1,594,457 shares)",0,0,0,0,7/30/2008,11156.0,10978.0
+471,Holding Corp. and Prism Holding Corp.,"The Thymes, LLC",0,0,"Common stock (16,106 shares)",0,0,0,0,7/30/2008,100.0,0.0
+472,"PG Mergersub, Inc.","The Thymes, LLC","Provider of patient surveys, management",0,"Senior secured loan ($1,100 par due 11/3/2015)",0,6.75% (Libor + 5.0%/Q),0,0,11/3/2010,1098.0,1100.0
+473,"PG Mergersub, Inc.","The Thymes, LLC",reports and national databases for integrated,0,"Senior secured loan ($9,200 par due 11/3/2015)",0,6.75% (Libor + 5.0%/Q),0,0,11/3/2010,9171.0,9200.0
+474,"PG Mergersub, Inc.","The Thymes, LLC",healthcare delivery system,0,"Senior subordinated loan ($4,000 par due 3/2016)",0,12.50%,0,0,3/12/2008,3948.0,4000.0
+475,"PG Mergersub, Inc.","The Thymes, LLC",0,0,Preferred stock (333 shares),0,0,0,0,3/12/2008,125.0,9.0
+476,"PG Mergersub, Inc.","The Thymes, LLC",0,0,"Common stock (16,667 shares)",0,0,0,0,3/12/2008,167.0,471.0
+477,"Reed Group, Ltd.","The Thymes, LLC",Medical disability management services,0,"Senior secured loan ($10,755 par due 12/2013)",0,0,0,0,4/1/2010,9129.0,9142.0
+478,"Reed Group, Ltd.","The Thymes, LLC",provider,0,"Senior secured revolving loan ($1,250 par due 12/2013)",0,0,0,0,4/1/2010,1097.0,1063.0
+479,"Reed Group, Ltd.","The Thymes, LLC",0,0,"Senior subordinated loan ($19,625 par due 12/2013)",0,0,0,0,4/1/2010,15918.0,10714.0
+480,"Reed Group, Ltd.","The Thymes, LLC",0,0,Equity interests,0,0,0,0,4/1/2010,203.0,0.0
+481,"Regency Healthcare Group, LLC(6)","The Thymes, LLC",Hospice provider,0,"Preferred member interest (1,293,960 shares)",0,0,0,0,4/1/2010,2007.0,1672.0
+482,"Soteria Imaging Services, LLC(6)","The Thymes, LLC",Outpatient medical imaging provider,0,"Junior secured loan ($1,687 par due 11/2010)",0,0,0,0,4/1/2010,1644.0,1383.0
+483,"Soteria Imaging Services, LLC(6)","The Thymes, LLC",0,0,"Junior secured loan ($2,422 par due 11/2010)",0,0,0,0,4/1/2010,2361.0,1986.0
+484,"Soteria Imaging Services, LLC(6)","The Thymes, LLC",0,0,"Preferred member interest (1,881,234 units)",0,0,0,0,4/1/2010,0.0,0.0
+485,"Sunquest Information Systems, Inc.","The Thymes, LLC",Laboratory software solutions provider,0,"Junior secured loan ($95,000 par due 6/2017)",0,9.75% (Libor + 8.50%/M),0,0,12/16/2010,95000.0,95000.0
+486,"Sunquest Information Systems, Inc.","The Thymes, LLC",0,0,"Junior secured loan ($50,000 par due 6/2017)",0,9.75% (Libor + 8.50%/M),0,0,12/16/2010,50000.0,50000.0
+487,"U.S. Renal Care, Inc.","The Thymes, LLC",Dialysis provider,0,"Senior subordinated loan ($20,235 par due 5/2017)",0,"11.25% Cash, 2.00% PIK",0,0,5/24/2010,20235.0,20235.0
+488,Univita Health Inc.,"The Thymes, LLC",Outsourced services provider,0,"Senior subordinated loan ($21,094 par due 12/2014)",0,"12.00% Cash, 3.00% PIK",0,0,12/22/2009,21094.0,21094.0
+489,VOTC Acquisition Corp.,"The Thymes, LLC",Radiation oncology care provider,0,"Senior secured loan ($7,580 par due 7/2012)",0,"11.00% Cash, 2.00% PIK",0,0,6/30/2008,7580.0,7580.0
+490,VOTC Acquisition Corp.,"The Thymes, LLC",0,0,"Preferred stock (3,888,222 shares)",0,0,0,0,7/14/2008,8748.0,11624.0
+491,Aviation Properties Corporation(7),"The Thymes, LLC",Aviation services,0,Common stock (100 shares),0,0,0,0,4/1/2010,0.0,0.0
+492,"Booz Allen Hamilton, Inc.","The Thymes, LLC",Strategy and technology consulting services,0,Senior secured loan ($733 par due 7/2015),0,7.50% (Libor + 4.50%/M),0,0,7/31/2008,721.0,733.0
+493,"Booz Allen Hamilton, Inc.","The Thymes, LLC",0,0,Senior subordinated loan ($101 par due 7/2016),0,13.00%,0,0,7/31/2008,90.0,104.0
+494,"Booz Allen Hamilton, Inc.","The Thymes, LLC",0,0,"Senior subordinated loan ($5,007 par due 7/2016)",0,13.00%,0,0,7/31/2008,4983.0,5157.0
+495,CitiPostal Inc.(7),"The Thymes, LLC",Document storage and management services,0,Senior secured revolving loan ($691 par due 12/2013),0,6.50% (Libor + 4.50%/M),0,0,4/1/2010,691.0,691.0
+496,CitiPostal Inc.(7),"The Thymes, LLC",0,0,Senior secured revolving loan ($700 par due 12/2013),0,6.50% (Libor + 4.50%/Q),0,0,4/1/2010,700.0,700.0
+497,CitiPostal Inc.(7),"The Thymes, LLC",0,0,"Senior secured revolving loan ($1,250 par due 12/2013)",0,6.75% (Base Rate + 3.25%/Q),0,0,4/1/2010,1250.0,1250.0
+498,CitiPostal Inc.(7),"The Thymes, LLC",0,0,"Senior secured loan ($49,333 par due 12/2013)",0,"11.00% Cash, 2.00% PIK",0,0,4/1/2010,49333.0,49333.0
+499,CitiPostal Inc.(7),"The Thymes, LLC",0,0,Senior secured loan ($482 par due 12/2013),0,"11.00% Cash, 2.00% PIK",0,0,4/1/2010,482.0,482.0
+500,CitiPostal Inc.(7),"The Thymes, LLC",0,0,"Senior subordinated loan ($12,526 par due 12/2015)",0,16.00% PIK,0,0,4/1/2010,12526.0,12022.0
+501,CitiPostal Inc.(7),"The Thymes, LLC",0,0,"Common stock (37,024 shares)",0,0,0,0,4/1/2010,0.0,0.0
+502,"Coverall North America, Inc.(7)","The Thymes, LLC",Commercial janitorial service provider,0,"Senior secured loan ($15,763 par due 7/2011)",0,12.00%,0,0,4/1/2010,15763.0,15763.0
+503,"Coverall North America, Inc.(7)","The Thymes, LLC",0,0,"Senior secured loan ($15,864 par due 7/2011)",0,12.00%,0,0,4/1/2010,15864.0,15864.0
+504,"Coverall North America, Inc.(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($5,557 par due 7/2011)",0,0,0,0,4/1/2010,5554.0,928.0
+505,"Coverall North America, Inc.(7)","The Thymes, LLC",0,0,"Common stock (763,333 shares)",0,0,0,0,4/1/2010,2999.0,0.0
+506,"Digital Videostream, LLC","The Thymes, LLC",Media content supply chain services company,0,Senior secured loan ($256 par due 2/2012),0,"10.00% Cash, 1.00% PIK",0,0,4/1/2010,256.0,256.0
+507,"Digital Videostream, LLC","The Thymes, LLC",0,0,Senior secured loan ($9 par due 2/2012),0,"10.00% Cash, 1.00% PIK",0,0,4/1/2010,9.0,9.0
+508,"Digital Videostream, LLC","The Thymes, LLC",0,0,"Senior secured loan ($10,403 par due 2/2012)",0,"10.00% Cash, 1.00% PIK",0,0,4/1/2010,10345.0,10403.0
+509,"Digital Videostream, LLC","The Thymes, LLC",0,0,"Convertible subordinated loan ($5,538 par due 2/2016)",0,10.00% PIK,0,0,4/1/2010,5978.0,6025.0
+510,"Diversified Collections Services, Inc.","The Thymes, LLC",Collections services,0,"Senior secured loan ($6,921 par due 3/2012)",0,7.50% (Libor + 5.50%/Q),0,0,4/1/2010,6921.0,6921.0
+511,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,Senior secured loan ($79 par due 3/2012),0,7.50% (Libor + 5.50%/Q),0,0,4/1/2010,79.0,79.0
+512,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($34,000 par due 9/2012)",0,13.75% (Libor + 11.75%/Q),0,0,4/1/2010,34000.0,34000.0
+513,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($2,000 par due 9/2012)",0,13.75% (Libor + 11.75%/Q),0,0,4/1/2010,2000.0,2000.0
+514,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,"Preferred stock (14,927 shares)",0,0,0,0,5/18/2006,169.0,289.0
+515,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,"Common stock (114,004 shares)",0,0,0,0,2/5/2005,295.0,445.0
+516,"Diversified Collections Services, Inc.","The Thymes, LLC",0,0,"Common stock (478,816 shares)",0,0,0,0,4/1/2010,1478.0,1586.0
+517,"Diversified Mercury Communications, LLC","The Thymes, LLC",Business media consulting services,0,"Senior secured loan ($1,774 par due 3/2013)",0,8.00% (Base Rate + 4.50%/M),0,0,4/1/2010,1613.0,1596.0
+518,"HCP Acquisition Holdings, LLC(7)","The Thymes, LLC",Healthcare compliance advisory services,0,"Class A units (10,044,176 units)",0,0,0,0,6/26/2008,10044.0,5070.0
+519,"Impact Innovations Group, LLC(7)","The Thymes, LLC",IT consulting and outsourcing services,0,Member interest (50% interest),0,0,0,0,4/1/2010,0.0,0.0
+520,"Interactive Technology Solutions, LLC","The Thymes, LLC",IT services provider,0,"Senior secured loan ($7,944 par due 6/2015)",0,9.50% (Libor + 6.50%/Q),0,0,10/21/2010,7944.0,7944.0
+521,"Interactive Technology Solutions, LLC","The Thymes, LLC",0,0,"Senior secured loan ($8,900 par due 6/2015)",0,9.50% (Libor + 6.50%/Q),0,0,10/21/2010,8900.0,8900.0
+522,"Investor Group Services, LLC(6)","The Thymes, LLC",Business consulting for private equity and corporate clients,0,Limited liability company membership interest (10.00% interest),0,0,0,0,6/22/2006,0.0,564.0
+523,"Multi-Ad Services, Inc.(6)","The Thymes, LLC",Marketing services and software provider,0,"Preferred units (1,725,280 units)",0,0,0,0,4/1/2010,788.0,1366.0
+524,"Multi-Ad Services, Inc.(6)","The Thymes, LLC",0,0,"Common units (1,725,280 units)",0,0,0,0,4/1/2010,0.0,0.0
+525,"MVL Group, Inc.(7)","The Thymes, LLC",Marketing research provider,0,"Senior secured loan ($22,772 par due 7/2012)",0,12.00%,0,0,4/1/2010,22772.0,22772.0
+526,"MVL Group, Inc.(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($34,937 par due 7/2012)",0,"12.00% Cash, 2.50% PIK",0,0,4/1/2010,33884.0,34937.0
+527,"MVL Group, Inc.(7)","The Thymes, LLC",0,0,Junior subordinated loan ($144 par due 7/2012),0,10.00%,0,0,4/1/2010,0.0,33.0
+528,"MVL Group, Inc.(7)","The Thymes, LLC",0,0,"Common stock (554,091 shares)",0,0,0,0,4/1/2010,0.0,0.0
+529,"MVL Group, Inc.(7)","The Thymes, LLC",0,0,"Common stock (560,716 shares)",0,0,0,0,4/1/2010,0.0,0.0
+530,"PC Helps Support, LLC","The Thymes, LLC",Technology support provider,0,"Senior secured loan ($7,153 par due 12/2013)",0,3.54% (Libor + 3.25%/Q),0,0,4/1/2010,7153.0,7153.0
+531,"PC Helps Support, LLC","The Thymes, LLC",0,0,"Senior subordinated loan ($23,377 par due 12/2013)",0,12.76%,0,0,4/1/2010,23377.0,23377.0
+532,Pillar Processing LLC and PHL Holding Co.(6),"The Thymes, LLC",Mortgage services,0,"Senior secured loan ($1,875 par due 5/2014)",0,14.50%,0,0,7/31/2008,1875.0,1875.0
+533,Pillar Processing LLC and PHL Holding Co.(6),"The Thymes, LLC",0,0,"Senior secured loan ($5,500 par due 5/2014)",0,14.50%,0,0,7/31/2008,5500.0,5500.0
+534,Pillar Processing LLC and PHL Holding Co.(6),"The Thymes, LLC",0,0,"Senior secured loan ($14,730 par due 11/2013)",0,5.80% (Libor + 5.50%/Q),0,0,11/20/2007,14730.0,14730.0
+535,Pillar Processing LLC and PHL Holding Co.(6),"The Thymes, LLC",0,0,"Senior secured loan ($9,194 par due 11/2013)",0,5.80% (Libor + 5.50%/Q),0,0,11/20/2007,9194.0,9194.0
+536,Pillar Processing LLC and PHL Holding Co.(6),"The Thymes, LLC",0,0,Common stock (85 shares),0,0,0,0,11/20/2007,3768.0,5701.0
+537,"Primis Marketing Group, Inc. and Primis Holdings, LLC(6)","The Thymes, LLC",Database marketing services,0,"Senior subordinated loan ($10,222 par due 2/2013)",0,0,0,0,8/24/2006,10222.0,102.0
+538,"Primis Marketing Group, Inc. and Primis Holdings, LLC(6)","The Thymes, LLC",0,0,"Preferred units (4,000 units)",0,0,0,0,8/24/2006,3600.0,0.0
+539,"Primis Marketing Group, Inc. and Primis Holdings, LLC(6)","The Thymes, LLC",0,0,"Common units (4,000,000 units)",0,0,0,0,8/24/2006,400.0,0.0
+540,"Prommis Solutions, LLC, E-Default Services, LLC,","The Thymes, LLC",Bankruptcy and foreclosure processing,0,"Senior subordinated loan ($16,788 par due 2/2014)",0,"11.50% Cash, 2.00% PIK",0,0,2/9/2007,16788.0,16788.0
+541,"Statewide Tax and Title Services, LLC & Statewide Publishing Services, LLC (formerly known as MR Processing Holding Corp.)","The Thymes, LLC",services,0,"Senior subordinated loan ($27,032 par due 2/2014)",0,"11.50% Cash, 2.00% PIK",0,0,2/9/2007,27032.0,27032.0
+542,"Statewide Tax and Title Services, LLC & Statewide Publishing Services, LLC (formerly known as MR Processing Holding Corp.)","The Thymes, LLC",0,0,"Preferred units (30,000 units)",0,0,0,0,4/11/2006,3000.0,4661.0
+543,"Promo Works, LLC","The Thymes, LLC",Marketing services,0,"Senior secured loan ($8,655 par due 12/2013)",0,11.00%,0,0,4/1/2010,5105.0,5438.0
+544,R2 Acquisition Corp.,"The Thymes, LLC",Marketing services,0,"Common stock (250,000 shares)",0,0,0,0,5/29/2007,250.0,257.0
+545,"Summit Business Media, LLC","The Thymes, LLC",Business media consulting services,0,"Junior secured loan ($11,930 par due 7/2014)",0,0,0,0,8/3/2007,10276.0,239.0
+546,"Summit Energy Services, Inc.","The Thymes, LLC",Energy management consulting services,0,"Common stock (38,778 shares)",0,0,0,0,4/1/2010,222.0,287.0
+547,"Summit Energy Services, Inc.","The Thymes, LLC",0,0,"Common stock (385,608 shares)",0,0,0,0,4/1/2010,2336.0,2850.0
+548,"Tradesmen International, Inc.","The Thymes, LLC",Construction labor support,0,"Senior subordinated loan ($20,000 par due 5/2014)",0,10.00%,0,0,4/1/2010,14364.0,20000.0
+549,"Tradesmen International, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 771,036 shares",0,0,0,0,4/1/2010,0.0,2086.0
+550,"VSS-Tranzact Holdings, LLC(6)","The Thymes, LLC",Management consulting services,0,Common membership interest (8.51% interest),0,0,0,0,10/26/2007,10204.0,6475.0
+551,"Venturehouse-Cibernet Investors, LLC","The Thymes, LLC",Financial settlement services for intercarrier,0,Equity interest,0,0,0,0,4/1/2010,0.0,0.0
+552,"Venturehouse-Cibernet Investors, LLC","The Thymes, LLC",wireless roaming,0,Equity interest,0,0,0,0,4/1/2010,0.0,0.0
+553,"AllBridge Financial, LLC(7)","The Thymes, LLC",Asset management services,0,Equity interests,0,0,0,0,4/1/2010,11395.0,13112.0
+554,Callidus Capital Corporation(7),"The Thymes, LLC",Asset management services,0,Common stock (100 shares),0,0,0,0,4/1/2010,0.0,246.0
+555,Ciena Capital LLC(7),"The Thymes, LLC",Real estate and small business loan servicer,0,"Senior secured loan ($14,000 par due 12/2013)",0,6.00%,0,0,11/23/2010,14000.0,14000.0
+556,Ciena Capital LLC(7),"The Thymes, LLC",0,0,"Senior secured loan ($2,000 par due 12/2015)",0,12.00%,0,0,11/29/2010,2000.0,2000.0
+557,Ciena Capital LLC(7),"The Thymes, LLC",0,0,"Senior secured loan ($20,000 par due 12/2015)",0,12.00%,0,0,11/29/2010,20000.0,20000.0
+558,Ciena Capital LLC(7),"The Thymes, LLC",0,0,"Senior secured loan ($10,000 par due 12/2015)",0,12.00%,0,0,11/29/2010,10000.0,10000.0
+559,Ciena Capital LLC(7),"The Thymes, LLC",0,0,Equity interests,0,0,0,0,11/29/2010,53374.0,47063.0
+560,"Commercial Credit Group, Inc.","The Thymes, LLC",Commercial equipment finance and leasing,0,"Senior subordinated loan ($6,000 par due 6/2015)",0,15.00%,0,0,4/1/2010,6000.0,6000.0
+561,"Commercial Credit Group, Inc.","The Thymes, LLC",company,0,"Senior subordinated loan ($4,000 par due 6/2015)",0,15.00%,0,0,4/1/2010,4000.0,4000.0
+562,"Commercial Credit Group, Inc.","The Thymes, LLC",0,0,"Senior subordinated loan ($9,500 par due 6/2015)",0,15.00%,0,0,4/1/2010,9500.0,9500.0
+563,"Compass Group Diversified Holdings, LLC(10)","The Thymes, LLC",Middle market business manager,0,Senior secured revolving loan ($735 par due 12/2012),0,2.76% (Libor + 2.50%/M),0,0,4/1/2010,735.0,735.0
+564,"Compass Group Diversified Holdings, LLC(10)","The Thymes, LLC",0,0,Senior secured revolving loan ($882 par due 12/2012),0,2.76% (L ibor + 2.50%/M),0,0,4/1/2010,882.0,882.0
+565,"Cook Inlet Alternative Risk, LLC","The Thymes, LLC",Risk management services,0,"Senior secured loan ($40,000 par due 4/2013)",0,8.50%,0,0,4/1/2010,25124.0,26083.0
+566,"Cook Inlet Alternative Risk, LLC","The Thymes, LLC",0,0,"Senior secured loan ($44,346 par due 4/2013)",0,8.50%,0,0,4/1/2010,26622.0,28917.0
+567,"Cook Inlet Alternative Risk, LLC","The Thymes, LLC",0,0,Member interest (3.17%),0,0,0,0,4/1/2010,0.0,0.0
+568,Financial Pacific Company(7),"The Thymes, LLC",Commercial finance leasing,0,"Preferred stock (6,500 shares)",0,8.00% PIK,0,0,10/13/2010,6500.0,6543.0
+569,Financial Pacific Company(7),"The Thymes, LLC",0,0,"Common stock (650,000 shares)",0,0,0,0,10/13/2010,0.0,0.0
+570,Imperial Capital,"The Thymes, LLC",Investment services,0,"Common units (2,526 units)",0,0,0,0,5/10/2007,3.0,4735.0
+571,"Group, LLC(6)","The Thymes, LLC",0,0,Common units (315 units),0,0,0,0,5/10/2007,0.0,590.0
+572,"Group, LLC(6)","The Thymes, LLC",0,0,"Common units (7,710 units)",0,0,0,0,5/10/2007,14997.0,14453.0
+573,"Ivy Hill Asset Management, L.P.(7)","The Thymes, LLC",Asset management services,0,Member interest (100% interest),0,0,0,0,6/15/2009,103458.0,136235.0
+574,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",Restaurant owner and operator,0,"Senior secured revolving loan ($2,010 par due 11/2012)",0,6.50% (Libor + 3.50%/Q),0,0,11/27/2006,2010.0,2010.0
+575,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",0,0,Senior secured revolving loan ($108 par due 11/2012),0,6.50% (Base Rate + 2.50%/Q),0,0,11/27/2006,108.0,108.0
+576,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",0,0,"Senior secured loan ($22,839 par due 11/2013)",0,12.50% (Libor + 9.50%/Q),0,0,11/27/2006,22845.0,22839.0
+577,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",0,0,"Senior secured loan ($10,705 par due 11/2013)",0,12.50% (Libor + 9.50%/Q),0,0,11/27/2006,10705.0,10705.0
+578,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",0,0,"Promissory note ($14,897 par due 11/2016)",0,0,0,0,6/1/2006,14886.0,10957.0
+579,"ADF Capital, Inc. & ADF Restaurant Group, LLC","The Thymes, LLC",0,0,Warrants to purchase up to 0.61 shares,0,0,0,0,6/1/2006,0.0,0.0
+580,"Encanto Restaurants, Inc.","The Thymes, LLC",Restaurant owner and operator,0,"Junior secured loan ($20,997 par due 8/2013)",0,11.00%,0,0,8/2/2006,20997.0,19947.0
+581,"Encanto Restaurants, Inc.","The Thymes, LLC",0,0,"Junior secured loan ($3,999 par due 8/2013)",0,11.00%,0,0,8/2/2006,3999.0,3799.0
+582,"Orion Foods, LLC (fka Hot Stuff Foods, LLC)(7)","The Thymes, LLC",Convenience food service retailer,0,"Senior secured loan ($34,357 par due 9/2014)",0,10.00% (Libor + 8.50%/Q),0,0,4/1/2010,34357.0,34357.0
+583,"Orion Foods, LLC (fka Hot Stuff Foods, LLC)(7)","The Thymes, LLC",0,0,"Junior secured loan ($37,552 par due 9/2014)",0,14.00%,0,0,4/1/2010,24881.0,36085.0
+584,"Orion Foods, LLC (fka Hot Stuff Foods, LLC)(7)","The Thymes, LLC",0,0,"Preferred stock ($10,000 par due)",0,0,0,0,4/1/2010,0.0,0.0
+585,"Orion Foods, LLC (fka Hot Stuff Foods, LLC)(7)","The Thymes, LLC",0,0,"Class A common units (25,001 units)",0,0,0,0,4/1/2010,0.0,0.0
+586,"Orion Foods, LLC (fka Hot Stuff Foods, LLC)(7)","The Thymes, LLC",0,0,"Class B common units (1,122,452 units)",0,0,0,0,4/1/2010,0.0,0.0
+587,"Huddle House, Inc.(7)","The Thymes, LLC",Restaurant owner and operator,0,"Senior subordinated loan ($20,300 par due 12/2015)",0,"12.00% Cash, 3.00% PIK",0,0,4/1/2010,20032.0,16202.0
+588,"Huddle House, Inc.(7)","The Thymes, LLC",0,0,"Common stock (358,428 shares)",0,0,0,0,4/1/2010,0.0,0.0
+589,"OTG Management, Inc.","The Thymes, LLC",Airport restaurant operator,0,"Junior secured loan ($12,603 par due 6/2013)",0,"16.00% (Libor + 11.00% Cash, 2.00% PIK/M)",0,0,6/19/2008,12603.0,12603.0
+590,"OTG Management, Inc.","The Thymes, LLC",0,0,"Junior secured loan ($42,030 par due 6/2013)",0,"18.00% (Libor + 11.00% Cash, 4.00% PIK/M)",0,0,6/19/2008,42030.0,42030.0
+591,"OTG Management, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 100,857 shares of common stock",0,0,0,0,6/19/2008,100.0,4939.0
+592,"OTG Management, Inc.","The Thymes, LLC",0,0,Warrants to purchase up to 9 shares of common stock,0,0,0,0,6/19/2008,0.0,0.0
+593,"PMI Holdings, Inc.","The Thymes, LLC",Restaurant owner and operator,0,Senior secured revolving loan ($575 par due 5/2015),0,10.00% (Libor + 8.00%/Q),0,0,5/5/2010,575.0,575.0
+594,"PMI Holdings, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($9,918 par due 5/2015)",0,10.00% (Libor + 8.00%/M),0,0,5/5/2010,9918.0,9918.0
+595,"PMI Holdings, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($9,918 par due 5/2015)",0,10.00% (Libor + 8.00%/M),0,0,5/5/2010,9918.0,9918.0
+596,"PMI Holdings, Inc.","The Thymes, LLC",0,0,Senior secured loan ($7 par due 5/2015),0,10.25% (Base Rate + 7.00%/M),0,0,5/5/2010,7.0,7.0
+597,"PMI Holdings, Inc.","The Thymes, LLC",0,0,Senior secured loan ($7 par due 5/2015),0,10.25% (Base Rate + 7.00%/M),0,0,5/5/2010,7.0,7.0
+598,S.B. Restaurant Company,"The Thymes, LLC",Restaurant owner and operator,0,"Senior secured loan ($35,406 par due 7/2012)",0,13.00% (Libor + 11.00%/Q),0,0,4/1/2010,26872.0,33635.0
+599,S.B. Restaurant Company,"The Thymes, LLC",0,0,"Preferred stock (46,690 shares)",0,0,0,0,4/1/2010,0.0,0.0
+600,S.B. Restaurant Company,"The Thymes, LLC",0,0,"Warrants to purchase up to 257,429 shares of common stock",0,0,0,0,4/1/2010,0.0,0.0
+601,Vistar Corporation and Wellspring Distribution Corp.,"The Thymes, LLC",Food service distributor,0,"Senior subordinated loan ($31,625 par due 5/2015)",0,13.50%,0,0,5/23/2008,31625.0,31625.0
+602,Vistar Corporation and Wellspring Distribution Corp.,"The Thymes, LLC",0,0,"Senior subordinated loan ($30,000 par due 5/2015)",0,13.50%,0,0,5/23/2008,30000.0,30000.0
+603,Vistar Corporation and Wellspring Distribution Corp.,"The Thymes, LLC",0,0,"Class A non-voting common stock (1,366,120 shares)",0,0,0,0,5/3/2008,7500.0,5287.0
+604,"Apogee Retail, LLC","The Thymes, LLC",For-profit thrift retailer,0,Senior secured revolving loan ($780 par due 3/2012),0,7.25% (Base Rate + 4.00%/Q),0,0,3/27/2007,780.0,765.0
+605,"Apogee Retail, LLC","The Thymes, LLC",0,0,"Senior secured loan ($11,523 par due 9/2012)",0,"12.00% Cash, 4.00% PIK",0,0,5/28/2008,11523.0,11523.0
+606,"Apogee Retail, LLC","The Thymes, LLC",0,0,"Senior secured loan ($2,939 par due 3/2012)",0,5.51% (Libor + 5.25%/M),0,0,3/27/2007,2939.0,2880.0
+607,"Apogee Retail, LLC","The Thymes, LLC",0,0,"Senior secured loan ($3,420 par due 9/2012)",0,"12.00% Cash, 4.00% PIK",0,0,5/28/2008,3420.0,3420.0
+608,"Apogee Retail, LLC","The Thymes, LLC",0,0,"Senior secured loan ($25,841 par due 3/2012)",0,5.51% (Libor + 5.25%/M),0,0,3/27/2007,25841.0,25324.0
+609,"Apogee Retail, LLC","The Thymes, LLC",0,0,"Senior secured loan ($11,307 par due 3/2012)",0,5.51% (Libor + 5.25%/M),0,0,3/27/2007,11307.0,11081.0
+610,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)","The Thymes, LLC",Membership based buying club franchisor,0,"Senior secured loan ($1,897 par due 11/2012)",0,8.25% (Base Rate + 5.00%/Q),0,0,12/14/2007,1858.0,1897.0
+611,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)","The Thymes, LLC",and operator,0,"Senior subordinated loan ($81,634 par due 5/2013)",0,"12.00% Cash, 4.00% PIK",0,0,4/1/2010,77892.0,81634.0
+612,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)","The Thymes, LLC",0,0,"Limited partnership interest (80,000 shares)",0,0,0,0,4/1/2010,3112.0,3414.0
+613,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP(6)","The Thymes, LLC",0,0,"Partnership interests (100,000 shares)",0,0,0,0,11/30/2007,10000.0,4347.0
+614,Fulton Holdings Corp,"The Thymes, LLC",Airport restaurant operator,0,"Senior secured loan ($40,000 par due 5/2016)",0,12.50%,0,0,5/28/2010,40000.0,40000.0
+615,Fulton Holdings Corp,"The Thymes, LLC",0,0,"Common stock (19,672 shares)",0,0,0,0,5/28/2010,1967.0,2430.0
+616,"Savers, Inc. and SAI Acquisition Corporation","The Thymes, LLC",For-profit thrift retailer,0,"Common stock (1,170,182 shares)",0,0,0,0,8/8/2006,4500.0,7238.0
+617,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",Personalized gifts retailer,0,"Senior secured loan ($2,413 par due 9/2012)",0,"6.50% (Base Rate + 1.25% Cash, 1.00% PIK/M)",0,0,9/28/2006,2409.0,2364.0
+618,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,"Senior secured loan ($28,122 par due 9/2012)",0,"6.50% (Base Rate + 1.25% Cash, 1.00% PIK/M)",0,0,9/28/2006,28089.0,27560.0
+619,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,"Senior secured loan ($7,110 par due 9/2012)",0,"6.50% (Base Rate + 1.25% Cash, 1.00% PIK/M)",0,0,9/28/2006,7188.0,6968.0
+620,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,Preferred stock (73 shares),0,0,0,0,3/19/2009,0.0,1939.0
+621,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,Preferred stock (80 shares),0,0,0,0,9/28/2006,1800.0,2121.0
+622,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,Common stock (800 shares),0,0,0,0,9/28/2006,200.0,0.0
+623,"Things Remembered, Inc. and TRM Holdings Corporation","The Thymes, LLC",0,0,Warrants to purchase up to 859 shares of preferred stock,0,0,0,0,3/19/2009,0.0,0.0
+624,"Augusta Sportswear, Inc.","The Thymes, LLC",Manufacturer of athletic apparel,0,"Senior secured loan ($6,556 par due 7/2015)",0,8.50% (Libor + 7.50%/Q),0,0,9/3/2010,6556.0,6556.0
+625,"Augusta Sportswear, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($9,353 par due 7/2015)",0,8.50% (Libor + 7.50%/Q),0,0,9/3/2010,9353.0,9353.0
+626,"Gilchrist & Soames, Inc.","The Thymes, LLC",Personal care manufacturer,0,"Senior subordinated loan ($22,902 par due 10/2013)",0,13.44%,0,0,4/1/2010,22128.0,22902.0
+627,Insight Pharmaceuticals Corporation(6),"The Thymes, LLC",OTC drug products manufacturer,0,"Senior subordinated loan ($50,255 par due 9/2012)",0,"13.00% Cash, 2.00% PIK",0,0,4/1/2010,50255.0,50255.0
+628,Insight Pharmaceuticals Corporation(6),"The Thymes, LLC",0,0,"Senior subordinated loan ($5,298 par due 9/2012)",0,"13.00% Cash, 2.00% PIK",0,0,4/1/2010,5298.0,5298.0
+629,Insight Pharmaceuticals Corporation(6),"The Thymes, LLC",0,0,"Common stock (155,000 shares)",0,0,0,0,4/1/2010,12070.0,13432.0
+630,"Making Memories Wholesale, Inc.(7)","The Thymes, LLC",Scrapbooking branded products manufacturer,0,Senior secured revolving loan ($250 par due 8/2014),0,10.00% (Libor + 6.50%/Q),0,0,8/21/2009,250.0,250.0
+631,"Making Memories Wholesale, Inc.(7)","The Thymes, LLC",0,0,Senior secured revolving loan ($250 par due 8/2014),0,10.00% (Libor + 6.50%/Q),0,0,8/21/2009,250.0,250.0
+632,"Making Memories Wholesale, Inc.(7)","The Thymes, LLC",0,0,"Senior secured loan ($9,388 par due 8/2014)",0,0,0,0,8/21/2009,7433.0,6048.0
+633,"Making Memories Wholesale, Inc.(7)","The Thymes, LLC",0,0,"Senior secured loan ($5,129 par due 8/2014)",0,0,0,0,8/21/2009,3979.0,0.0
+634,"Making Memories Wholesale, Inc.(7)","The Thymes, LLC",0,0,Common stock (100 shares),0,0,0,0,8/21/2009,0.0,0.0
+635,"The Step2 Company, LLC","The Thymes, LLC",Toy manufacturer,0,"Senior secured loan ($27,000 par due 4/2015)",0,10.00%,0,0,4/1/2010,25557.0,27000.0
+636,"The Step2 Company, LLC","The Thymes, LLC",0,0,"Senior subordinated loan ($30,000 par due 4/2015)",0,15.00%,0,0,4/1/2010,28396.0,30000.0
+637,"The Step2 Company, LLC","The Thymes, LLC",0,0,"Common units (1,114,343 units)",0,0,0,0,4/1/2010,24.0,1010.0
+638,"The Step2 Company, LLC","The Thymes, LLC",0,0,"Warrants to purchase up to 3,157,895 shares",0,0,0,0,4/1/2010,0.0,0.0
+639,"The Thymes, LLC(7)","The Thymes, LLC",Cosmetic products manufacturer,0,"Preferred units (6,283 units)",0,8.00% PIK,0,0,6/21/2007,6784.0,6902.0
+640,"The Thymes, LLC(7)","The Thymes, LLC",0,0,"Common units (5,400 units)",0,0,0,0,6/21/2007,0.0,0.0
+641,Woodstream Corporation,"The Thymes, LLC",Pet products manufacturer,0,"Senior subordinated loan ($4,743 par due 2/2015)",0,12.00%,0,0,1/22/2010,4772.0,4505.0
+642,Woodstream Corporation,"The Thymes, LLC",0,0,"Senior subordinated loan ($50,257 par due 2/2015)",0,12.00%,0,0,1/22/2010,43287.0,47745.0
+643,Woodstream Corporation,"The Thymes, LLC",0,0,"Common stock (4,254 shares)",0,0,0,0,1/22/2010,1222.0,2194.0
+644,Campus Management Corp. and Campus Management Acquisition Corp.(6),"The Thymes, LLC",Education software developer,0,"Preferred stock (465,509 shares)",0,0,0,0,2/8/2008,9949.0,13834.0
+645,"Community Education Centers, Inc.","The Thymes, LLC",Offender re-entry and in-prison treatment services provider,0,"Senior secured loan ($20,000 par due 12/2014)",0,6.25% (Libor + 5.25%/M),0,0,12/10/2010,20000.0,20000.0
+646,"Community Education Centers, Inc.","The Thymes, LLC",0,0,"Junior secured loan ($9,231 par due 12/2015)",0,15.28% (Libor + 15.00%/M),0,0,12/10/2010,9231.0,9231.0
+647,"Community Education Centers, Inc.","The Thymes, LLC",0,0,"Junior secured loan ($30,769 par due 12/2015)",0,15.30% (Libor + 15.00%/M),0,0,12/10/2010,30769.0,30769.0
+648,"Community Education Centers, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 578,407 shares",0,0,0,0,12/13/2010,0.0,1009.0
+649,eInstruction Corporation,"The Thymes, LLC","Developer, manufacturer and retailer of educational products",0,"Senior subordinated loan ($23,270 par due 1/2015)",0,16.00% PIK,0,0,4/1/2010,21290.0,22106.0
+650,eInstruction Corporation,"The Thymes, LLC",0,0,"Junior secured loan ($17,000 par due 7/2014)",0,7.80% (Libor + 7.50%/Q),0,0,4/1/2010,14881.0,14960.0
+651,eInstruction Corporation,"The Thymes, LLC",0,0,"Common stock (2,406 shares)",0,0,0,0,4/1/2010,926.0,1326.0
+652,ELC Acquisition Corporation,"The Thymes, LLC","Developer, manufacturer and retailer of educational products",0,Senior secured loan ($160 par due 11/2012),0,3.51% (Libor + 3.25%/M),0,0,11/30/2006,160.0,160.0
+653,ELC Acquisition Corporation,"The Thymes, LLC",0,0,"Junior secured loan ($8,333 par due 11/2013)",0,7.26% (Libor + 7.00%/M),0,0,11/30/2006,8333.0,8333.0
+654,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",Private school operator,0,"Series B preferred stock (1,401,385 shares)",0,0,0,0,8/5/2010,4004.0,4244.0
+655,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",0,0,"Series B preferred stock (348,615 shares)",0,0,0,0,8/5/2010,996.0,1056.0
+656,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",0,0,"Series C preferred stock (1,994,644 shares)",0,0,0,0,6/7/2010,547.0,2586.0
+657,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",0,0,"Series C preferred stock (517,942 shares)",0,0,0,0,6/7/2010,142.0,672.0
+658,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",0,0,Common stock (16 shares),0,0,0,0,6/7/2010,0.0,0.0
+659,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.","The Thymes, LLC",0,0,Common stock (4 shares),0,0,0,0,6/7/2010,0.0,0.0
+660,"JTC Education Holdings, Inc.","The Thymes, LLC",Postsecondary school operator,0,"Senior secured loan ($19,997 par due 12/2014)",0,12.50% (Libor + 9.50%/M),0,0,12/31/2009,19997.0,19997.0
+661,"JTC Education Holdings, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($10,863 par due 12/2014)",0,12.50% (Libor + 9.50%/M),0,0,12/31/2009,10863.0,10863.0
+662,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",Medical school operator,0,"Senior secured loan ($6,275 par due 4/2013)",0,9.00% (Libor + 6.00%/Q),0,0,4/3/2007,6275.0,9652.0
+663,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,"Senior secured loan ($10,113 par due 4/2013)",0,9.00% (Libor + 6.00%/Q),0,0,9/21/2007,10113.0,15555.0
+664,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,"Senior secured loan ($4,000 par due 4/2013)",0,9.00% (Libor + 6.00%/Q),0,0,9/21/2007,4000.0,6153.0
+665,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,"Senior secured loan ($5,727 par due 4/2013)",0,13.00% PIK,0,0,12/8/2009,2335.0,8809.0
+666,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,Preferred stock (800 shares),0,0,0,0,7/30/2008,200.0,100.0
+667,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,"Preferred stock (8,000 shares)",0,0,0,0,7/30/2008,2000.0,1000.0
+668,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,Common membership interest (26.27% interest),0,0,0,0,9/21/2007,15800.0,20734.0
+669,"R3 Education, Inc. (formerly known as Equinox EIC Partners, LLC and MUA Management Company) and EIC Acquisitions Corp.(8)","The Thymes, LLC",0,0,"Warrants to purchase up to 27,890 shares",0,0,0,0,12/8/2009,0.0,0.0
+670,"Component Hardware Group, Inc.","The Thymes, LLC",Commercial equipment,0,"Senior secured loan ($3,014 par due 12/2014)",0,"7.00% Cash, 3.00% PIK",0,0,8/4/2010,3014.0,3014.0
+671,"Component Hardware Group, Inc.","The Thymes, LLC",0,0,"Senior subordinated loan ($10,078 par due 12/2014)",0,"7.50% Cash, 5.00% PIK",0,0,4/1/2010,5775.0,10078.0
+672,"Component Hardware Group, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 1,462,500 shares of common stock",0,0,0,0,8/4/2010,0.0,1240.0
+673,"Industrial Air Tool, LP and Affiliates d/b/a Industrial Air Tool(7)","The Thymes, LLC",Industrial products,0,"Class B common units (37,125 units)",0,0,0,0,4/1/2010,6000.0,14787.0
+674,"Industrial Air Tool, LP and Affiliates d/b/a Industrial Air Tool(7)","The Thymes, LLC",0,0,Member interest (375 units),0,0,0,0,4/1/2010,7419.0,149.0
+675,"NetShape Technologies, Inc.","The Thymes, LLC",Metal precision engineered components,0,Senior secured revolving loan ($972 par due 2/2013),0,4.06% (Libor + 3.75%/M),0,0,4/1/2010,521.0,602.0
+676,"NetShape Technologies, Inc.","The Thymes, LLC",0,0,"Common units (1,000 units)",0,0,0,0,1/30/2007,1000.0,0.0
+677,Reflexite Corporation(7),"The Thymes, LLC",High-visibility reflective products,0,"Senior subordinated loan ($3,282 par due 11/2014)",0,"20.00% (Base Rate + 12.25% Cash, 7.50% PIK/Q)",0,0,2/26/2008,3282.0,3282.0
+678,Reflexite Corporation(7),"The Thymes, LLC",0,0,"Senior subordinated loan ($5,999 par due 11/2014)",0,"20.00% (Base Rate + 12.25% Cash, 7.50% PIK/Q)",0,0,2/26/2008,5999.0,5999.0
+679,Reflexite Corporation(7),"The Thymes, LLC",0,0,"Common stock (1,821,860 shares)",0,0,0,0,3/28/2006,27435.0,30523.0
+680,"Sigma International Group, Inc.(8)","The Thymes, LLC",Water treatment parts manufacturer,0,"Junior secured loan ($1,833 par due 10/2013)",0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,1833.0,1283.0
+681,"Sigma International Group, Inc.(8)","The Thymes, LLC",0,0,Junior secured loan ($917 par due 10/2013),0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,917.0,642.0
+682,"Sigma International Group, Inc.(8)","The Thymes, LLC",0,0,"Junior secured loan ($2,778 par due 10/2013)",0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,2778.0,1944.0
+683,"Sigma International Group, Inc.(8)","The Thymes, LLC",0,0,"Junior secured loan ($4,000 par due 10/2013)",0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,4000.0,2800.0
+684,"Sigma International Group, Inc.(8)","The Thymes, LLC",0,0,"Junior secured loan ($2,000 par due 10/2013)",0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,2000.0,1400.0
+685,"Sigma International Group, Inc.(8)","The Thymes, LLC",0,0,"Junior secured loan ($6,060 par due 10/2013)",0,16.00% (Libor + 8.00%/Q),0,0,10/11/2007,6060.0,4242.0
+686,"STS Operating, Inc.","The Thymes, LLC",Hydraulic systems equipment and supplies,0,"Senior subordinated loan ($30,386 par due 1/2013)",0,11.00%,0,0,4/1/2010,29461.0,30386.0
+687,Bundy Refrigeration International Holding B.V. (aka Tyde Group Worldwide)(8),"The Thymes, LLC",Refrigeration and cooling systems parts,0,"Senior secured loan ($9,010 par due 4/2012)",0,13.13% (Base Rate + 9.88%/Q),0,0,12/15/2010,9010.0,9010.0
+688,Bundy Refrigeration International Holding B.V. (aka Tyde Group Worldwide)(8),"The Thymes, LLC",0,0,"Senior secured loan ($15,592 par due 4/2012)",0,15.38% (Base Rate + 12.13%/Q),0,0,12/15/2010,15592.0,15592.0
+689,Universal Trailer Corporation(6),"The Thymes, LLC",Livestock and specialty trailers,0,"Common stock (74,920 shares)",0,0,0,0,10/8/2004,7930.0,0.0
+690,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",Broadband communication services,0,"Senior secured loan ($5,530 par due 9/2013)",0,7.50% (Libor + 5.50%/Q),0,0,9/1/2010,5861.0,5530.0
+691,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,"Senior secured loan ($17,775 par due 9/2013)",0,7.50% (Libor + 5.50%/Q),0,0,9/1/2010,16924.0,17775.0
+692,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,"Senior secured loan ($9,283 par due 9/2013)",0,7.50% (Libor + 5.50%/Q),0,0,9/1/2010,9283.0,9283.0
+693,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,"Senior subordinated loan ($30,594 par due 11/2014)",0,"12.00% Cash, 4.00% PIK",0,0,9/1/2010,30594.0,30594.0
+694,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,"Senior subordinated loan ($32,768 par due 11/2014)",0,"12.00% Cash, 4.00% PIK",0,0,2/8/2008,32768.0,32768.0
+695,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,"Senior subordinated loan ($10,321 par due 11/2014)",0,"12.00% Cash, 4.00% PIK",0,0,11/7/2007,10321.0,10321.0
+696,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,Warrants to purchase up to 200 shares,0,0,0,0,11/7/2007,0.0,3915.0
+697,"American Broadband Communications, LLC and American Broadband Holding Company","The Thymes, LLC",0,0,Warrants to purchase up to 208 shares,0,0,0,0,9/1/2010,0.0,0.0
+698,"Startec Equity, LLC(7)","The Thymes, LLC",Communication services,0,Member interest,0,0,0,0,4/1/2010,0.0,0.0
+699,"Apple & Eve, LLC and US Juice Partners, LLC(6)","The Thymes, LLC",Juice manufacturer,0,"Senior secured revolving loan ($1,200 par due 10/1/2013)",0,12.00% (Base Rate + 8.00%/Q),0,0,10/5/2007,1200.0,1200.0
+700,"Apple & Eve, LLC and US Juice Partners, LLC(6)","The Thymes, LLC",0,0,"Senior secured loan ($14,162 par due 10/2013)",0,12.00% (Libor + 9.00%/M),0,0,10/5/2007,14162.0,14162.0
+701,"Apple & Eve, LLC and US Juice Partners, LLC(6)","The Thymes, LLC",0,0,"Senior secured loan ($14,900 par due 10/2013)",0,12.00% (Libor + 9.00%/M),0,0,10/5/2007,14900.0,14900.0
+702,"Apple & Eve, LLC and US Juice Partners, LLC(6)","The Thymes, LLC",0,0,"Senior units (50,000 units)",0,0,0,0,10/5/2007,5000.0,5036.0
+703,"Border Foods, Inc.(7)","The Thymes, LLC",Green chile and jalapeno products manufacturer,0,"Senior secured loan ($28,526 par due 3/2012)",0,13.50%,0,0,4/1/2010,28526.0,28526.0
+704,"Border Foods, Inc.(7)","The Thymes, LLC",0,0,"Preferred stock (100,000 shares)",0,0,0,0,4/1/2010,21346.0,22801.0
+705,"Border Foods, Inc.(7)","The Thymes, LLC",0,0,"Common stock (148,838 shares)",0,0,0,0,4/1/2010,13472.0,4809.0
+706,"Border Foods, Inc.(7)","The Thymes, LLC",0,0,"Common stock (87,707 shares)",0,0,0,0,4/1/2010,0.0,2834.0
+707,"Border Foods, Inc.(7)","The Thymes, LLC",0,0,"Common stock (23,922 shares)",0,0,0,0,4/1/2010,0.0,773.0
+708,"Charter Baking Company, Inc.","The Thymes, LLC",Baked goods manufacturer,0,"Senior subordinated loan ($6,673 par due 2/2013)",0,13.00% PIK,0,0,2/6/2008,6673.0,6673.0
+709,"Charter Baking Company, Inc.","The Thymes, LLC",0,0,"Preferred stock (6,258 shares)",0,0,0,0,9/1/2006,2500.0,1650.0
+710,Distant Lands Trading Co.,"The Thymes, LLC",Coffee manufacturer,0,"Common stock (1,294 shares)",0,0,0,0,4/1/2010,980.0,1048.0
+711,Distant Lands Trading Co.,"The Thymes, LLC",0,0,"Common stock (2,157 shares)",0,0,0,0,4/1/2010,0.0,0.0
+712,Ideal Snacks Corporation,"The Thymes, LLC",Snacks manufacturer,0,"Senior secured revolving loan ($1,084 par due 6/2011)",0,8.50% (Base Rate + 4.00%/M),0,0,4/1/2010,1084.0,922.0
+713,The Dwyer Group,"The Thymes, LLC",Operator of multiple franchise concepts primarily related to home maintenance or repairs,0,"Senior subordinated loan ($27,100 par due 12/2016)",0,14.50%,0,0,12/22/2010,27100.0,27100.0
+714,The Dwyer Group,"The Thymes, LLC",0,0,"Series A preferred units (15,000,000 units)",0,8.00% PIK,0,0,12/22/2010,15000.0,15000.0
+715,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",Photography services,0,Senior secured revolving loan ($182 par due 8/2011),0,"9.00% (Base Rate + 1.75% Cash, 4.00% PIK/M)",0,0,3/16/2007,178.0,80.0
+716,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,"Senior secured revolving loan ($2,252 par due 8/2011)",0,"9.00% (Base Rate + 1.75% Cash, 4.00% PIK/M)",0,0,3/16/2007,2207.0,991.0
+717,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($524 par due 3/2013),0,"9.00% (Base Rate + 1.75% Cash, 4.00% PIK/M)",0,0,3/16/2007,514.0,230.0
+718,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,"Senior secured loan ($6,498 par due 3/2013)",0,"9.00% (Base Rate + 1.75% Cash, 4.00% PIK/M)",0,0,3/16/2007,6378.0,2859.0
+719,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,"Preferred stock (8,750 shares)",0,0,0,0,3/16/2007,0.0,0.0
+720,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,"Common stock (552,430 shares)",0,0,0,0,3/16/2007,872.0,0.0
+721,"Growing Family, Inc. and GFH Holdings, LLC(6)","The Thymes, LLC",0,0,"Warrants to purchase up to 11,313,678 Class B units",0,0,0,0,3/16/2007,0.0,0.0
+722,"Web Services Company, LLC","The Thymes, LLC",Laundry service and equipment provider,0,"Senior secured loan ($4,888 par due 8/2014)",0,7.00% (Base Rate + 3.75%/Q),0,0,6/15/2009,4718.0,4888.0
+723,"Web Services Company, LLC","The Thymes, LLC",0,0,"Senior subordinated loan ($13,563 par due 8/2016)",0,"11.50% Cash, 2.50% PIK",0,0,8/29/2008,13563.0,13563.0
+724,"Web Services Company, LLC","The Thymes, LLC",0,0,"Senior subordinated loan ($26,462 par due 8/2016)",0,"11.50% Cash, 2.50% PIK",0,0,8/29/2008,26462.0,26462.0
+725,"Driven Brands, Inc.(6)","The Thymes, LLC",Automotive aftermarket car care franchisor,0,"Senior secured loan ($3,200 par due 10/2014)",0,6.50% (Libor + 5.00%/M),0,0,5/12/2010,3116.0,3200.0
+726,"Driven Brands, Inc.(6)","The Thymes, LLC",0,0,Senior secured loan ($520 par due 10/2014),0,6.50% (Libor + 5.00%/M),0,0,4/1/2010,506.0,0.0
+727,"Driven Brands, Inc.(6)","The Thymes, LLC",0,0,Senior secured loan ($213 par due 10/2014),0,7.00% (Base Rate + 3.75%/M),0,0,4/1/2010,207.0,213.0
+728,"Driven Brands, Inc.(6)","The Thymes, LLC",0,0,"Common stock (3,772,098 shares)",0,0,0,0,4/1/2010,4939.0,6308.0
+729,"Penn Detroit Diesel Allison, LLC(7)","The Thymes, LLC",Diesel engine manufacturer,0,"Member interest (70,249 shares)",0,0,0,0,4/1/2010,20069.0,22057.0
+730,"Stag-Parkway, Inc.(7)","The Thymes, LLC",Automotive aftermarket components supplier,0,"Senior secured loan ($34,500 par due 12/2014)",0,12.50% (Libor + 11.00%/Q),0,0,9/30/2010,34500.0,34500.0
+731,"Stag-Parkway, Inc.(7)","The Thymes, LLC",0,0,"Preferred stock (4,200 shares)",0,16.50%,0,0,9/30/2010,2328.0,4200.0
+732,"Stag-Parkway, Inc.(7)","The Thymes, LLC",0,0,"Common stock (10,200 shares)",0,0,0,0,9/30/2010,0.0,13987.0
+733,"10th Street, LLC(6)","The Thymes, LLC",Real estate holding company,0,"Senior subordinated loan ($23,247 par due 11/2014)",0,"8.93% Cash, 4.07% PIK",0,0,4/1/2010,23247.0,23247.0
+734,"10th Street, LLC(6)","The Thymes, LLC",0,0,Member interest (10.00% interest),0,0,0,0,4/1/2010,594.0,578.0
+735,"10th Street, LLC(6)","The Thymes, LLC",0,0,"Option (25,000 units)",0,0,0,0,4/1/2010,25.0,25.0
+736,"Allied Capital REIT, Inc.(7)","The Thymes, LLC",Real estate investment trust,0,Real estate equity interests,0,0,0,0,4/1/2010,50.0,35.0
+737,"Allied Capital REIT, Inc.(7)","The Thymes, LLC",0,0,Real estate equity interests,0,0,0,0,4/1/2010,115.0,699.0
+738,"American Commercial Coatings, Inc.","The Thymes, LLC",Real estate property,0,"Commercial mortgage loan ($2,000 par due 12/2025)",0,0,0,0,4/1/2010,1927.0,1875.0
+739,"Aquila Binks Forest Development, LLC","The Thymes, LLC",Real estate developer,0,"Commercial mortgage loan ($12,870 par due 6/2011)",0,0,0,0,4/1/2010,11293.0,4812.0
+740,"Aquila Binks Forest Development, LLC","The Thymes, LLC",0,0,Real estate equity interest,0,0,0,0,4/1/2010,0.0,0.0
+741,"Cleveland East Equity, LLC","The Thymes, LLC",Hotel operator,0,"Real estate equity interest (2,522,748 shares)",0,0,0,0,4/1/2010,1026.0,2051.0
+742,"Commons R-3, LLC","The Thymes, LLC",Real estate developer,0,Real estate equity interest,0,0,0,0,4/1/2010,0.0,0.0
+743,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",Hotel operator,0,Senior subordinated loan ($433 par due 6/2010),0,0,0,0,4/1/2010,433.0,444.0
+744,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($4,124 par due 1/2012)",0,0,0,0,4/1/2010,1475.0,0.0
+745,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($4,348 par due 6/2017)",0,0,0,0,4/1/2010,1482.0,1288.0
+746,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($2,722 par due 6/2017)",0,0,0,0,4/1/2010,928.0,1963.0
+747,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($5,974 par due 9/2012)",0,0,0,0,4/1/2010,2051.0,0.0
+748,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,Senior subordinated loan ($263 par due 3/2013),0,0,0,0,4/1/2010,263.0,0.0
+749,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($2,112 par due 9/2011)",0,0,0,0,4/1/2010,0.0,0.0
+750,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($3,078 par due 1/2012)",0,0,0,0,4/1/2010,0.0,0.0
+751,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($2,926 par due 6/2017)",0,0,0,0,4/1/2010,0.0,0.0
+752,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($2,050 par due 6/2017)",0,0,0,0,4/1/2010,0.0,0.0
+753,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,"Senior subordinated loan ($4,826 par due 9/2012)",0,0,0,0,4/1/2010,0.0,0.0
+754,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,Preferred equity interest,0,0,0,0,4/1/2010,0.0,0.0
+755,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,Preferred equity interest,0,0,0,0,4/1/2010,0.0,43.0
+756,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,Common equity interest,0,0,0,0,4/1/2010,35.0,0.0
+757,"Crescent Hotels & Resorts, LLC and affiliates(7)","The Thymes, LLC",0,0,Member interests,0,0,0,0,4/1/2010,0.0,0.0
+758,"DI Safford, LLC","The Thymes, LLC",Hotel operator,0,"Commercial mortgage loan ($5,311 par due 5/2032)",0,0,0,0,4/1/2010,2757.0,2750.0
+759,Holiday Inn West Chester,"The Thymes, LLC",Hotel property,0,Real estate owned,0,0,0,0,4/1/2010,3513.0,3330.0
+760,"Hot Light Brands, Inc.(7)","The Thymes, LLC",Real estate holding company,0,"Senior secured loan ($27,393 par due 2/2011)",0,0,0,0,4/1/2010,4875.0,4629.0
+761,"Hot Light Brands, Inc.(7)","The Thymes, LLC",0,0,"Common stock (93,500 shares)",0,0,0,0,4/1/2010,0.0,0.0
+762,"MGP Park Place Equity, LLC","The Thymes, LLC",Office building operator,0,"Commercial mortgage loan ($6,170 par due 5/2011)",0,0,0,0,4/1/2010,320.0,163.0
+763,"NPH, Inc.","The Thymes, LLC",Hotel property,0,Real estate equity interest,0,0,0,0,4/1/2010,5291.0,6907.0
+764,"Van Ness Hotel, Inc.","The Thymes, LLC",Hotel operator,0,"Commercial mortgage loan ($3,750 par due 8/2013)",0,0,0,0,4/1/2010,1027.0,0.0
+765,"Van Ness Hotel, Inc.","The Thymes, LLC",0,0,"Commercial mortgage loan ($13,702 par due 12/2011)",0,5.50%,0,0,4/1/2010,13702.0,11291.0
+766,"Van Ness Hotel, Inc.","The Thymes, LLC",0,0,Real estate equity interests,0,0,0,0,4/1/2010,0.0,0.0
+767,PODS Funding Corp.,"The Thymes, LLC",Storage and warehousing,0,"Senior subordinated loan ($25,125 par due 6/2015)",0,15.00%,0,0,12/23/2009,25125.0,25125.0
+768,PODS Funding Corp.,"The Thymes, LLC",0,0,"Senior subordinated loan ($7,582 par due 12/2015)",0,16.64% PIK,0,0,12/23/2009,6290.0,7430.0
+769,"United Road Towing, Inc.","The Thymes, LLC",Towing company,0,"Junior secured loan ($18,840 par due 1/2014)",0,"14.75% (Libor + 11.25% Cash, 1.00% PIK/Q)",0,0,4/1/2010,18606.0,18840.0
+770,"United Road Towing, Inc.","The Thymes, LLC",0,0,Warrants to purchase up to 607 shares,0,0,0,0,4/1/2010,0.0,4.0
+771,"Network Hardware Resale, Inc.","The Thymes, LLC",Networking equipment resale provider,0,"Senior subordinated loan ($12,343 par due 12/2011)",0,12.00% (Base Rate + 6.00%/A),0,0,4/1/2010,12343.0,12343.0
+772,"Network Hardware Resale, Inc.","The Thymes, LLC",0,0,"Convertible junior subordinated loan ($17,518 par due 12/2015)",0,9.75% PIK,0,0,4/1/2010,17680.0,21039.0
+773,"TZ Merger Sub, Inc.","The Thymes, LLC",Healthcare enterprise software developer,0,"Senior secured loan ($4,678 par due 8/2015)",0,6.75% (Base Rate + 3.50%/Q),0,0,6/15/2009,4597.0,4678.0
+774,Bushnell Inc.,"The Thymes, LLC",Sports optics manufacturer,0,"Senior subordinated loan ($41,325 par due 2/2014)",0,6.80% (Libor + 6.50%/Q),0,0,4/1/2010,30708.0,30994.0
+775,"Carlisle Wide Plank Floors, Inc.","The Thymes, LLC",Hardwood floor manufacturer,0,"Senior secured loan ($1,545 par due 6/2011)",0,0,0,0,4/1/2010,1449.0,773.0
+776,"Carlisle Wide Plank Floors, Inc.","The Thymes, LLC",0,0,"Common stock (345,056 shares)",0,0,0,0,4/1/2010,0.0,0.0
+777,"Emerald Performance Materials, LLC","The Thymes, LLC",Polymers and performance materials manufacturer,0,Senior secured loan ($375 par due 5/2011),0,8.25% (Libor + 4.25%/M),0,0,5/22/2006,375.0,375.0
+778,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($5,801 par due 5/2011)",0,8.25% (Libor + 4.25%/M),0,0,5/22/2006,5801.0,5801.0
+779,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,Senior secured loan ($536 par due 5/2011),0,8.25% (Libor + 4.25%/M),0,0,5/22/2006,536.0,536.0
+780,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($8,296 par due 5/2011)",0,8.25% (Libor + 4.25%/M),0,0,5/22/2006,8296.0,8296.0
+781,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($3,806 par due 5/2011)",0,10.00% (Libor + 6.00%/M),0,0,5/22/2006,3806.0,3806.0
+782,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($1,579 par due 5/2011)",0,10.00% (Libor + 6.00%/M),0,0,5/22/2006,1579.0,1579.0
+783,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($3,558 par due 5/2011)",0,"13.00% Cash, 3.00% PIK",0,0,5/22/2006,3558.0,3558.0
+784,"Emerald Performance Materials, LLC","The Thymes, LLC",0,0,"Senior secured loan ($5,089 par due 5/2011)",0,"13.00% Cash, 3.00% PIK",0,0,5/22/2006,5089.0,5089.0
+785,"Geotrace Technologies, Inc.","The Thymes, LLC","Reservoir processing, development",0,"Warrants to purchase up to 43,356 shares of common stock",0,0,0,0,4/1/2010,54.0,0.0
+786,"Geotrace Technologies, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 26,622 shares of common stock",0,0,0,0,4/1/2010,33.0,0.0
+787,"Geotrace Technologies, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 80,063 shares of preferred stock",0,0,0,0,4/1/2010,1738.0,207.0
+788,"Geotrace Technologies, Inc.","The Thymes, LLC",0,0,"Warrants to purchase up to 130,390 shares of preferred stock",0,0,0,0,4/1/2010,1067.0,337.0
+789,"UL Holding Co., LLC","The Thymes, LLC",Petroleum products,0,"Senior secured loan ($5,000 par due 12/2012)",0,15.00%,0,0,8/13/2010,5000.0,5000.0
+790,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Junior secured loan ($2,108 par due 12/2012)",0,9.66% (Libor + 9.38%/Q),0,0,12/21/2007,2108.0,2108.0
+791,"UL Holding Co., LLC","The Thymes, LLC",0,0,Junior secured loan ($839 par due 12/2012),0,9.66% (Libor + 9.38%/Q),0,0,12/21/2007,839.0,839.0
+792,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Junior secured loan ($2,119 par due 12/2012)",0,14.50%,0,0,12/21/2007,2119.0,2119.0
+793,"UL Holding Co., LLC","The Thymes, LLC",0,0,Junior secured loan ($844 par due 12/2012),0,14.50%,0,0,12/21/2007,844.0,844.0
+794,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Junior secured loan ($10,809 par due 12/2012)",0,9.66% (Libor + 9.38%/Q),0,0,12/21/2007,10809.0,10809.0
+795,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Junior secured loan ($2,963 par due 12/2012)",0,14.50%,0,0,12/21/2007,2963.0,2963.0
+796,"UL Holding Co., LLC","The Thymes, LLC",0,0,Junior secured loan ($988 par due 12/2012),0,14.50%,0,0,12/21/2007,988.0,988.0
+797,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Common units (50,000 units)",0,0,0,0,4/25/2008,500.0,97.0
+798,"UL Holding Co., LLC","The Thymes, LLC",0,0,"Common units (207,843 units)",0,0,0,0,4/25/2008,0.0,403.0
+799,"AWTP, LLC","The Thymes, LLC",Water treatment services,0,"Junior secured loan ($4,755 par due 12/2012)",0,0,0,0,12/21/2005,4755.0,1517.0
+800,"AWTP, LLC","The Thymes, LLC",0,0,"Junior secured loan ($2,086 par due 12/2012)",0,0,0,0,12/21/2005,2086.0,666.0
+801,"AWTP, LLC","The Thymes, LLC",0,0,"Junior secured loan ($4,755 par due 12/2012)",0,0,0,0,12/21/2005,4755.0,1517.0
+802,"AWTP, LLC","The Thymes, LLC",0,0,"Junior secured loan ($2,086 par due 12/2012)",0,0,0,0,12/21/2005,2086.0,666.0
+803,"Mactec, Inc.","The Thymes, LLC",Engineering and environmental services,0,Class B-4 stock (16 shares),0,0,0,0,11/3/2004,0.0,0.0
+804,"Mactec, Inc.","The Thymes, LLC",0,0,"Class C stock (5,556 shares)",0,0,0,0,11/3/2004,0.0,162.0
+805,"Universal Environmental Services, LLC","The Thymes, LLC",Hydrocarbon recycling and related waste management services and products,0,Preferred member interest (15.00% interest),0,0,0,0,4/1/2010,0.0,0.0
+806,"Universal Environmental Services, LLC","The Thymes, LLC",0,0,"Preferred member interest (850,242 shares)",0,0,0,0,4/1/2010,0.0,0.0
+807,"Universal Environmental Services, LLC","The Thymes, LLC",0,0,"Preferred member interest (7,099 shares)",0,0,0,0,4/1/2010,0.0,0.0
+808,"Universal Environmental Services, LLC","The Thymes, LLC",0,0,"Preferred member interest (763,889 shares)",0,0,0,0,4/1/2010,0.0,0.0
+809,"Waste Pro USA, Inc","The Thymes, LLC",Waste management services,0,"Preferred Class A Common Equity (611,615 shares)",0,0,0,0,11/9/2006,12263.0,16861.0
+810,"Wastequip, Inc.(6)","The Thymes, LLC",Waste management equipment manufacturer,0,"Senior subordinated loan ($12,669 par due 2/2015)",0,0,0,0,2/5/2007,12581.0,760.0
+811,"Wastequip, Inc.(6)","The Thymes, LLC",0,0,"Common stock (13,889 shares)",0,0,0,0,2/2/2007,1389.0,0.0
+812,"Industrial Container Services, LLC(6)","The Thymes, LLC","Industrial container manufacturer, reconditioner and servicer",0,"Senior secured loan ($1,033 par due 9/2011)",0,5.75% (Base Rate + 2.50%/Q),0,0,9/30/2005,1033.0,1033.0
+813,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($20 par due 9/2011),0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,20.0,20.0
+814,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($101 par due 9/2011),0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,101.0,101.0
+815,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($308 par due 9/2011),0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,308.0,308.0
+816,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,"Senior secured loan ($1,539 par due 9/2011)",0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,1539.0,1539.0
+817,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($107 par due 9/2011),0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,107.0,107.0
+818,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,"Senior secured loan ($1,642 par due 9/2011)",0,4.26% (Libor + 4.00%/Q),0,0,6/21/2006,1642.0,1642.0
+819,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($27 par due 9/2011),0,5.75% (Base Rate + 2.50%/Q),0,0,6/21/2006,27.0,27.0
+820,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,Senior secured loan ($410 par due 9/2011),0,5.75% (Base Rate + 2.50%/Q),0,0,6/21/2006,410.0,410.0
+821,"Industrial Container Services, LLC(6)","The Thymes, LLC",0,0,"Common units (1,800,000 units)",0,0,0,0,9/29/2005,1800.0,15203.0
+822,"Athletic Club Holdings, Inc.","The Thymes, LLC",Premier health club operator,0,"Senior secured loan ($7,250 par due 10/2013)",0,4.76% (Libor + 4.50%/M),0,0,10/11/2007,7250.0,6453.0
+823,"Athletic Club Holdings, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($11,500 par due 10/2013)",0,4.76% (Libor + 4.50%/M),0,0,10/11/2007,11500.0,10235.0
+824,"EarthColor, Inc.(7)","The Thymes, LLC",Printing management services,0,"Common stock (89,435 shares)",0,0,0,0,4/1/2010,0.0,0.0
+825,LVCG Holdings LLC(7),"The Thymes, LLC",Commercial printer,0,Membership interests (56.53% interest),0,0,0,0,10/12/2007,6600.0,0.0
+826,"National Print Group, Inc.","The Thymes, LLC",Printing management services,0,"Senior secured revolving loan ($1,141 par due 10/2012)",0,9.00% (Libor + 6.00%/Q),0,0,3/2/2006,1141.0,965.0
+827,"National Print Group, Inc.","The Thymes, LLC",0,0,"Senior secured revolving loan ($1,250 par due 10/2012)",0,9.00% (Base Rate + 5.00%/Q),0,0,3/2/2006,1250.0,1057.0
+828,"National Print Group, Inc.","The Thymes, LLC",0,0,"Senior secured loan ($7,685 par due 10/2012)",0,"14.00% (Libor + 6.00% Cash, 5.00% PIK/Q)",0,0,3/2/2006,7359.0,7091.0
+829,"National Print Group, Inc.","The Thymes, LLC",0,0,Senior secured loan ($187 par due 10/2012),0,"14.00% (Base Rate + 5.00% Cash, 5.00% PIK/Q)",0,0,3/2/2006,179.0,173.0
+830,"National Print Group, Inc.","The Thymes, LLC",0,0,"Preferred stock (9,344 shares)",0,0,0,0,3/2/2006,2000.0,0.0
+831,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.","The Thymes, LLC",Education publications provider,0,"Preferred stock (29,969 shares)",0,0,0,0,9/29/2006,2997.0,3851.0
+832,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.","The Thymes, LLC",0,0,"Common stock (15,393 shares)",0,0,0,0,9/29/2006,3.0,4.0
+833,"AP Global Holdings, Inc.","The Thymes, LLC",Safety and security equipment manufacturer,0,"Senior secured loan ($6,274 par due 10/2013)",0,4.02% (Libor + 3.75%/M),0,0,11/18/2007,6243.0,6274.0
+834,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","The Thymes, LLC","Provider of specialized engineering, scientific and technical services",0,Senior preferred stock (775 shares),0,8.00%,0,0,1/17/2008,87.0,87.0
+835,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","The Thymes, LLC",0,0,"Common stock (1,885,195 shares)",0,0,0,0,1/17/2008,2291.0,1968.0
+836,"BECO Holding Company, Inc.","The Thymes, LLC",Wholesale distributor of first response fire protection equipment and related parts,0,"Common stock (25,000 shares)",0,0,0,0,7/30/2010,2500.0,2500.0
+837,HB&G Building Products,"The Thymes, LLC",Synthetic and wood product manufacturer,0,"Senior subordinated loan ($8,956 par due 3/2013)",0,0,0,0,10/8/2004,8991.0,179.0
+838,HB&G Building Products,"The Thymes, LLC",0,0,"Common stock (2,743 shares)",0,0,0,0,10/8/2004,753.0,0.0
+839,HB&G Building Products,"The Thymes, LLC",0,0,"Warrants to purchase up to 4,464 shares of common stock",0,0,0,0,10/8/2004,653.0,0.0
+840,Company,"The Thymes, LLC",Purchases,0,Redemptions  (cost),0,Sales  (cost),0,Interest  income,0,0.0,0.0
+841,"10th Street, LLC","The Thymes, LLC",0,23171,0,0,0,0,0,0,2465.0,0.0
+842,Air Medical Group,"The Thymes, LLC",0,30065,0,0,11955,0,0,18205,106.0,0.0
+843,"Apple & Eve, LLC and US Juice Partners, LLC","The Thymes, LLC",0,3500,0,0,5022,0,0,2816,3753.0,0.0
+844,"BB&T Capital Partners/Windsor Mezzanine Fund, LLC","The Thymes, LLC",0,13943,0,0,2043,0,0,0,0.0,0.0
+845,Carador PLC,"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+846,Campus Management Corp. and Campus Management Acquisition Corp.,"The Thymes, LLC",0,0,0,0,43462,0,0,0,4829.0,0.0
+847,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,297.0,0.0
+848,Company,"The Thymes, LLC",Purchases,0,Redemptions  (cost),0,Sales  (cost),0,Interest  income,0,0.0,0.0
+849,"Direct Buy Holdings, Inc. and Direct Buy Investors, LP","The Thymes, LLC",0,78350,0,0,219,0,0,0,10767.0,0.0
+850,"Driven Brands, Inc.","The Thymes, LLC",0,103157,0,0,41,0,0,96643,3032.0,0.0
+851,"DSI Renal, Inc.","The Thymes, LLC",0,1505,0,0,5346,0,0,7991,13449.0,0.0
+852,The Dwyer Group,"The Thymes, LLC",0,42100,0,0,0,0,0,0,97.0,813.0
+853,Firstlight Financial Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,0,545.0,0.0
+854,"Growing Family, Inc. and GFH Holdings, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,1097.0,0.0
+855,"Imperial Capital Group, LLC","The Thymes, LLC",0,0,0,0,0,0,0,151,0.0,0.0
+856,"Industrial Container Services, LLC","The Thymes, LLC",0,1446,0,0,10692,0,0,0,391.0,0.0
+857,Insight Pharmaceuticals Corporation,"The Thymes, LLC",0,66790,0,0,0,0,0,0,6325.0,0.0
+858,"Investor Group Services, LLC","The Thymes, LLC",0,100,0,0,100,0,0,0,203.0,0.0
+859,"Multi-Ad Services, Inc.","The Thymes, LLC",0,2666,0,0,1886,0,0,0,149.0,0.0
+860,Pillar Processing LLC and PHL Holding Co.,"The Thymes, LLC",0,0,0,0,4597,0,0,0,2564.0,0.0
+861,"Primis Marketing Group, Inc. and Primis Holdings, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+862,"Regency Healthcare Group, LLC","The Thymes, LLC",0,2007,0,0,0,0,0,0,0.0,0.0
+863,"Service Champ, Inc.","The Thymes, LLC",0,28463,0,0,26585,0,0,28463,969.0,0.0
+864,"Soteria Imaging Services, LLC","The Thymes, LLC",0,4080,0,0,0,0,0,142,348.0,0.0
+865,"VSS-Tranzact Holdings, LLC","The Thymes, LLC",0,204,0,0,0,0,0,0,0.0,0.0
+866,Universal Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+867,Universal Trailer Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+868,"Wastequip, Inc.","The Thymes, LLC",0,0,0,0,0,0,0,449,0.0,0.0
+869,Company,"The Thymes, LLC",Purchases,0,Redemptions  (cost),0,Sales  (cost),0,Interest  income,0,0.0,0.0
+870,"AGILE Fund I, LLC","The Thymes, LLC",0,264,0,0,0,0,0,0,0.0,0.0
+871,"Allied Capital REIT, Inc.","The Thymes, LLC",0,765,0,0,600,0,0,0,0.0,0.0
+872,"AllBridge Financial, LLC","The Thymes, LLC",0,11370,0,0,0,0,0,0,0.0,0.0
+873,"Avborne, Inc.","The Thymes, LLC",0,39,0,0,0,0,0,39,0.0,0.0
+874,Aviation Properties Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+875,"BenefitMall Holdings, Inc.","The Thymes, LLC",0,93837,0,0,0,0,0,0,5525.0,0.0
+876,"Border Foods, Inc.","The Thymes, LLC",0,68944,0,0,5600,0,0,0,3107.0,0.0
+877,Callidus Capital Corporation,"The Thymes, LLC",0,20120,0,0,16000,0,0,4120,0.0,0.0
+878,Ciena Capital LLC,"The Thymes, LLC",0,98012,0,0,0,0,0,0,429.0,0.0
+879,"Citipostal, Inc.","The Thymes, LLC",0,63961,0,0,1020,0,0,0,7308.0,0.0
+880,"Coverall North America, Inc.","The Thymes, LLC",0,40189,0,0,0,0,0,0,3541.0,0.0
+881,"Crescent Hotels & Resorts, LLC and affiliates","The Thymes, LLC",0,6653,0,0,0,0,0,0,532.0,0.0
+882,Direct Capital Corporation,"The Thymes, LLC",0,10109,0,0,0,0,0,0,0.0,0.0
+883,"EarthColor, Inc.","The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+884,Financial Pacific Company,"The Thymes, LLC",0,32800,0,0,0,0,0,32899,3191.0,0.0
+885,"HCI Equity, LLC","The Thymes, LLC",0,808,0,0,0,0,0,0,0.0,0.0
+886,"HCP Acquisition Holdings, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+887,"Hot Light Brands, Inc.","The Thymes, LLC",0,6746,0,0,1896,0,0,0,2.0,0.0
+888,"Hot Stuff Foods, LLC","The Thymes, LLC",0,69167,0,0,10230,0,0,0,3201.0,0.0
+889,Huddle House Inc.,"The Thymes, LLC",0,19607,0,0,0,0,0,0,2265.0,0.0
+890,"Industrial Air Tool, LP and affiliates","The Thymes, LLC",0,13419,0,0,0,0,0,0,0.0,0.0
+891,"Ivy Hill Asset Management, L.P.","The Thymes, LLC",0,71116,0,0,4834,0,0,0,0.0,0.0
+892,"Ivy Hill Middle Market Credit Fund, Ltd.","The Thymes, LLC",0,0,0,0,0,0,0,330,6859.0,0.0
+893,Knightsbridge CLO 2007-1 Ltd.,"The Thymes, LLC",0,14852,0,0,0,0,0,0,1823.0,0.0
+894,Knightsbridge CLO 2008-1 Ltd.,"The Thymes, LLC",0,36996,0,0,0,0,0,0,2189.0,0.0
+895,"LVCG Holdings, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+896,"Making Memories Wholesale, Inc.","The Thymes, LLC",0,1250,0,0,1007,0,0,0,1062.0,0.0
+897,"MVL Group, Inc.","The Thymes, LLC",0,60707,0,0,4837,0,0,0,6686.0,0.0
+898,Penn Detroit Diesel Allison LLC,"The Thymes, LLC",0,20069,0,0,0,0,0,0,0.0,0.0
+899,Reflexite Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,8450,3568.0,0.0
+900,Senior Secured Loan Fund LLC*,"The Thymes, LLC",0,391571,0,0,15410,0,0,0,50013.0,29946.0
+901,"Stag-Parkway, Inc.","The Thymes, LLC",0,36810,0,0,0,0,0,0,2131.0,0.0
+902,"Startec Equity, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+903,"The Thymes, LLC","The Thymes, LLC",0,0,0,0,0,0,0,0,421.0,0.0
+904,"Balance at December 31, 2008","The Thymes, LLC",0,97153,0,0,97,0,0,1395958,0.0,0.0
+905,Issuance of common stock from August add-on offering (net of offering and underwriting costs),"The Thymes, LLC",0,12440,0,0,13,0,0,109073,0.0,0.0
+906,Shares issued in connection with dividend reinvestment plan,"The Thymes, LLC",0,352,0,0,0,0,0,4025,0.0,0.0
+907,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,0,0,0,0,0,0,0,133406.0,0.0
+908,Dividend declared ($1.47 per share),"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+909,Tax reclassification of stockholders' equity in accordance with generally accepted accounting principles,"The Thymes, LLC",0,0,0,0,0,0,0,"(18,598",5584.0,13014.0
+910,"Balance at December 31, 2009","The Thymes, LLC",0,109945,0,0,110,0,0,1490458,3143.0,0.0
+911,Issuance of common stock in add-on offerings (net of offering and underwriting costs),"The Thymes, LLC",0,34458,0,0,34,0,0,457815,0.0,0.0
+912,Shares issued in connection with dividend reinvestment plan,"The Thymes, LLC",0,1523,0,0,2,0,0,22529,0.0,0.0
+913,Issuance of common stock in the acquisition of Allied Capital Corporation,"The Thymes, LLC",0,58493,0,0,58,0,0,872669,0.0,0.0
+914,Gain on the acquisition of Allied Capital Corporation,"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,195876.0
+915,Net increase in stockholders' equity resulting from operations (excluding gain on the acquisition of Allied Capital Corporation),"The Thymes, LLC",0,0,0,0,0,0,0,0,215816.0,49399.0
+916,Dividend declared ($1.40 per share),"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+917,Tax reclassification of stockholders' equity in accordance with generally accepted accounting principles,"The Thymes, LLC",0,0,0,0,0,0,0,361855,22001.0,0.0
+918,"Balance at December 31, 2010","The Thymes, LLC",0,204419,0,0,204,0,0,3205326,0.0,0.0
+919,Issuance of common stock in add-on offerings (net of offering and underwriting costs),"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+920,Shares issued in connection with dividend reinvestment plan,"The Thymes, LLC",0,711,0,0,1,0,0,11552,0.0,0.0
+921,Issuance of the Convertible Notes (See Note 5),"The Thymes, LLC",0,0,0,0,0,0,0,54716,0.0,0.0
+922,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,0,0,0,0,0,0,0,282403.0,77242.0
+923,Dividend declared ($1.41 per share),"The Thymes, LLC",0,0,0,0,0,0,0,0,0.0,0.0
+924,Tax reclassification of stockholders' equity in accordance with generally accepted accounting principles,"The Thymes, LLC",0,0,0,0,0,0,0,118760,7474.0,0.0
+925,"Balance at December 31, 2011","The Thymes, LLC",0,205130,0,0,205,0,0,3390354,0.0,0.0
+926,"Balance at December 31, 2011","The Thymes, LLC",2011,0,2010,0,2009,0,0,0,0.0,0.0
+927,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,319453,0,0,691834,0,0,202693,0.0,0.0
+928,Gain on the acquisition of Allied Capital Corporation,"The Thymes, LLC",0,0,0,0,"(195,876",0,0,0,0.0,0.0
+929,Realized loss (gain) from extinguishment of debt,"The Thymes, LLC",0,19318,0,0,1961,0,0,"(26,543",0.0,0.0
+930,Realized gain on sale of intangible asset,"The Thymes, LLC",0,0,0,0,"(5,882",0,0,0,0.0,0.0
+931,Net realized (gains) losses from investment and foreign currency transactions,"The Thymes, LLC",0,"(96,560",0,0,"(45,478",0,0,45963,0.0,0.0
+932,Net unrealized (gains) losses from investment and foreign currency transactions,"The Thymes, LLC",0,40192,0,0,"(230,743",0,0,"(88,707",0.0,0.0
+933,Net accretion of discount on securities,"The Thymes, LLC",0,"(15,894",0,0,"(12,594",0,0,"(2,554",0.0,0.0
+934,Increase in accrued payment-in-kind interest and dividends,"The Thymes, LLC",0,"(28,043",0,0,"(45,002",0,0,"(40,761",0.0,0.0
+935,Collections of payment-in-kind interest and dividends,"The Thymes, LLC",0,55814,0,0,32668,0,0,6371,0.0,0.0
+936,Amortization of debt issuance costs,"The Thymes, LLC",0,13145,0,0,8824,0,0,4198,0.0,0.0
+937,Accretion of discount on the Allied Unsecured Notes,"The Thymes, LLC",0,2624,0,0,8201,0,0,0,0.0,0.0
+938,Accretion of discount on Convertible Notes,"The Thymes, LLC",0,8433,0,0,0,0,0,0,0.0,0.0
+939,Depreciation,"The Thymes, LLC",0,876,0,0,923,0,0,672,0.0,0.0
+940,Proceeds from sales and repayments of investments,"The Thymes, LLC",0,2516090,0,0,1562356,0,0,455437,0.0,0.0
+941,Purchases of investments,"The Thymes, LLC",0,"(3,263,626",0,0,"(1,559,819",0,0,"(575,046",0.0,0.0
+942,"Acquisition of Allied Capital Corporation, net of cash acquired","The Thymes, LLC",0,0,0,0,"(774,190",0,0,0,0.0,0.0
+943,Interest receivable,"The Thymes, LLC",0,"(28,557",0,0,"(4,076",0,0,"(8,165",0.0,0.0
+944,Other assets,"The Thymes, LLC",0,2440,0,0,12547,0,0,(709,0.0,0.0
+945,Management and incentive fees payable,"The Thymes, LLC",0,40099,0,0,"(14,098",0,0,33506,0.0,0.0
+946,Accounts payable and accrued expenses,"The Thymes, LLC",0,12662,0,0,"(93,484",0,0,7126,0.0,0.0
+947,Interest and facility fees payable,"The Thymes, LLC",0,4620,0,0,5437,0,0,"(1,224",0.0,0.0
+948,Net cash provided by (used in) operating activities,"The Thymes, LLC",0,"(396,914",0,0,"(656,491",0,0,12257,0.0,0.0
+949,Net proceeds from issuance of common stock,"The Thymes, LLC",0,0,0,0,1330577,0,0,109086,0.0,0.0
+950,Borrowings on debt,"The Thymes, LLC",0,2458067,0,0,1737264,0,0,477403,0.0,0.0
+951,Repayments and repurchases of debt,"The Thymes, LLC",0,"(1,738,632",0,0,"(2,154,884",0,0,"(392,136",0.0,0.0
+952,Debt issuance costs,"The Thymes, LLC",0,"(25,341",0,0,"(25,176",0,0,"(7,192",0.0,0.0
+953,Dividends paid in cash,"The Thymes, LLC",0,"(277,150",0,0,"(229,765",0,0,"(189,574",0.0,0.0
+954,Net cash provided by (used in) financing activities,"The Thymes, LLC",0,416944,0,0,658016,0,0,"(2,413",0.0,0.0
+955,CHANGE IN CASH AND CASH EQUIVALENTS,"The Thymes, LLC",0,20030,0,0,1525,0,0,9844,0.0,0.0
+956,"CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD","The Thymes, LLC",0,100752,0,0,99227,0,0,89383,0.0,0.0
+957,"CASH AND CASH EQUIVALENTS, END OF PERIOD","The Thymes, LLC",0,120782,0,0,100752,0,0,99227,0.0,0.0
+958,Interest paid during the period,"The Thymes, LLC",0,87421,0,0,53117,0,0,19963,0.0,0.0
+959,Taxes paid during the period,"The Thymes, LLC",0,9112,0,0,1323,0,0,818,0.0,0.0
+960,Dividends declared during the period,"The Thymes, LLC",0,288852,0,0,252296,0,0,152795,0.0,0.0
+961,Dividends declared during the period,"The Thymes, LLC",Amortized Cost(1),0,Fair Value,0,Amortized Cost(1),0,Fair Value,0,0.0,0.0
+962,Senior term debt,"The Thymes, LLC",0,2691018.0,0,0,2671114,0,0,1722130.0,1695532.0,0.0
+963,Subordinated Certificates of the SSLP(2),"The Thymes, LLC",0,1034254.0,0,0,1059178,0,0,537439.0,561674.0,0.0
+964,Senior subordinated debt,"The Thymes, LLC",0,592618.0,0,0,515014,0,0,1055440.0,1014514.0,0.0
+965,Collateralized loan obligations,"The Thymes, LLC",0,55515.0,0,0,54000,0,0,219324.0,261156.0,0.0
+966,Preferred equity securities,"The Thymes, LLC",0,251192.0,0,0,251064,0,0,137424.0,143546.0,0.0
+967,Other equity securities,"The Thymes, LLC",0,463861.0,0,0,527002,0,0,579177.0,607656.0,0.0
+968,Commercial real estate,"The Thymes, LLC",0,20205.0,0,0,17134,0,0,41021.0,33912.0,0.0
+969,Total,"The Thymes, LLC",0,5108663.0,0,0,5094506,0,0,4291955.0,4317990.0,0.0
+970,Investment Funds and Vehicles(1),"The Thymes, LLC",0,23.6,%,0,21.4,%,0,0,0.0,0.0
+971,Healthcare Services,"The Thymes, LLC",0,13.4,0,0,17.6,0,0,0,0.0,0.0
+972,Education,"The Thymes, LLC",0,11.2,0,0,5.2,0,0,0,0.0,0.0
+973,Restaurant and Food Services,"The Thymes, LLC",0,6.8,0,0,7.8,0,0,0,0.0,0.0
+974,Business Services,"The Thymes, LLC",0,6.6,0,0,9.3,0,0,0,0.0,0.0
+975,Financial Services,"The Thymes, LLC",0,6.4,0,0,8.0,0,0,0,0.0,0.0
+976,Consumer Products,"The Thymes, LLC",0,5.4,0,0,6.2,0,0,0,0.0,0.0
+977,Containers and Packaging,"The Thymes, LLC",0,4.5,0,0,0.5,0,0,0,0.0,0.0
+978,Aerospace and Defense,"The Thymes, LLC",0,3.6,0,0,0.2,0,0,0,0.0,0.0
+979,Manufacturing,"The Thymes, LLC",0,2.8,0,0,3.2,0,0,0,0.0,0.0
+980,Other Services,"The Thymes, LLC",0,2.5,0,0,2.1,0,0,0,0.0,0.0
+981,Telecommunications,"The Thymes, LLC",0,2.0,0,0,2.6,0,0,0,0.0,0.0
+982,Grocery,"The Thymes, LLC",0,1.9,0,0,0.0,0,0,0,0.0,0.0
+983,Retail,"The Thymes, LLC",0,1.8,0,0,5.5,0,0,0,0.0,0.0
+984,Energy,"The Thymes, LLC",0,1.3,0,0,0.0,0,0,0,0.0,0.0
+985,Other,"The Thymes, LLC",0,6.2,0,0,10.4,0,0,0,0.0,0.0
+986,Total,"The Thymes, LLC",0,100.0,%,0,100.0,%,0,0,0.0,0.0
+987,West,"The Thymes, LLC",0,48.4,%,0,34.5,%,0,0,0.0,0.0
+988,Southeast,"The Thymes, LLC",0,21.2,0,0,16.5,0,0,0,0.0,0.0
+989,Midwest,"The Thymes, LLC",0,14.5,0,0,20.2,0,0,0,0.0,0.0
+990,Mid-Atlantic,"The Thymes, LLC",0,12.8,0,0,24.4,0,0,0,0.0,0.0
+991,Northeast,"The Thymes, LLC",0,1.7,0,0,1.4,0,0,0,0.0,0.0
+992,International,"The Thymes, LLC",0,1.4,0,0,3.0,0,0,0,0.0,0.0
+993,Total,"The Thymes, LLC",0,100.0,%,0,100.0,%,0,0,0.0,0.0
+994,(in millions),"The Thymes, LLC",Total  Aggregate  Principal  Amount  Available/  Outstanding(1),0,Principal  Amount,0,Carrying  Value,0,Total  Aggregate  Principal  Amount  Available/  Outstanding(1),0,0.0,0.0
+995,Revolving Funding Facility,"The Thymes, LLC",0,500000,0,0,463000,0,0,463000,400000.0,242050.0
+996,Revolving Credit Facility,"The Thymes, LLC",0,810000,(2),0,395000,0,0,395000,810000.0,0.0
+997,Debt Securitization,"The Thymes, LLC",0,77531,0,0,77531,0,0,77531,183190.0,155297.0
+998,2011 Notes,"The Thymes, LLC",0,0,0,0,0,0,0,0,300584.0,300584.0
+999,2012 Notes,"The Thymes, LLC",0,0,0,0,0,0,0,0,161210.0,161210.0
+1000,February 2016 Convertible Notes,"The Thymes, LLC",0,575000,0,0,575000,0,0,541152,0.0,0.0
+1001,June 2016 Convertible  Notes,"The Thymes, LLC",0,230000,0,0,230000,0,0,215931,0.0,0.0
+1002,2040 Notes,"The Thymes, LLC",0,200000,0,0,200000,0,0,200000,200000.0,200000.0
+1003,2047 Notes,"The Thymes, LLC",0,230000,0,0,230000,0,0,180988,0.0,230000.0
+1004,Total,"The Thymes, LLC",0,2622531,0,0,2170531,0,0,2073602,2284984.0,1435141.0
+1005,Total,"The Thymes, LLC",2011,0,2010,0,2009.0,0,0,0,0.0,0.0
+1006,Stated interest expense,"The Thymes, LLC",0,7380.0,0,0,7458.0,0,0,6751.0,0.0,0.0
+1007,Facility fees(1),"The Thymes, LLC",0,2226.0,0,0,1453.0,0,0,899.0,0.0,0.0
+1008,Amortization of debt issuance costs,"The Thymes, LLC",0,2225.0,0,0,1787.0,0,0,2716.0,0.0,0.0
+1009,Total interest and credit facility fees expense,"The Thymes, LLC",0,11831.0,0,0,10698.0,0,0,10366.0,0.0,0.0
+1010,Cash paid for interest expense,"The Thymes, LLC",0,6281.0,0,0,7224.0,0,0,6501.0,0.0,0.0
+1011,Average stated interest rate,"The Thymes, LLC",0,3.0,%,0,3.0,%,0,3.8,0.0,0.0
+1012,Average outstanding balance,"The Thymes, LLC",0,243639.0,0,0,247490.0,0,0,179443.0,0.0,0.0
+1013,Average outstanding balance,"The Thymes, LLC",2011,0,2010,0,2009.0,0,0,0,0.0,0.0
+1014,Stated interest expense(1),"The Thymes, LLC",0,5541.0,0,0,10370.0,0,0,8855.0,0.0,0.0
+1015,Facility fees,"The Thymes, LLC",0,3864.0,0,0,3158.0,0,0,396.0,0.0,0.0
+1016,Amortization of debt issuance costs,"The Thymes, LLC",0,6510.0,0,0,6635.0,0,0,723.0,0.0,0.0
+1017,Total interest and credit facility fees expense,"The Thymes, LLC",0,15915.0,0,0,20163.0,0,0,9974.0,0.0,0.0
+1018,Cash paid for interest expense(1),"The Thymes, LLC",0,5278.0,0,0,10301.0,0,0,9758.0,0.0,0.0
+1019,Average stated interest rate(1),"The Thymes, LLC",0,3.4,%,0,4.3,%,0,2.1,0.0,0.0
+1020,Average outstanding balance,"The Thymes, LLC",0,163216.0,0,0,244254.0,0,0,410947.0,0.0,0.0
+1021,Class,"The Thymes, LLC",Amount,0,LIBOR  Spread  (basis points),0,Amount,0,LIBOR  Spread  (basis points),0,0.0,0.0
+1022,A-1A,"The Thymes, LLC",0,4896,0,0,25,0,0,33161.0,25.0,0.0
+1023,A-1A VFN,"The Thymes, LLC",0,12520,0,0,28,0,0,22107.0,28.0,0.0
+1024,A-1B,"The Thymes, LLC",0,14000,0,0,37,0,0,14000.0,37.0,0.0
+1025,A-2A,"The Thymes, LLC",0,0,0,0,22,0,0,20819.0,22.0,0.0
+1026,A-2B,"The Thymes, LLC",0,13905,0,0,35,0,0,33000.0,35.0,0.0
+1027,B,"The Thymes, LLC",0,9000,0,0,43,0,0,9000.0,43.0,0.0
+1028,C,"The Thymes, LLC",0,23210,0,0,70,0,0,23210.0,70.0,0.0
+1029,Total,"The Thymes, LLC",0,77531,0,0,0,0,0,155297.0,0.0,0.0
+1030,Total,"The Thymes, LLC",2011,0,2010,0,2009.0,0,0,0,0.0,0.0
+1031,Stated interest expense,"The Thymes, LLC",0,897.0,0,0,1534.0,0,0,3568,0.0,0.0
+1032,Facility fees,"The Thymes, LLC",0,25.0,0,0,21.0,0,0,0,0.0,0.0
+1033,Amortization of debt issuance costs,"The Thymes, LLC",0,356.0,0,0,358.0,0,0,354,0.0,0.0
+1034,Total interest and credit facility fees expense,"The Thymes, LLC",0,1278.0,0,0,1913.0,0,0,3922,0.0,0.0
+1035,Cash paid for interest expense,"The Thymes, LLC",0,903.0,0,0,1536.0,0,0,3704,0.0,0.0
+1036,Average stated interest rate,"The Thymes, LLC",0,0.8,%,0,0.7,%,0,1.3,0.0,0.0
+1037,Average outstanding balance,"The Thymes, LLC",0,128468.0,0,0,228252.0,0,0,282856,0.0,0.0
+1038,Average outstanding balance,"The Thymes, LLC",Outstanding  Principal,0,Carrying  Value(1),0,Outstanding  Principal,0,Carrying  Value(1),0,0.0,0.0
+1039,2011 Notes,"The Thymes, LLC",0,0,0,0,0,0,0,300584.0,296258.0,0.0
+1040,2012 Notes,"The Thymes, LLC",0,0,0,0,0,0,0,161210.0,158108.0,0.0
+1041,2047 Notes,"The Thymes, LLC",0,230000,0,0,180988,0,0,230000.0,180795.0,0.0
+1042,Total,"The Thymes, LLC",0,230000,0,0,180988,0,0,691794.0,635161.0,0.0
+1043,Stated interest expense,"The Thymes, LLC",0,23078.0,0,0,35314.0,0,0,0,0.0,0.0
+1044,Accretion of discount,"The Thymes, LLC",0,2624.0,0,0,8201.0,0,0,0,0.0,0.0
+1045,Total interest expense,"The Thymes, LLC",0,25702.0,0,0,43515.0,0,0,0,0.0,0.0
+1046,Cash paid for interest expense,"The Thymes, LLC",0,34678.0,0,0,34056.0,0,0,0,0.0,0.0
+1047,Stated interest expense,"The Thymes, LLC",0,15500.0,0,0,3014,0,0,0,0.0,0.0
+1048,Amortization of debt issuance costs,"The Thymes, LLC",0,242.0,0,0,44,0,0,0,0.0,0.0
+1049,Total interest expense,"The Thymes, LLC",0,15742.0,0,0,3058,0,0,0,0.0,0.0
+1050,Cash paid for interest expense,"The Thymes, LLC",0,15242.0,0,0,0,0,0,0,0.0,0.0
+1051,Principal amount of debt,"The Thymes, LLC",0,575000,0,0,230000,0,0,0,0.0,0.0
+1052,"Original issue discount, net of accretion","The Thymes, LLC",0,"(33,848",0,0,"(14,069",0,0,0,0.0,0.0
+1053,Carrying value of debt,"The Thymes, LLC",0,541152,0,0,215931,0,0,0,0.0,0.0
+1054,Total revolving and delayed draw commitments,"The Thymes, LLC",0,565630,0,0,260691,0,0,0,0.0,0.0
+1055,Less: funded commitments,"The Thymes, LLC",0,"(125,037",0,0,"(59,980",0,0,0,0.0,0.0
+1056,Total unfunded commitments,"The Thymes, LLC",0,440593,0,0,200711,0,0,0,0.0,0.0
+1057,Less: commitments substantially at discretion of the Company,"The Thymes, LLC",0,"(64,750",0,0,"(19,922",0,0,0,0.0,0.0
+1058,Less: unavailable commitments due to borrowing base or other covenant restrictions,"The Thymes, LLC",0,"(5,518",0,0,"(6,738",0,0,0,0.0,0.0
+1059,Total net adjusted unfunded revolving and delayed draw commitments,"The Thymes, LLC",0,370325,0,0,174051,0,0,0,0.0,0.0
+1060,Total private equity commitments,"The Thymes, LLC",0,132030,0,0,537600,0,0,0,0.0,0.0
+1061,Less: funded private equity commitments,"The Thymes, LLC",0,"(67,428",0,0,"(104,300",0,0,0,0.0,0.0
+1062,Total unfunded private equity commitments,"The Thymes, LLC",0,64602,0,0,433300,0,0,0,0.0,0.0
+1063,Less: private equity commitments substantially at discretion of the Company,"The Thymes, LLC",0,"(53,525",0,0,"(400,400",0,0,0,0.0,0.0
+1064,Total net adjusted unfunded private equity commitments,"The Thymes, LLC",0,11077,0,0,32900,0,0,0,0.0,0.0
+1065,Total net adjusted unfunded private equity commitments,"The Thymes, LLC",Total,0,Level 1,0,Level 2,0,Level 3,0,0.0,0.0
+1066,Cash and cash equivalents,"The Thymes, LLC",0,120782.0,0,0,120782,0,0,0,0.0,0.0
+1067,Investments,"The Thymes, LLC",0,5094506.0,0,0,0,0,0,0,5094506.0,0.0
+1068,Investments,"The Thymes, LLC",Total,0,Level 1,0,Level 2,0,Level 3,0,0.0,0.0
+1069,Cash and cash equivalents,"The Thymes, LLC",0,100752.0,0,0,100752,0,0,0,0.0,0.0
+1070,Investments,"The Thymes, LLC",0,4317990.0,0,0,0,0,0,5333,4312657.0,0.0
+1071,Investments,"The Thymes, LLC",Carrying value(1),0,Fair value,0,Carrying value(1),0,Fair value,0,0.0,0.0
+1072,Revolving Funding Facility,"The Thymes, LLC",0,463000,0,0,467900,0,0,242050,242000.0,0.0
+1073,Revolving Credit Facility,"The Thymes, LLC",0,395000,0,0,399400,0,0,146000,146000.0,0.0
+1074,Debt Securitization,"The Thymes, LLC",0,77531,0,0,68215,0,0,155297,133000.0,0.0
+1075,"2011 Notes (principal amount outstanding of $0 and $300,584, respectively)","The Thymes, LLC",0,0,0,0,0,0,0,296258,0.0,297290.0
+1076,"2012 Notes (principal amount outstanding of $0 and $161,210, respectively)","The Thymes, LLC",0,0,0,0,0,0,0,158108,0.0,164595.0
+1077,"February 2016 Convertible Notes (principal amount outstanding of $575,000)","The Thymes, LLC",0,541152,(3),0,545445,0,0,0,0.0,0.0
+1078,"June 2016 Convertible Notes (principal amount outstanding of $230,000)","The Thymes, LLC",0,215931,(3),0,215717,0,0,0,0.0,0.0
+1079,"2040 Notes (principal amount outstanding of $200,000)","The Thymes, LLC",0,200000,0,0,198808,0,0,200000,184986.0,0.0
+1080,"2047 Notes (principal amount outstanding of $230,000)","The Thymes, LLC",0,180988,(2),0,212218,0,0,180796,0.0,197314.0
+1081,"2047 Notes (principal amount outstanding of $230,000)","The Thymes, LLC",0,2073602,(4),0,2107703,0,0,1378509,0.0,1365185.0
+1082,"2047 Notes (principal amount outstanding of $230,000)","The Thymes, LLC",Shares  issued,0,Offering price  per share,0,Proceeds net of  underwriting and  offering costs,0,0,0,0.0,0.0
+1083,November 2010 public offering,"The Thymes, LLC",0,11500.0,0,0,16.50,0,0,180642.0,0.0,0.0
+1084,February 2010 public offering,"The Thymes, LLC",0,22958.0,0,0,12.75,0,0,277207.0,0.0,0.0
+1085,"Total for the year ended December 31, 2010","The Thymes, LLC",0,34458.0,0,0,0,0,0,457849.0,0.0,0.0
+1086,August 2009 public offering,"The Thymes, LLC",0,12440.0,0,0,9.25,0,0,109086.0,0.0,0.0
+1087,"Total for the year ended December 31, 2009","The Thymes, LLC",0,12440.0,0,0,0,0,0,109086.0,0.0,0.0
+1088,"Total for the year ended December 31, 2009","The Thymes, LLC",2011,0,2010.0,0,2009.0,0,0,0,0.0,0.0
+1089,Net increase in stockholders' equity resulting from operations available to common stockholders:,"The Thymes, LLC",0,319453.0,0,0,691834.0,0,0,202693.0,0.0,0.0
+1090,Weighted average shares of common stock outstanding-basic and diluted:,"The Thymes, LLC",0,204860.0,0,0,176732.0,0,0,101720.0,0.0,0.0
+1091,Basic and diluted net increase in stockholders' equity resulting from operations per share:,"The Thymes, LLC",0,1.56,0,0,3.91,0,0,1.99,0.0,0.0
+1092,Basic and diluted net increase in stockholders' equity resulting from operations per share:,"The Thymes, LLC",2011,0,2010.0,0,2009,0,0,0,0.0,0.0
+1093,Ordinary income(1)(2),"The Thymes, LLC",0,1.16,0,0,1.40,0,0,1.36,0.0,0.0
+1094,Capital gains,"The Thymes, LLC",0,0.25,0,0,0,0,0,0,0.0,0.0
+1095,Return of capital,"The Thymes, LLC",0,0,0,0,0,0,0,0.11,0.0,0.0
+1096,Total,"The Thymes, LLC",0,1.41,0,0,1.40,0,0,1.47,0.0,0.0
+1097,Total,"The Thymes, LLC",2011,0,2010,0,2009,0,0,0,0.0,0.0
+1098,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,319453,0,0,691834,0,0,202693,0.0,0.0
+1099,Net unrealized (gain) loss on investments,"The Thymes, LLC",0,40192,0,0,"(230,743",0,0,"(88,707",0.0,0.0
+1100,Gain on the Allied Acquisition,"The Thymes, LLC",0,0,0,0,"(195,876",0,0,0,0.0,0.0
+1101,Other merger-related items,"The Thymes, LLC",0,0,0,0,"(4,007",0,0,0,0.0,0.0
+1102,Other income not currently taxable,"The Thymes, LLC",0,"(52,385",0,0,"(36,486",0,0,"(21,310",0.0,0.0
+1103,Other income for tax but not book,"The Thymes, LLC",0,63923,0,0,71997,0,0,51218,0.0,0.0
+1104,Expenses not currently deductible,"The Thymes, LLC",0,52856,0,0,33499,0,0,10545,0.0,0.0
+1105,Other deductible expenses,"The Thymes, LLC",0,(820,0,0,(786,0,0,"(29,636",0.0,0.0
+1106,Other realized gain/loss differences,"The Thymes, LLC",0,"(25,028",0,0,"(12,736",0,0,0,0.0,0.0
+1107,Taxable income,"The Thymes, LLC",0,398191,0,0,316696,0,0,124803,0.0,0.0
+1108,Date declared,"The Thymes, LLC",Record date,0,Payment date,0,Per share  amount,0,Total amount,0,0.0,0.0
+1109,"November 8, 2011","The Thymes, LLC",0,"December 15, 2011",0,0,"December 30, 2011",0,0,0.36,73847.0,0.0
+1110,"August 4, 2011","The Thymes, LLC",0,"September 15, 2011",0,0,"September 30, 2011",0,0,0.35,71795.0,0.0
+1111,"May 3, 2011","The Thymes, LLC",0,"June 15, 2011",0,0,"June 30, 2011",0,0,0.35,71663.0,0.0
+1112,"March 1, 2011","The Thymes, LLC",0,"March 15, 2011",0,0,"March 31, 2011",0,0,0.35,71547.0,0.0
+1113,Total declared for 2011,"The Thymes, LLC",0,0,0,0,0,0,0,1.41,288852.0,0.0
+1114,"November 4, 2010","The Thymes, LLC",0,"December 15, 2010",0,0,"December 31, 2010",0,0,0.35,71423.0,0.0
+1115,"August 5, 2010","The Thymes, LLC",0,"September 15, 2010",0,0,"September 30, 2010",0,0,0.35,67266.0,0.0
+1116,"May 10, 2010","The Thymes, LLC",0,"June 15, 2010",0,0,"June 30, 2010",0,0,0.35,67091.0,0.0
+1117,"February 25, 2010","The Thymes, LLC",0,"March 15, 2010",0,0,"March 31, 2010",0,0,0.35,46516.0,0.0
+1118,Total declared for 2010,"The Thymes, LLC",0,0,0,0,0,0,0,1.4,252296.0,0.0
+1119,"November 5, 2009","The Thymes, LLC",0,"December 15, 2009",0,0,"December 31, 2009",0,0,0.35,39630.0,0.0
+1120,"August 6, 2009","The Thymes, LLC",0,"September 15, 2009",0,0,"September 30, 2009",0,0,0.35,38357.0,0.0
+1121,"May 7, 2009","The Thymes, LLC",0,"June 15, 2009",0,0,"June 30, 2009",0,0,0.35,34004.0,0.0
+1122,"March 2, 2009","The Thymes, LLC",0,"March 16, 2009",0,0,"March 31, 2009",0,0,0.42,40804.0,0.0
+1123,Total declared for 2009,"The Thymes, LLC",0,0,0,0,0,0,0,1.47,152795.0,0.0
+1124,Total declared for 2009,"The Thymes, LLC",2011,0,2010.0,0,2009,0,0,0,0.0,0.0
+1125,Shares issued,"The Thymes, LLC",0,711.0,0,0,1523,0,0,352.0,0.0,0.0
+1126,Average price per share,"The Thymes, LLC",0,16.24,0,0,14.79,0,0,11.43,0.0,0.0
+1127,Shares purchased by plan agent for shareholders,"The Thymes, LLC",0,785.0,0,0,0,0,0,1629.0,0.0,0.0
+1128,Average price per share,"The Thymes, LLC",0,14.71,0,0,0,0,0,6.85,0.0,0.0
+1129,Per Share Data:,"The Thymes, LLC","As of and for  the year ended  December 31, 2011",0,"As of and for  the year ended  December 31, 2010",0,"As of and for  the year ended  December 31, 2009",0,0,0,0.0,0.0
+1130,"Net asset value, beginning of period(1)","The Thymes, LLC",0,14.92,0,0,11.44,0,0,11.27,0.0,0.0
+1131,Issuance of common stock,"The Thymes, LLC",0,0.00,0,0,0.95,0,0,(0.35,0.0,0.0
+1132,Issuances of the Convertible Notes,"The Thymes, LLC",0,0.27,0,0,0,0,0,0,0.0,0.0
+1133,Net investment income for period(2),"The Thymes, LLC",0,1.38,0,0,1.23,0,0,1.32,0.0,0.0
+1134,Gain on the Allied Acquisition(2),"The Thymes, LLC",0,0,0,0,1.11,0,0,0,0.0,0.0
+1135,Net realized and unrealized gains (loss) for period(2),"The Thymes, LLC",0,0.18,0,0,1.59,0,0,0.67,0.0,0.0
+1136,Net increase in stockholders' equity,"The Thymes, LLC",0,1.83,0,0,4.88,0,0,1.64,0.0,0.0
+1137,Distributions from net investment income,"The Thymes, LLC",0,(1.16,0,0,(1.40,0,0,(1.35,0.0,0.0
+1138,Distributions from net realized gains,"The Thymes, LLC",0,(0.25,0,0,0,0,0,(0.12,0.0,0.0
+1139,Total distributions to stockholders,"The Thymes, LLC",0,(1.41,0,0,(1.40,0,0,(1.47,0.0,0.0
+1140,Net asset value at end of period(1),"The Thymes, LLC",0,15.34,0,0,14.92,0,0,11.44,0.0,0.0
+1141,Per share market value at end of period,"The Thymes, LLC",0,15.45,0,0,16.48,0,0,12.45,0.0,0.0
+1142,Total return based on market value(3),"The Thymes, LLC",0,2.31,%,0,43.61,%,0,119.91,0.0,0.0
+1143,Total return based on net asset value(4),"The Thymes, LLC",0,10.45,%,0,31.61,%,0,17.84,0.0,0.0
+1144,Shares outstanding at end of period,"The Thymes, LLC",0,205130,0,0,204419,0,0,109945,0.0,0.0
+1145,Net assets at end of period,"The Thymes, LLC",0,3147265,0,0,3050533,0,0,1257888,0.0,0.0
+1146,Ratio of operating expenses to average net assets(5)(6),"The Thymes, LLC",0,10.94,%,0,11.02,%,0,9.78,0.0,0.0
+1147,Ratio of net investment income to average net assets(5)(7),"The Thymes, LLC",0,8.97,%,0,9.07,%,0,11.72,0.0,0.0
+1148,Portfolio turnover rate(5),"The Thymes, LLC",0,53,%,0,45,%,0,26,0.0,0.0
+1149,Portfolio turnover rate(5),"The Thymes, LLC",Q4,0,Q3,0,Q2,0,Q1,0,0.0,0.0
+1150,Total investment income,"The Thymes, LLC",0,187123.0,0,0,167365,0,0,144307,135691.0,0.0
+1151,Net investment income before net realized and unrealized gain (losses) and incentive compensation,"The Thymes, LLC",0,121990.0,0,0,108517,0,0,85509,78764.0,0.0
+1152,Incentive compensation,"The Thymes, LLC",0,29531.0,0,0,10159,0,0,41746,30941.0,0.0
+1153,Net investment income before net realized and unrealized gain (losses),"The Thymes, LLC",0,92459.0,0,0,98358,0,0,43763,47823.0,0.0
+1154,Net realized and unrealized gains (losses),"The Thymes, LLC",0,25666.0,0,0,"(57,719",0,0,"(6,840",75943.0,0.0
+1155,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,118125.0,0,0,40639,0,0,36923,123766.0,0.0
+1156,Basic and diluted earnings per common share,"The Thymes, LLC",0,0.58,0,0,0.20,0,0,0.18,0.61,0.0
+1157,Net asset value per share as of the end of the quarter,"The Thymes, LLC",0,15.34,0,0,15.13,0,0,15.28,15.45,0.0
+1158,Net asset value per share as of the end of the quarter,"The Thymes, LLC",Q4,0,Q3,0,Q2,0,Q1,0,0.0,0.0
+1159,Total investment income,"The Thymes, LLC",0,157170.0,0,0,138126,0,0,121590.0,66510.0,0.0
+1160,Net investment income before net realized and unrealized gain (losses) and incentive compensation,"The Thymes, LLC",0,99323.0,0,0,89025,0,0,64514.0,39849.0,0.0
+1161,Incentive compensation,"The Thymes, LLC",0,35973.0,0,0,17805,0,0,14973.0,8144.0,0.0
+1162,Net investment income before net realized and unrealized gain (losses),"The Thymes, LLC",0,63350.0,0,0,71220,0,0,49541.0,31705.0,0.0
+1163,Net realized and unrealized gains (losses),"The Thymes, LLC",0,93538.0,0,0,57157,0,0,280613.0,0.0,44710.0
+1164,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,156888.0,0,0,128377,0,0,330154.0,76415.0,0.0
+1165,Basic and diluted earnings per common share,"The Thymes, LLC",0,0.79,0,0,0.67,0,0,1.73,0.61,0.0
+1166,Net asset value per share as of the end of the quarter,"The Thymes, LLC",0,14.92,0,0,14.43,0,0,14.11,11.78,0.0
+1167,Net asset value per share as of the end of the quarter,"The Thymes, LLC",Q4,0,Q3,0,Q2,0,Q1,0,0.0,0.0
+1168,Total investment income,"The Thymes, LLC",0,69264.0,0,0,60881,0,0,59111.0,56016.0,0.0
+1169,Net investment income before net realized and unrealized gain (losses) and incentive compensation,"The Thymes, LLC",0,47920.0,0,0,41133,0,0,39935.0,37750.0,0.0
+1170,Incentive compensation,"The Thymes, LLC",0,9568.0,0,0,8227,0,0,7987.0,7550.0,0.0
+1171,Net investment income before net realized and unrealized gain (losses),"The Thymes, LLC",0,38352.0,0,0,32906,0,0,31948.0,30200.0,0.0
+1172,Net realized and unrealized gains (losses),"The Thymes, LLC",0,31278.0,0,0,30370,0,0,2805.0,4834.0,0.0
+1173,Net increase in stockholders' equity resulting from operations,"The Thymes, LLC",0,69630.0,0,0,63276,0,0,34753.0,35034.0,0.0
+1174,Basic and diluted earnings per common share,"The Thymes, LLC",0,0.64,0,0,0.62,0,0,0.36,0.36,0.0
+1175,Net asset value per share as of the end of the quarter,"The Thymes, LLC",0,11.44,0,0,11.16,0,0,11.21,11.2,0.0
+1176,"Payments to holders of ""in-the-money"" Allied Capital stock options","The Thymes, LLC",0,35011,(1),0,0,0,0,0,0.0,0.0
+1177,Total investment income,"The Thymes, LLC",0,537488.0,0,0,563958,0,0,0,0.0,0.0
+1178,Net investment income,"The Thymes, LLC",0,238982.0,0,0,184641,0,0,0,0.0,0.0
+1179,Net increase (decrease) in stockholders' equity resulting from operations,"The Thymes, LLC",0,479979.0,0,0,"(323,133",0,0,0,0.0,0.0
+1180,Net increase (decrease) in stockholders' equity resulting from operations per share,"The Thymes, LLC",0,2.51,0,0,(2.02,0,0,0,0.0,0.0

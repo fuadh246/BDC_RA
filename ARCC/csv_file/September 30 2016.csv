@@ -1,25 +1,25 @@
 ,Company(1),Business Description,Investment,Interest(6)(12),Acquisition  Date,Amortized  Cost,Fair Value
-2,"Covestia Capital Partners, LP (10)",Investment partnership,Limited partnership interest (47.00% interest),0,6/17/2008,487.0,1770
-3,"HCI Equity, LLC (8)(9)(10)",Investment company,Member interest (100.00% interest),0,4/1/2010,0.0,128
-4,"Imperial Capital Private Opportunities, LP (10)(26)",Investment partnership,Limited partnership interest (80.00% interest),0,5/10/2007,4054.0,17131
-5,"Partnership Capital Growth Fund I, L.P. (10)",Investment partnership,Limited partnership interest (25.00% interest),0,6/16/2006,0.0,194
-6,"Partnership Capital Growth Investors III, L.P. (10)(26)",Investment partnership,Limited partnership interest (2.50% interest),0,10/5/2011,2655.0,3039
-7,"PCG-Ares Sidecar Investment II, L.P. (10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,10/31/2014,7456.0,11430
-8,"PCG-Ares Sidecar Investment, L.P. (10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,5/22/2014,3355.0,2796
-9,"Piper Jaffray Merchant Banking Fund I, L.P. (10)(26)",Investment partnership,Limited partnership interest (2.00% interest),0,8/16/2012,1664.0,1491
-10,"Senior Direct Lending Program, LLC (8)(10)(28)",Co-investment vehicle,"Subordinated certificates ($195,338 par due 12/2036)",8.86% (Libor + 8.00%/M)(22),7/27/2016,195338.0,195338
-11,"Senior Direct Lending Program, LLC (8)(10)(28)",Co-investment vehicle,Member interest (87.50% interest),0,7/27/2016,0.0,0
-13,Senior Secured Loan Fund LLC (8)(11)(27),Co-investment vehicle,"Subordinated certificates ($2,003,959 par due 12/2024)",8.86% (Libor + 8.00%/M)(21),10/30/2009,1938446.0,1899754
-14,Senior Secured Loan Fund LLC (8)(11)(27),Co-investment vehicle,Member interest (87.50% interest),0,10/30/2009,0.0,0
-16,VSC Investors LLC (10),Investment company,Membership interest (1.95% interest),0,1/24/2008,299.0,1124
-19,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"First lien senior secured loan ($18,750 par due 1/2022)",9.06% (Libor + 8.06%/Q),1/5/2016,18750.0,18188
-20,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"First lien senior secured loan ($5,000 par due 1/2022)",9.06% (Libor + 8.06%/Q),1/5/2016,5000.0,4850
-21,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4000.0,1901
-22,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0
-24,"ADCS Billings Intermediate Holdings, LLC (25)",Dermatology practice,"First lien senior secured revolving loan ($1,375 par due 5/2022)",8.25%(Base Rate + 4.75%/Q),5/18/2016,1375.0,1375
-25,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"First lien senior secured revolving loan ($2,117 par due 9/2022)",5.75% (Libor + 4.75%/Q),9/28/2016,2117.0,2117
-26,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"First lien senior secured loan ($33,388 par due 9/2023)",5.75% (Libor + 4.75%/Q),9/28/2016,33387.0,33387
-27,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"Second lien senior secured loan ($87,500 par due 3/2024)",10.00% (Libor + 9.00%/Q),9/28/2016,87500.0,87500
-28,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3000.0,3000
-30,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,"Preferred stock (2,997 shares)",0,12/13/2013,3087.0,1793
-31,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,Common stock (3 shares),0,12/13/2013,3.0,0
+0,"Covestia Capital Partners, LP (10)",Investment partnership,Limited partnership interest (47.00% interest),0,6/17/2008,487.0,1770
+1,"HCI Equity, LLC (8)(9)(10)",Investment company,Member interest (100.00% interest),0,4/1/2010,0.0,128
+2,"Imperial Capital Private Opportunities, LP (10)(26)",Investment partnership,Limited partnership interest (80.00% interest),0,5/10/2007,4054.0,17131
+3,"Partnership Capital Growth Fund I, L.P. (10)",Investment partnership,Limited partnership interest (25.00% interest),0,6/16/2006,0.0,194
+4,"Partnership Capital Growth Investors III, L.P. (10)(26)",Investment partnership,Limited partnership interest (2.50% interest),0,10/5/2011,2655.0,3039
+5,"PCG-Ares Sidecar Investment II, L.P. (10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,10/31/2014,7456.0,11430
+6,"PCG-Ares Sidecar Investment, L.P. (10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,5/22/2014,3355.0,2796
+7,"Piper Jaffray Merchant Banking Fund I, L.P. (10)(26)",Investment partnership,Limited partnership interest (2.00% interest),0,8/16/2012,1664.0,1491
+8,"Senior Direct Lending Program, LLC (8)(10)(28)",Co-investment vehicle,"Subordinated certificates ($195,338 par due 12/2036)",8.86% (Libor + 8.00%/M)(22),7/27/2016,195338.0,195338
+9,"Senior Direct Lending Program, LLC (8)(10)(28)",Co-investment vehicle,Member interest (87.50% interest),0,7/27/2016,0.0,0
+10,Senior Secured Loan Fund LLC (8)(11)(27),Co-investment vehicle,"Subordinated certificates ($2,003,959 par due 12/2024)",8.86% (Libor + 8.00%/M)(21),10/30/2009,1938446.0,1899754
+11,Senior Secured Loan Fund LLC (8)(11)(27),Co-investment vehicle,Member interest (87.50% interest),0,10/30/2009,0.0,0
+12,VSC Investors LLC (10),Investment company,Membership interest (1.95% interest),0,1/24/2008,299.0,1124
+13,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"First lien senior secured loan ($18,750 par due 1/2022)",9.06% (Libor + 8.06%/Q),1/5/2016,18750.0,18188
+14,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"First lien senior secured loan ($5,000 par due 1/2022)",9.06% (Libor + 8.06%/Q),1/5/2016,5000.0,4850
+15,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A preferred units (4,000,000 units)",0,1/5/2016,4000.0,1901
+16,"Absolute Dental Management LLC and ADM Equity, LLC",Dental services provider,"Class A common units (4,000,000 units)",0,1/5/2016,0.0,0
+17,"ADCS Billings Intermediate Holdings, LLC (25)",Dermatology practice,"First lien senior secured revolving loan ($1,375 par due 5/2022)",8.25%(Base Rate + 4.75%/Q),5/18/2016,1375.0,1375
+18,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"First lien senior secured revolving loan ($2,117 par due 9/2022)",5.75% (Libor + 4.75%/Q),9/28/2016,2117.0,2117
+19,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"First lien senior secured loan ($33,388 par due 9/2023)",5.75% (Libor + 4.75%/Q),9/28/2016,33387.0,33387
+20,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"Second lien senior secured loan ($87,500 par due 3/2024)",10.00% (Libor + 9.00%/Q),9/28/2016,87500.0,87500
+21,"ADG, LLC and RC IV GEDC Investor LLC (25)",Dental services provider,"Membership units (3,000,000 units)",0,9/28/2016,3000.0,3000
+22,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,"Preferred stock (2,997 shares)",0,12/13/2013,3087.0,1793
+23,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,Common stock (3 shares),0,12/13/2013,3.0,0
