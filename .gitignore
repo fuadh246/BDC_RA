@@ -2,3 +2,4 @@
 echo ".env" >> .gitignore
 
 venv/
+csv_file/
