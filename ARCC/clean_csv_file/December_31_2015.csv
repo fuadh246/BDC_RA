@@ -1,455 +1,479 @@
-,Company,Business Description,Investment,Interest,Amortized Cost,Fair Value
-0,"CIC Flex, LP(10)",Investment partnership,Limited partnership units (0.94 units),0,0,263
-1,"Covestia Capital Partners, LP(10)",Investment partnership,Limited partnership interest (47.00% interest),0,487,1862
-2,"HCI Equity, LLC(8)(9)(10)",Investment company,Member interest (100.00% interest),0,0,127
-3,"Imperial Capital Private Opportunities, LP(10)(26)",Investment partnership,Limited partnership interest (80.00% interest),0,4054,16906
-4,"Partnership Capital Growth Fund I, L.P.(10)",Investment partnership,Limited partnership interest (25.00% interest),0,0,692
-5,"Partnership Capital Growth Investors III, L.P.(10)(26)",Investment partnership,Limited partnership interest (2.50% interest),0,2714,3510
-6,"PCG-Ares Sidecar Investment II, L.P.(10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,6521,9254
-7,"PCG-Ares Sidecar Investment, L.P.(10)(26)",Investment partnership,Limited partnership interest (100.00% interest),0,2152,242
-8,"Piper Jaffray Merchant Banking Fund I, L.P.(10)(26)",Investment partnership,Limited partnership interest (2.00% interest),0,1413,1512
-9,Senior Secured Loan Fund LLC(8)(11)(27),Co-investment vehicle,"Subordinated certificates ($2,000,914 par due 12/2024)",8.61% (Libor + 8.00%/M)(22),1935401,1884861
-10,Senior Secured Loan Fund LLC(8)(11)(27),Co-investment vehicle,Member interest (87.50% interest),0,0,0
-11,VSC Investors LLC(10),Investment company,Membership interest (1.95% interest),0,299,1158
-12,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,"Preferred stock (2,997 shares)",0,3087,1980
-13,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,Common stock (3 shares),0,3,0
-14,"American Academy Holdings, LLC","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals","First lien senior secured loan ($8,810 par due 6/2019)",7.00% (Libor + 6.00%/Q),8810,8810
-15,"American Academy Holdings, LLC","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals","First lien senior secured loan ($52,039 par due 6/2019)",7.00% (Libor + 6.00%/Q),52039,52039
-16,"American Academy Holdings, LLC","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals","First lien senior secured loan ($2,988 par due 6/2019)",4.00% (Libor + 3.00%/Q),2988,2988
-17,"Argon Medical Devices, Inc.",Manufacturer and marketer of single-use specialty medical devices,"Second lien senior secured loan ($9,000 par due 6/2022)",10.50% (Libor + 9.50%/Q),8730,9000
-18,AwarePoint Corporation,Healthcare technology platform developer,"First lien senior secured loan ($10,000 par due 6/2018)",9.50%,9934,10000
-19,AwarePoint Corporation,Healthcare technology platform developer,"Warrant to purchase up to 3,213,367 shares of Series 1 preferred stock",0,0,609
-20,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",Correctional facility healthcare operator,"First lien senior secured revolving loan ($5,250 par due 7/2019)",6.50% (Base Rate + 3.00%/Q),5250,4883
-21,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",Correctional facility healthcare operator,"First lien senior secured loan ($6,651 par due 7/2021)",5.00% (Libor + 4.00%/Q),6626,6186
-22,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",Correctional facility healthcare operator,"Second lien senior secured loan ($135,000 par due 7/2022)",9.38% (Libor + 8.38%/Q),133890,121500
-23,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",Correctional facility healthcare operator,"Class A units (601,937 units)",0,0,878
-24,"Correctional Medical Group Companies, Inc.(25)",Correctional facility healthcare operator,"First lien senior secured loan ($3,088 par due 9/2021)",9.60% (Libor + 8.60%/Q),3088,3088
-25,"Correctional Medical Group Companies, Inc.(25)",Correctional facility healthcare operator,"First lien senior secured loan ($4,093 par due 9/2021)",9.60% (Libor + 8.60%/Q),4093,4093
-26,"Correctional Medical Group Companies, Inc.(25)",Correctional facility healthcare operator,"First lien senior secured loan ($44,707 par due 9/2021)",9.60% (Libor + 8.60%/Q),44707,44707
-27,"DCA Investment Holding, LLC(25)",Multi-branded dental practice management,First lien senior secured revolving loan ($145 par due 7/2021),7.75% (Base Rate + 4.25%/Q),145,142
-28,"DCA Investment Holding, LLC(25)",Multi-branded dental practice management,"First lien senior secured loan ($19,089 par due 7/2021)",6.25% (Libor + 5.25%/Q),18918,18707
-29,"DNAnexus, Inc.",Bioinformatics company,"First lien senior secured loan ($10,500 par due 10/2018)",9.25% (Libor + 8.25%/M),10205,10500
-30,"DNAnexus, Inc.",Bioinformatics company,"Warrant to purchase up to 909,092 units of Series C preferred stock",0,0,240
-31,"Global Healthcare Exchange, LLC and GHX Ultimate Parent Corp.",On-demand supply chain automation solutions provider,"Class A common stock (2,991 shares)",0,2991,2991
-32,"Global Healthcare Exchange, LLC and GHX Ultimate Parent Corp.",On-demand supply chain automation solutions provider,Class B common stock (980 shares),0,30,3788
-33,"Greenphire, Inc. and RMCF III CIV XXIX, L.P(25)",Software provider for clinical trial management,"First lien senior secured loan ($4,000 par due 12/2018)",9.00% (Libor + 8.00%/M),4000,4000
-34,"Greenphire, Inc. and RMCF III CIV XXIX, L.P(25)",Software provider for clinical trial management,Limited partnership interest (99.90% interest),0,999,999
-35,"INC Research Mezzanine Co-Invest, LLC",Pharmaceutical and biotechnology consulting services,"Common units (1,410,000 units)",0,0,3352
-36,Intermedix Corporation,Revenue cycle management provider to the emergency healthcare industry,"Second lien senior secured loan ($112,000 par due 6/2020)",9.25% (Libor + 8.25%/Q),112000,108640
-37,"LM Acquisition Holdings, LLC(9)",Developer and manufacturer of medical equipment,Class A units (426 units),0,660,1732
-38,"MC Acquisition Holdings I, LLC",Healthcare professional provider,"Class A units (1,338,314 shares)",0,1338,1491
-39,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured revolving loan ($3,500 par due 4/2017)",8.50% (Libor + 7.00%/M),3500,3500
-40,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured loan ($22,616 par due 4/2017)",8.50% (Libor + 7.00%/M),22616,22616
-41,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured loan ($24,233 par due 4/2017)",8.50% (Libor + 7.00%/M),24233,24233
-42,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured loan ($47,743 par due 4/2017)",8.50% (Libor + 7.00%/M),47743,47743
-43,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured loan ($19,744 par due 4/2017)",8.50% (Libor + 7.00%/M),19744,19744
-44,"My Health Direct, Inc.(25)",Healthcare scheduling exchange software solution provider,"First lien senior secured loan ($2,500 par due 1/2018)",10.75%,2450,2500
-45,"My Health Direct, Inc.(25)",Healthcare scheduling exchange software solution provider,"Warrant to purchase up to 4,548 shares of Series D preferred stock",0,39,40
-46,Napa Management Services Corporation,Anesthesia management services provider,"First lien senior secured loan ($16,000 par due 2/2019)",9.03% (Libor + 8.03%/Q),16000,16000
-47,Napa Management Services Corporation,Anesthesia management services provider,"First lien senior secured loan ($54,000 par due 2/2019)",9.03% (Libor + 8.03%/Q),53961,54000
-48,Napa Management Services Corporation,Anesthesia management services provider,"Common units (5,345 units)",0,5764,17350
-49,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Second lien senior secured loan ($90,000 par due 8/2019)",10.50% (Libor + 9.50%/Q),90000,90000
-50,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Common stock (2,500,000 shares)",0,760,4450
-51,"New Trident Holdcorp, Inc.",Outsourced mobile diagnostic healthcare service provider,"Second lien senior secured loan ($80,000 par due 7/2020)",10.25% (Libor + 9.00%/Q),78906,76000
-52,"Nodality, Inc.",Biotechnology company,First lien senior secured loan ($700 par due 2/2018),0,700,636
-53,"Nodality, Inc.",Biotechnology company,First lien senior secured loan ($150 par due 2/2018),0,0,0
-54,"Nodality, Inc.",Biotechnology company,"First lien senior secured loan ($7,019 par due 2/2018)",0,6860,1053
-55,"Nodality, Inc.",Biotechnology company,"First lien senior secured loan ($2,910 par due 8/2018)",0,2834,437
-56,"Nodality, Inc.",Biotechnology company,"Warrant to purchase up to 225,746 shares of Series B preferred stock",0,0,0
-57,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",Provider of technology-enabled solutions to pharmacies,"First lien senior secured loan ($12,288 par due 11/2018)",8.50% (Libor + 7.50%/Q),12288,12288
-58,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",Provider of technology-enabled solutions to pharmacies,"First lien senior secured loan ($6,906 par due 11/2018)",8.50% (Libor + 7.50%/Q),6906,6906
-59,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",Provider of technology-enabled solutions to pharmacies,Limited liability company membership interest (1.57%),0,1000,1197
-60,"Patterson Medical Supply, Inc.",Distributor of rehabilitation supplies and equipment,"Second lien senior secured loan ($19,000 par due 8/2023)",8.75% (Libor + 7.75%/Q),18816,18430
-61,"PerfectServe, Inc.(25)",Communications software platform provider for hospitals and physician practices,"First lien senior secured loan ($9,000 par due 3/2020)",9.00% (Libor + 8.00%/M),8661,9000
-62,"PerfectServe, Inc.(25)",Communications software platform provider for hospitals and physician practices,"First lien senior secured loan ($2,000 par due 7/2020)",9.00% (Libor + 8.00%/M),1960,2000
-63,"PerfectServe, Inc.(25)",Communications software platform provider for hospitals and physician practices,"Warrant to purchase up to 28,428 units of Series C preferred stock",0,180,211
-64,"PerfectServe, Inc.(25)",Communications software platform provider for hospitals and physician practices,"Warrant to purchase up to 34,113 units of Series C preferred stock",0,0,253
-65,PhyMED Management LLC,Provider of anesthesia services,"Second lien senior secured loan ($47,239 par due 5/2021)",9.75% (Libor + 8.75%/Q),46516,46294
-66,"Physiotherapy Associates Holdings, Inc.",Physical therapy provider,"Class A common stock (100,000 shares)",0,3090,8900
-67,"POS I Corp. (fka Vantage Oncology, Inc.)",Radiation oncology care provider,"Common stock (62,157 shares)",0,4670,935
-68,"Reed Group Holdings, LLC",Medical disability management services provider,Equity interests,0,0,0
-69,"Respicardia, Inc.",Developer of implantable therapies to improve cardiovascular health,"Warrant to purchase up to 99,094 shares of Series C preferred stock",0,38,28
-70,"Sage Products Holdings III, LLC",Patient infection control and preventive care solutions provider,"Second lien senior secured loan ($108,679 par due 6/2020)",9.25% (Libor + 8.00%/Q),108513,108679
-71,"Sarnova HC, LLC, Tri-Anim Health Services, Inc., and BEMS Holdings, LLC",Distributor of emergency medical service and respiratory products,"Second lien senior secured loan ($60,000 par due 9/2018)",8.75% (Libor + 8.00%/M),60000,60000
-72,"SurgiQuest, Inc.",Medical device manufacturer,"Warrant to purchase up to 54,672 shares of Series D-4 convertible preferred stock",0,0,331
-73,"Transaction Data Systems, Inc.",Pharmacy management software provider,"Second lien senior secured loan ($27,500 par due 6/2022)",9.25% (Libor + 8.25%/Q),27500,26950
-74,"U.S. Anesthesia Partners, Inc.",Anesthesiology service provider,"Second lien senior secured loan ($23,500 par due 9/2020)",10.25% (Libor + 9.25%/Q),23500,23500
-75,"U.S. Anesthesia Partners, Inc.",Anesthesiology service provider,"Second lien senior secured loan ($50,000 par due 9/2020)",10.25% (Libor + 9.25%/Q),50000,50000
-76,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"First lien senior secured loan ($14,000 par due 12/2022)",7.00% (Libor + 6.00%/M),14000,13860
-77,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"First lien senior secured loan ($54,725 par due 12/2022)",7.00% (Libor + 6.00%/M),54725,54178
-78,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"Preferred units (6,000,000 units)",0,6000,6412
-79,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"Series A common units (2,000,000 units)",0,2000,1828
-80,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"Series C common units (800,507 units)",0,0,589
-81,"VistaPharm, Inc. and Vertice Pharma UK Parent Limited",Manufacturer and distributor of generic pharmaceutical products,"First lien senior secured loan ($20,000 par due 12/2021)",8.00% (Base Rate + 4.50%/Q),20000,20000
-82,"VistaPharm, Inc. and Vertice Pharma UK Parent Limited",Manufacturer and distributor of generic pharmaceutical products,"Preferred shares (40,662 shares)",0,407,407
-83,"Young Innovations, Inc.",Dental supplies and equipment manufacturer,"Second lien senior secured loan ($45,000 par due 7/2019)",9.00% (Libor + 8.00%/Q),45000,45000
-84,American Residential Services L.L.C.,"Heating, ventilation and air conditioning services provider","Second lien senior secured loan ($50,000 par due 12/2021)",9.00% (Libor + 8.00%/Q),49600,50000
-85,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,"First lien senior secured loan ($13,949 par due 12/2017)",6.25% (Libor + 5.25%/Q),13949,13949
-86,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,First lien senior secured loan ($337 par due 12/2017),7.75% (Base Rate + 4.25%/Q),337,337
-87,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,"Second lien senior secured loan ($21,895 par due 6/2018)",15.42% (Libor + 15.00%/Q),21895,21895
-88,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,"Class A senior preferred units (7,846 units)",0,9384,9467
-89,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,"Class A junior preferred units (26,154 units)",0,20168,12080
-90,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,Class A common units (134 units),0,0,0
-91,"Competitor Group, Inc. and Calera XVI, LLC(25)",Endurance sports media and event operator,"First lien senior secured revolving loan ($4,950 par due 11/2018)",0,4950,3713
-92,"Competitor Group, Inc. and Calera XVI, LLC(25)",Endurance sports media and event operator,"First lien senior secured loan ($52,349 par due 11/2018)",0,52216,39262
-93,"Competitor Group, Inc. and Calera XVI, LLC(25)",Endurance sports media and event operator,"Membership units (2,522,512 units)",0,2523,0
-94,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",Provider of outsourced healthcare linen management solutions,First lien senior secured revolving loan ($500 par due 3/2019),7.25% (Libor + 6.00%/Q),500,500
-95,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",Provider of outsourced healthcare linen management solutions,"First lien senior secured loan ($23,371 par due 3/2019)",7.25% (Libor + 6.00%/Q),23371,23371
-96,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",Provider of outsourced healthcare linen management solutions,"Class A preferred units (2,475,000 units)",0,2475,3522
-97,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",Provider of outsourced healthcare linen management solutions,"Class B common units (275,000 units)",0,275,391
-98,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Senior subordinated loan ($31,500 par due 2/2020)",11.00%,31500,31500
-99,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Senior subordinated loan ($52,670 par due 2/2020)",11.00%,52670,52670
-100,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Common stock (32,843 shares)",0,3378,4113
-101,"Massage Envy, LLC(25)",Franchisor in the massage industry,"First lien senior secured loan ($8,017 par due 9/2018)",8.50% (Libor + 7.25%/Q),8017,8017
-102,"Massage Envy, LLC(25)",Franchisor in the massage industry,"First lien senior secured loan ($46,434 par due 9/2018)",8.50% (Libor + 7.25%/Q),46434,46434
-103,"Massage Envy, LLC(25)",Franchisor in the massage industry,"First lien senior secured loan ($19,469 par due 9/2018)",8.50% (Libor + 7.25%/Q),19469,19469
-104,"Massage Envy, LLC(25)",Franchisor in the massage industry,"Common stock (3,000,000 shares)",0,3000,5077
-105,"McKenzie Sports Products, LLC(25)","Designer, manufacturer and distributor of hunting-related supplies","First lien senior secured loan ($39,500 par due 9/2020)",6.75% (Libor + 5.75%/M),39500,37920
-106,"McKenzie Sports Products, LLC(25)","Designer, manufacturer and distributor of hunting-related supplies","First lien senior secured loan ($45,000 par due 9/2020)",6.75% (Libor + 5.75%/M),45000,43200
-107,"OpenSky Project, Inc. and OSP Holdings, Inc.",Social commerce platform operator,"First lien senior secured loan ($2,100 par due 9/2017)",10.00%,2083,2100
-108,"OpenSky Project, Inc. and OSP Holdings, Inc.",Social commerce platform operator,"Warrant to purchase up to 159,496 shares of Series D preferred stock",0,48,0
-109,"Osmose Holdings, Inc.",Provider of structural integrity management services to transmission and distribution infrastructure,"Second lien senior secured loan ($25,000 par due 8/2023)",8.75% (Libor + 7.75%/Q),24521,24250
-110,"PODS, LLC",Storage and warehousing,"Second lien senior secured loan ($17,500 par due 2/2023)",9.25% (Libor + 8.25%/Q),17343,17500
-111,Spin HoldCo Inc.,Laundry service and equipment provider,"Second lien senior secured loan ($140,000 par due 5/2020)",8.00% (Libor + 7.00%/Q),140000,131600
-112,"Surface Dive, Inc.",SCUBA diver training and certification provider,"Second lien senior secured loan ($53,686 par due 1/2022)",9.00% (Libor + 8.00%/Q),53686,53686
-113,"Surface Dive, Inc.",SCUBA diver training and certification provider,"Second lien senior secured loan ($72,000 par due 1/2022)",10.25% (Libor + 9.25%/Q),71612,72000
-114,"TWH Water Treatment Industries, Inc., TWH Filtration Industries, Inc. and TWH Infrastructure Industries, Inc.(25)","Wastewater infrastructure repair, treatment and filtration holding company","First lien senior secured loan ($2,240 par due 10/2019)",10.25% (Libor + 9.25%/Q),2240,2218
-115,"TWH Water Treatment Industries, Inc., TWH Filtration Industries, Inc. and TWH Infrastructure Industries, Inc.(25)","Wastewater infrastructure repair, treatment and filtration holding company","First lien senior secured loan ($36,400 par due 10/2019)",10.25% (Libor + 9.25%/Q),36400,36036
-116,"U.S. Security Associates Holdings, Inc",Security guard service provider,"Senior subordinated loan ($25,000 par due 7/2018)",11.00%,25000,25000
-117,WASH Multifamily Acquisition Inc. and Coinamatic Canada Inc.,Laundry service and equipment provider,"Second lien senior secured loan ($3,726 par due 5/2023)",8.00% (Libor + 7.00%/Q),3657,3540
-118,WASH Multifamily Acquisition Inc. and Coinamatic Canada Inc.,Laundry service and equipment provider,"Second lien senior secured loan ($21,274 par due 5/2023)",8.00% (Libor + 7.00%/Q),20880,20210
-119,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,"First lien senior secured loan ($4,500 par due 3/2019)",4.00% (Libor + 3.00%/Q),4500,4365
-120,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,"First lien senior secured loan ($9,500 par due 3/2019)",6.55% (Libor + 5.55%/Q),9500,9120
-121,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,"First lien senior secured loan ($6,742 par due 3/2019)",4.00% (Libor + 3.00%/Q),6742,6540
-122,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,"First lien senior secured loan ($50,100 par due 3/2019)",6.55% (Libor + 5.55%/Q),50100,48096
-123,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,Common units (373 units),0,3733,3390
-124,Indra Holdings Corp.,"Designer, marketer, and distributor of rain and cold weather products","Second lien senior secured loan ($80,000 par due 11/2021)",8.50% (Libor + 7.50%/Q),78987,72000
-125,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of OTC healthcare products,"Warrant to purchase up to 1,654,678 shares of common stock",0,0,505
-126,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of OTC healthcare products,"Warrant to purchase up to 1,120 shares of preferred stock",0,0,1342
-127,"Oak Parent, Inc.",Manufacturer of athletic apparel,"First lien senior secured loan ($2,586 par due 4/2018)",7.61% (Libor + 7.00%/Q),2582,2586
-128,"Oak Parent, Inc.",Manufacturer of athletic apparel,"First lien senior secured loan ($8,232 par due 4/2018)",7.61% (Libor + 7.00%/Q),8216,8232
-129,"PG-ACP Co-Invest, LLC","Supplier of medical uniforms, specialized medical footwear and accessories","Class A membership units (1,000,0000 units)",0,1000,1937
-130,"Plantation Products, LLC, Seed Holdings, Inc. and Flora Parent, Inc.",Provider of branded lawn and garden products,"Second lien senior secured loan ($66,000 par due 6/2021)",9.54% (Libor + 8.54%/Q),65683,66000
-131,"Plantation Products, LLC, Seed Holdings, Inc. and Flora Parent, Inc.",Provider of branded lawn and garden products,"Common stock (30,000 shares)",0,3000,4138
-132,SHO Holding I Corporation,Manufacturer and distributor of slip resistant footwear,"Second lien senior secured loan ($100,000 par due 4/2023)",9.50% (Libor + 8.50%/Q),97497,98000
-133,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)","Developer, marketer and distributor of sports protection equipment and accessories","Second lien senior secured loan ($89,425 par due 10/2021)",11.50% (Libor + 10.50%/Q),89425,89425
-134,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)","Developer, marketer and distributor of sports protection equipment and accessories","Class A preferred units (50,000 units)",0,5000,5299
-135,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)","Developer, marketer and distributor of sports protection equipment and accessories","Class C preferred units (50,000 units)",0,5000,5299
-136,The Hygenic Corporation,"Designer, manufacturer and marketer of branded wellness products","Second lien senior secured loan ($70,000 par due 4/2021)",9.75% (Libor + 8.75%/Q),70000,68600
-137,"The Step2 Company, LLC(8)",Toy manufacturer,"Second lien senior secured loan ($27,583 par due 9/2019)",10.00%,27484,27583
-138,"The Step2 Company, LLC(8)",Toy manufacturer,"Second lien senior secured loan ($4,500 par due 9/2019)",10.00%,4500,4500
-139,"The Step2 Company, LLC(8)",Toy manufacturer,"Second lien senior secured loan ($43,196 par due 9/2019)",0,30802,12527
-140,"The Step2 Company, LLC(8)",Toy manufacturer,"Common units (1,116,879 units)",0,24,0
-141,"The Step2 Company, LLC(8)",Toy manufacturer,"Class B common units (126,278,000 units)",0,0,0
-142,"The Step2 Company, LLC(8)",Toy manufacturer,"Warrant to purchase up to 3,157,895 units",0,0,0
-143,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.","Leading manufacturer and distributor of textiles, apparel & luxury goods","Second lien senior secured loan ($55,576 par due 12/2022)",9.75% (Libor + 8.75%/Q),55090,55576
-144,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.","Leading manufacturer and distributor of textiles, apparel & luxury goods","Second lien senior secured loan ($91,697 par due 12/2022)",9.75% (Libor + 8.75%/Q),90901,91697
-145,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.","Leading manufacturer and distributor of textiles, apparel & luxury goods","Common stock (3,353,370 shares)",0,3353,4372
-146,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.","Leading manufacturer and distributor of textiles, apparel & luxury goods","Common stock (3,353,371 shares)",0,4147,5406
-147,"Alphabet Energy, Inc.",Technology developer to convert waste-heat into electricity,"First lien senior secured loan ($3,900 par due 7/2017)",9.62%,3773,3900
-148,"Alphabet Energy, Inc.",Technology developer to convert waste-heat into electricity,"Series B preferred stock (74,449 shares)",0,250,400
-149,"Alphabet Energy, Inc.",Technology developer to convert waste-heat into electricity,"Warrant to purchase up to 59,524 units of Series B preferred stock",0,146,120
-150,Bicent (California) Holdings LLC,Gas turbine power generation facilities operator,"Senior subordinated loan ($49,507 par due 2/2021)",8.25% (Libor + 7.25%/Q),49507,49507
-151,"Brush Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($44,863 par due 8/2020)",6.25% (Libor + 5.25%/Q),44863,44863
-152,"Brush Power, LLC",Gas turbine power generation facilities operator,First lien senior secured loan ($500 par due 8/2020),7.75% (Base Rate + 4.25%/Q),500,500
-153,"Brush Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($2,271 par due 8/2020)",6.25% (Libor + 5.25%/Q),2271,2271
-154,"Brush Power, LLC",Gas turbine power generation facilities operator,First lien senior secured loan ($6 par due 8/2020),7.75% (Base Rate + 4.25%/Q),6,6
-155,"Brush Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($9,720 par due 8/2020)",6.25% (Libor + 5.25%/Q),9720,9720
-156,"Brush Power, LLC",Gas turbine power generation facilities operator,First lien senior secured loan ($108 par due 8/2020),7.75% (Base Rate + 4.25%/Q),108,108
-157,"CPV Maryland Holding Company II, LLC",Gas turbine power generation facilities operator,"Senior subordinated loan ($44,460 par due 12/2020)","5.00% Cash, 5.00% PIK",44460,41348
-158,"CPV Maryland Holding Company II, LLC",Gas turbine power generation facilities operator,Warrant to purchase up to 4 units of common stock,0,0,200
-159,"DESRI VI Management Holdings, LLC",Wind power generation facility operator,"Senior subordinated loan ($25,000 par due 12/2021)",9.75%,25000,25000
-160,"DESRI VI Management Holdings, LLC",Wind power generation facility operator,Non-Controlling units (10.0 units),0,1483,1378
-161,"Grant Wind Holdings II, LLC",Wind power generation facility,"Senior subordinated loan ($23,400 par due 7/2016)",10.00%,23400,23400
-162,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($25,000 par due 11/2021)",6.50% (Libor + 5.50%/Q),24753,23000
-163,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",Gas turbine power generation facilities operator,"Senior subordinated loan ($18,508 par due 12/2021)","8.00% Cash, 5.25% PIK",18508,17398
-164,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",Gas turbine power generation facilities operator,"Senior subordinated loan ($86,519 par due 12/2021)","8.00% Cash, 5.25% PIK",86519,81328
-165,"Joule Unlimited Technologies, Inc. and Stichting Joule Global Foundation(25)",Renewable fuel and chemical production developer,"First lien senior secured loan ($10,000 par due 10/2018)",10.00% (Libor + 9.00%/M),9881,10000
-166,"Joule Unlimited Technologies, Inc. and Stichting Joule Global Foundation(25)",Renewable fuel and chemical production developer,"Warrant to purchase up to 32,051 shares of Series C-2 preferred stock",0,0,13
-167,"La Paloma Generating Company, LLC","Natural gas fired, combined cycle plant operator","Second lien senior secured loan ($10,000 par due 2/2020)",0,9469,3000
-168,Moxie Liberty LLC,Gas turbine power generation facilities operator,"First lien senior secured loan ($35,000 par due 8/2020)",7.50% (Libor + 6.50%/Q),34714,33250
-169,Moxie Patriot LLC,Gas turbine power generation facilities operator,"First lien senior secured loan ($35,000 par due 12/2020)",6.75% (Libor + 5.75%/Q),34720,32550
-170,Panda Power Annex Fund Hummel Holdings II LLC,Gas turbine power generation facilities operator,"Senior subordinated loan ($73,566 par due 10/2016)",12.00% PIK,73068,73566
-171,"Panda Sherman Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($32,104 par due 9/2018)",9.00% (Libor + 7.50%/Q),32104,28893
-172,"Panda Temple Power II, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($20,000 par due 4/2019)",7.25% (Libor + 6.00%/Q),19887,17800
-173,"Panda Temple Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($24,813 par due 3/2022)",7.25% (Libor + 6.25%/Q),23654,22083
-174,PERC Holdings 1 LLC,"Operator of recycled energy, combined heat and power, and energy efficiency facilities","Class B common units (21,653,543 units)",0,21654,23299
-175,Cambrios Technologies Corporation,Nanotechnology-based solutions for electronic devices and computers,"Warrant to purchase up to 400,000 shares of Series D-4 convertible preferred stock",0,0,13
-176,"Chariot Acquisition, LLC(25)",Distributor and designer of aftermarket golf cart parts and accessories,"First lien senior secured loan ($59,318 par due 9/2021)",7.25% (Libor + 6.25%/Q),59318,59318
-177,"Component Hardware Group, Inc.(25)",Commercial equipment,"First lien senior secured revolving loan ($2,241 par due 7/2019)",5.50% (Libor + 4.50%/Q),2241,2218
-178,"Component Hardware Group, Inc.(25)",Commercial equipment,"First lien senior secured loan ($8,062 par due 7/2019)",5.50% (Libor + 4.50%/Q),8062,7982
-179,"Harvey Tool Company, LLC and Harvey Tool Holding, LLC(25)",Cutting tool provider to the metalworking industry,"Senior subordinated loan ($27,925 par due 9/2020)",11.00%,27925,27925
-180,"Harvey Tool Company, LLC and Harvey Tool Holding, LLC(25)",Cutting tool provider to the metalworking industry,Class A membership units (750 units),0,896,1444
-181,"Ioxus, Inc.",Energy storage devices,"First lien senior secured loan ($10,168 par due 11/2017)","10.00% Cash, 2.00% PIK",9957,8643
-182,"Ioxus, Inc.",Energy storage devices,"Warrant to purchase up to 717,751 shares of Series AA preferred stock",0,0,0
-183,KPS Global LLC,Walk-in cooler and freezer systems,"First lien senior secured loan ($50,000 par due 12/2020)",9.63% (Libor + 8.63%/Q),50000,50000
-184,"MacLean-Fogg Company and MacLean-Fogg Holdings, L.L.C.",Manufacturer and supplier for the power utility and automotive markets worldwide,"Senior subordinated loan ($96,992 par due 10/2025)","10.50% Cash, 3.00% PIK",96992,96992
-185,"MacLean-Fogg Company and MacLean-Fogg Holdings, L.L.C.",Manufacturer and supplier for the power utility and automotive markets worldwide,"Preferred units (70,183 units)","4.50% Cash, 9.25% PIK",70782,70782
-186,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","First lien senior secured loan ($14,164 par due 3/2019)",7.375% (Libor + 6.125%/Q),14164,14164
-187,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","First lien senior secured loan ($28,102 par due 3/2019)",9.375% (Libor + 8.125%/Q),28102,28102
-188,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","First lien senior secured loan ($19,879 par due 3/2019)",9.375% (Libor + 8.125%/Q),19879,19879
-189,Niagara Fiber Intermediate Corp.(25),Insoluble fiber filler products,"First lien senior secured revolving loan ($1,881 par due 5/2018)",6.75% (Libor + 5.50%/Q),1870,1505
-190,Niagara Fiber Intermediate Corp.(25),Insoluble fiber filler products,"First lien senior secured loan ($1,430 par due 5/2018)",6.75% (Libor + 5.50%/Q),1421,1144
-191,Niagara Fiber Intermediate Corp.(25),Insoluble fiber filler products,"First lien senior secured loan ($13,649 par due 5/2018)",6.75% (Libor + 5.50%/Q),13567,10919
-192,Nordco Inc.(25),Railroad maintenance-of-way machinery,"First lien senior secured revolving loan ($3,750 par due 8/2020)",8.75% (Base Rate + 5.25%/Q),3750,3713
-193,Nordco Inc.(25),Railroad maintenance-of-way machinery,"First lien senior secured loan ($70,250 par due 8/2020)",7.25% (Libor + 6.25%/Q),70250,69548
-194,Nordco Inc.(25),Railroad maintenance-of-way machinery,First lien senior secured loan ($188 par due 8/2020),8.75% (Base Rate + 5.25%/Q),188,186
-195,"Pelican Products, Inc.",Flashlights,"Second lien senior secured loan ($40,000 par due 4/2021)",9.25% (Libor + 8.25%/Q),39955,38400
-196,Saw Mill PCG Partners LLC,Metal precision engineered components,"Common units (1,000 units)",0,1000,0
-197,"SI Holdings, Inc.","Elastomeric parts, mid-sized composite structures, and composite tooling","Common stock (1,500 shares)",0,1500,1483
-198,TPTM Merger Corp.(25),Time temperature indicator products,First lien senior secured revolving loan ($750 par due 9/2018),7.25% (Libor + 6.25%/Q),750,743
-199,TPTM Merger Corp.(25),Time temperature indicator products,"First lien senior secured loan ($22,000 par due 9/2018)",9.42% (Libor + 8.42%/Q),22000,21780
-200,TPTM Merger Corp.(25),Time temperature indicator products,"First lien senior secured loan ($10,000 par due 9/2018)",9.42% (Libor + 8.42%/Q),10000,9900
-201,2329497 Ontario Inc.(9),Outsourced data center infrastructure and related services provider,"Second lien senior secured loan ($42,480 par due 6/2019)",10.50% (Libor + 9.25%/M),43096,26023
-202,Brandtone Holdings Limited(9)(25),Mobile communications and marketing services provider,"First lien senior secured loan ($5,674 par due 11/2018)",9.50% (Libor + 8.50%/M),5532,5674
-203,Brandtone Holdings Limited(9)(25),Mobile communications and marketing services provider,"First lien senior secured loan ($3,296 par due 1/2019)",9.50% (Libor + 8.50%/M),3209,3296
-204,Brandtone Holdings Limited(9)(25),Mobile communications and marketing services provider,"Warrant to purchase up to 115,002 units of Series Three participating convertible preferred ordinary shares",0,0,1
-205,"CallMiner, Inc.",Provider of cloud-based conversational analytics solutions,"First lien senior secured loan ($3,515 par due 5/2018)",10.00%,3499,3515
-206,"CallMiner, Inc.",Provider of cloud-based conversational analytics solutions,"First lien senior secured loan ($1,939 par due 9/2018)",10.00%,1929,1939
-207,"CallMiner, Inc.",Provider of cloud-based conversational analytics solutions,"Warrant to purchase up to 2,350,636 shares of Series 1 preferred stock",0,0,0
-208,"CIBT Holdings, Inc. and CIBT Investment Holdings, LLC(25)",Expedited travel document processing services,"Class A shares (2,500 shares)",0,2500,4563
-209,"CMW Parent LLC (fka Black Arrow, Inc.)",Multiplatform media firm,Series A units (32 units),0,0,0
-210,"Command Alkon, Incorporated and CA Note Issuer, LLC",Software solutions provider to the ready-mix concrete industry,"Second lien senior secured loan ($10,000 par due 8/2020)",9.25% (Libor + 8.25%/Q),10000,10000
-211,"Command Alkon, Incorporated and CA Note Issuer, LLC",Software solutions provider to the ready-mix concrete industry,"Second lien senior secured loan ($11,500 par due 8/2020)",9.25% (Libor + 8.25%/Q),11500,11500
-212,"Command Alkon, Incorporated and CA Note Issuer, LLC",Software solutions provider to the ready-mix concrete industry,"Second lien senior secured loan ($26,500 par due 8/2020)",9.25% (Libor + 8.25%/Q),26500,26500
-213,"Command Alkon, Incorporated and CA Note Issuer, LLC",Software solutions provider to the ready-mix concrete industry,"Senior subordinated loan ($20,301 par due 8/2021)",14.00% PIK,20301,20301
-214,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class A-1 common stock (4,132 units)",0,2250,2038
-215,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class B-1 common stock (4,132 units)",0,450,408
-216,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class C-1 common stock (4,132 units)",0,300,272
-217,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class A-2 common stock (4,132 units)",0,0,0
-218,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class B-2 common stock (4,132 units)",0,0,0
-219,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class C-2 common stock (4,132 units)",0,0,0
-220,"Directworks, Inc. and Co-Exprise Holdings, Inc.(25)",Provider of cloud-based software solutions for direct materials sourcing and supplier management for manufacturers,"First lien senior secured loan ($2,333 par due 4/2018)",10.25% (Libor + 9.25%/M),2333,2287
-221,"Directworks, Inc. and Co-Exprise Holdings, Inc.(25)",Provider of cloud-based software solutions for direct materials sourcing and supplier management for manufacturers,"Warrant to purchase up to 1,875,000 shares of Series 1 preferred stock",0,0,0
-222,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",Provider of legal process outsourcing and managed services,First lien senior secured loan ($990 par due 8/2020),5.75% (Libor + 4.75%/Q),990,950
-223,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",Provider of legal process outsourcing and managed services,"Class A common stock (7,500 shares)",0,7500,6361
-224,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",Provider of legal process outsourcing and managed services,"Class B common stock (7,500 shares)",0,0,0
-225,"EN Engineering, L.L.C.(25)","Engineering and consulting services to natural gas, electric power and other energy & industrial end markets","First lien senior secured loan ($2,568 par due 6/2021)",8.50% (Base Rate + 5.00%/Q),2568,2568
-226,"EN Engineering, L.L.C.(25)","Engineering and consulting services to natural gas, electric power and other energy & industrial end markets","First lien senior secured loan ($22,368 par due 6/2021)",7.00% (Libor + 6.00%/Q),22229,22368
-227,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"First lien senior secured revolving loan ($2,000 par due 11/2017)",7.75% (Base Rate + 4.25%/Q),2000,2000
-228,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"First lien senior secured loan ($4,000 par due 5/2019)",9.75% (Libor + 8.75%/Q),3932,4000
-229,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"First lien senior secured loan ($3,000 par due 12/2019)",9.75% (Libor + 8.75%/Q),3000,3000
-230,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"Warrant to purchase up to 1,481 shares of Series A preferred stock",0,0,0
-231,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"Warrant to purchase up to 2,037 shares of Series A preferred stock",0,93,147
-232,"First Insight, Inc.",Software company providing merchandising and pricing solutions to companies worldwide,"Warrant to purchase up to 122,827 units of Series C preferred stock",0,0,13
-233,"HCPro, Inc. and HCP Acquisition Holdings, LLC(8)",Healthcare compliance advisory services,"Senior subordinated loan ($9,810 par due 5/2015)",0,2691,0
-234,"HCPro, Inc. and HCP Acquisition Holdings, LLC(8)",Healthcare compliance advisory services,"Class A units (14,293,110 units)",0,12793,0
-235,"iControl Networks, Inc. and uControl Acquisition, LLC",Software and services company for the connected home market,"Second lien senior secured loan ($20,000 par due 3/2019)",9.50% (Libor + 8.50%/Q),19684,20075
-236,"iControl Networks, Inc. and uControl Acquisition, LLC",Software and services company for the connected home market,"Warrant to purchase up to 385,616 shares of Series D preferred stock",0,0,173
-237,IfByPhone Inc.,Voice-based marketing automation software provider,"Warrant to purchase up to 124,300 shares of Series C preferred stock",0,88,71
-238,Interactions Corporation,Developer of a speech recognition software based customer interaction system,"Second lien senior secured loan ($2,500 par due 7/2019)",9.85% (Libor + 8.85%/Q),2196,2500
-239,Interactions Corporation,Developer of a speech recognition software based customer interaction system,"Second lien senior secured loan ($22,500 par due 7/2019)",9.85% (Libor + 8.85%/Q),22155,22500
-240,Interactions Corporation,Developer of a speech recognition software based customer interaction system,"Warrant to purchase up to 68,187 shares of Series G-3 convertible preferred stock",0,303,303
-241,"Investor Group Services, LLC(7)",Business consulting for private equity and corporate clients,Limited liability company membership interest (5.17% interest),0,0,360
-242,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"First lien senior secured loan ($11,970 par due 8/2022)",8.25% (Libor + 7.25%/Q),11970,11970
-243,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"First lien senior secured loan ($44,888 par due 8/2022)",8.25% (Libor + 7.25%/Q),44888,44888
-244,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"First lien senior secured loan ($14,963 par due 8/2022)",8.25% (Libor + 7.25%/Q),14963,14963
-245,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"Preferred stock (1,485 shares)",0,1485,1912
-246,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"Common stock (647,542 shares)",0,15,0
-247,"IronPlanet, Inc.",Online auction platform provider for used heavy equipment,"Warrant to purchase to up to 133,333 shares of Series C preferred stock",0,214,214
-248,"Itel Laboratories, Inc.(25)",Data services provider for building materials to property insurance industry,"Preferred units (1,798,391 units)",0,1000,1183
-249,"Market Track Holdings, LLC",Business media consulting services company,"Preferred stock (1,685 shares)",0,2221,2362
-250,"Market Track Holdings, LLC",Business media consulting services company,"Common stock (16,251 shares)",0,2221,2304
-251,"Maximus Holdings, LLC",Provider of software simulation tools and related services,"Warrant to purchase up to 1,050,013 shares of common stock",0,0,0
-252,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",Software and payment services provider to faith-based institutions,"First lien senior secured loan ($1,571 par due 11/2021)",5.25% (Libor + 4.25%/Q),1571,1571
-253,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",Software and payment services provider to faith-based institutions,"First lien senior secured loan ($16,688 par due 11/2021)",10.75% (Libor + 9.75%/Q),16688,16688
-254,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",Software and payment services provider to faith-based institutions,"First lien senior secured loan ($34,250 par due 11/2021)",10.75% (Libor + 9.75%/Q),33912,34250
-255,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",Software and payment services provider to faith-based institutions,"Class A common units (2,000,000 units)",0,2000,2000
-256,"Multi-Ad Services, Inc.(7)",Marketing services and software provider,"Preferred units (1,725,280 units)",0,0,404
-257,"Multi-Ad Services, Inc.(7)",Marketing services and software provider,"Common units (1,725,280 units)",0,0,0
-258,"MVL Group, Inc.(8)",Marketing research provider,Senior subordinated loan ($441 par due 7/2012),0,226,226
-259,"MVL Group, Inc.(8)",Marketing research provider,"Common stock (560,716 shares)",0,0,0
-260,"NAS, LLC, Nationwide Marketing Group, LLC and Nationwide Administrative Services, Inc.","Buying and marketing services organization for appliance, furniture and consumer electronics dealers","Second lien senior secured loan ($24,100 par due 12/2021)",9.75% (Libor + 8.75%/Q),24100,23136
-261,"PHL Investors, Inc., and PHL Holding Co.(8)",Mortgage services,Class A common stock (576 shares),0,3768,0
-262,Poplicus Incorporated,Business intelligence and market analytics platform provider,"First lien senior secured loan ($5,000 par due 7/2019)",8.50% (Libor + 7.50%/M),4759,4900
-263,Poplicus Incorporated,Business intelligence and market analytics platform provider,"Warrant to purchase up to 2,402,991 shares of Series C preferred stock",0,125,125
-264,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",Fixed asset financial management software provider,"Second lien senior secured loan ($30,000 par due 2/2023)",10.75% (Libor + 9.75%/Q),29742,30000
-265,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",Fixed asset financial management software provider,"Second lien senior secured loan ($50,000 par due 2/2023)",10.75% (Libor + 9.75%/Q),49557,50000
-266,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",Fixed asset financial management software provider,"Class A common stock (1,980 shares)",0,1980,2592
-267,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",Fixed asset financial management software provider,"Class B common stock (989,011 shares)",0,20,26
-268,"Powersport Auctioneer Holdings, LLC",Powersport vehicle auction operator,"Common units (1,972 units)",0,1000,1130
-269,R2 Acquisition Corp.,Marketing services,"Common stock (250,000 shares)",0,250,235
-270,Rocket Fuel Inc.,Provider of open and integrated software for digital marketing optimization,"Common stock (11,405 units)",0,40,20
-271,Sonian Inc.,Cloud-based email archiving platform,"First lien senior secured loan ($7,500 par due 9/2019)",9.00% (Libor + 8.00%/M),7308,7350
-272,Sonian Inc.,Cloud-based email archiving platform,"Warrant to purchase up to 169,045 shares of Series C preferred stock",0,93,93
-273,"Talari Networks, Inc.",Networking equipment provider,"First lien senior secured loan ($6,000 par due 12/2018)",9.75% (Libor + 8.75%/M),5901,6000
-274,"Talari Networks, Inc.",Networking equipment provider,"Warrant to purchase up to 421,052 shares of Series D-1 preferred stock",0,50,50
-275,"TraceLink, Inc.(25)",Supply chain management software provider for the pharmaceutical industry,"First lien senior secured loan ($4,500 par due 1/2019)",8.50% (Libor + 7.00%/M),4413,4500
-276,"TraceLink, Inc.(25)",Supply chain management software provider for the pharmaceutical industry,"Warrant to purchase up to 283,353 shares of Series A-2 preferred stock",0,146,1041
-277,Velocity Holdings Corp.,Hosted enterprise resource planning application management services provider,"Common units (1,713,546 units)",0,4503,2966
-278,WorldPay Group PLC(9),Payment processing provider,"C2 shares (73,974 shares)",0,11,44
-279,WorldPay Group PLC(9),Payment processing provider,"Ordinary shares (1,310,386 shares)",0,1128,5931
-280,"AllBridge Financial, LLC(8)",Asset management services,Equity interests,0,1140,8037
-281,Callidus Capital Corporation(8),Asset management services,Common stock (100 shares),0,3000,1670
-282,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,"First lien senior secured revolving loan ($14,000 par due 12/2016)",6.00%,14000,14000
-283,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,First lien senior secured loan ($500 par due 12/2016),12.00%,500,500
-284,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,"First lien senior secured loan ($5,000 par due 12/2016)",12.00%,5000,5000
-285,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,"First lien senior secured loan ($2,500 par due 12/2016)",12.00%,2500,2500
-286,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,Equity interests,0,38974,20835
-287,"Commercial Credit Group, Inc.",Commercial equipment finance and leasing company,"Senior subordinated loan ($28,000 par due 5/2018)",12.75%,28000,28000
-288,Gordian Acquisition Corp.,Financial services firm,Common stock (526 shares),0,0,0
-289,Imperial Capital Group LLC,Investment services,"Class A common units (40,440 units)",0,9832,14376
-290,Imperial Capital Group LLC,Investment services,"2006 Class B common units (13,249 units)",0,2,3
-291,Imperial Capital Group LLC,Investment services,"2007 Class B common units (1,652 units)",0,0,0
-292,"Ivy Hill Asset Management, L.P.(8)(10)",Asset management services,Member interest (100.00% interest),0,170961,235526
-293,"Javlin Three LLC, Javlin Four LLC, and Javlin Five LLC(10)(25)",Asset-backed financial services,"First lien senior secured revolving loan ($50,960 par due 6/2017)",8.48% (Libor + 8.25%/M),50960,50960
-294,"LSQ Funding Group, L.C. and LM LSQ Investors LLC(10)(25)",Asset based lender,"Senior subordinated loan ($30,000 par due 6/2021)",10.50%,30000,30000
-295,"LSQ Funding Group, L.C. and LM LSQ Investors LLC(10)(25)",Asset based lender,"Membership units (3,000,000 units)",0,3000,2966
-296,Campus Management Corp. and Campus Management Acquisition Corp.(7),Education software developer,"Preferred stock (485,159 shares)",0,10520,9315
-297,"Infilaw Holding, LLC(25)",Operator of for-profit law schools,First lien senior secured revolving loan,0,0,0
-298,"Infilaw Holding, LLC(25)",Operator of for-profit law schools,"First lien senior secured loan ($3,626 par due 8/2016)",9.50% (Libor + 8.50%/Q),3626,3626
-299,"Infilaw Holding, LLC(25)",Operator of for-profit law schools,"Series A preferred units (124,890 units)",9.50% (Libor + 8.50%/Q),124890,113650
-300,"Infilaw Holding, LLC(25)",Operator of for-profit law schools,Series B preferred units (3.91 units),0,9245,9765
-301,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,"First lien senior secured loan ($1,670 par due 12/2018)",10.50% (Libor + 9.00%/Q),1670,1670
-302,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,"Senior preferred series A-1 shares (163,902 shares)",0,119422,99514
-303,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,"Series B preferred stock (1,750,000 shares)",0,5000,0
-304,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,"Series C preferred stock (2,512,586 shares)",0,689,0
-305,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,Common stock (20 shares),0,0,0
-306,"Lakeland Tours, LLC",Educational travel provider,"First lien senior secured loan ($30,750 par due 6/2020)",9.77% (Libor + 8.77%/Q),30750,30750
-307,"Lakeland Tours, LLC",Educational travel provider,"First lien senior secured loan ($43,967 par due 6/2020)",9.77% (Libor + 8.77%/Q),43960,43967
-308,"Lakeland Tours, LLC",Educational travel provider,"First lien senior secured loan ($40,362 par due 6/2020)",9.77% (Libor + 8.77%/Q),40334,40362
-309,"Lakeland Tours, LLC",Educational travel provider,"Common stock (5,000 shares)",0,5000,9742
-310,PIH Corporation(25),Franchisor of education-based early childhood centers,First lien senior secured revolving loan ($621 par due 12/2018),7.00% (Libor + 6.00%/Q),621,621
-311,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"Preferred stock (1,977 shares)",0,494,494
-312,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,Common membership interest (15.76% interest),0,15800,25890
-313,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"Warrant to purchase up to 27,890 shares",0,0,0
-314,"Regent Education, Inc.(25)",Provider of software solutions designed to optimize the financial aid and enrollment processes,"First lien senior secured revolving loan ($1,000 par due 7/2016)",10.00% (Libor + 8.00%/Q),1000,960
-315,"Regent Education, Inc.(25)",Provider of software solutions designed to optimize the financial aid and enrollment processes,"First lien senior secured loan ($3,000 par due 1/2018)",10.00% (Libor + 8.00%/Q),2927,2880
-316,"Regent Education, Inc.(25)",Provider of software solutions designed to optimize the financial aid and enrollment processes,"Warrant to purchase up to 987,771 shares of Series CC preferred stock",0,0,62
-317,"Severin Acquisition, LLC(25)",Provider of student information system software solutions to the K-12 education market,"Second lien senior secured loan ($4,154 par due 7/2022)",9.75% (Libor + 8.75%/Q),4073,4071
-318,"Severin Acquisition, LLC(25)",Provider of student information system software solutions to the K-12 education market,"Second lien senior secured loan ($15,000 par due 7/2022)",9.25% (Libor + 8.25%/Q),14718,14550
-319,"WCI-Quantum Holdings, Inc.","Distributor of instructional products, services and resources","Series A preferred stock (1,272 shares)",0,1000,1206
-320,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",Restaurant owner and operator,"First lien senior secured loan ($28,581 par due 12/2018)",9.25% (Libor + 8.25%/Q),28581,25151
-321,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",Restaurant owner and operator,"First lien senior secured loan ($10,919 par due 12/2018)",9.25% (Libor + 8.25%/Q),10922,9609
-322,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",Restaurant owner and operator,"Promissory note ($21,972 par due 12/2023)",0,13770,1641
-323,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",Restaurant owner and operator,"Warrant to purchase up to 23,750 units of Series D common stock",0,24,0
-324,"Benihana, Inc.(25)",Restaurant owner and operator,First lien senior secured revolving loan ($969 par due 7/2018),8.25% (Base Rate + 4.75%/Q),969,921
-325,"Benihana, Inc.(25)",Restaurant owner and operator,"First lien senior secured loan ($4,839 par due 1/2019)",7.25% (Libor + 6.00%/Q),4839,4597
-326,"DineInFresh, Inc.",Meal-delivery provider,"First lien senior secured loan ($7,500 par due 7/2018)",9.75% (Libor + 8.75%/M),7438,7500
-327,"DineInFresh, Inc.",Meal-delivery provider,"Warrant to purchase up to 143,079 shares of Series A preferred stock",0,0,4
-328,Garden Fresh Restaurant Corp.(25),Restaurant owner and operator,"First lien senior secured revolving loan ($1,100 par due 7/2018)",10.50% (Libor + 9.00%/Q),1100,1100
-329,Garden Fresh Restaurant Corp.(25),Restaurant owner and operator,"First lien senior secured loan ($40,688 par due 7/2018)",10.50% (Libor + 9.00%/Q),40688,40688
-330,"Global Franchise Group, LLC and GFG Intermediate Holding, Inc.",Worldwide franchisor of quick service restaurants,"First lien senior secured loan ($62,500 par due 12/2019)",10.53% (Libor + 9.53%/Q),62500,62500
-331,"Heritage Food Service Group, Inc. and WCI-HFG Holdings, LLC",Distributor of replacement parts for commercial kitchen equipment,"Second lien senior secured loan ($31,645 par due 10/2022)",9.50% (Libor + 8.50%/Q),31645,31012
-332,"Heritage Food Service Group, Inc. and WCI-HFG Holdings, LLC",Distributor of replacement parts for commercial kitchen equipment,"Preferred units (3,000,000 units)",0,3000,3000
-333,"Orion Foods, LLC(8)",Convenience food service retailer,"First lien senior secured loan ($7,536 par due 9/2015)",0,7536,3699
-334,"Orion Foods, LLC(8)",Convenience food service retailer,"Second lien senior secured loan ($19,420 par due 9/2015)",0,0,0
-335,"Orion Foods, LLC(8)",Convenience food service retailer,"Preferred units (10,000 units)",0,0,0
-336,"Orion Foods, LLC(8)",Convenience food service retailer,"Class A common units (25,001 units)",0,0,0
-337,"Orion Foods, LLC(8)",Convenience food service retailer,"Class B common units (1,122,452 units)",0,0,0
-338,"OTG Management, LLC(25)",Airport restaurant operator,"First lien senior secured revolving loan ($2,300 par due 12/2017)",8.75% (Libor + 7.25%/Q),2300,2300
-339,"OTG Management, LLC(25)",Airport restaurant operator,"First lien senior secured loan ($10,756 par due 12/2017)",8.75% (Libor + 7.25%/Q),10756,10756
-340,"OTG Management, LLC(25)",Airport restaurant operator,"First lien senior secured loan ($22,101 par due 12/2017)",8.75% (Libor + 7.25%/Q),22101,22101
-341,"OTG Management, LLC(25)",Airport restaurant operator,"First lien senior secured loan ($24,688 par due 12/2017)",8.75% (Libor + 7.25%/Q),24688,24688
-342,"OTG Management, LLC(25)",Airport restaurant operator,"Common units (3,000,000 units)",0,3000,11451
-343,"OTG Management, LLC(25)",Airport restaurant operator,Warrant to purchase up to 7.73% of common units,0,100,22843
-344,"Restaurant Holding Company, LLC",Fast food restaurant operator,"First lien senior secured loan ($36,309 par due 2/2019)",8.75% (Libor + 7.75%/Q),36076,35219
-345,"Lonestar Prospects, Ltd.",Sand proppant producer and distributor to the oil and natural gas industry,"First lien senior secured loan ($25,286 par due 9/2018)","8.50% (Libor + 6.50% Cash, 1.00% PIK/Q)",25286,24022
-346,"Lonestar Prospects, Ltd.",Sand proppant producer and distributor to the oil and natural gas industry,"First lien senior secured loan ($49,343 par due 9/2018)","8.50% (Libor + 6.50% Cash, 1.00% PIK/Q)",49343,46876
-347,Petroflow Energy Corporation,Oil and gas exploration and production company,"First lien senior secured loan ($52,539 par due 7/2017)",0,49269,19807
-348,Primexx Energy Corporation,Privately-held oil and gas exploration and production company,"Second lien senior secured loan ($125,000 par due 1/2020)",10.00% (Libor + 9.00%/M),124524,116250
-349,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Second lien senior secured loan ($12,099 par due 12/2016)",0,9,10
-350,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Second lien senior secured loan ($51,314 par due 12/2016)",0,37043,42295
-351,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Second lien senior secured loan ($5,971 par due 12/2016)",0,4272,4921
-352,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Class A common units (533,351 units)",0,4993,0
-353,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Class B-5 common units (272,834 units)",0,2492,0
-354,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Class C common units (758,546 units)",0,0,0
-355,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 654,045 shares of Class A units",0,0,0
-356,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 26,072 shares of Class B-1 units",0,0,0
-357,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 52,143 shares of Class B-2 units",0,0,0
-358,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 26,965 shares of Class B-3 units",0,0,0
-359,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 73,106 shares of Class B-5 units",0,0,0
-360,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 54,263 shares of Class B-6 units",0,0,0
-361,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Warrant to purchase up to 952,095 shares of Class C units",0,0,0
-362,"Charter NEX US Holdings, Inc.",Producer of high-performance specialty films used in flexible packaging,"Second lien senior secured loan ($16,000 par due 2/2023)",9.25% (Libor + 8.25%/Q),15787,15680
-363,"GS Pretium Holdings, Inc.",Manufacturer and supplier of high performance plastic containers,"Common stock (500,000 shares)",0,500,479
-364,"ICSH, Inc.(25)","Industrial container manufacturer, reconditioner and servicer",First lien senior secured revolving loan,0,0,0
-365,"ICSH, Inc.(25)","Industrial container manufacturer, reconditioner and servicer","Second lien senior secured loan ($66,000 par due 12/2019)",10.00% (Libor + 9.00%/Q),66000,66000
-366,LBP Intermediate Holdings LLC(25),Manufacturer of paper and corrugated foodservice packaging,First lien senior secured revolving loan,0,0,0
-367,LBP Intermediate Holdings LLC(25),Manufacturer of paper and corrugated foodservice packaging,"First lien senior secured loan ($24,425 par due 7/2020)",6.50% (Libor + 5.50%/Q),24153,24425
-368,LBP Intermediate Holdings LLC(25),Manufacturer of paper and corrugated foodservice packaging,First lien senior secured loan ($193 par due 7/2020),8.00% (Base Rate + 4.50%/Q),191,193
-369,"Microstar Logistics LLC, Microstar Global Asset Management LLC, and MStar Holding Corporation",Keg management solutions provider,"Second lien senior secured loan ($142,500 par due 12/2018)",8.50% (Libor + 7.50%/Q),142500,142500
-370,"Microstar Logistics LLC, Microstar Global Asset Management LLC, and MStar Holding Corporation",Keg management solutions provider,"Common stock (50,000 shares)",0,3951,7270
-371,American Seafoods Group LLC and American Seafoods Partners LLC(25),Harvester and processor of seafood,"First lien senior secured loan ($19,850 par due 8/2021)",6.00% (Libor + 5.00%/Q),19598,19652
-372,American Seafoods Group LLC and American Seafoods Partners LLC(25),Harvester and processor of seafood,"Second lien senior secured loan ($55,000 par due 2/2022)",10.00% (Libor + 9.00%/Q),55000,53900
-373,American Seafoods Group LLC and American Seafoods Partners LLC(25),Harvester and processor of seafood,"Class A units (77,922 units)",0,78,75
-374,American Seafoods Group LLC and American Seafoods Partners LLC(25),Harvester and processor of seafood,"Warrant to purchase up to 7,422,078 Class A units",0,7422,7160
-375,Eagle Family Foods Group LLC,Manufacturer and producer of milk products,"First lien senior secured loan ($64,775 par due 12/2021)",10.05% (Libor + 9.05%/Q),64277,64775
-376,GF Parent LLC,"Producer of low-acid, aseptic food and beverage products","Class A preferred units (2,940 units)",0,2940,2433
-377,GF Parent LLC,"Producer of low-acid, aseptic food and beverage products","Class A common units (59,999.74 units)",0,60,0
-378,"Kettle Cuisine, LLC",Manufacturer of fresh refrigerated and frozen food products,"Second lien senior secured loan ($28,500 par due 2/2022)",10.50% (Libor + 9.50%/Q),28500,28500
-379,"KeyImpact Holdings, Inc. and JWC/KI Holdings, LLC(25)",Foodservice sales and marketing agency,"First lien senior secured loan ($46,250 par due 11/2021)",7.13% (Libor + 6.13%/Q),46250,45788
-380,"KeyImpact Holdings, Inc. and JWC/KI Holdings, LLC(25)",Foodservice sales and marketing agency,"Membership units (5,000 units)",0,5000,5000
-381,"AEP Holdings, Inc. and Arrowhead Holdco Company","Distributor of non-discretionary, mission-critical aftermarket replacement parts","First lien senior secured loan ($45,346 par due 8/2021)",7.25% (Libor + 6.25%/Q),45346,44893
-382,"AEP Holdings, Inc. and Arrowhead Holdco Company","Distributor of non-discretionary, mission-critical aftermarket replacement parts",First lien senior secured loan ($904 par due 8/2021),8.75% (Base Rate + 5.25%/Q),904,895
-383,"AEP Holdings, Inc. and Arrowhead Holdco Company","Distributor of non-discretionary, mission-critical aftermarket replacement parts","Common stock (2,500 shares)",0,2500,2518
-384,"ChargePoint, Inc.",Developer and operator of electric vehicle charging stations,"First lien senior secured loan ($10,000 par due 7/2019)",9.75% (Libor + 8.75%/M),9821,10000
-385,"ChargePoint, Inc.",Developer and operator of electric vehicle charging stations,"First lien senior secured loan ($10,000 par due 1/2019)",9.75% (Libor + 8.75%/M),9567,10000
-386,"ChargePoint, Inc.",Developer and operator of electric vehicle charging stations,"Warrant to purchase up to 404,563 shares of Series E preferred stock",0,327,327
-387,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",Automotive reconditioning services,"Second lien senior secured loan ($50,000 par due 10/2020)",10.25% (Libor + 9.25%/Q),50000,50000
-388,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",Automotive reconditioning services,"Class A Common Stock (10,000 shares)",0,333,456
-389,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",Automotive reconditioning services,"Class B Common Stock (20,000 shares)",0,667,911
-390,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"First lien senior secured revolving loan ($2,000 par due 7/2017)",8.50% (Base Rate + 5.00%/Q),2000,1940
-391,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"First lien senior secured loan ($7,054 par due 7/2017)",7.25% (Libor + 6.00%/Q),7054,6842
-392,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"First lien senior secured loan ($26,581 par due 7/2017)",7.25% (Libor + 6.00%/Q),26581,25784
-393,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"Series A preferred stock (1,800 shares)",0,1800,0
-394,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"Common stock (20,000 shares)",0,200,0
-395,"EcoMotors, Inc.",Engine developer,"First lien senior secured loan ($11,480 par due 3/2018)",11.00%,10855,11480
-396,"EcoMotors, Inc.",Engine developer,"Warrant to purchase up to 321,888 shares of Series C preferred stock",0,0,347
-397,"EcoMotors, Inc.",Engine developer,"Warrant to purchase up to 70,000 shares of Series C preferred stock",0,0,0
-398,"Simpson Performance Products, Inc.",Provider of motorsports safety equipment,"First lien senior secured loan ($5,006 par due 2/2020)",9.80% (Libor + 8.80%/Q),5006,5006
-399,"Simpson Performance Products, Inc.",Provider of motorsports safety equipment,"First lien senior secured loan ($19,500 par due 2/2020)",9.80% (Libor + 8.80%/Q),19500,19500
-400,"SK SPV IV, LLC",Collision repair site operators,"Series A common stock (12,500 units)",0,571,2679
-401,"SK SPV IV, LLC",Collision repair site operators,"Series B common stock (12,500 units)",0,571,2679
-402,"TA THI Buyer, Inc. and TA THI Parent, Inc.",Collision repair company,"Series A preferred stock (50,000 shares)",0,5000,9297
-403,"10th Street, LLC and New 10th Street, LLC(8)",Real estate holding company,"First lien senior secured loan ($25,320 par due 11/2019)","7.00% Cash, 1.00% PIK",25320,25320
-404,"10th Street, LLC and New 10th Street, LLC(8)",Real estate holding company,"Senior subordinated loan ($27,235 par due 11/2019)","7.00% Cash, 1.00% PIK",27235,27235
-405,"10th Street, LLC and New 10th Street, LLC(8)",Real estate holding company,Member interest (10.00% interest),0,594,44520
-406,"10th Street, LLC and New 10th Street, LLC(8)",Real estate holding company,"Option (25,000 units)",0,25,25
-407,"Commons R-3, LLC",Real estate developer,Real estate equity interests,0,0,135
-408,"Crescent Hotels & Resorts, LLC and affiliates(8)",Hotel operator,"Senior subordinated loan ($2,236 par due 9/2011)",15.00%,0,2670
-409,"Crescent Hotels & Resorts, LLC and affiliates(8)",Hotel operator,Common equity interest,0,0,0
-410,"Genomatica, Inc.",Developer of a biotechnology platform for the production of chemical products,"Warrant to purchase 322,422 shares of Series D preferred stock",0,0,6
-411,"K2 Pure Solutions Nocal, L.P.(25)",Chemical Producer,"First lien senior secured revolving loan ($5,000 par due 8/2019)",9.125% (Libor + 8.125%/M),5000,4900
-412,"K2 Pure Solutions Nocal, L.P.(25)",Chemical Producer,"First lien senior secured loan ($20,694 par due 8/2019)",8.00% (Libor + 7.00%/M),20694,20280
-413,"K2 Pure Solutions Nocal, L.P.(25)",Chemical Producer,"First lien senior secured loan ($38,500 par due 8/2019)",8.00% (Libor + 7.00%/M),38500,37730
-414,"K2 Pure Solutions Nocal, L.P.(25)",Chemical Producer,"First lien senior secured loan ($19,250 par due 8/2019)",8.00% (Libor + 7.00%/M),19250,18865
-415,"Kinestral Technologies, Inc.","Designer of adaptive, dynamic glass for the commercial and residential markets","First lien senior secured loan ($10,000 par due 10/2018)",8.75% (Libor + 7.75%/M),9856,10000
-416,"Kinestral Technologies, Inc.","Designer of adaptive, dynamic glass for the commercial and residential markets","Warrant to purchase up to 325,000 shares of Series A preferred stock",0,73,151
-417,"Kinestral Technologies, Inc.","Designer of adaptive, dynamic glass for the commercial and residential markets","Warrant to purchase up to 131,883 shares of Series B preferred stock",0,0,0
-418,"Liquid Light, Inc.",Developer and licensor of process technology for the conversion of carbon dioxide into major chemicals,"First lien senior secured loan ($2,556 par due 11/2017)",10.00%,2518,2556
-419,"Liquid Light, Inc.",Developer and licensor of process technology for the conversion of carbon dioxide into major chemicals,"Warrant to purchase up to 86,009 shares of Series B preferred stock",0,77,74
-420,"Aimbridge Hospitality Holdings, LLC(25)",Hotel operator,"First lien senior secured loan ($18,305 par due 10/2018)",8.25% (Libor + 7.00%/Q),18066,18305
-421,Castle Management Borrower LLC,Hotel operator,"First lien senior secured loan ($5,940 par due 9/2020)",5.50% (Libor + 4.50%/Q),5940,5940
-422,Castle Management Borrower LLC,Hotel operator,"Second lien senior secured loan ($10,000 par due 3/2021)",11.00% (Libor + 10.00%/Q),10000,10000
-423,Castle Management Borrower LLC,Hotel operator,"Second lien senior secured loan ($55,000 par due 3/2021)",11.00% (Libor + 10.00%/Q),55000,55000
-424,"Cadence Aerospace, LLC",Aerospace precision components manufacturer,"First lien senior secured loan ($4,074 par due 5/2018)",6.50% (Libor + 5.25%/Q),4057,4074
-425,"Cadence Aerospace, LLC",Aerospace precision components manufacturer,"Second lien senior secured loan ($79,657 par due 5/2019)",10.50% (Libor + 9.25%/Q),79657,77267
-426,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services",Senior preferred stock (775 shares),8.00% PIK,131,131
-427,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services","Common stock (1,885,195 shares)",0,2291,2504
-428,"RE Community Holdings II, Inc., Pegasus Community Energy, LLC., and MPH Energy Holdings, LP",Operator of municipal recycling facilities,"Preferred stock (1,000 shares)",0,8839,0
-429,"RE Community Holdings II, Inc., Pegasus Community Energy, LLC., and MPH Energy Holdings, LP",Operator of municipal recycling facilities,Limited partnership interest (3.13% interest),0,0,0
-430,"Waste Pro USA, Inc",Waste management services,"Second lien senior secured loan ($76,725 par due 10/2020)",8.50% (Libor + 7.50%/Q),76725,76725
-431,"Athletic Club Holdings, Inc.(25)",Premier health club operator,"First lien senior secured loan ($41,000 par due 10/2020)",9.50% (Libor + 8.50%/Q),41000,41000
-432,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",Health club franchisor,"Limited partnership interest (4,152,165 shares)",0,4152,3767
-433,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",Health club franchisor,"Common stock (1,680 shares)",0,0,0
-434,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",Health club franchisor,"Limited partnership interest (2,218,235 shares)",0,2218,2012
-435,"Flow Solutions Holdings, Inc.","Distributor of high value fluid handling, filtration and flow control products","Second lien senior secured loan ($6,000 par due 10/2018)",10.00% (Libor + 9.00%/Q),6000,5820
-436,"Flow Solutions Holdings, Inc.","Distributor of high value fluid handling, filtration and flow control products","Second lien senior secured loan ($29,500 par due 10/2018)",10.00% (Libor + 9.00%/Q),29500,28615
-437,"Paper Source, Inc. and Pine Holdings, Inc.(25)",Retailer of fine and artisanal paper products,"First lien senior secured loan ($9,800 par due 9/2018)",7.25% (Libor + 6.25%/Q),9800,9800
-438,"Paper Source, Inc. and Pine Holdings, Inc.(25)",Retailer of fine and artisanal paper products,"Class A common stock (36,364 shares)",0,6000,7056
-439,"Things Remembered, Inc. and TRM Holdings Corporation(25)",Personalized gifts retailer,"First lien senior secured revolving loan ($3,167 par due 5/2017)",0,3126,1868
-440,"Things Remembered, Inc. and TRM Holdings Corporation(25)",Personalized gifts retailer,"First lien senior secured loan ($12,878 par due 5/2018)",0,12606,7598
-441,Adaptive Mobile Security Limited(9),Developer of security software for mobile communications networks,"First lien senior secured loan ($3,039 par due 7/2018)",10.00% (Libor + 9.00%/M),3196,3189
-442,Adaptive Mobile Security Limited(9),Developer of security software for mobile communications networks,First lien senior secured loan ($769 par due 10/2018),10.00% (Libor + 9.00%/M),807,807
-443,"American Broadband Communications, LLC, American Broadband Holding Company, and Cameron Holdings of NC, Inc.",Broadband communication services,Warrant to purchase up to 208 shares,0,0,7249
-444,"American Broadband Communications, LLC, American Broadband Holding Company, and Cameron Holdings of NC, Inc.",Broadband communication services,Warrant to purchase up to 200 shares,0,0,6970
-445,"Startec Equity, LLC(8)",Communication services,Member interest,0,0,0
-446,Wilcon Holdings LLC,Communications infrastructure provider,"Class A common stock (2,000,000 shares)",0,1829,2620
-447,"Batanga, Inc.(25)",Independent digital media company,"First lien senior secured revolving loan ($3,000 par due 6/2016)",10.00%,3000,3000
-448,"Batanga, Inc.(25)",Independent digital media company,"First lien senior secured loan ($6,590 par due 6/2017)",10.60%,6590,6650
-449,"Earthcolor Group, LLC",Printing management services,Limited liability company interests (9.30%),0,0,0
-450,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Preferred stock (10,663 shares)",0,1066,3875
-451,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Common stock (15,393 shares)",0,3,9
-452,"Everspin Technologies, Inc.(25)",Designer and manufacturer of computer memory solutions,"First lien senior secured loan ($8,000 par due 6/2019)",8.75% (Libor + 7.75%/M),7533,7840
-453,"Everspin Technologies, Inc.(25)",Designer and manufacturer of computer memory solutions,"Warrant to purchase up to 480,000 shares of Series B preferred stock",0,355,355
+,Industry,Company,Business Description,Investment,Interest,Amortized Cost,Fair Value
+0,Investment Funds and Vehicles,"CIC Flex, LP(10)",Investment partnership,Limited partnership units (0.94 units),,0,263
+1,Investment Funds and Vehicles,"Covestia Capital Partners, LP(10)",Investment partnership,Limited partnership interest (47.00% interest),,487,1862
+2,Investment Funds and Vehicles,"HCI Equity, LLC(8)(9)(10)",Investment company,Member interest (100.00% interest),,0,127
+3,Investment Funds and Vehicles,"Imperial Capital Private Opportunities, LP(10)(26)",Investment partnership,Limited partnership interest (80.00% interest),,4054,16906
+4,Investment Funds and Vehicles,"Partnership Capital Growth Fund I, L.P.(10)",Investment partnership,Limited partnership interest (25.00% interest),,0,692
+5,Investment Funds and Vehicles,"Partnership Capital Growth Investors III, L.P.(10)(26)",Investment partnership,Limited partnership interest (2.50% interest),,2714,3510
+6,Investment Funds and Vehicles,"PCG-Ares Sidecar Investment II, L.P.(10)(26)",Investment partnership,Limited partnership interest (100.00% interest),,6521,9254
+7,Investment Funds and Vehicles,"PCG-Ares Sidecar Investment, L.P.(10)(26)",Investment partnership,Limited partnership interest (100.00% interest),,2152,242
+8,Investment Funds and Vehicles,"Piper Jaffray Merchant Banking Fund I, L.P.(10)(26)",Investment partnership,Limited partnership interest (2.00% interest),,1413,1512
+9,Investment Funds and Vehicles,Senior Secured Loan Fund LLC(8)(11)(27),Co-investment vehicle,"Subordinated certificates ($2,000,914 par due 12/2024)",8.61% (Libor + 8.00%/M)(22),1935401,1884861
+10,Investment Funds and Vehicles,Senior Secured Loan Fund LLC(8)(11)(27),,Member interest (87.50% interest),,0,0
+11,Investment Funds and Vehicles,VSC Investors LLC(10),Investment company,Membership interest (1.95% interest),,299,1158
+12,Investment Funds and Vehicles,VSC Investors LLC(10),,,,1953041,1920387
+13,Healthcare Services,Alegeus Technologies Holdings Corp.,Benefits administration and transaction processing provider,"Preferred stock (2,997 shares)",,3087,1980
+14,Healthcare Services,Alegeus Technologies Holdings Corp.,,Common stock (3 shares),,3,0
+15,Healthcare Services,"American Academy Holdings, LLC","Provider of education, training, certification, networking, and consulting services to medical coders and other healthcare professionals","First lien senior secured loan ($8,810 par due 6/2019)",7.00% (Libor + 6.00%/Q),8810,8810
+16,Healthcare Services,"American Academy Holdings, LLC",,"First lien senior secured loan ($52,039 par due 6/2019)",7.00% (Libor + 6.00%/Q),52039,52039
+17,Healthcare Services,"American Academy Holdings, LLC",,"First lien senior secured loan ($2,988 par due 6/2019)",4.00% (Libor + 3.00%/Q),2988,2988
+18,Healthcare Services,"Argon Medical Devices, Inc.",Manufacturer and marketer of single-use specialty medical devices,"Second lien senior secured loan ($9,000 par due 6/2022)",10.50% (Libor + 9.50%/Q),8730,9000
+19,Healthcare Services,AwarePoint Corporation,Healthcare technology platform developer,"First lien senior secured loan ($10,000 par due 6/2018)",9.50%,9934,10000
+20,Healthcare Services,AwarePoint Corporation,,"Warrant to purchase up to 3,213,367 shares of Series 1 preferred stock",,0,609
+21,Healthcare Services,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",Correctional facility healthcare operator,"First lien senior secured revolving loan ($5,250 par due 7/2019)",6.50% (Base Rate + 3.00%/Q),5250,4883
+22,Healthcare Services,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",,"First lien senior secured loan ($6,651 par due 7/2021)",5.00% (Libor + 4.00%/Q),6626,6186
+23,Healthcare Services,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",,"Second lien senior secured loan ($135,000 par due 7/2022)",9.38% (Libor + 8.38%/Q),133890,121500
+24,Healthcare Services,"CCS Intermediate Holdings, LLC and CCS Group Holdings, LLC(25)",,"Class A units (601,937 units)",,0,878
+25,Healthcare Services,"Correctional Medical Group Companies, Inc.(25)",Correctional facility healthcare operator,"First lien senior secured loan ($3,088 par due 9/2021)",9.60% (Libor + 8.60%/Q),3088,3088
+26,Healthcare Services,"Correctional Medical Group Companies, Inc.(25)",,"First lien senior secured loan ($4,093 par due 9/2021)",9.60% (Libor + 8.60%/Q),4093,4093
+27,Healthcare Services,"Correctional Medical Group Companies, Inc.(25)",,"First lien senior secured loan ($44,707 par due 9/2021)",9.60% (Libor + 8.60%/Q),44707,44707
+28,Healthcare Services,"DCA Investment Holding, LLC(25)",Multi-branded dental practice management,First lien senior secured revolving loan ($145 par due 7/2021),7.75% (Base Rate + 4.25%/Q),145,142
+29,Healthcare Services,"DCA Investment Holding, LLC(25)",,"First lien senior secured loan ($19,089 par due 7/2021)",6.25% (Libor + 5.25%/Q),18918,18707
+30,Healthcare Services,"DNAnexus, Inc.",Bioinformatics company,"First lien senior secured loan ($10,500 par due 10/2018)",9.25% (Libor + 8.25%/M),10205,10500
+31,Healthcare Services,"DNAnexus, Inc.",,"Warrant to purchase up to 909,092 units of Series C preferred stock",,0,240
+32,Healthcare Services,"Global Healthcare Exchange, LLC and GHX Ultimate Parent Corp.",On-demand supply chain automation solutions provider,"Class A common stock (2,991 shares)",,2991,2991
+33,Healthcare Services,"Global Healthcare Exchange, LLC and GHX Ultimate Parent Corp.",,Class B common stock (980 shares),,30,3788
+34,Healthcare Services,"Greenphire, Inc. and RMCF III CIV XXIX, L.P(25)",Software provider for clinical trial management,"First lien senior secured loan ($4,000 par due 12/2018)",9.00% (Libor + 8.00%/M),4000,4000
+35,Healthcare Services,"Greenphire, Inc. and RMCF III CIV XXIX, L.P(25)",,Limited partnership interest (99.90% interest),,999,999
+36,Healthcare Services,"INC Research Mezzanine Co-Invest, LLC",Pharmaceutical and biotechnology consulting services,"Common units (1,410,000 units)",,0,3352
+37,Healthcare Services,Intermedix Corporation,Revenue cycle management provider to the emergency healthcare industry,"Second lien senior secured loan ($112,000 par due 6/2020)",9.25% (Libor + 8.25%/Q),112000,108640
+38,Healthcare Services,"LM Acquisition Holdings, LLC(9)",Developer and manufacturer of medical equipment,Class A units (426 units),,660,1732
+39,Healthcare Services,"MC Acquisition Holdings I, LLC",Healthcare professional provider,"Class A units (1,338,314 shares)",,1338,1491
+40,Healthcare Services,MW Dental Holding Corp.(25),Dental services provider,"First lien senior secured revolving loan ($3,500 par due 4/2017)",8.50% (Libor + 7.00%/M),3500,3500
+41,Healthcare Services,MW Dental Holding Corp.(25),,"First lien senior secured loan ($22,616 par due 4/2017)",8.50% (Libor + 7.00%/M),22616,22616
+42,Healthcare Services,MW Dental Holding Corp.(25),,"First lien senior secured loan ($24,233 par due 4/2017)",8.50% (Libor + 7.00%/M),24233,24233
+43,Healthcare Services,MW Dental Holding Corp.(25),,"First lien senior secured loan ($47,743 par due 4/2017)",8.50% (Libor + 7.00%/M),47743,47743
+44,Healthcare Services,MW Dental Holding Corp.(25),,"First lien senior secured loan ($19,744 par due 4/2017)",8.50% (Libor + 7.00%/M),19744,19744
+45,Healthcare Services,"My Health Direct, Inc.(25)",Healthcare scheduling exchange software solution provider,"First lien senior secured loan ($2,500 par due 1/2018)",10.75%,2450,2500
+46,Healthcare Services,"My Health Direct, Inc.(25)",,"Warrant to purchase up to 4,548 shares of Series D preferred stock",,39,40
+47,Healthcare Services,Napa Management Services Corporation,Anesthesia management services provider,"First lien senior secured loan ($16,000 par due 2/2019)",9.03% (Libor + 8.03%/Q),16000,16000
+48,Healthcare Services,Napa Management Services Corporation,,"First lien senior secured loan ($54,000 par due 2/2019)",9.03% (Libor + 8.03%/Q),53961,54000
+49,Healthcare Services,Napa Management Services Corporation,,"Common units (5,345 units)",,5764,17350
+50,Healthcare Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Second lien senior secured loan ($90,000 par due 8/2019)",10.50% (Libor + 9.50%/Q),90000,90000
+51,Healthcare Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",,"Common stock (2,500,000 shares)",,760,4450
+52,Healthcare Services,"New Trident Holdcorp, Inc.",Outsourced mobile diagnostic healthcare service provider,"Second lien senior secured loan ($80,000 par due 7/2020)",10.25% (Libor + 9.00%/Q),78906,76000
+53,Healthcare Services,"Nodality, Inc.",Biotechnology company,First lien senior secured loan ($700 par due 2/2018),,700,636
+54,Healthcare Services,"Nodality, Inc.",,First lien senior secured loan ($150 par due 2/2018),,0,0
+55,Healthcare Services,"Nodality, Inc.",,"First lien senior secured loan ($7,019 par due 2/2018)",,6860,1053
+56,Healthcare Services,"Nodality, Inc.",,"First lien senior secured loan ($2,910 par due 8/2018)",,2834,437
+57,Healthcare Services,"Nodality, Inc.",,"Warrant to purchase up to 225,746 shares of Series B preferred stock",,0,0
+58,Healthcare Services,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",Provider of technology-enabled solutions to pharmacies,"First lien senior secured loan ($12,288 par due 11/2018)",8.50% (Libor + 7.50%/Q),12288,12288
+59,Healthcare Services,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",,"First lien senior secured loan ($6,906 par due 11/2018)",8.50% (Libor + 7.50%/Q),6906,6906
+60,Healthcare Services,"OmniSYS Acquisition Corporation, OmniSYS, LLC, and OSYS Holdings, LLC(25)",,Limited liability company membership interest (1.57%),,1000,1197
+61,Healthcare Services,"Patterson Medical Supply, Inc.",Distributor of rehabilitation supplies and equipment,"Second lien senior secured loan ($19,000 par due 8/2023)",8.75% (Libor + 7.75%/Q),18816,18430
+62,Healthcare Services,"PerfectServe, Inc.(25)",Communications software platform provider for hospitals and physician practices,"First lien senior secured loan ($9,000 par due 3/2020)",9.00% (Libor + 8.00%/M),8661,9000
+63,Healthcare Services,"PerfectServe, Inc.(25)",,"First lien senior secured loan ($2,000 par due 7/2020)",9.00% (Libor + 8.00%/M),1960,2000
+64,Healthcare Services,"PerfectServe, Inc.(25)",,"Warrant to purchase up to 28,428 units of Series C preferred stock",,180,211
+65,Healthcare Services,"PerfectServe, Inc.(25)",,"Warrant to purchase up to 34,113 units of Series C preferred stock",,0,253
+66,Healthcare Services,PhyMED Management LLC,Provider of anesthesia services,"Second lien senior secured loan ($47,239 par due 5/2021)",9.75% (Libor + 8.75%/Q),46516,46294
+67,Healthcare Services,"Physiotherapy Associates Holdings, Inc.",Physical therapy provider,"Class A common stock (100,000 shares)",,3090,8900
+68,Healthcare Services,"POS I Corp. (fka Vantage Oncology, Inc.)",Radiation oncology care provider,"Common stock (62,157 shares)",,4670,935
+69,Healthcare Services,"Reed Group Holdings, LLC",Medical disability management services provider,Equity interests,,0,0
+70,Healthcare Services,"Respicardia, Inc.",Developer of implantable therapies to improve cardiovascular health,"Warrant to purchase up to 99,094 shares of Series C preferred stock",,38,28
+71,Healthcare Services,"Sage Products Holdings III, LLC",Patient infection control and preventive care solutions provider,"Second lien senior secured loan ($108,679 par due 6/2020)",9.25% (Libor + 8.00%/Q),108513,108679
+72,Healthcare Services,"Sarnova HC, LLC, Tri-Anim Health Services, Inc., and BEMS Holdings, LLC",Distributor of emergency medical service and respiratory products,"Second lien senior secured loan ($60,000 par due 9/2018)",8.75% (Libor + 8.00%/M),60000,60000
+73,Healthcare Services,"SurgiQuest, Inc.",Medical device manufacturer,"Warrant to purchase up to 54,672 shares of Series D-4 convertible preferred stock",,0,331
+74,Healthcare Services,"Transaction Data Systems, Inc.",Pharmacy management software provider,"Second lien senior secured loan ($27,500 par due 6/2022)",9.25% (Libor + 8.25%/Q),27500,26950
+75,Healthcare Services,"U.S. Anesthesia Partners, Inc.",Anesthesiology service provider,"Second lien senior secured loan ($23,500 par due 9/2020)",10.25% (Libor + 9.25%/Q),23500,23500
+76,Healthcare Services,"U.S. Anesthesia Partners, Inc.",,"Second lien senior secured loan ($50,000 par due 9/2020)",10.25% (Libor + 9.25%/Q),50000,50000
+77,Healthcare Services,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",Operator of urgent care clinics,"First lien senior secured loan ($14,000 par due 12/2022)",7.00% (Libor + 6.00%/M),14000,13860
+78,Healthcare Services,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",,"First lien senior secured loan ($54,725 par due 12/2022)",7.00% (Libor + 6.00%/M),54725,54178
+79,Healthcare Services,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",,"Preferred units (6,000,000 units)",,6000,6412
+80,Healthcare Services,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",,"Series A common units (2,000,000 units)",,2000,1828
+81,Healthcare Services,"Urgent Cares of America Holdings I, LLC and FastMed Holdings I, LLC(25)",,"Series C common units (800,507 units)",,0,589
+82,Healthcare Services,"VistaPharm, Inc. and Vertice Pharma UK Parent Limited",Manufacturer and distributor of generic pharmaceutical products,"First lien senior secured loan ($20,000 par due 12/2021)",8.00% (Base Rate + 4.50%/Q),20000,20000
+83,Healthcare Services,"VistaPharm, Inc. and Vertice Pharma UK Parent Limited",,"Preferred shares (40,662 shares)",,407,407
+84,Healthcare Services,"Young Innovations, Inc.",Dental supplies and equipment manufacturer,"Second lien senior secured loan ($45,000 par due 7/2019)",9.00% (Libor + 8.00%/Q),45000,45000
+85,Healthcare Services,"Young Innovations, Inc.",,,,1326411,1325821
+86,Other Services,American Residential Services L.L.C.,"Heating, ventilation and air conditioning services provider","Second lien senior secured loan ($50,000 par due 12/2021)",9.00% (Libor + 8.00%/Q),49600,50000
+87,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",Offender re-entry and in-prison treatment services provider,"First lien senior secured loan ($13,949 par due 12/2017)",6.25% (Libor + 5.25%/Q),13949,13949
+88,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",,First lien senior secured loan ($337 par due 12/2017),7.75% (Base Rate + 4.25%/Q),337,337
+89,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",,"Second lien senior secured loan ($21,895 par due 6/2018)",15.42% (Libor + 15.00%/Q),21895,21895
+90,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",,"Class A senior preferred units (7,846 units)",,9384,9467
+91,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",,"Class A junior preferred units (26,154 units)",,20168,12080
+92,Other Services,"Community Education Centers, Inc. and CEC Parent Holdings LLC(8)",,Class A common units (134 units),,0,0
+93,Other Services,"Competitor Group, Inc. and Calera XVI, LLC(25)",Endurance sports media and event operator,"First lien senior secured revolving loan ($4,950 par due 11/2018)",,4950,3713
+94,Other Services,"Competitor Group, Inc. and Calera XVI, LLC(25)",,"First lien senior secured loan ($52,349 par due 11/2018)",,52216,39262
+95,Other Services,"Competitor Group, Inc. and Calera XVI, LLC(25)",,"Membership units (2,522,512 units)",,2523,0
+96,Other Services,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",Provider of outsourced healthcare linen management solutions,First lien senior secured revolving loan ($500 par due 3/2019),7.25% (Libor + 6.00%/Q),500,500
+97,Other Services,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",,"First lien senior secured loan ($23,371 par due 3/2019)",7.25% (Libor + 6.00%/Q),23371,23371
+98,Other Services,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",,"Class A preferred units (2,475,000 units)",,2475,3522
+99,Other Services,"Crown Health Care Laundry Services, Inc. and Crown Laundry Holdings, LLC(7)(25)",,"Class B common units (275,000 units)",,275,391
+100,Other Services,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Senior subordinated loan ($31,500 par due 2/2020)",11.00%,31500,31500
+101,Other Services,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",,"Senior subordinated loan ($52,670 par due 2/2020)",11.00%,52670,52670
+102,Other Services,"Dwyer Acquisition Parent, Inc. and TDG Group Holding Company",,"Common stock (32,843 shares)",,3378,4113
+103,Other Services,"Massage Envy, LLC(25)",Franchisor in the massage industry,"First lien senior secured loan ($8,017 par due 9/2018)",8.50% (Libor + 7.25%/Q),8017,8017
+104,Other Services,"Massage Envy, LLC(25)",,"First lien senior secured loan ($46,434 par due 9/2018)",8.50% (Libor + 7.25%/Q),46434,46434
+105,Other Services,"Massage Envy, LLC(25)",,"First lien senior secured loan ($19,469 par due 9/2018)",8.50% (Libor + 7.25%/Q),19469,19469
+106,Other Services,"Massage Envy, LLC(25)",,"Common stock (3,000,000 shares)",,3000,5077
+107,Other Services,"McKenzie Sports Products, LLC(25)","Designer, manufacturer and distributor of hunting-related supplies","First lien senior secured loan ($39,500 par due 9/2020)",6.75% (Libor + 5.75%/M),39500,37920
+108,Other Services,"McKenzie Sports Products, LLC(25)",,"First lien senior secured loan ($45,000 par due 9/2020)",6.75% (Libor + 5.75%/M),45000,43200
+109,Other Services,"OpenSky Project, Inc. and OSP Holdings, Inc.",Social commerce platform operator,"First lien senior secured loan ($2,100 par due 9/2017)",10.00%,2083,2100
+110,Other Services,"OpenSky Project, Inc. and OSP Holdings, Inc.",,"Warrant to purchase up to 159,496 shares of Series D preferred stock",,48,0
+111,Other Services,"Osmose Holdings, Inc.",Provider of structural integrity management services to transmission and distribution infrastructure,"Second lien senior secured loan ($25,000 par due 8/2023)",8.75% (Libor + 7.75%/Q),24521,24250
+112,Other Services,"PODS, LLC",Storage and warehousing,"Second lien senior secured loan ($17,500 par due 2/2023)",9.25% (Libor + 8.25%/Q),17343,17500
+113,Other Services,Spin HoldCo Inc.,Laundry service and equipment provider,"Second lien senior secured loan ($140,000 par due 5/2020)",8.00% (Libor + 7.00%/Q),140000,131600
+114,Other Services,"Surface Dive, Inc.",SCUBA diver training and certification provider,"Second lien senior secured loan ($53,686 par due 1/2022)",9.00% (Libor + 8.00%/Q),53686,53686
+115,Other Services,"Surface Dive, Inc.",,"Second lien senior secured loan ($72,000 par due 1/2022)",10.25% (Libor + 9.25%/Q),71612,72000
+116,Other Services,"TWH Water Treatment Industries, Inc., TWH Filtration Industries, Inc. and TWH Infrastructure Industries, Inc.(25)","Wastewater infrastructure repair, treatment and filtration holding company","First lien senior secured loan ($2,240 par due 10/2019)",10.25% (Libor + 9.25%/Q),2240,2218
+117,Other Services,"TWH Water Treatment Industries, Inc., TWH Filtration Industries, Inc. and TWH Infrastructure Industries, Inc.(25)",,"First lien senior secured loan ($36,400 par due 10/2019)",10.25% (Libor + 9.25%/Q),36400,36036
+118,Other Services,"U.S. Security Associates Holdings, Inc",Security guard service provider,"Senior subordinated loan ($25,000 par due 7/2018)",11.00%,25000,25000
+119,Other Services,WASH Multifamily Acquisition Inc. and Coinamatic Canada Inc.,Laundry service and equipment provider,"Second lien senior secured loan ($3,726 par due 5/2023)",8.00% (Libor + 7.00%/Q),3657,3540
+120,Other Services,WASH Multifamily Acquisition Inc. and Coinamatic Canada Inc.,,"Second lien senior secured loan ($21,274 par due 5/2023)",8.00% (Libor + 7.00%/Q),20880,20210
+121,Other Services,WASH Multifamily Acquisition Inc. and Coinamatic Canada Inc.,,,,848081,815027
+122,Consumer Products,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",Provider of branded archery and bowhunting accessories,"First lien senior secured loan ($4,500 par due 3/2019)",4.00% (Libor + 3.00%/Q),4500,4365
+123,Consumer Products,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",,"First lien senior secured loan ($9,500 par due 3/2019)",6.55% (Libor + 5.55%/Q),9500,9120
+124,Consumer Products,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",,"First lien senior secured loan ($6,742 par due 3/2019)",4.00% (Libor + 3.00%/Q),6742,6540
+125,Consumer Products,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",,"First lien senior secured loan ($50,100 par due 3/2019)",6.55% (Libor + 5.55%/Q),50100,48096
+126,Consumer Products,"Feradyne Outdoors, LLC and Bowhunter Holdings, LLC",,Common units (373 units),,3733,3390
+127,Consumer Products,Indra Holdings Corp.,"Designer, marketer, and distributor of rain and cold weather products","Second lien senior secured loan ($80,000 par due 11/2021)",8.50% (Libor + 7.50%/Q),78987,72000
+128,Consumer Products,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of OTC healthcare products,"Warrant to purchase up to 1,654,678 shares of common stock",,0,505
+129,Consumer Products,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",,"Warrant to purchase up to 1,120 shares of preferred stock",,0,1342
+130,Consumer Products,"Oak Parent, Inc.",Manufacturer of athletic apparel,"First lien senior secured loan ($2,586 par due 4/2018)",7.61% (Libor + 7.00%/Q),2582,2586
+131,Consumer Products,"Oak Parent, Inc.",,"First lien senior secured loan ($8,232 par due 4/2018)",7.61% (Libor + 7.00%/Q),8216,8232
+132,Consumer Products,"PG-ACP Co-Invest, LLC","Supplier of medical uniforms, specialized medical footwear and accessories","Class A membership units (1,000,0000 units)",,1000,1937
+133,Consumer Products,"Plantation Products, LLC, Seed Holdings, Inc. and Flora Parent, Inc.",Provider of branded lawn and garden products,"Second lien senior secured loan ($66,000 par due 6/2021)",9.54% (Libor + 8.54%/Q),65683,66000
+134,Consumer Products,"Plantation Products, LLC, Seed Holdings, Inc. and Flora Parent, Inc.",,"Common stock (30,000 shares)",,3000,4138
+135,Consumer Products,SHO Holding I Corporation,Manufacturer and distributor of slip resistant footwear,"Second lien senior secured loan ($100,000 par due 4/2023)",9.50% (Libor + 8.50%/Q),97497,98000
+136,Consumer Products,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)","Developer, marketer and distributor of sports protection equipment and accessories","Second lien senior secured loan ($89,425 par due 10/2021)",11.50% (Libor + 10.50%/Q),89425,89425
+137,Consumer Products,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)",,"Class A preferred units (50,000 units)",,5000,5299
+138,Consumer Products,"Shock Doctor, Inc. and Shock Doctor Holdings, LLC(7)",,"Class C preferred units (50,000 units)",,5000,5299
+139,Consumer Products,The Hygenic Corporation,"Designer, manufacturer and marketer of branded wellness products","Second lien senior secured loan ($70,000 par due 4/2021)",9.75% (Libor + 8.75%/Q),70000,68600
+140,Consumer Products,"The Step2 Company, LLC(8)",Toy manufacturer,"Second lien senior secured loan ($27,583 par due 9/2019)",10.00%,27484,27583
+141,Consumer Products,"The Step2 Company, LLC(8)",,"Second lien senior secured loan ($4,500 par due 9/2019)",10.00%,4500,4500
+142,Consumer Products,"The Step2 Company, LLC(8)",,"Second lien senior secured loan ($43,196 par due 9/2019)",,30802,12527
+143,Consumer Products,"The Step2 Company, LLC(8)",,"Common units (1,116,879 units)",,24,0
+144,Consumer Products,"The Step2 Company, LLC(8)",,"Class B common units (126,278,000 units)",,0,0
+145,Consumer Products,"The Step2 Company, LLC(8)",,"Warrant to purchase up to 3,157,895 units",,0,0
+146,Consumer Products,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.","Leading manufacturer and distributor of textiles, apparel & luxury goods","Second lien senior secured loan ($55,576 par due 12/2022)",9.75% (Libor + 8.75%/Q),55090,55576
+147,Consumer Products,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.",,"Second lien senior secured loan ($91,697 par due 12/2022)",9.75% (Libor + 8.75%/Q),90901,91697
+148,Consumer Products,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.",,"Common stock (3,353,370 shares)",,3353,4372
+149,Consumer Products,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.",,"Common stock (3,353,371 shares)",,4147,5406
+150,Consumer Products,"Varsity Brands Holding Co., Inc., Hercules Achievement, Inc., Hercules Achievement Holdings, Inc. and Hercules VB Holdings, Inc.",,,,717266,696535
+151,Power Generation,"Alphabet Energy, Inc.",Technology developer to convert waste-heat into electricity,"First lien senior secured loan ($3,900 par due 7/2017)",9.62%,3773,3900
+152,Power Generation,"Alphabet Energy, Inc.",,"Series B preferred stock (74,449 shares)",,250,400
+153,Power Generation,"Alphabet Energy, Inc.",,"Warrant to purchase up to 59,524 units of Series B preferred stock",,146,120
+154,Power Generation,Bicent (California) Holdings LLC,Gas turbine power generation facilities operator,"Senior subordinated loan ($49,507 par due 2/2021)",8.25% (Libor + 7.25%/Q),49507,49507
+155,Power Generation,"Brush Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($44,863 par due 8/2020)",6.25% (Libor + 5.25%/Q),44863,44863
+156,Power Generation,"Brush Power, LLC",,First lien senior secured loan ($500 par due 8/2020),7.75% (Base Rate + 4.25%/Q),500,500
+157,Power Generation,"Brush Power, LLC",,"First lien senior secured loan ($2,271 par due 8/2020)",6.25% (Libor + 5.25%/Q),2271,2271
+158,Power Generation,"Brush Power, LLC",,First lien senior secured loan ($6 par due 8/2020),7.75% (Base Rate + 4.25%/Q),6,6
+159,Power Generation,"Brush Power, LLC",,"First lien senior secured loan ($9,720 par due 8/2020)",6.25% (Libor + 5.25%/Q),9720,9720
+160,Power Generation,"Brush Power, LLC",,First lien senior secured loan ($108 par due 8/2020),7.75% (Base Rate + 4.25%/Q),108,108
+161,Power Generation,"CPV Maryland Holding Company II, LLC",Gas turbine power generation facilities operator,"Senior subordinated loan ($44,460 par due 12/2020)","5.00% Cash, 5.00% PIK",44460,41348
+162,Power Generation,"CPV Maryland Holding Company II, LLC",,Warrant to purchase up to 4 units of common stock,,0,200
+163,Power Generation,"DESRI VI Management Holdings, LLC",Wind power generation facility operator,"Senior subordinated loan ($25,000 par due 12/2021)",9.75%,25000,25000
+164,Power Generation,"DESRI VI Management Holdings, LLC",,Non-Controlling units (10.0 units),,1483,1378
+165,Power Generation,"Grant Wind Holdings II, LLC",Wind power generation facility,"Senior subordinated loan ($23,400 par due 7/2016)",10.00%,23400,23400
+166,Power Generation,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($25,000 par due 11/2021)",6.50% (Libor + 5.50%/Q),24753,23000
+167,Power Generation,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",,"Senior subordinated loan ($18,508 par due 12/2021)","8.00% Cash, 5.25% PIK",18508,17398
+168,Power Generation,"Green Energy Partners, Stonewall LLC and Panda Stonewall Intermediate Holdings II LLC",,"Senior subordinated loan ($86,519 par due 12/2021)","8.00% Cash, 5.25% PIK",86519,81328
+169,Power Generation,"Joule Unlimited Technologies, Inc. and Stichting Joule Global Foundation(25)",Renewable fuel and chemical production developer,"First lien senior secured loan ($10,000 par due 10/2018)",10.00% (Libor + 9.00%/M),9881,10000
+170,Power Generation,"Joule Unlimited Technologies, Inc. and Stichting Joule Global Foundation(25)",,"Warrant to purchase up to 32,051 shares of Series C-2 preferred stock",,0,13
+171,Power Generation,"La Paloma Generating Company, LLC","Natural gas fired, combined cycle plant operator","Second lien senior secured loan ($10,000 par due 2/2020)",,9469,3000
+172,Power Generation,Moxie Liberty LLC,Gas turbine power generation facilities operator,"First lien senior secured loan ($35,000 par due 8/2020)",7.50% (Libor + 6.50%/Q),34714,33250
+173,Power Generation,Moxie Patriot LLC,Gas turbine power generation facilities operator,"First lien senior secured loan ($35,000 par due 12/2020)",6.75% (Libor + 5.75%/Q),34720,32550
+174,Power Generation,Panda Power Annex Fund Hummel Holdings II LLC,Gas turbine power generation facilities operator,"Senior subordinated loan ($73,566 par due 10/2016)",12.00% PIK,73068,73566
+175,Power Generation,"Panda Sherman Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($32,104 par due 9/2018)",9.00% (Libor + 7.50%/Q),32104,28893
+176,Power Generation,"Panda Temple Power II, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($20,000 par due 4/2019)",7.25% (Libor + 6.00%/Q),19887,17800
+177,Power Generation,"Panda Temple Power, LLC",Gas turbine power generation facilities operator,"First lien senior secured loan ($24,813 par due 3/2022)",7.25% (Libor + 6.25%/Q),23654,22083
+178,Power Generation,PERC Holdings 1 LLC,"Operator of recycled energy, combined heat and power, and energy efficiency facilities","Class B common units (21,653,543 units)",,21654,23299
+179,Power Generation,PERC Holdings 1 LLC,,,,594418,568901
+180,Manufacturing,Cambrios Technologies Corporation,Nanotechnology-based solutions for electronic devices and computers,"Warrant to purchase up to 400,000 shares of Series D-4 convertible preferred stock",,0,13
+181,Manufacturing,"Chariot Acquisition, LLC(25)",Distributor and designer of aftermarket golf cart parts and accessories,"First lien senior secured loan ($59,318 par due 9/2021)",7.25% (Libor + 6.25%/Q),59318,59318
+182,Manufacturing,"Component Hardware Group, Inc.(25)",Commercial equipment,"First lien senior secured revolving loan ($2,241 par due 7/2019)",5.50% (Libor + 4.50%/Q),2241,2218
+183,Manufacturing,"Component Hardware Group, Inc.(25)",,"First lien senior secured loan ($8,062 par due 7/2019)",5.50% (Libor + 4.50%/Q),8062,7982
+184,Manufacturing,"Harvey Tool Company, LLC and Harvey Tool Holding, LLC(25)",Cutting tool provider to the metalworking industry,"Senior subordinated loan ($27,925 par due 9/2020)",11.00%,27925,27925
+185,Manufacturing,"Harvey Tool Company, LLC and Harvey Tool Holding, LLC(25)",,Class A membership units (750 units),,896,1444
+186,Manufacturing,"Ioxus, Inc.",Energy storage devices,"First lien senior secured loan ($10,168 par due 11/2017)","10.00% Cash, 2.00% PIK",9957,8643
+187,Manufacturing,"Ioxus, Inc.",,"Warrant to purchase up to 717,751 shares of Series AA preferred stock",,0,0
+188,Manufacturing,KPS Global LLC,Walk-in cooler and freezer systems,"First lien senior secured loan ($50,000 par due 12/2020)",9.63% (Libor + 8.63%/Q),50000,50000
+189,Manufacturing,"MacLean-Fogg Company and MacLean-Fogg Holdings, L.L.C.",Manufacturer and supplier for the power utility and automotive markets worldwide,"Senior subordinated loan ($96,992 par due 10/2025)","10.50% Cash, 3.00% PIK",96992,96992
+190,Manufacturing,"MacLean-Fogg Company and MacLean-Fogg Holdings, L.L.C.",,"Preferred units (70,183 units)","4.50% Cash, 9.25% PIK",70782,70782
+191,Manufacturing,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","First lien senior secured loan ($14,164 par due 3/2019)",7.375% (Libor + 6.125%/Q),14164,14164
+192,Manufacturing,"MWI Holdings, Inc.",,"First lien senior secured loan ($28,102 par due 3/2019)",9.375% (Libor + 8.125%/Q),28102,28102
+193,Manufacturing,"MWI Holdings, Inc.",,"First lien senior secured loan ($19,879 par due 3/2019)",9.375% (Libor + 8.125%/Q),19879,19879
+194,Manufacturing,Niagara Fiber Intermediate Corp.(25),Insoluble fiber filler products,"First lien senior secured revolving loan ($1,881 par due 5/2018)",6.75% (Libor + 5.50%/Q),1870,1505
+195,Manufacturing,Niagara Fiber Intermediate Corp.(25),,"First lien senior secured loan ($1,430 par due 5/2018)",6.75% (Libor + 5.50%/Q),1421,1144
+196,Manufacturing,Niagara Fiber Intermediate Corp.(25),,"First lien senior secured loan ($13,649 par due 5/2018)",6.75% (Libor + 5.50%/Q),13567,10919
+197,Manufacturing,Nordco Inc.(25),Railroad maintenance-of-way machinery,"First lien senior secured revolving loan ($3,750 par due 8/2020)",8.75% (Base Rate + 5.25%/Q),3750,3713
+198,Manufacturing,Nordco Inc.(25),,"First lien senior secured loan ($70,250 par due 8/2020)",7.25% (Libor + 6.25%/Q),70250,69548
+199,Manufacturing,Nordco Inc.(25),,First lien senior secured loan ($188 par due 8/2020),8.75% (Base Rate + 5.25%/Q),188,186
+200,Manufacturing,"Pelican Products, Inc.",Flashlights,"Second lien senior secured loan ($40,000 par due 4/2021)",9.25% (Libor + 8.25%/Q),39955,38400
+201,Manufacturing,Saw Mill PCG Partners LLC,Metal precision engineered components,"Common units (1,000 units)",,1000,0
+202,Manufacturing,"SI Holdings, Inc.","Elastomeric parts, mid-sized composite structures, and composite tooling","Common stock (1,500 shares)",,1500,1483
+203,Manufacturing,TPTM Merger Corp.(25),Time temperature indicator products,First lien senior secured revolving loan ($750 par due 9/2018),7.25% (Libor + 6.25%/Q),750,743
+204,Manufacturing,TPTM Merger Corp.(25),,"First lien senior secured loan ($22,000 par due 9/2018)",9.42% (Libor + 8.42%/Q),22000,21780
+205,Manufacturing,TPTM Merger Corp.(25),,"First lien senior secured loan ($10,000 par due 9/2018)",9.42% (Libor + 8.42%/Q),10000,9900
+206,Manufacturing,TPTM Merger Corp.(25),,,,554569,546783
+207,Business Services,2329497 Ontario Inc.(9),Outsourced data center infrastructure and related services provider,"Second lien senior secured loan ($42,480 par due 6/2019)",10.50% (Libor + 9.25%/M),43096,26023
+208,Business Services,Brandtone Holdings Limited(9)(25),Mobile communications and marketing services provider,"First lien senior secured loan ($5,674 par due 11/2018)",9.50% (Libor + 8.50%/M),5532,5674
+209,Business Services,Brandtone Holdings Limited(9)(25),,"First lien senior secured loan ($3,296 par due 1/2019)",9.50% (Libor + 8.50%/M),3209,3296
+210,Business Services,Brandtone Holdings Limited(9)(25),,"Warrant to purchase up to 115,002 units of Series Three participating convertible preferred ordinary shares",,0,1
+211,Business Services,"CallMiner, Inc.",Provider of cloud-based conversational analytics solutions,"First lien senior secured loan ($3,515 par due 5/2018)",10.00%,3499,3515
+212,Business Services,"CallMiner, Inc.",,"First lien senior secured loan ($1,939 par due 9/2018)",10.00%,1929,1939
+213,Business Services,"CallMiner, Inc.",,"Warrant to purchase up to 2,350,636 shares of Series 1 preferred stock",,0,0
+214,Business Services,"CIBT Holdings, Inc. and CIBT Investment Holdings, LLC(25)",Expedited travel document processing services,"Class A shares (2,500 shares)",,2500,4563
+215,Business Services,"CMW Parent LLC (fka Black Arrow, Inc.)",Multiplatform media firm,Series A units (32 units),,0,0
+216,Business Services,"Command Alkon, Incorporated and CA Note Issuer, LLC",Software solutions provider to the ready-mix concrete industry,"Second lien senior secured loan ($10,000 par due 8/2020)",9.25% (Libor + 8.25%/Q),10000,10000
+217,Business Services,"Command Alkon, Incorporated and CA Note Issuer, LLC",,"Second lien senior secured loan ($11,500 par due 8/2020)",9.25% (Libor + 8.25%/Q),11500,11500
+218,Business Services,"Command Alkon, Incorporated and CA Note Issuer, LLC",,"Second lien senior secured loan ($26,500 par due 8/2020)",9.25% (Libor + 8.25%/Q),26500,26500
+219,Business Services,"Command Alkon, Incorporated and CA Note Issuer, LLC",,"Senior subordinated loan ($20,301 par due 8/2021)",14.00% PIK,20301,20301
+220,Business Services,"Compuware Parent, LLC",Web and mobile cloud performance testing and monitoring services provider,"Class A-1 common stock (4,132 units)",,2250,2038
+221,Business Services,"Compuware Parent, LLC",,"Class B-1 common stock (4,132 units)",,450,408
+222,Business Services,"Compuware Parent, LLC",,"Class C-1 common stock (4,132 units)",,300,272
+223,Business Services,"Compuware Parent, LLC",,"Class A-2 common stock (4,132 units)",,0,0
+224,Business Services,"Compuware Parent, LLC",,"Class B-2 common stock (4,132 units)",,0,0
+225,Business Services,"Compuware Parent, LLC",,"Class C-2 common stock (4,132 units)",,0,0
+226,Business Services,"Directworks, Inc. and Co-Exprise Holdings, Inc.(25)",Provider of cloud-based software solutions for direct materials sourcing and supplier management for manufacturers,"First lien senior secured loan ($2,333 par due 4/2018)",10.25% (Libor + 9.25%/M),2333,2287
+227,Business Services,"Directworks, Inc. and Co-Exprise Holdings, Inc.(25)",,"Warrant to purchase up to 1,875,000 shares of Series 1 preferred stock",,0,0
+228,Business Services,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",Provider of legal process outsourcing and managed services,First lien senior secured loan ($990 par due 8/2020),5.75% (Libor + 4.75%/Q),990,950
+229,Business Services,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",,"Class A common stock (7,500 shares)",,7500,6361
+230,Business Services,"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",,"Class B common stock (7,500 shares)",,0,0
+231,Business Services,"EN Engineering, L.L.C.(25)","Engineering and consulting services to natural gas, electric power and other energy & industrial end markets","First lien senior secured loan ($2,568 par due 6/2021)",8.50% (Base Rate + 5.00%/Q),2568,2568
+232,Business Services,"EN Engineering, L.L.C.(25)",,"First lien senior secured loan ($22,368 par due 6/2021)",7.00% (Libor + 6.00%/Q),22229,22368
+233,Business Services,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",Wholesaler of cloud-based software applications and services,"First lien senior secured revolving loan ($2,000 par due 11/2017)",7.75% (Base Rate + 4.25%/Q),2000,2000
+234,Business Services,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",,"First lien senior secured loan ($4,000 par due 5/2019)",9.75% (Libor + 8.75%/Q),3932,4000
+235,Business Services,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",,"First lien senior secured loan ($3,000 par due 12/2019)",9.75% (Libor + 8.75%/Q),3000,3000
+236,Business Services,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",,"Warrant to purchase up to 1,481 shares of Series A preferred stock",,0,0
+237,Business Services,"Faction Holdings, Inc. and The Faction Group LLC (fka PeakColo Holdings, Inc.)(25)",,"Warrant to purchase up to 2,037 shares of Series A preferred stock",,93,147
+238,Business Services,"First Insight, Inc.",Software company providing merchandising and pricing solutions to companies worldwide,"Warrant to purchase up to 122,827 units of Series C preferred stock",,0,13
+239,Business Services,"HCPro, Inc. and HCP Acquisition Holdings, LLC(8)",Healthcare compliance advisory services,"Senior subordinated loan ($9,810 par due 5/2015)",,2691,0
+240,Business Services,"HCPro, Inc. and HCP Acquisition Holdings, LLC(8)",,"Class A units (14,293,110 units)",,12793,0
+241,Business Services,"iControl Networks, Inc. and uControl Acquisition, LLC",Software and services company for the connected home market,"Second lien senior secured loan ($20,000 par due 3/2019)",9.50% (Libor + 8.50%/Q),19684,20075
+242,Business Services,"iControl Networks, Inc. and uControl Acquisition, LLC",,"Warrant to purchase up to 385,616 shares of Series D preferred stock",,0,173
+243,Business Services,IfByPhone Inc.,Voice-based marketing automation software provider,"Warrant to purchase up to 124,300 shares of Series C preferred stock",,88,71
+244,Business Services,Interactions Corporation,Developer of a speech recognition software based customer interaction system,"Second lien senior secured loan ($2,500 par due 7/2019)",9.85% (Libor + 8.85%/Q),2196,2500
+245,Business Services,Interactions Corporation,,"Second lien senior secured loan ($22,500 par due 7/2019)",9.85% (Libor + 8.85%/Q),22155,22500
+246,Business Services,Interactions Corporation,,"Warrant to purchase up to 68,187 shares of Series G-3 convertible preferred stock",,303,303
+247,Business Services,"Investor Group Services, LLC(7)",Business consulting for private equity and corporate clients,Limited liability company membership interest (5.17% interest),,0,360
+248,Business Services,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",Provider of software solutions to the insurance and financial services industry,"First lien senior secured loan ($11,970 par due 8/2022)",8.25% (Libor + 7.25%/Q),11970,11970
+249,Business Services,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",,"First lien senior secured loan ($44,888 par due 8/2022)",8.25% (Libor + 7.25%/Q),44888,44888
+250,Business Services,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",,"First lien senior secured loan ($14,963 par due 8/2022)",8.25% (Libor + 7.25%/Q),14963,14963
+251,Business Services,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",,"Preferred stock (1,485 shares)",,1485,1912
+252,Business Services,"iPipeline, Inc., Internet Pipeline, Inc. and iPipeline Holdings, Inc.(25)",,"Common stock (647,542 shares)",,15,0
+253,Business Services,"IronPlanet, Inc.",Online auction platform provider for used heavy equipment,"Warrant to purchase to up to 133,333 shares of Series C preferred stock",,214,214
+254,Business Services,"Itel Laboratories, Inc.(25)",Data services provider for building materials to property insurance industry,"Preferred units (1,798,391 units)",,1000,1183
+255,Business Services,"Market Track Holdings, LLC",Business media consulting services company,"Preferred stock (1,685 shares)",,2221,2362
+256,Business Services,"Market Track Holdings, LLC",,"Common stock (16,251 shares)",,2221,2304
+257,Business Services,"Maximus Holdings, LLC",Provider of software simulation tools and related services,"Warrant to purchase up to 1,050,013 shares of common stock",,0,0
+258,Business Services,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",Software and payment services provider to faith-based institutions,"First lien senior secured loan ($1,571 par due 11/2021)",5.25% (Libor + 4.25%/Q),1571,1571
+259,Business Services,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",,"First lien senior secured loan ($16,688 par due 11/2021)",10.75% (Libor + 9.75%/Q),16688,16688
+260,Business Services,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",,"First lien senior secured loan ($34,250 par due 11/2021)",10.75% (Libor + 9.75%/Q),33912,34250
+261,Business Services,"Ministry Brands, LLC and MB Parent Holdings, LLC(25)",,"Class A common units (2,000,000 units)",,2000,2000
+262,Business Services,"Multi-Ad Services, Inc.(7)",Marketing services and software provider,"Preferred units (1,725,280 units)",,0,404
+263,Business Services,"Multi-Ad Services, Inc.(7)",,"Common units (1,725,280 units)",,0,0
+264,Business Services,"MVL Group, Inc.(8)",Marketing research provider,Senior subordinated loan ($441 par due 7/2012),,226,226
+265,Business Services,"MVL Group, Inc.(8)",,"Common stock (560,716 shares)",,0,0
+266,Business Services,"NAS, LLC, Nationwide Marketing Group, LLC and Nationwide Administrative Services, Inc.","Buying and marketing services organization for appliance, furniture and consumer electronics dealers","Second lien senior secured loan ($24,100 par due 12/2021)",9.75% (Libor + 8.75%/Q),24100,23136
+267,Business Services,"PHL Investors, Inc., and PHL Holding Co.(8)",Mortgage services,Class A common stock (576 shares),,3768,0
+268,Business Services,Poplicus Incorporated,Business intelligence and market analytics platform provider,"First lien senior secured loan ($5,000 par due 7/2019)",8.50% (Libor + 7.50%/M),4759,4900
+269,Business Services,Poplicus Incorporated,,"Warrant to purchase up to 2,402,991 shares of Series C preferred stock",,125,125
+270,Business Services,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",Fixed asset financial management software provider,"Second lien senior secured loan ($30,000 par due 2/2023)",10.75% (Libor + 9.75%/Q),29742,30000
+271,Business Services,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",,"Second lien senior secured loan ($50,000 par due 2/2023)",10.75% (Libor + 9.75%/Q),49557,50000
+272,Business Services,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",,"Class A common stock (1,980 shares)",,1980,2592
+273,Business Services,"PowerPlan, Inc. and Project Torque Ultimate Parent Corporation",,"Class B common stock (989,011 shares)",,20,26
+274,Business Services,"Powersport Auctioneer Holdings, LLC",Powersport vehicle auction operator,"Common units (1,972 units)",,1000,1130
+275,Business Services,R2 Acquisition Corp.,Marketing services,"Common stock (250,000 shares)",,250,235
+276,Business Services,Rocket Fuel Inc.,Provider of open and integrated software for digital marketing optimization,"Common stock (11,405 units)",,40,20
+277,Business Services,Sonian Inc.,Cloud-based email archiving platform,"First lien senior secured loan ($7,500 par due 9/2019)",9.00% (Libor + 8.00%/M),7308,7350
+278,Business Services,Sonian Inc.,,"Warrant to purchase up to 169,045 shares of Series C preferred stock",,93,93
+279,Business Services,"Talari Networks, Inc.",Networking equipment provider,"First lien senior secured loan ($6,000 par due 12/2018)",9.75% (Libor + 8.75%/M),5901,6000
+280,Business Services,"Talari Networks, Inc.",,"Warrant to purchase up to 421,052 shares of Series D-1 preferred stock",,50,50
+281,Business Services,"TraceLink, Inc.(25)",Supply chain management software provider for the pharmaceutical industry,"First lien senior secured loan ($4,500 par due 1/2019)",8.50% (Libor + 7.00%/M),4413,4500
+282,Business Services,"TraceLink, Inc.(25)",,"Warrant to purchase up to 283,353 shares of Series A-2 preferred stock",,146,1041
+283,Business Services,Velocity Holdings Corp.,Hosted enterprise resource planning application management services provider,"Common units (1,713,546 units)",,4503,2966
+284,Business Services,WorldPay Group PLC(9),Payment processing provider,"C2 shares (73,974 shares)",,11,44
+285,Business Services,WorldPay Group PLC(9),,"Ordinary shares (1,310,386 shares)",,1128,5931
+286,Business Services,WorldPay Group PLC(9),,,,507889,480780
+287,Financial Services,"AllBridge Financial, LLC(8)",Asset management services,Equity interests,,1140,8037
+288,Financial Services,Callidus Capital Corporation(8),Asset management services,Common stock (100 shares),,3000,1670
+289,Financial Services,Ciena Capital LLC(8)(25),Real estate and small business loan servicer,"First lien senior secured revolving loan ($14,000 par due 12/2016)",6.00%,14000,14000
+290,Financial Services,Ciena Capital LLC(8)(25),,First lien senior secured loan ($500 par due 12/2016),12.00%,500,500
+291,Financial Services,Ciena Capital LLC(8)(25),,"First lien senior secured loan ($5,000 par due 12/2016)",12.00%,5000,5000
+292,Financial Services,Ciena Capital LLC(8)(25),,"First lien senior secured loan ($2,500 par due 12/2016)",12.00%,2500,2500
+293,Financial Services,Ciena Capital LLC(8)(25),,Equity interests,,38974,20835
+294,Financial Services,"Commercial Credit Group, Inc.",Commercial equipment finance and leasing company,"Senior subordinated loan ($28,000 par due 5/2018)",12.75%,28000,28000
+295,Financial Services,Gordian Acquisition Corp.,Financial services firm,Common stock (526 shares),,0,0
+296,Financial Services,Imperial Capital Group LLC,Investment services,"Class A common units (40,440 units)",,9832,14376
+297,Financial Services,Imperial Capital Group LLC,,"2006 Class B common units (13,249 units)",,2,3
+298,Financial Services,Imperial Capital Group LLC,,"2007 Class B common units (1,652 units)",,0,0
+299,Financial Services,"Ivy Hill Asset Management, L.P.(8)(10)",Asset management services,Member interest (100.00% interest),,170961,235526
+300,Financial Services,"Javlin Three LLC, Javlin Four LLC, and Javlin Five LLC(10)(25)",Asset-backed financial services,"First lien senior secured revolving loan ($50,960 par due 6/2017)",8.48% (Libor + 8.25%/M),50960,50960
+301,Financial Services,"LSQ Funding Group, L.C. and LM LSQ Investors LLC(10)(25)",Asset based lender,"Senior subordinated loan ($30,000 par due 6/2021)",10.50%,30000,30000
+302,Financial Services,"LSQ Funding Group, L.C. and LM LSQ Investors LLC(10)(25)",,"Membership units (3,000,000 units)",,3000,2966
+303,Financial Services,"LSQ Funding Group, L.C. and LM LSQ Investors LLC(10)(25)",,,,357869,414373
+304,Education,Campus Management Corp. and Campus Management Acquisition Corp.(7),Education software developer,"Preferred stock (485,159 shares)",,10520,9315
+305,Education,"Infilaw Holding, LLC(25)",Operator of for-profit law schools,First lien senior secured revolving loan,,0,0
+306,Education,"Infilaw Holding, LLC(25)",,"First lien senior secured loan ($3,626 par due 8/2016)",9.50% (Libor + 8.50%/Q),3626,3626
+307,Education,"Infilaw Holding, LLC(25)",,"Series A preferred units (124,890 units)",9.50% (Libor + 8.50%/Q),124890,113650
+308,Education,"Infilaw Holding, LLC(25)",,Series B preferred units (3.91 units),,9245,9765
+309,Education,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",Private school operator,"First lien senior secured loan ($1,670 par due 12/2018)",10.50% (Libor + 9.00%/Q),1670,1670
+310,Education,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",,"Senior preferred series A-1 shares (163,902 shares)",,119422,99514
+311,Education,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",,"Series B preferred stock (1,750,000 shares)",,5000,0
+312,Education,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",,"Series C preferred stock (2,512,586 shares)",,689,0
+313,Education,"Instituto de Banca y Comercio, Inc. & Leeds IV Advisors, Inc.",,Common stock (20 shares),,0,0
+314,Education,"Lakeland Tours, LLC",Educational travel provider,"First lien senior secured loan ($30,750 par due 6/2020)",9.77% (Libor + 8.77%/Q),30750,30750
+315,Education,"Lakeland Tours, LLC",,"First lien senior secured loan ($43,967 par due 6/2020)",9.77% (Libor + 8.77%/Q),43960,43967
+316,Education,"Lakeland Tours, LLC",,"First lien senior secured loan ($40,362 par due 6/2020)",9.77% (Libor + 8.77%/Q),40334,40362
+317,Education,"Lakeland Tours, LLC",,"Common stock (5,000 shares)",,5000,9742
+318,Education,PIH Corporation(25),Franchisor of education-based early childhood centers,First lien senior secured revolving loan ($621 par due 12/2018),7.00% (Libor + 6.00%/Q),621,621
+319,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"Preferred stock (1,977 shares)",,494,494
+320,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",,Common membership interest (15.76% interest),,15800,25890
+321,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",,"Warrant to purchase up to 27,890 shares",,0,0
+322,Education,"Regent Education, Inc.(25)",Provider of software solutions designed to optimize the financial aid and enrollment processes,"First lien senior secured revolving loan ($1,000 par due 7/2016)",10.00% (Libor + 8.00%/Q),1000,960
+323,Education,"Regent Education, Inc.(25)",,"First lien senior secured loan ($3,000 par due 1/2018)",10.00% (Libor + 8.00%/Q),2927,2880
+324,Education,"Regent Education, Inc.(25)",,"Warrant to purchase up to 987,771 shares of Series CC preferred stock",,0,62
+325,Education,"Severin Acquisition, LLC(25)",Provider of student information system software solutions to the K-12 education market,"Second lien senior secured loan ($4,154 par due 7/2022)",9.75% (Libor + 8.75%/Q),4073,4071
+326,Education,"Severin Acquisition, LLC(25)",,"Second lien senior secured loan ($15,000 par due 7/2022)",9.25% (Libor + 8.25%/Q),14718,14550
+327,Education,"WCI-Quantum Holdings, Inc.","Distributor of instructional products, services and resources","Series A preferred stock (1,272 shares)",,1000,1206
+328,Education,"WCI-Quantum Holdings, Inc.",,,,435739,413095
+329,Restaurants and Food Services,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",Restaurant owner and operator,"First lien senior secured loan ($28,581 par due 12/2018)",9.25% (Libor + 8.25%/Q),28581,25151
+330,Restaurants and Food Services,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",,"First lien senior secured loan ($10,919 par due 12/2018)",9.25% (Libor + 8.25%/Q),10922,9609
+331,Restaurants and Food Services,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",,"Promissory note ($21,972 par due 12/2023)",,13770,1641
+332,Restaurants and Food Services,"ADF Capital, Inc., ADF Restaurant Group, LLC, and ARG Restaurant Holdings, Inc.",,"Warrant to purchase up to 23,750 units of Series D common stock",,24,0
+333,Restaurants and Food Services,"Benihana, Inc.(25)",Restaurant owner and operator,First lien senior secured revolving loan ($969 par due 7/2018),8.25% (Base Rate + 4.75%/Q),969,921
+334,Restaurants and Food Services,"Benihana, Inc.(25)",,"First lien senior secured loan ($4,839 par due 1/2019)",7.25% (Libor + 6.00%/Q),4839,4597
+335,Restaurants and Food Services,"DineInFresh, Inc.",Meal-delivery provider,"First lien senior secured loan ($7,500 par due 7/2018)",9.75% (Libor + 8.75%/M),7438,7500
+336,Restaurants and Food Services,"DineInFresh, Inc.",,"Warrant to purchase up to 143,079 shares of Series A preferred stock",,0,4
+337,Restaurants and Food Services,Garden Fresh Restaurant Corp.(25),Restaurant owner and operator,"First lien senior secured revolving loan ($1,100 par due 7/2018)",10.50% (Libor + 9.00%/Q),1100,1100
+338,Restaurants and Food Services,Garden Fresh Restaurant Corp.(25),,"First lien senior secured loan ($40,688 par due 7/2018)",10.50% (Libor + 9.00%/Q),40688,40688
+339,Restaurants and Food Services,"Global Franchise Group, LLC and GFG Intermediate Holding, Inc.",Worldwide franchisor of quick service restaurants,"First lien senior secured loan ($62,500 par due 12/2019)",10.53% (Libor + 9.53%/Q),62500,62500
+340,Restaurants and Food Services,"Heritage Food Service Group, Inc. and WCI-HFG Holdings, LLC",Distributor of replacement parts for commercial kitchen equipment,"Second lien senior secured loan ($31,645 par due 10/2022)",9.50% (Libor + 8.50%/Q),31645,31012
+341,Restaurants and Food Services,"Heritage Food Service Group, Inc. and WCI-HFG Holdings, LLC",,"Preferred units (3,000,000 units)",,3000,3000
+342,Restaurants and Food Services,"Orion Foods, LLC(8)",Convenience food service retailer,"First lien senior secured loan ($7,536 par due 9/2015)",,7536,3699
+343,Restaurants and Food Services,"Orion Foods, LLC(8)",,"Second lien senior secured loan ($19,420 par due 9/2015)",,0,0
+344,Restaurants and Food Services,"Orion Foods, LLC(8)",,"Preferred units (10,000 units)",,0,0
+345,Restaurants and Food Services,"Orion Foods, LLC(8)",,"Class A common units (25,001 units)",,0,0
+346,Restaurants and Food Services,"Orion Foods, LLC(8)",,"Class B common units (1,122,452 units)",,0,0
+347,Restaurants and Food Services,"OTG Management, LLC(25)",Airport restaurant operator,"First lien senior secured revolving loan ($2,300 par due 12/2017)",8.75% (Libor + 7.25%/Q),2300,2300
+348,Restaurants and Food Services,"OTG Management, LLC(25)",,"First lien senior secured loan ($10,756 par due 12/2017)",8.75% (Libor + 7.25%/Q),10756,10756
+349,Restaurants and Food Services,"OTG Management, LLC(25)",,"First lien senior secured loan ($22,101 par due 12/2017)",8.75% (Libor + 7.25%/Q),22101,22101
+350,Restaurants and Food Services,"OTG Management, LLC(25)",,"First lien senior secured loan ($24,688 par due 12/2017)",8.75% (Libor + 7.25%/Q),24688,24688
+351,Restaurants and Food Services,"OTG Management, LLC(25)",,"Common units (3,000,000 units)",,3000,11451
+352,Restaurants and Food Services,"OTG Management, LLC(25)",,Warrant to purchase up to 7.73% of common units,,100,22843
+353,Restaurants and Food Services,"Restaurant Holding Company, LLC",Fast food restaurant operator,"First lien senior secured loan ($36,309 par due 2/2019)",8.75% (Libor + 7.75%/Q),36076,35219
+354,Restaurants and Food Services,"Restaurant Holding Company, LLC",,,,312033,320780
+355,Oil and Gas,"Lonestar Prospects, Ltd.",Sand proppant producer and distributor to the oil and natural gas industry,"First lien senior secured loan ($25,286 par due 9/2018)","8.50% (Libor + 6.50% Cash, 1.00% PIK/Q)",25286,24022
+356,Oil and Gas,"Lonestar Prospects, Ltd.",,"First lien senior secured loan ($49,343 par due 9/2018)","8.50% (Libor + 6.50% Cash, 1.00% PIK/Q)",49343,46876
+357,Oil and Gas,Petroflow Energy Corporation,Oil and gas exploration and production company,"First lien senior secured loan ($52,539 par due 7/2017)",,49269,19807
+358,Oil and Gas,Primexx Energy Corporation,Privately-held oil and gas exploration and production company,"Second lien senior secured loan ($125,000 par due 1/2020)",10.00% (Libor + 9.00%/M),124524,116250
+359,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",Manufacturer and distributor of re-refined oil products,"Second lien senior secured loan ($12,099 par due 12/2016)",,9,10
+360,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Second lien senior secured loan ($51,314 par due 12/2016)",,37043,42295
+361,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Second lien senior secured loan ($5,971 par due 12/2016)",,4272,4921
+362,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Class A common units (533,351 units)",,4993,0
+363,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Class B-5 common units (272,834 units)",,2492,0
+364,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Class C common units (758,546 units)",,0,0
+365,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 654,045 shares of Class A units",,0,0
+366,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 26,072 shares of Class B-1 units",,0,0
+367,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 52,143 shares of Class B-2 units",,0,0
+368,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 26,965 shares of Class B-3 units",,0,0
+369,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 73,106 shares of Class B-5 units",,0,0
+370,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 54,263 shares of Class B-6 units",,0,0
+371,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,"Warrant to purchase up to 952,095 shares of Class C units",,0,0
+372,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC(7)",,,,305939,264143
+373,Containers and Packaging,"Charter NEX US Holdings, Inc.",Producer of high-performance specialty films used in flexible packaging,"Second lien senior secured loan ($16,000 par due 2/2023)",9.25% (Libor + 8.25%/Q),15787,15680
+374,Containers and Packaging,"GS Pretium Holdings, Inc.",Manufacturer and supplier of high performance plastic containers,"Common stock (500,000 shares)",,500,479
+375,Containers and Packaging,"ICSH, Inc.(25)","Industrial container manufacturer, reconditioner and servicer",First lien senior secured revolving loan,,0,0
+376,Containers and Packaging,"ICSH, Inc.(25)",,"Second lien senior secured loan ($66,000 par due 12/2019)",10.00% (Libor + 9.00%/Q),66000,66000
+377,Containers and Packaging,LBP Intermediate Holdings LLC(25),Manufacturer of paper and corrugated foodservice packaging,First lien senior secured revolving loan,,0,0
+378,Containers and Packaging,LBP Intermediate Holdings LLC(25),,"First lien senior secured loan ($24,425 par due 7/2020)",6.50% (Libor + 5.50%/Q),24153,24425
+379,Containers and Packaging,LBP Intermediate Holdings LLC(25),,First lien senior secured loan ($193 par due 7/2020),8.00% (Base Rate + 4.50%/Q),191,193
+380,Containers and Packaging,"Microstar Logistics LLC, Microstar Global Asset Management LLC, and MStar Holding Corporation",Keg management solutions provider,"Second lien senior secured loan ($142,500 par due 12/2018)",8.50% (Libor + 7.50%/Q),142500,142500
+381,Containers and Packaging,"Microstar Logistics LLC, Microstar Global Asset Management LLC, and MStar Holding Corporation",,"Common stock (50,000 shares)",,3951,7270
+382,Containers and Packaging,"Microstar Logistics LLC, Microstar Global Asset Management LLC, and MStar Holding Corporation",,,,253082,256547
+383,Food and Beverage,American Seafoods Group LLC and American Seafoods Partners LLC(25),Harvester and processor of seafood,"First lien senior secured loan ($19,850 par due 8/2021)",6.00% (Libor + 5.00%/Q),19598,19652
+384,Food and Beverage,American Seafoods Group LLC and American Seafoods Partners LLC(25),,"Second lien senior secured loan ($55,000 par due 2/2022)",10.00% (Libor + 9.00%/Q),55000,53900
+385,Food and Beverage,American Seafoods Group LLC and American Seafoods Partners LLC(25),,"Class A units (77,922 units)",,78,75
+386,Food and Beverage,American Seafoods Group LLC and American Seafoods Partners LLC(25),,"Warrant to purchase up to 7,422,078 Class A units",,7422,7160
+387,Food and Beverage,Eagle Family Foods Group LLC,Manufacturer and producer of milk products,"First lien senior secured loan ($64,775 par due 12/2021)",10.05% (Libor + 9.05%/Q),64277,64775
+388,Food and Beverage,GF Parent LLC,"Producer of low-acid, aseptic food and beverage products","Class A preferred units (2,940 units)",,2940,2433
+389,Food and Beverage,GF Parent LLC,,"Class A common units (59,999.74 units)",,60,0
+390,Food and Beverage,"Kettle Cuisine, LLC",Manufacturer of fresh refrigerated and frozen food products,"Second lien senior secured loan ($28,500 par due 2/2022)",10.50% (Libor + 9.50%/Q),28500,28500
+391,Food and Beverage,"KeyImpact Holdings, Inc. and JWC/KI Holdings, LLC(25)",Foodservice sales and marketing agency,"First lien senior secured loan ($46,250 par due 11/2021)",7.13% (Libor + 6.13%/Q),46250,45788
+392,Food and Beverage,"KeyImpact Holdings, Inc. and JWC/KI Holdings, LLC(25)",,"Membership units (5,000 units)",,5000,5000
+393,Food and Beverage,"KeyImpact Holdings, Inc. and JWC/KI Holdings, LLC(25)",,,,229125,227283
+394,Automotive Services,"AEP Holdings, Inc. and Arrowhead Holdco Company","Distributor of non-discretionary, mission-critical aftermarket replacement parts","First lien senior secured loan ($45,346 par due 8/2021)",7.25% (Libor + 6.25%/Q),45346,44893
+395,Automotive Services,"AEP Holdings, Inc. and Arrowhead Holdco Company",,First lien senior secured loan ($904 par due 8/2021),8.75% (Base Rate + 5.25%/Q),904,895
+396,Automotive Services,"AEP Holdings, Inc. and Arrowhead Holdco Company",,"Common stock (2,500 shares)",,2500,2518
+397,Automotive Services,"ChargePoint, Inc.",Developer and operator of electric vehicle charging stations,"First lien senior secured loan ($10,000 par due 7/2019)",9.75% (Libor + 8.75%/M),9821,10000
+398,Automotive Services,"ChargePoint, Inc.",,"First lien senior secured loan ($10,000 par due 1/2019)",9.75% (Libor + 8.75%/M),9567,10000
+399,Automotive Services,"ChargePoint, Inc.",,"Warrant to purchase up to 404,563 shares of Series E preferred stock",,327,327
+400,Automotive Services,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",Automotive reconditioning services,"Second lien senior secured loan ($50,000 par due 10/2020)",10.25% (Libor + 9.25%/Q),50000,50000
+401,Automotive Services,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",,"Class A Common Stock (10,000 shares)",,333,456
+402,Automotive Services,"Dent Wizard International Corporation and DWH Equity Investors, L.P.",,"Class B Common Stock (20,000 shares)",,667,911
+403,Automotive Services,"Eckler Industries, Inc.(25)",Restoration parts and accessories provider for classic automobiles,"First lien senior secured revolving loan ($2,000 par due 7/2017)",8.50% (Base Rate + 5.00%/Q),2000,1940
+404,Automotive Services,"Eckler Industries, Inc.(25)",,"First lien senior secured loan ($7,054 par due 7/2017)",7.25% (Libor + 6.00%/Q),7054,6842
+405,Automotive Services,"Eckler Industries, Inc.(25)",,"First lien senior secured loan ($26,581 par due 7/2017)",7.25% (Libor + 6.00%/Q),26581,25784
+406,Automotive Services,"Eckler Industries, Inc.(25)",,"Series A preferred stock (1,800 shares)",,1800,0
+407,Automotive Services,"Eckler Industries, Inc.(25)",,"Common stock (20,000 shares)",,200,0
+408,Automotive Services,"EcoMotors, Inc.",Engine developer,"First lien senior secured loan ($11,480 par due 3/2018)",11.00%,10855,11480
+409,Automotive Services,"EcoMotors, Inc.",,"Warrant to purchase up to 321,888 shares of Series C preferred stock",,0,347
+410,Automotive Services,"EcoMotors, Inc.",,"Warrant to purchase up to 70,000 shares of Series C preferred stock",,0,0
+411,Automotive Services,"Simpson Performance Products, Inc.",Provider of motorsports safety equipment,"First lien senior secured loan ($5,006 par due 2/2020)",9.80% (Libor + 8.80%/Q),5006,5006
+412,Automotive Services,"Simpson Performance Products, Inc.",,"First lien senior secured loan ($19,500 par due 2/2020)",9.80% (Libor + 8.80%/Q),19500,19500
+413,Automotive Services,"SK SPV IV, LLC",Collision repair site operators,"Series A common stock (12,500 units)",,571,2679
+414,Automotive Services,"SK SPV IV, LLC",,"Series B common stock (12,500 units)",,571,2679
+415,Automotive Services,"TA THI Buyer, Inc. and TA THI Parent, Inc.",Collision repair company,"Series A preferred stock (50,000 shares)",,5000,9297
+416,Automotive Services,"TA THI Buyer, Inc. and TA THI Parent, Inc.",,,,198603,205554
+417,Commercial Real Estate Finance,"10th Street, LLC and New 10th Street, LLC(8)",Real estate holding company,"First lien senior secured loan ($25,320 par due 11/2019)","7.00% Cash, 1.00% PIK",25320,25320
+418,Commercial Real Estate Finance,"10th Street, LLC and New 10th Street, LLC(8)",,"Senior subordinated loan ($27,235 par due 11/2019)","7.00% Cash, 1.00% PIK",27235,27235
+419,Commercial Real Estate Finance,"10th Street, LLC and New 10th Street, LLC(8)",,Member interest (10.00% interest),,594,44520
+420,Commercial Real Estate Finance,"10th Street, LLC and New 10th Street, LLC(8)",,"Option (25,000 units)",,25,25
+421,Commercial Real Estate Finance,"Commons R-3, LLC",Real estate developer,Real estate equity interests,,0,135
+422,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates(8)",Hotel operator,"Senior subordinated loan ($2,236 par due 9/2011)",15.00%,0,2670
+423,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates(8)",,Common equity interest,,0,0
+424,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates(8)",,,,53174,99905
+425,Chemicals,"Genomatica, Inc.",Developer of a biotechnology platform for the production of chemical products,"Warrant to purchase 322,422 shares of Series D preferred stock",,0,6
+426,Chemicals,"K2 Pure Solutions Nocal, L.P.(25)",Chemical Producer,"First lien senior secured revolving loan ($5,000 par due 8/2019)",9.125% (Libor + 8.125%/M),5000,4900
+427,Chemicals,"K2 Pure Solutions Nocal, L.P.(25)",,"First lien senior secured loan ($20,694 par due 8/2019)",8.00% (Libor + 7.00%/M),20694,20280
+428,Chemicals,"K2 Pure Solutions Nocal, L.P.(25)",,"First lien senior secured loan ($38,500 par due 8/2019)",8.00% (Libor + 7.00%/M),38500,37730
+429,Chemicals,"K2 Pure Solutions Nocal, L.P.(25)",,"First lien senior secured loan ($19,250 par due 8/2019)",8.00% (Libor + 7.00%/M),19250,18865
+430,Chemicals,"Kinestral Technologies, Inc.","Designer of adaptive, dynamic glass for the commercial and residential markets","First lien senior secured loan ($10,000 par due 10/2018)",8.75% (Libor + 7.75%/M),9856,10000
+431,Chemicals,"Kinestral Technologies, Inc.",,"Warrant to purchase up to 325,000 shares of Series A preferred stock",,73,151
+432,Chemicals,"Kinestral Technologies, Inc.",,"Warrant to purchase up to 131,883 shares of Series B preferred stock",,0,0
+433,Chemicals,"Liquid Light, Inc.",Developer and licensor of process technology for the conversion of carbon dioxide into major chemicals,"First lien senior secured loan ($2,556 par due 11/2017)",10.00%,2518,2556
+434,Chemicals,"Liquid Light, Inc.",,"Warrant to purchase up to 86,009 shares of Series B preferred stock",,77,74
+435,Chemicals,"Liquid Light, Inc.",,,,95968,94562
+436,Hotel Services,"Aimbridge Hospitality Holdings, LLC(25)",Hotel operator,"First lien senior secured loan ($18,305 par due 10/2018)",8.25% (Libor + 7.00%/Q),18066,18305
+437,Hotel Services,Castle Management Borrower LLC,Hotel operator,"First lien senior secured loan ($5,940 par due 9/2020)",5.50% (Libor + 4.50%/Q),5940,5940
+438,Hotel Services,Castle Management Borrower LLC,,"Second lien senior secured loan ($10,000 par due 3/2021)",11.00% (Libor + 10.00%/Q),10000,10000
+439,Hotel Services,Castle Management Borrower LLC,,"Second lien senior secured loan ($55,000 par due 3/2021)",11.00% (Libor + 10.00%/Q),55000,55000
+440,Hotel Services,Castle Management Borrower LLC,,,,89006,89245
+441,Aerospace and Defense,"Cadence Aerospace, LLC",Aerospace precision components manufacturer,"First lien senior secured loan ($4,074 par due 5/2018)",6.50% (Libor + 5.25%/Q),4057,4074
+442,Aerospace and Defense,"Cadence Aerospace, LLC",,"Second lien senior secured loan ($79,657 par due 5/2019)",10.50% (Libor + 9.25%/Q),79657,77267
+443,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services",Senior preferred stock (775 shares),8.00% PIK,131,131
+444,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",,"Common stock (1,885,195 shares)",,2291,2504
+445,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",,,,86136,83976
+446,Environmental Services,"RE Community Holdings II, Inc., Pegasus Community Energy, LLC., and MPH Energy Holdings, LP",Operator of municipal recycling facilities,"Preferred stock (1,000 shares)",,8839,0
+447,Environmental Services,"RE Community Holdings II, Inc., Pegasus Community Energy, LLC., and MPH Energy Holdings, LP",,Limited partnership interest (3.13% interest),,0,0
+448,Environmental Services,"Waste Pro USA, Inc",Waste management services,"Second lien senior secured loan ($76,725 par due 10/2020)",8.50% (Libor + 7.50%/Q),76725,76725
+449,Environmental Services,"Waste Pro USA, Inc",,,,85564,76725
+450,Health Clubs,"Athletic Club Holdings, Inc.(25)",Premier health club operator,"First lien senior secured loan ($41,000 par due 10/2020)",9.50% (Libor + 8.50%/Q),41000,41000
+451,Health Clubs,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",Health club franchisor,"Limited partnership interest (4,152,165 shares)",,4152,3767
+452,Health Clubs,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",,"Common stock (1,680 shares)",,0,0
+453,Health Clubs,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",,"Limited partnership interest (2,218,235 shares)",,2218,2012
+454,Health Clubs,"CFW Co-Invest, L.P., NCP Curves, L.P. and Curves International Holdings, Inc.",,,,47370,46779
+455,Wholesale Distribution,"Flow Solutions Holdings, Inc.","Distributor of high value fluid handling, filtration and flow control products","Second lien senior secured loan ($6,000 par due 10/2018)",10.00% (Libor + 9.00%/Q),6000,5820
+456,Wholesale Distribution,"Flow Solutions Holdings, Inc.",,"Second lien senior secured loan ($29,500 par due 10/2018)",10.00% (Libor + 9.00%/Q),29500,28615
+457,Wholesale Distribution,"Flow Solutions Holdings, Inc.",,,,35500,34435
+458,Retail,"Paper Source, Inc. and Pine Holdings, Inc.(25)",Retailer of fine and artisanal paper products,"First lien senior secured loan ($9,800 par due 9/2018)",7.25% (Libor + 6.25%/Q),9800,9800
+459,Retail,"Paper Source, Inc. and Pine Holdings, Inc.(25)",,"Class A common stock (36,364 shares)",,6000,7056
+460,Retail,"Things Remembered, Inc. and TRM Holdings Corporation(25)",Personalized gifts retailer,"First lien senior secured revolving loan ($3,167 par due 5/2017)",,3126,1868
+461,Retail,"Things Remembered, Inc. and TRM Holdings Corporation(25)",,"First lien senior secured loan ($12,878 par due 5/2018)",,12606,7598
+462,Retail,"Things Remembered, Inc. and TRM Holdings Corporation(25)",,,,31532,26322
+463,Telecommunications,Adaptive Mobile Security Limited(9),Developer of security software for mobile communications networks,"First lien senior secured loan ($3,039 par due 7/2018)",10.00% (Libor + 9.00%/M),3196,3189
+464,Telecommunications,Adaptive Mobile Security Limited(9),,First lien senior secured loan ($769 par due 10/2018),10.00% (Libor + 9.00%/M),807,807
+465,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company, and Cameron Holdings of NC, Inc.",Broadband communication services,Warrant to purchase up to 208 shares,,0,7249
+466,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company, and Cameron Holdings of NC, Inc.",,Warrant to purchase up to 200 shares,,0,6970
+467,Telecommunications,"Startec Equity, LLC(8)",Communication services,Member interest,,0,0
+468,Telecommunications,Wilcon Holdings LLC,Communications infrastructure provider,"Class A common stock (2,000,000 shares)",,1829,2620
+469,Telecommunications,Wilcon Holdings LLC,,,,5832,20835
+470,"Printing, Publishing and Media","Batanga, Inc.(25)",Independent digital media company,"First lien senior secured revolving loan ($3,000 par due 6/2016)",10.00%,3000,3000
+471,"Printing, Publishing and Media","Batanga, Inc.(25)",,"First lien senior secured loan ($6,590 par due 6/2017)",10.60%,6590,6650
+472,"Printing, Publishing and Media","Earthcolor Group, LLC",Printing management services,Limited liability company interests (9.30%),,0,0
+473,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Preferred stock (10,663 shares)",,1066,3875
+474,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,"Common stock (15,393 shares)",,3,9
+475,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,,,10659,13534
+476,Computers and Electronics,"Everspin Technologies, Inc.(25)",Designer and manufacturer of computer memory solutions,"First lien senior secured loan ($8,000 par due 6/2019)",8.75% (Libor + 7.75%/M),7533,7840
+477,Computers and Electronics,"Everspin Technologies, Inc.(25)",,"Warrant to purchase up to 480,000 shares of Series B preferred stock",,355,355

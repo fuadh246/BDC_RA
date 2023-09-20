@@ -1,353 +1,378 @@
-,Company,Business Description,Investment,Interest,Acquisition Date,Amortized Cost,Fair Value
-0,"AGILE Fund I, LLC (9)",Investment partnership,Member interest (0.50% interest),0,4/1/2010,122,27
-1,"CIC Flex, LP (9)",Investment partnership,Limited partnership units (0.94 unit),0,9/7/2007,1050,2120
-2,"Covestia Capital Partners, LP (9)",Investment partnership,Limited partnership interest (47.00% interest),0,6/17/2008,1059,1170
-3,"Dynamic India Fund IV, LLC (9)",Investment company,Member interest (5.44% interest),0,4/1/2010,4822,2962
-4,"HCI Equity, LLC (7)(8)(9)",Investment company,Member interest (100.00% interest),0,4/1/2010,452,426
-5,"Imperial Capital Private Opportunities, LP (9)",Investment partnership,Limited partnership interest (80.00% interest),0,5/10/2007,5971,10037
-6,"Partnership Capital Growth Fund I, L.P. (9)",Investment partnership,Limited partnership interest (25.00% interest),0,6/16/2006,1596,4059
-7,"Partnership Capital Growth Fund III, L.P. (9)",Investment partnership,Limited partnership interest (2.50% interest),0,10/5/2011,2379,2341
-8,"Piper Jaffray Merchant Banking Fund I, L.P. (9)",Investment partnership,Limited partnership interest (2.00% interest),0,8/16/2012,389,341
-9,Senior Secured Loan Fund LLC (7)(10),Co-investment vehicle,"Subordinated certificates ($1,250,904 par due 12/2022)",8.31% (Libor + 8.00%/Q)(22),10/30/2009,1244833,1269667
-10,VSC Investors LLC (9),Investment company,Membership interest (1.95% interest),0,1/24/2008,661,1197
-11,"California Forensic Medical Group, Incorporated",Correctional facility healthcare operator,"Senior secured loan ($54,047 par due 11/2018)",9.25% (Libor + 8.00%/Q),11/16/2012,54047,54047
-12,"CCS Group Holdings, LLC",Correctional facility healthcare operator,"Class A units (601,937 units)",0,8/19/2010,602,1293
-13,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services,"Senior secured loan ($7,546 par due 3/2017)",7.75% (Libor + 6.50%/Q),3/15/2011,7546,7471
-14,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services,"Senior secured loan ($7,154 par due 3/2017)",7.75% (Libor + 6.50%/Q),3/15/2011,7154,7082
-15,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services,"Class A common stock (9,679 shares)",0,6/15/2007,4000,4931
-16,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services,"Class C common stock (1,546 shares)",0,6/15/2007,0,1359
-17,"INC Research, Inc.",Pharmaceutical and biotechnology consulting services,"Common stock (1,410,000 shares)",0,9/27/2010,1512,996
-18,Intermedix Corporation,Revenue cycle management provider to the emergency healthcare industry,"Junior secured loan ($112,000 par due 6/2019)",10.25% (Libor + 9.00%/Q),12/27/2012,112000,112000
-19,"JHP Group Holdings, Inc.",Manufacturer of specialty pharmaceutical products,"Series A preferred stock (1,000,000 shares)",6.00% PIK,2/19/2013,1000,1000
-20,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",Healthcare professional provider,"Senior secured loan ($69,971 par due 3/2018)",9.75% (Libor + 8.75%/Q),9/15/2010,69971,69971
-21,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",Healthcare professional provider,"Senior secured loan ($57,900 par due 3/2018)",9.75% (Libor + 8.75%/Q),9/15/2010,57900,57900
-22,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",Healthcare professional provider,"Senior secured loan ($4,825 par due 3/2018)",9.75% (Libor + 8.75%/Q),3/16/2012,4825,4825
-23,MW Dental Holding Corp.,Dental services,"Senior secured revolving loan ($3,500 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,3500,3500
-24,MW Dental Holding Corp.,Dental services,"Senior secured loan ($54,885 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,54885,54885
-25,MW Dental Holding Corp.,Dental services,"Senior secured loan ($49,129 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,49129,49129
-26,MW Dental Holding Corp.,Dental services,"Senior secured loan ($9,875 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,9875,9875
-27,Napa Management Services,Anesthesia management,Senior secured loan,6.50% (Libor +,4/15/2011,23674,23674
-28,Corporation,services provider,"($23,674 par due 4/2018)",5.25%/Q),0,0,0
-29,Corporation,services provider,"Senior secured loan ($33,518 par due 4/2018)",6.50% (Libor + 5.25%/Q),4/15/2011,33445,33518
-30,Corporation,services provider,"Common units (5,000 units)",0,4/15/2011,5000,6324
-31,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Senior secured loan ($39,844 par due 12/2017)",7.25% (Libor + 6.00%/Q),12/18/2012,39844,39844
-32,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,Senior secured loan ($18 par due 12/2017),8.25% (Base Rate + 5.00%/Q),12/18/2012,18,18
-33,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,Senior secured loan ($232 par due 12/2017),8.25% (Base Rate + 5.00%/Q),12/18/2012,232,232
-34,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Common stock (2,500,000 shares)",0,6/21/2010,2500,3106
-35,OnCURE Medical Corp.,Radiation oncology care provider,"Common stock (857,143 shares)",0,8/18/2006,3000,0
-36,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",Healthcare technology provider,"Series A preferred stock (1,594,457 shares)",0,7/30/2008,11156,12388
-37,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",Healthcare technology provider,"Common stock (16,106 shares)",0,7/30/2008,100,0
-38,"PG Mergersub, Inc. and PGA Holdings, Inc.","Provider of patient surveys, management reports and national databases for the integrated healthcare delivery system","Junior secured loan ($45,000 par due 10/2018)",8.25% (Libor + 7.00%/Q),4/19/2012,45000,45000
-39,"PG Mergersub, Inc. and PGA Holdings, Inc.","Provider of patient surveys, management reports and national databases for the integrated healthcare delivery system",Preferred stock (333 shares),0,3/12/2008,125,14
-40,"PG Mergersub, Inc. and PGA Holdings, Inc.","Provider of patient surveys, management reports and national databases for the integrated healthcare delivery system","Common stock (16,667 shares)",0,3/12/2008,167,703
-41,"RCHP, Inc.",Operator of general acute care hospitals,"Senior secured loan ($9,975 par due 11/2018)",7.00% (Libor + 5.75%/Q),11/4/2011,9950,9975
-42,"RCHP, Inc.",Operator of general acute care hospitals,"Junior secured loan ($65,000 par due 5/2019)",11.50% (Libor + 10.00%/S),11/4/2011,65000,65000
-43,"Reed Group, Ltd.",Medical disability management services provider,Equity interests,0,4/1/2010,0,0
-44,"Respicardia, Inc.",Developer of implantable therapies to improve cardiovascular health,"Senior secured loan ($5,600 par due 7/2015)",11.00%,6/28/2012,5574,5600
-45,"Respicardia, Inc.",Developer of implantable therapies to improve cardiovascular health,"Warrants to purchase up to 99,094 shares of Series C preferred stock",0,6/26/2012,38,30
-46,"Sage Products Holdings III, LLC",Patient infection control and preventive care solutions provider,"Junior secured loan ($75,000 par due 6/2020)",9.25% (Libor + 8.00%/Q),12/13/2012,75000,75000
-47,"Soteria Imaging Services, LLC (6)",Outpatient medical imaging provider,"Junior secured loan ($2,521 par due 11/2010)",0,4/1/2010,2051,671
-48,"Soteria Imaging Services, LLC (6)",Outpatient medical imaging provider,"Preferred member units (1,823,179 units)",0,4/1/2010,0,0
-49,"SurgiQuest, Inc.",Medical device company,"Senior secured loan ($7,000 par due 10/2016)",10.00%,9/28/2012,6812,7000
-50,"SurgiQuest, Inc.",Medical device company,"Warrants to purchase up to 54,672 shares of Series D-4 convertible preferred stock",0,9/28/2012,0,0
-51,"U.S. Anesthesia Partners, Inc.",Anesthesiology service provider,"Senior secured loan ($14,962 par due 12/2018)",6.50% (Libor + 5.50%/Q),12/27/2012,14962,14962
-52,"Vantage Oncology, Inc.",Radiation oncology care provider,"Common stock (62,157 shares)",0,2/3/2011,4670,2252
-53,"Young Innovations, Inc.",Dental equipment manufacturer,"Senior secured loan ($15,000 par due 1/2019)",6.25% (Libor + 5.00%/M),1/31/2013,15000,15000
-54,"Young Innovations, Inc.",Dental equipment manufacturer,"Senior secured loan ($22,143 par due 1/2019)",6.25% (Libor + 5.00%/M),1/31/2013,22143,22143
-55,"American Academy Holdings,","Provider of education,",Senior secured revolving,7.25% (Base,3/18/2011,4850,4850
-56,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","loan ($4,850 par due 3/2019)",Rate + 4.00%/Q),0,0,0
-57,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","Senior secured loan ($7,800 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,7800,7800
-58,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","Senior secured loan ($5,985 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,5985,5985
-59,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","Senior secured loan ($10,331 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,10331,10331
-60,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","Senior secured loan ($60,752 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,60752,60752
-61,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","Senior secured loan ($4,770 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,4770,4770
-62,Campus Management Corp. and Campus Management Acquisition Corp. (6),Education software developer,"Preferred stock (485,159 shares)",0,2/8/2008,10520,5461
-63,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,"Senior secured loan ($15,000 par due 12/2014)",6.25% (Libor + 5.25%/Q),12/10/2010,15000,15000
-64,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,Senior secured loan ($714 par due 12/2014),7.50% (Base Rate + 4.25%/Q),12/10/2010,714,714
-65,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,"Junior secured loan ($33,599 par due 12/2015)",15.30% (Libor + 15.00%/Q),12/10/2010,33599,30912
-66,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,"Junior secured loan ($10,139 par due 12/2015)",15.29% (Libor + 15.00%/Q),12/10/2010,10139,9329
-67,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,"Warrants to purchase up to 654,618 shares",0,12/10/2010,0,0
-68,eInstruction Corporation,"Developer, manufacturer and retailer of educational products","Senior secured loan ($17,000 par due 7/2014)",0,4/1/2010,15258,0
-69,eInstruction Corporation,"Developer, manufacturer and retailer of educational products","Senior subordinated loan ($33,305 par due 1/2015)",0,4/1/2010,24152,0
-70,eInstruction Corporation,"Developer, manufacturer and retailer of educational products","Common stock (2,406 shares)",0,4/1/2010,926,0
-71,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)","Developer, manufacturer and retailer of educational products","Preferred stock (99,492 shares)",12.00% PIK,8/1/2011,10845,12119
-72,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)","Developer, manufacturer and retailer of educational products","Common stock (50,800 shares)",0,8/1/2011,51,3290
-73,"Infilaw Holding, LLC",Operator of three for-profit law schools,Senior secured loan ($1 par due 8/2016),9.50% (Libor + 8.50%/Q),8/25/2011,1,1
-74,"Infilaw Holding, LLC",Operator of three for-profit law schools,"Senior secured loan ($19,086 par due 8/2016)",9.50% (Libor + 8.50%/Q),8/25/2011,19086,19086
-75,"Infilaw Holding, LLC",Operator of three for-profit law schools,"Series A preferred units (124,890 units)",9.50% (Libor + 8.50%/Q),8/25/2011,124890,124890
-76,"Infilaw Holding, LLC",Operator of three for-profit law schools,Series B preferred stock (3.91 units),0,10/19/2012,9245,9884
-77,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",Private school operator,"Series B preferred stock (1,750,000 shares)",0,8/5/2010,5000,7412
-78,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",Private school operator,"Series C preferred stock (2,512,586 shares)",0,6/7/2010,689,34
-79,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",Private school operator,Common stock (20 shares),0,6/7/2010,0,0
-80,"Lakeland Tours, LLC",Educational travel provider,"Senior secured loan ($58,826 par due 12/2016)",9.25% (Libor + 8.25%/Q),10/4/2011,58678,58826
-81,"Lakeland Tours, LLC",Educational travel provider,"Senior secured loan ($1,760 par due 12/2016)",5.25% (Libor + 4.25%/Q),10/4/2011,1756,1760
-82,"Lakeland Tours, LLC",Educational travel provider,"Senior secured loan ($40,362 par due 12/2016)",9.25% (Libor + 8.25%/Q),10/4/2011,40259,40362
-83,"Lakeland Tours, LLC",Educational travel provider,"Senior secured loan ($8,800 par due 12/2016)",5.25% (Libor + 4.25%/Q),10/4/2011,8777,8800
-84,"Lakeland Tours, LLC",Educational travel provider,"Common stock (5,000 shares)",0,10/4/2011,5000,4892
-85,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"Preferred stock (8,800 shares)",0,7/30/2008,2200,1936
-86,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,Common membership,0,9/21/2007,15800,29443
-87,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"interest (26.27% interest) Warrants to purchase up to 27,890 shares",0,12/8/2009,0,0
-88,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,"Senior secured revolving loan ($1,468 par due 11/2014)",6.50% (Libor + 3.50%/Q),11/27/2006,1468,1468
-89,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,Senior secured revolving loan ($50 par due 11/2014),6.50% (Base Rate + 2.50%/Q),11/27/2006,50,50
-90,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,"Senior secured loan ($9,168 par due 11/2015)",12.50% (Libor + 9.50%/Q),11/27/2006,9168,9168
-91,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,"Senior secured loan ($10,995 par due 11/2015)",12.50% (Libor + 9.50%/Q),11/27/2006,10998,10995
-92,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,"Promissory note ($20,020,806 par due 11/2016)",12.00% PIK,11/27/2006,16584,19978
-93,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,Warrants to purchase up to 0.61 shares,0,6/1/2006,0,2352
-94,"Benihana, Inc.",Restaurant owner and operator,"Senior secured loan ($11,715 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,11715,11715
-95,"Benihana, Inc.",Restaurant owner and operator,"Senior secured loan ($10,000 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,10000,10000
-96,"Benihana, Inc.",Restaurant owner and operator,"Senior secured loan ($9,975 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,9975,9975
-97,"Hojeij Branded Foods, Inc.",Airport restaurant operator,"Senior secured revolving loan ($1,900 par due 2/2017)",9.00% (Libor + 8.00%/Q),2/15/2012,1900,1900
-98,"Hojeij Branded Foods, Inc.",Airport restaurant operator,"Senior secured loan ($25,600 par due 2/2017)",9.00% (Libor + 8.00%/Q),2/15/2012,25053,25600
-99,"Hojeij Branded Foods, Inc.",Airport restaurant operator,Warrants to purchase up to 7.5% of membership interest,0,2/15/2012,0,164
-100,"Hojeij Branded Foods, Inc.",Airport restaurant operator,Warrants to purchase up to 324 shares of Class A common stock,0,2/15/2012,669,2362
-101,"Orion Foods, LLC (7)",Convenience food service retailer,"Senior secured revolving loan ($9,000 par due 9/2014)",10.75% (Base Rate + 7.50%/M),4/1/2010,9000,9000
-102,"Orion Foods, LLC (7)",Convenience food service retailer,"Senior secured loan ($33,367 par due 9/2014)",10.00% (Libor + 8.50%/Q),4/1/2010,33367,33367
-103,"Orion Foods, LLC (7)",Convenience food service retailer,"Junior secured loan ($37,552 par due 9/2014)",0,4/1/2010,22425,15358
-104,"Orion Foods, LLC (7)",Convenience food service retailer,"Preferred units (10,000 units)",0,10/28/2010,0,0
-105,"Orion Foods, LLC (7)",Convenience food service retailer,"Class A common units (25,001 units)",0,4/1/2010,0,0
-106,"Orion Foods, LLC (7)",Convenience food service retailer,"Class B common units (1,122,452 units)",0,4/1/2010,0,0
-107,"OTG Management, LLC",Airport restaurant operator,"Senior secured loan ($25,000 par due 12/2017)",8.75% (Libor + 7.25%/Q),12/11/2012,25000,25000
-108,"OTG Management, LLC",Airport restaurant operator,"Common units (3,000,000 units)",0,1/5/2011,3000,1955
-109,"OTG Management, LLC",Airport restaurant operator,Warrants to purchase up to 7.73% of common units,0,6/19/2008,100,4151
-110,"Performance Food Group, Inc. and Wellspring Distribution Corp.",Food service distributor,"Junior secured loan ($50,000 par due 5/2015)",11.00%,5/30/2012,50000,50000
-111,"Performance Food Group, Inc. and Wellspring Distribution Corp.",Food service distributor,"Junior secured loan ($112,250 par due 5/2015)",11.00%,5/23/2008,111327,112250
-112,"Performance Food Group, Inc. and Wellspring Distribution Corp.",Food service distributor,"Class A non-voting common stock (1,366,120 shares)",0,5/3/2008,7500,6823
-113,"Restaurant Holding Company, LLC",Fast food restaurant operator,"Senior secured loan ($60,667 par due 2/2017)",9.00% (Libor + 7.50%/M),2/17/2012,59676,60667
-114,"Restaurant Holding Company, LLC",Fast food restaurant operator,"Senior secured loan ($9,333 par due 2/2017)",9.00% (Libor + 7.50%/M),2/17/2012,9180,9333
-115,S.B. Restaurant Company,Restaurant owner and,"Preferred stock (46,690",0,4/1/2010,0,0
-116,S.B. Restaurant Company,operator,"shares) Warrants to purchase up to 257,429 shares of common stock",0,4/1/2010,0,0
-117,"AllBridge Financial, LLC (7)",Asset management services,Equity interests,0,4/1/2010,5675,7422
-118,Callidus Capital Corporation (7),Asset management services,Common stock (100 shares),0,4/1/2010,3000,1735
-119,Ciena Capital LLC (7),Real estate and small business loan servicer,"Senior secured revolving loan ($14,000 par due 12/2014)",6.00%,11/29/2010,14000,14000
-120,Ciena Capital LLC (7),Real estate and small business loan servicer,"Senior secured loan ($32,000 par due 12/2016)",12.00%,11/29/2010,32000,32000
-121,Ciena Capital LLC (7),Real estate and small business loan servicer,Equity interests,0,11/29/2010,53374,14533
-122,"Commercial Credit Group, Inc.",Commercial equipment finance and leasing company,"Senior subordinated loan ($28,000 par due 5/2018)",12.75%,5/10/2012,28000,28000
-123,"Cook Inlet Alternative Risk, LLC",Risk management services,"Senior subordinated loan ($2,500 par due 9/2015)",9.00%,9/30/2011,2500,2500
-124,Financial Pacific Company,Commercial finance leasing,"Preferred stock (6,500 shares)",8.00% PIK,10/13/2010,3807,14065
-125,Financial Pacific Company,Commercial finance leasing,"Common stock (650,000 shares)",0,10/13/2010,0,0
-126,Gordian Acquisition Corp.,Financial services firm,Common stock (526 shares),0,11/30/2012,0,0
-127,Imperial Capital Group LLC,Investment services,"2006 Class B common units (2,526 units)",0,5/10/2007,3,4
-128,Imperial Capital Group LLC,Investment services,2007 Class B common units (315 units),0,5/10/2007,0,1
-129,Imperial Capital Group LLC,Investment services,"Class A common units (7,710 units)",0,5/10/2007,14997,18949
-130,"Ivy Hill Asset Management, L.P. (7)(9)",Asset management services,Member interest (100.00% interest),0,6/15/2009,170961,267839
-131,"Access CIG, LLC",Records and information management services provider,"Senior secured loan ($1,000 par due 10/2017)",7.00% (Libor + 5.75%/Q),10/5/2012,1000,1000
-132,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",Payroll and accounting services provider to the entertainment industry,"Senior secured loan ($19,750 par due 12/2017)",7.50% (Libor + 6.50%/Q),12/24/2012,19750,19750
-133,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",Payroll and accounting services provider to the entertainment industry,"Senior secured loan ($49,375 par due 12/2017)",7.50% (Libor + 6.50%/Q),12/24/2012,49375,49375
-134,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",Payroll and accounting services provider to the entertainment industry,"Class A membership units (2,500,000 units)",0,12/24/2012,2500,2500
-135,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",Payroll and accounting services provider to the entertainment industry,"Class B membership units (2,500,000 units)",0,12/24/2012,2500,2500
-136,"CIBT Investment Holdings, LLC",Expedited travel document processing services,"Class A shares (2,500 shares)",0,12/15/2011,2500,3477
-137,CitiPostal Inc. (7),Document storage and management services,"Senior secured revolving loan ($1,000 par due 12/2013)",6.50% (Base Rate + 3.25%/Q),4/1/2010,1000,1000
-138,CitiPostal Inc. (7),Document storage and management services,Senior secured loan ($525 par due 12/2013),"8.50% Cash, 5.50% PIK",4/1/2010,525,489
-139,CitiPostal Inc. (7),Document storage and management services,"Senior secured loan ($53,817 par due 12/2013)","8.50% Cash, 5.50% PIK",4/1/2010,53817,50066
-140,CitiPostal Inc. (7),Document storage and management services,"Senior subordinated loan ($17,936 par due 12/2015)",0,4/1/2010,13038,0
-141,CitiPostal Inc. (7),Document storage and management services,"Common stock (37,024 shares)",0,4/1/2010,0,0
-142,"Command Alkon, Inc.",Software solutions provider to the ready-mix concrete industry,"Junior secured loan ($39,130 par due 3/2018)",9.75% (Libor + 8.50%/Q),9/28/2012,39130,39130
-143,"Cornerstone Records Management, LLC",Physical records storage and management service provider,"Senior secured loan ($18,403 par due 8/2016)",12.25% (Base Rate + 9.00%/Q),8/12/2011,18403,17667
-144,"HCPro, Inc. and HCP",Healthcare compliance,Senior subordinated loan,0,3/5/2013,5500,5500
-145,"Acquisition Holdings, LLC (7)",advisory services,"($17,103 par due 8/2014)",0,0,0,0
-146,"Acquisition Holdings, LLC (7)",advisory services,"Class A units (15,043,110 units)",0,6/26/2008,13543,0
-147,IfByPhone Inc.,Voice-based marketing automation software provider,"Senior secured loan ($2,000 par due 11/2015)",11.00%,10/15/2012,1924,2000
-148,IfByPhone Inc.,Voice-based marketing automation software provider,"Senior secured loan ($1,000 par due 1/2016)",11.00%,10/15/2012,1000,1000
-149,IfByPhone Inc.,Voice-based marketing automation software provider,"Warrant to purchase up to 124,300 shares of Series C preferred stock",0,10/15/2012,88,88
-150,"Impact Innovations Group, LLC",IT consulting and outsourcing services,Member interest (50.00% interest),0,4/1/2010,0,200
-151,"Investor Group Services, LLC (6)",Business consulting for private equity and corporate clients,Limited liability company membership interest (10.00% interest),0,6/22/2006,0,805
-152,"Itel Laboratories, Inc.",Data services provider for building materials to property insurance industry,"Senior secured loan ($22,182 par due 6/2018)",6.00% (Libor + 4.75%/M),6/29/2012,22182,22182
-153,"Itel Laboratories, Inc.",Data services provider for building materials to property insurance industry,"Preferred units (1,798,391 units)",0,6/29/2012,1000,1118
-154,"Multi-Ad Services, Inc. (6)",Marketing services and software provider,"Preferred units (1,725,280 units)",0,4/1/2010,788,2043
-155,"Multi-Ad Services, Inc. (6)",Marketing services and software provider,"Common units (1,725,280 units)",0,4/1/2010,0,0
-156,"MVL Group, Inc. (7)",Marketing research provider,Senior secured revolving loan ($806 par due 6/2012),4.80% (Libor + 4.50%/Q),6/28/2012,806,806
-157,"MVL Group, Inc. (7)",Marketing research provider,"Senior subordinated loan ($37,003 par due 7/2012)",0,4/1/2010,34636,7216
-158,"MVL Group, Inc. (7)",Marketing research provider,Junior subordinated loan ($185 par due 7/2012),0,4/1/2010,0,0
-159,"MVL Group, Inc. (7)",Marketing research provider,"Common stock (560,716 shares)",0,4/1/2010,0,0
-160,"NComputing, Inc.",Desktop virtualization hardware and software technology service provider,"Senior secured loan ($6,500 par due 7/2016)",10.50%,3/20/2013,6500,6500
-161,"NComputing, Inc.",Desktop virtualization hardware and software technology service provider,"Warrant to purchase up to 462,726 shares of Series C preferred stock",0,3/20/2013,0,41
-162,Pillar Processing LLC and PHL Holding Co. (6),Mortgage services,"Senior secured loan ($6,659 par due 11/2018)",0,7/31/2008,6248,6659
-163,Pillar Processing LLC and PHL Holding Co. (6),Mortgage services,"Senior secured loan ($7,375 par due 5/2019)",0,11/20/2007,6406,494
-164,Pillar Processing LLC and PHL Holding Co. (6),Mortgage services,Class A common stock (576 shares),0,7/31/2012,3768,0
-165,"Powersport Auctioneer Holdings, LLC",Powersport vehicle auction operator,"Common units (1,972 units)",0,3/2/2012,1000,746
-166,"Prommis Holdings, LLC",Bankruptcy and foreclosure processing services,"Class B common units (1,727 units)",0,6/12/2012,0,0
-167,"Promo Works, LLC",Marketing services,"Senior secured loan ($8,655 par due 12/2013)",0,4/1/2010,3016,1888
-168,R2 Acquisition Corp.,Marketing services,"Common stock (250,000 shares)",0,5/29/2007,250,147
-169,"Rainstor, Inc.",Database solution provider designed to manage Big Data for large enterprises at the lowest total cost,"Senior secured loan ($3,000 par due 4/2016)",11.25%,3/28/2013,2913,3000
-170,"Rainstor, Inc.",Database solution provider designed to manage Big Data for large enterprises at the lowest total cost,"Warrant to purchase up to 142,210 shares of Series C preferred stock",0,3/28/2013,88,89
-171,"Strident Holding, Inc.",Recovery audit services provider to commercial and governmental healthcare payors,"Senior secured loan ($7,915 par due 7/2018)",6.50% (Libor + 5.25%/M),7/26/2012,7915,7915
-172,"Strident Holding, Inc.",Recovery audit services provider to commercial and governmental healthcare payors,"Senior secured loan ($9,950 par due 7/2018)",6.50% (Libor + 5.25%/M),7/26/2012,9950,9950
-173,Summit Business Media Parent Holding Company LLC,Business media consulting services,Limited liability company membership interest (45.98% interest),0,5/20/2011,0,1405
-174,"TOA Technologies, Inc.","Cloud based, mobile workforce management applications provider","Senior secured loan ($13,000 par due 11/2016)",10.25%,10/31/2012,12445,12610
-175,"TOA Technologies, Inc.","Cloud based, mobile workforce management applications provider","Warrant to purchase up to 2,509,770 shares of Series D preferred stock",0,10/31/2012,605,677
-176,"Tradesmen International, Inc.",Construction labor support,"Warrants to purchase up to 771,036 shares",0,4/1/2010,0,9878
-177,"Tripwire, Inc.",IT security software provider,"Senior secured loan ($19,950 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,19950,19950
-178,"Tripwire, Inc.",IT security software provider,"Senior secured loan ($49,875 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,49875,49875
-179,"Tripwire, Inc.",IT security software provider,"Senior secured loan ($9,975 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,9975,9975
-180,"Tripwire, Inc.",IT security software provider,"Class B common stock (2,655,638 shares)",0,5/23/2011,30,72
-181,"Tripwire, Inc.",IT security software provider,"Class A common stock (2,970 shares)",0,5/23/2011,2970,7103
-182,"Venturehouse-Cibernet Investors, LLC",Financial settlement services for intercarrier wireless roaming,Equity interest,0,4/1/2010,0,0
-183,"VSS-Tranzact Holdings, LLC (6)",Management consulting services,Common membership interest (5.98% interest),0,10/26/2007,10204,3306
-184,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,"Senior secured loan ($1,692 par due 8/2018)",9.50% (Base Rate + 6.25%/Q),8/9/2012,1692,1692
-185,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,"Senior secured loan ($53,009 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,53009,53009
-186,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,Senior secured loan ($308 par due 8/2018),9.50% (Base Rate + 6.25%/Q),8/9/2012,308,308
-187,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,"Senior secured loan ($9,666 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,9666,9666
-188,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,Senior secured loan ($308 par due 8/2018),9.50% (Base Rate + 6.25%/Q),8/9/2012,308,308
-189,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,"Senior secured loan ($9,642 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,9642,9642
-190,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,"Senior secured revolving loan ($2,350 par due 11/2018)",10.00% (Base Rate + 6.75%/Q),11/30/2012,2350,2350
-191,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,Senior secured revolving loan ($900 par due 11/2018),9.00% (Libor + 7.75%/Q),11/30/2012,900,900
-192,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,"Senior secured loan ($24,439 par due 11/2018)",9.00% (Libor + 7.75%/Q),11/30/2012,24439,24439
-193,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,"Senior secured loan ($29,925 par due 11/2018)",9.00% (Libor + 7.75%/Q),11/30/2012,29925,29925
-194,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,"Membership units (2,500,000 units)",0,11/30/2012,2500,2500
-195,"Massage Envy, LLC",Franchiser in the massage industry,"Senior secured loan ($53,157 par due 9/2018)",8.50% (Libor + 7.25%/Q),9/27/2012,53157,53157
-196,"Massage Envy, LLC",Franchiser in the massage industry,"Senior secured loan ($26,830 par due 9/2018)",8.50% (Libor + 7.25%/Q),9/27/2012,26830,26830
-197,"Massage Envy, LLC",Franchiser in the massage industry,"Common stock (3,000,000 shares)",0,9/27/2012,3000,3322
-198,"McKenzie Sports Products, LLC","Designer, manufacturer and distributor of taxidermy forms and supplies",Senior secured loan ($422 par due 3/2017),7.75% (Base Rate + 4.50%/Q),3/30/2012,422,422
-199,"McKenzie Sports Products, LLC","Designer, manufacturer and distributor of taxidermy forms and supplies","Senior secured loan ($10,895 par due 3/2017)",7.00% (Libor + 5.50%/Q),3/30/2012,10895,10895
-200,"McKenzie Sports Products, LLC","Designer, manufacturer and distributor of taxidermy forms and supplies",Senior secured loan ($354 par due 3/2017),7.75% (Base Rate + 4.50%/Q),3/30/2012,354,354
-201,"McKenzie Sports Products, LLC","Designer, manufacturer and distributor of taxidermy forms and supplies","Senior secured loan ($9,118 par due 3/2017)",7.00% (Libor + 5.50%/Q),3/30/2012,9118,9118
-202,The Dwyer Group (6),Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Senior subordinated loan ($25,497 par due 6/2018)","12.00% Cash, 1.50% PIK",12/22/2010,25497,25497
-203,The Dwyer Group (6),Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Series A preferred units (13,292,377 units)",8.00% PIK,12/22/2010,6462,15245
-204,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",Laundry service and equipment provider,"Junior secured loan ($78,000 par due 2/2020)",9.75% (Libor + 8.50%/Q),2/21/2013,78000,78000
-205,"Gilchrist & Soames, Inc.",Personal care manufacturer,"Senior secured revolving loan ($9,200 par due 10/2013)",6.25% (Libor + 5.00%/M),4/1/2010,9200,9200
-206,"Gilchrist & Soames, Inc.",Personal care manufacturer,"Senior secured loan ($22,171 par due 10/2013)","13.44% Cash, 2.00% PIK",4/1/2010,22009,20619
-207,"Implus Footcare, LLC",Provider of footwear and other accessories,Preferred stock (455 shares),6.00% PIK,10/31/2011,4945,4945
-208,"Implus Footcare, LLC",Provider of footwear and other accessories,Common stock (455 shares),0,10/31/2011,455,24
-209,Insight Pharmaceuticals Corporation (6),OTC drug products manufacture,"Junior secured loan ($19,310 par due 8/2017)",13.25% (Libor + 11.75%/Q),8/26/2011,19142,19310
-210,Insight Pharmaceuticals Corporation (6),OTC drug products manufacture,"Class A common stock (155,000 shares)",0,8/26/2011,6035,8368
-211,Insight Pharmaceuticals Corporation (6),OTC drug products manufacture,"Class B common stock (155,000 shares)",0,8/26/2011,6035,8368
-212,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of over-the-counter healthcare products,"Senior secured revolving loan ($2,000 par due 6/2016)",13.00% (Libor + 12.00%/Q),6/30/2011,2000,1900
-213,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of over-the-counter healthcare products,"Senior secured loan ($37,984 par due 6/2016)",13.00% (Libor + 12.00%/Q),6/30/2011,37799,36085
-214,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of over-the-counter healthcare products,"Warrants to purchase up to 1,654,678 shares of common stock",0,7/27/2011,0,0
-215,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of over-the-counter healthcare products,"Warrants to purchase up to 1,489 shares of preferred stock",0,7/27/2011,0,891
-216,"Oak Parent, Inc.",Manufacturer of athletic apparel,"Senior secured loan ($5,896 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,5873,5896
-217,"Oak Parent, Inc.",Manufacturer of athletic apparel,"Senior secured loan ($35,000 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,34859,35000
-218,"Oak Parent, Inc.",Manufacturer of athletic apparel,"Senior secured loan ($9,335 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,9297,9335
-219,"PG-ACP Co-Invest, LLC","Supplier of medical uniforms, specialized medical footwear and accessories","Class A membership units (1,000,0000 units)",0,8/29/2012,1000,1665
-220,"The Step2 Company, LLC",Toy manufacturer,"Junior secured loan ($25,600 par due 4/2015)",10.00%,4/1/2010,24823,25600
-221,"The Step2 Company, LLC",Toy manufacturer,"Junior secured loan ($31,621 par due 4/2015)","10.00% Cash, 5.00% PIK",4/1/2010,30802,27194
-222,"The Step2 Company, LLC",Toy manufacturer,"Common units (1,116,879 units)",0,4/1/2010,24,7
-223,"The Step2 Company, LLC",Toy manufacturer,"Warrants to purchase up to 3,157,895 units",0,4/1/2010,0,19
-224,"The Thymes, LLC (7)",Cosmetic products manufacturer,"Preferred units (6,283 units)",8.00% PIK,6/21/2007,5001,4638
-225,"The Thymes, LLC (7)",Cosmetic products manufacturer,"Common units (5,400 units)",0,6/21/2007,0,4473
-226,Woodstream Corporation,Pet products manufacturer,"Senior secured loan ($3,000 par due 8/2016)",6.00% (Libor + 5.00%/Q),4/18/2012,3000,3000
-227,Woodstream Corporation,Pet products manufacturer,"Senior secured loan ($15,000 par due 8/2016)",6.00% (Libor + 5.00%/Q),4/18/2012,15000,15000
-228,Woodstream Corporation,Pet products manufacturer,"Senior subordinated loan ($80,000 par due 2/2017)",11.00%,1/22/2010,76964,80000
-229,Woodstream Corporation,Pet products manufacturer,"Common stock (4,254 shares)",0,1/22/2010,1222,2633
-230,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($26,191 par due 8/2016)",8.00% (Libor + 7.00%/Q),8/31/2011,26191,26191
-231,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($24,217 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,24217,24217
-232,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer",Senior secured loan ($176 par due 8/2016),8.00% (Libor + 7.00%/Q),8/31/2011,176,176
-233,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($67,961 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,67961,67961
-234,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer",Senior secured loan ($38 par due 8/2016),8.00% (Libor + 7.00%/Q),8/31/2011,38,38
-235,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($14,795 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,14795,14795
-236,"Microstar Logistics LLC, Microstar Global Asset Management LLC and MStar Holding Corporation",Keg management solutions provider,"Junior secured loan ($165,000 par due 12/2018)",8.50% (Libor + 7.50%/Q),12/14/2012,165000,165000
-237,"Microstar Logistics LLC, Microstar Global Asset Management LLC and MStar Holding Corporation",Keg management solutions provider,"Common Stock (50,000 shares)",0,12/14/2012,5000,5000
-238,"Pregis Corporation, Pregis Intellipack Corp. and Pregis Innovative Packaging Inc.","Provider of highly-customized, tailored protective packaging solutions",Senior secured loan ($992 par due 3/2017),7.75% (Libor + 6.25%/M),4/25/2012,992,992
-239,"Centinela Funding, LLC",Solar power generation facility developer and operator,"Senior secured loan ($56,000 par due 11/2020)",10.00% (Libor + 8.75%/Q),11/14/2012,56000,56000
-240,"EquiPower Resources Holdings, LLC",Gas-fired power generation facilities operator,"Junior secured loan ($22,500 par due 6/2019)",10.00% (Libor + 8.50%/Q),6/27/2012,22084,22500
-241,"La Paloma Generating Company, LLC","Natural gas fired, combined cycle plant operator","Junior secured loan ($68,000 par due 8/2018)",10.25% (Libor + 8.75%/Q),8/9/2011,66947,68000
-242,"Panda Sherman Power, LLC",Developer and operator of a gas turbine power plant,"Senior secured loan ($32,500 par due 9/2018)",9.00% (Libor + 7.50%/Q),9/14/2012,32500,32500
-243,"Panda Temple Power, LLC",Developer and operator of a gas turbine power plant,"Senior secured loan ($60,000 par due 7/2018)",11.50% (Libor + 10.00%/Q),7/17/2012,58215,60000
-244,"Driven Holdings, LLC",Automotive aftermarket car care franchisor,"Preferred stock (247,500 units)",0,12/16/2011,2475,2742
-245,"Driven Holdings, LLC",Automotive aftermarket car care franchisor,"Common stock (25,000 units)",0,12/16/2011,25,114
-246,"Eckler Industries, Inc.",Restoration parts and accessories provider for classic automobiles,"Senior secured loan ($51,302 par due 7/2017)",7.25% (Libor + 6.00%/M),7/12/2012,51302,51302
-247,"Eckler Industries, Inc.",Restoration parts and accessories provider for classic automobiles,Senior secured loan ($505 par due 7/2017),8.25% (Base Rate + 5.00%/Q),7/12/2012,505,505
-248,"Eckler Industries, Inc.",Restoration parts and accessories provider for classic automobiles,"Series A preferred stock (1,800 shares)",0,7/12/2012,1800,1909
-249,"Eckler Industries, Inc.",Restoration parts and accessories provider for classic automobiles,"Common stock (20,000 shares)",0,7/12/2012,200,64
-250,"EcoMotors, Inc.",Engine developer,"Senior secured loan ($5,000 par due 7/2016)",10.13%,12/28/2012,4859,5000
-251,"EcoMotors, Inc.",Engine developer,"Warrant to purchase up to 321,888 shares of Series C Preferred Stock",0,12/28/2012,0,84
-252,"Service King Paint & Body, LLC",Collision repair site operators,"Senior secured loan ($116,500 par due 8/2017)",7.25% (Libor + 6.25%/Q),8/20/2012,116500,116500
-253,"Service King Paint & Body, LLC",Collision repair site operators,Senior secured loan,7.25% (Libor +,8/20/2012,11350,11350
-254,"Service King Paint & Body, LLC",Collision repair site operators,"Senior secured loan ($4,925 par due 8/2017)",4.50% (Libor + 3.50%/Q),8/20/2012,4925,4925
-255,"Service King Paint & Body, LLC",Collision repair site operators,"Senior secured loan ($9,850 par due 8/2017)",4.50% (Libor + 3.50%/Q),8/20/2012,9850,9850
-256,"Service King Paint & Body, LLC",Collision repair site operators,Membership interest,0,8/20/2012,5000,6819
-257,Cambrios Technologies Corporation,Developer and manufacturer of nanotechnology-based solutions for electronic devices and computers,"Senior secured loan ($4,394 par due 8/2015)",12.00%,8/7/2012,4394,4394
-258,Cambrios Technologies Corporation,Developer and manufacturer of nanotechnology-based solutions for electronic devices and computers,"Warrants to purchase up to 400,000 shares of Series D-4 convertible preferred stock",0,8/2/2012,0,8
-259,"Component Hardware Group, Inc.",Commercial equipment,"Junior secured loan ($3,226 par due 12/2014)","7.00% Cash, 3.00% PIK",8/4/2010,3226,3226
-260,"Component Hardware Group, Inc.",Commercial equipment,"Senior subordinated loan ($11,284 par due 12/2014)","7.50% Cash, 5.00% PIK",4/1/2010,8748,11284
-261,"Component Hardware Group, Inc.",Commercial equipment,"Warrants to purchase up to 1,462,500 shares of common stock",0,8/4/2010,0,8804
-262,"MWI Holdings, Inc.","Provider of engineered springs, fasteners, and other precision components","Senior secured loan ($38,274 par due 3/2019)",9.38% (Libor + 8.13%/Q),6/15/2011,38274,38274
-263,"MWI Holdings, Inc.","Provider of engineered springs, fasteners, and other precision components","Senior secured loan ($10,000 par due 6/2017)",9.38% (Libor + 8.13%/Q),6/15/2011,10000,10000
-264,"NetShape Technologies, Inc.",Metal precision engineered components,Senior secured revolving loan ($454 par due 12/2014),7.50% (Libor + 6.50%/M),4/1/2010,454,454
-265,"NetShape Technologies, Inc.",Metal precision engineered components,Senior secured revolving loan ($78 par due 12/2014),8.75% (Base Rate + 7.50%/Q),4/1/2010,78,78
-266,"Pelican Products, Inc.",Flashlights,"Senior secured loan ($7,940 par due 7/2018)",7.00% (Libor + 5.50%/Q),7/13/2012,7940,7940
-267,"Pelican Products, Inc.",Flashlights,"Junior secured loan ($32,000 par due 6/2019)",11.50% (Libor + 10.00%/Q),7/13/2012,32000,32000
-268,"Protective Industries, Inc. dba Caplugs",Plastic protection products,Senior secured revolving loan ($817 par due 5/2016),6.25% (Base Rate + 3.00%/M),5/23/2011,817,817
-269,"Protective Industries, Inc. dba Caplugs",Plastic protection products,Senior secured revolving loan ($467 par due 5/2016),5.75% (Libor + 4.25%/M),5/23/2011,467,467
-270,"Protective Industries, Inc. dba Caplugs",Plastic protection products,"Senior secured loan ($1,481 par due 5/2017)",5.75% (Libor + 4.25%/M),11/30/2012,1481,1481
-271,"Protective Industries, Inc. dba Caplugs",Plastic protection products,Senior subordinated loan ($707 par due 5/2018),"8.00% Cash, 7.25% PIK",5/23/2011,707,707
-272,"Protective Industries, Inc. dba Caplugs",Plastic protection products,"Preferred stock (2,379,361 shares)",0,5/23/2011,2307,5203
-273,Saw Mill PCG Partners LLC,Metal precision engineered components manufacturer,"Common units (1,000 units)",0,1/30/2007,1000,0
-274,"SSH Environmental Industries, Inc. and SSH Non-Destructive Testing, Inc.",Magnetic sensors and supporting sensor products,"Senior secured loan ($11,504 par due 12/2016)",9.00% (Libor + 7.50%/Q),3/23/2012,11315,11504
-275,"ILC Industries, LLC",Designer and manufacturer of protective cases and technically advanced lighting systems,"Senior secured loan ($4,913 par due 7/2018)",7.50% (Libor + 6.00%/Q),7/13/2012,4828,4913
-276,"ILC Industries, LLC",Designer and manufacturer of protective cases and technically advanced lighting systems,"Senior secured loan ($19,900 par due 7/2018)",7.50% (Libor + 6.00%/Q),7/13/2012,19539,19900
-277,"PRV Aerospace, LLC",Aerospace precision components manufacturer,"Senior secured loan ($1,136 par due 5/2018)",6.50% (Libor + 5.25%/Q),5/15/2012,1130,1136
-278,"PRV Aerospace, LLC",Aerospace precision components manufacturer,"Senior secured loan ($8,460 par due 5/2018)",6.50% (Libor + 5.25%/Q),5/15/2012,8386,8460
-279,"PRV Aerospace, LLC",Aerospace precision components manufacturer,"Junior secured loan ($68,000 par due 5/2019)",10.50% (Libor + 9.25%/Q),5/10/2012,68000,68000
-280,"PRV Aerospace, LLC",Aerospace precision components manufacturer,"Junior secured loan ($11,657 par due 5/2019)",11.50% (Base Rate + 8.25%/Q),5/10/2012,11657,11657
-281,"TurboCombuster Technology, Inc.","Manufacturer of complex fabrications for the commercial aerospace, military aerospace and industrial gas turbine markets","Senior secured loan ($10,000 par due 12/2017)",6.00% (Base Rate + 5.00%/Q),1/31/2013,9951,10000
-282,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services",Senior preferred stock (775 shares),8.00% PIK,1/17/2008,105,105
-283,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services","Common stock (1,885,195 shares)",0,1/17/2008,2291,2256
-284,Bushnell Inc.,Sports optics manufacturer,"Junior secured loan ($48,825 par due 2/2016)",9.00% (Libor + 7.50%/Q),4/1/2010,44301,48825
-285,Bushnell Inc.,Sports optics manufacturer,"Junior secured loan ($43,675 par due 2/2016)",9.50% (Libor + 8.00%/Q),4/30/2012,43675,43675
-286,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,"Senior secured loan ($6,945 par due 9/2013)",7.50% (Libor + 5.50%/Q),9/1/2010,6945,6945
-287,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,"Senior subordinated loan ($34,492 par due 11/2014)","12.00% Cash, 2.00% PIK",11/7/2007,34492,33112
-288,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,"Senior subordinated loan ($10,793 par due 11/2014)","12.00% Cash, 2.00% PIK",9/1/2010,10793,10361
-289,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,"Senior subordinated loan ($23,850 par due 11/2014)","10.00% Cash, 4.00% PIK",11/7/2007,23850,22896
-290,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,Warrants to purchase up to 378 shares,0,11/7/2007,0,3981
-291,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,Warrants to purchase up to 200 shares,0,9/1/2010,0,2106
-292,"Startec Equity, LLC (7)",Communication services,Member interest,0,4/1/2010,0,0
-293,Fulton Holdings Corp.,Airport restaurant operator,"Senior secured loan ($40,000 par due 5/2016)",12.50%,5/28/2010,40000,40000
-294,Fulton Holdings Corp.,Airport restaurant operator,"Common stock (19,672 shares)",0,5/28/2010,1967,1985
-295,Things Remembered Inc. and TRM Holdings Corporation,Personalized gifts retailer,"Senior secured loan ($14,925 par due 5/2018)",8.00% (Libor + 6.50%/M),5/24/2012,14925,14925
-296,"Geotrace Technologies, Inc.",Reservoir processing and development,"Warrants to purchase up to 69,978 shares of common stock",0,4/1/2010,88,0
-297,"Geotrace Technologies, Inc.",Reservoir processing and development,"Warrants to purchase up to 210,453 shares of preferred stock",0,4/1/2010,2805,1892
-298,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($2,912 par due 12/2014)","9.17% (Libor + 7.17% Cash, 2.00% PIK /Q)",4/30/2012,2912,2620
-299,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($4,931 par due 12/2014)","12.00% Cash, 2.00% PIK",4/30/2012,4931,4438
-300,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($2,020 par due 12/2014)","9.16% (Libor + 7.16% Cash, 2.00% PIK /Q)",4/30/2012,2020,1818
-301,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($5,102 par due 12/2014)","12.00% Cash, 3.00% PIK",4/30/2012,5102,4847
-302,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($14,672 par due 12/2014)","9.18% (Libor + 7.18% Cash, 2.00% PIK /Q)",4/30/2012,14672,13205
-303,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($10,576 par due 12/2014)","9.17% (Libor + 7.17% Cash,",4/30/2012,10576,9518
-304,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($18,760 par due 12/2014)","12.00% Cash, 2.00% PIK",4/30/2012,18760,16884
-305,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Class A common units (10,782 units)",0,6/17/2011,1512,2
-306,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Class B-5 common units (599,200 units)",0,4/25/2008,5472,8
-307,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Class B-4 common units (50,000 units)",0,6/17/2011,500,1
-308,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Class C common units (618,091 units)",0,4/25/2008,0,11
-309,"Batanga, Inc.",Independent digital media company,"Senior secured revolving loan ($1,500 par due 10/2013)",8.50%,10/31/2012,1500,1500
-310,"Batanga, Inc.",Independent digital media company,"Senior secured loan ($5,500 par due 11/2016)",9.60%,10/31/2012,5500,5594
-311,"Earthcolor Group, LLC",Printing management services,Limited liability company interests (9.30%),0,5/18/2012,0,0
-312,"National Print Group, Inc.",Printing management services,Senior secured revolving loan ($913 par due 10/2013),9.00% (Libor + 6.00%/Q),3/2/2006,913,913
-313,"National Print Group, Inc.",Printing management services,Senior secured revolving loan ($26 par due 10/2013),9.00% (Base Rate + 5.00%/M),3/2/2006,26,26
-314,"National Print Group, Inc.",Printing management services,"Senior secured loan ($6,903 par due 10/2013)","10.00% (Libor + 9.00% Cash, 1.00% PIK /Q)",3/2/2006,6632,6903
-315,"National Print Group, Inc.",Printing management services,Senior secured loan ($349 par due 10/2013),"10.00% (Base Rate + 9.00% Cash, 1.00% PIK /Q)",3/2/2006,335,349
-316,"National Print Group, Inc.",Printing management services,"Preferred stock (9,344 shares)",0,3/2/2006,2000,0
-317,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Senior secured loan ($21,211 par due 3/2017)",9.00% (Libor + 7.50%/Q),9/29/2006,21211,21211
-318,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Senior secured loan ($9,851 par due 3/2017)",9.00% (Libor + 7.50%/Q),9/29/2006,9851,9851
-319,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Preferred stock (10,663 shares)",0,9/29/2006,1066,3341
-320,"The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Common stock (15,393 shares)",0,9/29/2006,3,8
-321,"AWTP, LLC (7)",Water treatment services,"Junior secured loan ($4,212 par due 6/2015)",10.00%,4/18/2011,4212,4212
-322,"AWTP, LLC (7)",Water treatment services,"Junior secured loan ($6,121 par due 6/2015)",15.00% PIK,4/18/2011,6121,6121
-323,"AWTP, LLC (7)",Water treatment services,Membership interests (90% interest),0,4/18/2011,0,5646
-324,"Genomatica, Inc.",Chemical company that is developing a biotechnology platform for the production of basic and intermediate chemical products through a proprietary fermentation-based manufacturing process,"Senior secured loan ($1,500 par due 10/2016)",9.26%,3/28/2013,1425,1500
-325,"Genomatica, Inc.",Chemical company that is developing a biotechnology platform for the production of basic and intermediate chemical products through a proprietary fermentation-based manufacturing process,"Warrant to purchase 322,422 shares of Series D preferred stock",0,3/28/2013,0,45
-326,"RE Community Holdings II, Inc.and Pegasus Community Energy, LLC.",Operator of municipal recycling facilities,"Preferred stock (1,000 shares)",0,3/1/2011,8839,1946
-327,"Waste Pro USA, Inc",Waste management,Preferred Class A common,0,11/9/2006,12263,25139
-328,PODS Funding Corp.,Storage and warehousing,"Junior subordinated loan ($40,499 par due 5/2017)","12.75% Cash, 2.75% PIK",11/29/2011,40499,40499
-329,"United Road Towing, Inc.",Towing company,Warrants to purchase up to 607 shares,0,4/1/2010,0,0
-330,"Athletic Club Holdings, Inc.",Premier health club operator,"Senior secured loan ($34,000 par due 10/2013)",7.25% (Libor + 6.00%/M),10/11/2007,34000,34000
-331,"CFW Co-Invest, L.P. and NCP Curves, L.P.",Health club franchisor,"Limited partnership interest (4,152,165 shares)",0,7/31/2012,4152,4328
-332,"CFW Co-Invest, L.P. and NCP Curves, L.P.",Health club franchisor,"Limited partnership interest (1,847,835 shares)",0,7/31/2012,1848,1926
-333,"10th Street, LLC (6)",Real estate holding company,"Senior subordinated loan ($25,468 par due 11/2014)","8.93% Cash, 4.07% PIK",4/1/2010,25468,25468
-334,"10th Street, LLC (6)",Real estate holding company,Member interest (10.00% interest),0,4/1/2010,594,0
-335,"10th Street, LLC (6)",Real estate holding company,"Option (25,000 units)",0,4/1/2010,25,482
-336,"American Commercial Coatings, Inc.",Real estate property,"Commercial mortgage loan ($2,505 par due 12/2025)",8.75% (Base Rate + 1.50%/Q),4/1/2010,879,2061
-337,"Cleveland East Equity, LLC",Hotel operator,Real estate equity interests,0,4/1/2010,1026,4036
-338,"Commons R-3, LLC",Real estate developer,Real estate equity interests,0,4/1/2010,0,0
-339,"Crescent Hotels & Resorts, LLC and affiliates (7)",Hotel operator,"Senior subordinated loan ($2,236 par due 9/2011)",0,4/1/2010,0,0
-340,"Crescent Hotels & Resorts, LLC and affiliates (7)",Hotel operator,"Senior subordinated loan ($2,092 par due 6/2017)",0,4/1/2010,0,0
-341,"Crescent Hotels & Resorts, LLC and affiliates (7)",Hotel operator,Common equity interest,0,4/1/2010,0,0
-342,"Crescent Hotels & Resorts, LLC and affiliates (7)",Hotel operator,Limited liability company membership interest (100% interest),0,6/19/2012,0,194
-343,"Hot Light Brands, Inc. (7)",Real estate holding company,"Senior secured loan ($32,957 par due 2/2011)",0,4/1/2010,1665,1132
-344,"Hot Light Brands, Inc. (7)",Real estate holding company,"Common stock (93,500 shares)",0,4/1/2010,0,0
-345,"NPH, Inc.",Hotel property,Real estate equity interests,0,4/1/2010,5291,6817
-346,"Apple & Eve, LLC and US Juice Partners, LLC (6)",Juice manufacturer,"Senior units (50,000 units)",0,10/5/2007,5000,5027
-347,"Charter Baking Company, Inc.",Baked goods manufacturer,"Senior subordinated loan ($9,741 par due 9/2013)",17.50% PIK,2/6/2008,9741,9741
-348,"Charter Baking Company, Inc.",Baked goods manufacturer,"Preferred stock (6,258 shares)",0,9/1/2006,2567,1979
-349,Distant Lands Trading Co.,Coffee manufacturer,"Class A common stock (1,294 shares)",0,4/1/2010,980,0
-350,Distant Lands Trading Co.,Coffee manufacturer,"Class A-1 common stock (2,157 shares)",0,4/1/2010,0,0
-351,"BECO Holding Company, Inc.",Wholesale distributor of first response fire protection equipment and related parts,"Common stock (25,000 shares)",0,7/30/2010,2500,2483
+,Industry,Company,Business Description,Investment,Interest,Acquisition Date,Amortized Cost,Fair Value
+0,Investment Funds and Vehicles,"AGILE Fund I, LLC (9)",Investment partnership,Member interest (0.50% interest),,4/1/2010,122,27
+1,Investment Funds and Vehicles,"CIC Flex, LP (9)",Investment partnership,Limited partnership units (0.94 unit),,9/7/2007,1050,2120
+2,Investment Funds and Vehicles,"Covestia Capital Partners, LP (9)",Investment partnership,Limited partnership interest (47.00% interest),,6/17/2008,1059,1170
+3,Investment Funds and Vehicles,"Dynamic India Fund IV, LLC (9)",Investment company,Member interest (5.44% interest),,4/1/2010,4822,2962
+4,Investment Funds and Vehicles,"HCI Equity, LLC (7)(8)(9)",Investment company,Member interest (100.00% interest),,4/1/2010,452,426
+5,Investment Funds and Vehicles,"Imperial Capital Private Opportunities, LP (9)",Investment partnership,Limited partnership interest (80.00% interest),,5/10/2007,5971,10037
+6,Investment Funds and Vehicles,"Partnership Capital Growth Fund I, L.P. (9)",Investment partnership,Limited partnership interest (25.00% interest),,6/16/2006,1596,4059
+7,Investment Funds and Vehicles,"Partnership Capital Growth Fund III, L.P. (9)",Investment partnership,Limited partnership interest (2.50% interest),,10/5/2011,2379,2341
+8,Investment Funds and Vehicles,"Piper Jaffray Merchant Banking Fund I, L.P. (9)",Investment partnership,Limited partnership interest (2.00% interest),,8/16/2012,389,341
+9,Investment Funds and Vehicles,Senior Secured Loan Fund LLC (7)(10),Co-investment vehicle,"Subordinated certificates ($1,250,904 par due 12/2022)",8.31% (Libor + 8.00%/Q)(22),10/30/2009,1244833,1269667
+10,Investment Funds and Vehicles,VSC Investors LLC (9),Investment company,Membership interest (1.95% interest),,1/24/2008,661,1197
+11,Investment Funds and Vehicles,VSC Investors LLC (9),,,,,1263332,1294347
+12,Healthcare-Services,"California Forensic Medical Group, Incorporated",Correctional facility healthcare operator,"Senior secured loan ($54,047 par due 11/2018)",9.25% (Libor + 8.00%/Q),11/16/2012,54047,54047
+13,Healthcare-Services,"CCS Group Holdings, LLC",Correctional facility healthcare operator,"Class A units (601,937 units)",,8/19/2010,602,1293
+14,Healthcare-Services,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services,"Senior secured loan ($7,546 par due 3/2017)",7.75% (Libor + 6.50%/Q),3/15/2011,7546,7471
+15,Healthcare-Services,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",,"Senior secured loan ($7,154 par due 3/2017)",7.75% (Libor + 6.50%/Q),3/15/2011,7154,7082
+16,Healthcare-Services,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",,"Class A common stock (9,679 shares)",,6/15/2007,4000,4931
+17,Healthcare-Services,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",,"Class C common stock (1,546 shares)",,6/15/2007,0,1359
+18,Healthcare-Services,"INC Research, Inc.",Pharmaceutical and biotechnology consulting services,"Common stock (1,410,000 shares)",,9/27/2010,1512,996
+19,Healthcare-Services,Intermedix Corporation,Revenue cycle management provider to the emergency healthcare industry,"Junior secured loan ($112,000 par due 6/2019)",10.25% (Libor + 9.00%/Q),12/27/2012,112000,112000
+20,Healthcare-Services,"JHP Group Holdings, Inc.",Manufacturer of specialty pharmaceutical products,"Series A preferred stock (1,000,000 shares)",6.00% PIK,2/19/2013,1000,1000
+21,Healthcare-Services,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",Healthcare professional provider,"Senior secured loan ($69,971 par due 3/2018)",9.75% (Libor + 8.75%/Q),9/15/2010,69971,69971
+22,Healthcare-Services,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",,"Senior secured loan ($57,900 par due 3/2018)",9.75% (Libor + 8.75%/Q),9/15/2010,57900,57900
+23,Healthcare-Services,"Magnacare Holdings, Inc., Magnacare Administrative Services, LLC, and Magnacare, LLC",,"Senior secured loan ($4,825 par due 3/2018)",9.75% (Libor + 8.75%/Q),3/16/2012,4825,4825
+24,Healthcare-Services,MW Dental Holding Corp.,Dental services,"Senior secured revolving loan ($3,500 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,3500,3500
+25,Healthcare-Services,MW Dental Holding Corp.,,"Senior secured loan ($54,885 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,54885,54885
+26,Healthcare-Services,MW Dental Holding Corp.,,"Senior secured loan ($49,129 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,49129,49129
+27,Healthcare-Services,MW Dental Holding Corp.,,"Senior secured loan ($9,875 par due 4/2017)",8.50% (Libor + 7.00%/M),4/12/2011,9875,9875
+28,Healthcare-Services,Napa Management Services,Anesthesia management,Senior secured loan,6.50% (Libor +,4/15/2011,23674,23674
+29,Healthcare-Services,Corporation,services provider,"($23,674 par due 4/2018)",5.25%/Q),,0,0
+30,Healthcare-Services,Corporation,,"Senior secured loan ($33,518 par due 4/2018)",6.50% (Libor + 5.25%/Q),4/15/2011,33445,33518
+31,Healthcare-Services,Corporation,,"Common units (5,000 units)",,4/15/2011,5000,6324
+32,Healthcare-Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",Healthcare technology provider,"Senior secured loan ($39,844 par due 12/2017)",7.25% (Libor + 6.00%/Q),12/18/2012,39844,39844
+33,Healthcare-Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",,Senior secured loan ($18 par due 12/2017),8.25% (Base Rate + 5.00%/Q),12/18/2012,18,18
+34,Healthcare-Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",,Senior secured loan ($232 par due 12/2017),8.25% (Base Rate + 5.00%/Q),12/18/2012,232,232
+35,Healthcare-Services,"Netsmart Technologies, Inc. and NS Holdings, Inc.",,"Common stock (2,500,000 shares)",,6/21/2010,2500,3106
+36,Healthcare-Services,OnCURE Medical Corp.,Radiation oncology care provider,"Common stock (857,143 shares)",,8/18/2006,3000,0
+37,Healthcare-Services,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",Healthcare technology provider,"Series A preferred stock (1,594,457 shares)",,7/30/2008,11156,12388
+38,Healthcare-Services,"Passport Health Communications, Inc., Passport Holding Corp. and Prism Holding Corp.",,"Common stock (16,106 shares)",,7/30/2008,100,0
+39,Healthcare-Services,"PG Mergersub, Inc. and PGA Holdings, Inc.","Provider of patient surveys, management reports and national databases for the integrated healthcare delivery system","Junior secured loan ($45,000 par due 10/2018)",8.25% (Libor + 7.00%/Q),4/19/2012,45000,45000
+40,Healthcare-Services,"PG Mergersub, Inc. and PGA Holdings, Inc.",,Preferred stock (333 shares),,3/12/2008,125,14
+41,Healthcare-Services,"PG Mergersub, Inc. and PGA Holdings, Inc.",,"Common stock (16,667 shares)",,3/12/2008,167,703
+42,Healthcare-Services,"RCHP, Inc.",Operator of general acute care hospitals,"Senior secured loan ($9,975 par due 11/2018)",7.00% (Libor + 5.75%/Q),11/4/2011,9950,9975
+43,Healthcare-Services,"RCHP, Inc.",,"Junior secured loan ($65,000 par due 5/2019)",11.50% (Libor + 10.00%/S),11/4/2011,65000,65000
+44,Healthcare-Services,"Reed Group, Ltd.",Medical disability management services provider,Equity interests,,4/1/2010,0,0
+45,Healthcare-Services,"Respicardia, Inc.",Developer of implantable therapies to improve cardiovascular health,"Senior secured loan ($5,600 par due 7/2015)",11.00%,6/28/2012,5574,5600
+46,Healthcare-Services,"Respicardia, Inc.",,"Warrants to purchase up to 99,094 shares of Series C preferred stock",,6/26/2012,38,30
+47,Healthcare-Services,"Sage Products Holdings III, LLC",Patient infection control and preventive care solutions provider,"Junior secured loan ($75,000 par due 6/2020)",9.25% (Libor + 8.00%/Q),12/13/2012,75000,75000
+48,Healthcare-Services,"Soteria Imaging Services, LLC (6)",Outpatient medical imaging provider,"Junior secured loan ($2,521 par due 11/2010)",,4/1/2010,2051,671
+49,Healthcare-Services,"Soteria Imaging Services, LLC (6)",,"Preferred member units (1,823,179 units)",,4/1/2010,0,0
+50,Healthcare-Services,"SurgiQuest, Inc.",Medical device company,"Senior secured loan ($7,000 par due 10/2016)",10.00%,9/28/2012,6812,7000
+51,Healthcare-Services,"SurgiQuest, Inc.",,"Warrants to purchase up to 54,672 shares of Series D-4 convertible preferred stock",,9/28/2012,0,0
+52,Healthcare-Services,"U.S. Anesthesia Partners, Inc.",Anesthesiology service provider,"Senior secured loan ($14,962 par due 12/2018)",6.50% (Libor + 5.50%/Q),12/27/2012,14962,14962
+53,Healthcare-Services,"Vantage Oncology, Inc.",Radiation oncology care provider,"Common stock (62,157 shares)",,2/3/2011,4670,2252
+54,Healthcare-Services,"Young Innovations, Inc.",Dental equipment manufacturer,"Senior secured loan ($15,000 par due 1/2019)",6.25% (Libor + 5.00%/M),1/31/2013,15000,15000
+55,Healthcare-Services,"Young Innovations, Inc.",,"Senior secured loan ($22,143 par due 1/2019)",6.25% (Libor + 5.00%/M),1/31/2013,22143,22143
+56,Healthcare-Services,"Young Innovations, Inc.",,,,,823407,822718
+57,Education,"American Academy Holdings,","Provider of education,",Senior secured revolving,7.25% (Base,3/18/2011,4850,4850
+58,Education,LLC,"training, certification, networking, and consulting services to medical coders and other healthcare professionals","loan ($4,850 par due 3/2019)",Rate + 4.00%/Q),,0,0
+59,Education,LLC,,"Senior secured loan ($7,800 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,7800,7800
+60,Education,LLC,,"Senior secured loan ($5,985 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,5985,5985
+61,Education,LLC,,"Senior secured loan ($10,331 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,10331,10331
+62,Education,LLC,,"Senior secured loan ($60,752 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,60752,60752
+63,Education,LLC,,"Senior secured loan ($4,770 par due 3/2019)",6.00% (Libor + 5.00%/Q),3/18/2011,4770,4770
+64,Education,Campus Management Corp. and Campus Management Acquisition Corp. (6),Education software developer,"Preferred stock (485,159 shares)",,2/8/2008,10520,5461
+65,Education,"Community Education Centers, Inc.",Offender re-entry and in-prison treatment services provider,"Senior secured loan ($15,000 par due 12/2014)",6.25% (Libor + 5.25%/Q),12/10/2010,15000,15000
+66,Education,"Community Education Centers, Inc.",,Senior secured loan ($714 par due 12/2014),7.50% (Base Rate + 4.25%/Q),12/10/2010,714,714
+67,Education,"Community Education Centers, Inc.",,"Junior secured loan ($33,599 par due 12/2015)",15.30% (Libor + 15.00%/Q),12/10/2010,33599,30912
+68,Education,"Community Education Centers, Inc.",,"Junior secured loan ($10,139 par due 12/2015)",15.29% (Libor + 15.00%/Q),12/10/2010,10139,9329
+69,Education,"Community Education Centers, Inc.",,"Warrants to purchase up to 654,618 shares",,12/10/2010,0,0
+70,Education,eInstruction Corporation,"Developer, manufacturer and retailer of educational products","Senior secured loan ($17,000 par due 7/2014)",,4/1/2010,15258,0
+71,Education,eInstruction Corporation,,"Senior subordinated loan ($33,305 par due 1/2015)",,4/1/2010,24152,0
+72,Education,eInstruction Corporation,,"Common stock (2,406 shares)",,4/1/2010,926,0
+73,Education,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)","Developer, manufacturer and retailer of educational products","Preferred stock (99,492 shares)",12.00% PIK,8/1/2011,10845,12119
+74,Education,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)",,"Common stock (50,800 shares)",,8/1/2011,51,3290
+75,Education,"Infilaw Holding, LLC",Operator of three for-profit law schools,Senior secured loan ($1 par due 8/2016),9.50% (Libor + 8.50%/Q),8/25/2011,1,1
+76,Education,"Infilaw Holding, LLC",,"Senior secured loan ($19,086 par due 8/2016)",9.50% (Libor + 8.50%/Q),8/25/2011,19086,19086
+77,Education,"Infilaw Holding, LLC",,"Series A preferred units (124,890 units)",9.50% (Libor + 8.50%/Q),8/25/2011,124890,124890
+78,Education,"Infilaw Holding, LLC",,Series B preferred stock (3.91 units),,10/19/2012,9245,9884
+79,Education,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",Private school operator,"Series B preferred stock (1,750,000 shares)",,8/5/2010,5000,7412
+80,Education,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",,"Series C preferred stock (2,512,586 shares)",,6/7/2010,689,34
+81,Education,"Instituto de Banca y Comercio, Inc.  & Leeds IV Advisors, Inc.",,Common stock (20 shares),,6/7/2010,0,0
+82,Education,"Lakeland Tours, LLC",Educational travel provider,"Senior secured loan ($58,826 par due 12/2016)",9.25% (Libor + 8.25%/Q),10/4/2011,58678,58826
+83,Education,"Lakeland Tours, LLC",,"Senior secured loan ($1,760 par due 12/2016)",5.25% (Libor + 4.25%/Q),10/4/2011,1756,1760
+84,Education,"Lakeland Tours, LLC",,"Senior secured loan ($40,362 par due 12/2016)",9.25% (Libor + 8.25%/Q),10/4/2011,40259,40362
+85,Education,"Lakeland Tours, LLC",,"Senior secured loan ($8,800 par due 12/2016)",5.25% (Libor + 4.25%/Q),10/4/2011,8777,8800
+86,Education,"Lakeland Tours, LLC",,"Common stock (5,000 shares)",,10/4/2011,5000,4892
+87,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",Medical school operator,"Preferred stock (8,800 shares)",,7/30/2008,2200,1936
+88,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",,Common membership,,9/21/2007,15800,29443
+89,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",,"interest (26.27% interest) Warrants to purchase up to 27,890 shares",,12/8/2009,0,0
+90,Education,"R3 Education, Inc. and EIC Acquisitions Corp.",,,,,507073,478639
+91,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",Restaurant owner and operator,"Senior secured revolving loan ($1,468 par due 11/2014)",6.50% (Libor + 3.50%/Q),11/27/2006,1468,1468
+92,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",,Senior secured revolving loan ($50 par due 11/2014),6.50% (Base Rate + 2.50%/Q),11/27/2006,50,50
+93,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",,"Senior secured loan ($9,168 par due 11/2015)",12.50% (Libor + 9.50%/Q),11/27/2006,9168,9168
+94,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",,"Senior secured loan ($10,995 par due 11/2015)",12.50% (Libor + 9.50%/Q),11/27/2006,10998,10995
+95,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",,"Promissory note ($20,020,806 par due 11/2016)",12.00% PIK,11/27/2006,16584,19978
+96,Restaurants and Food Services,"ADF Capital, Inc. & ADF Restaurant Group, LLC",,Warrants to purchase up to 0.61 shares,,6/1/2006,0,2352
+97,Restaurants and Food Services,"Benihana, Inc.",Restaurant owner and operator,"Senior secured loan ($11,715 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,11715,11715
+98,Restaurants and Food Services,"Benihana, Inc.",,"Senior secured loan ($10,000 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,10000,10000
+99,Restaurants and Food Services,"Benihana, Inc.",,"Senior secured loan ($9,975 par due 2/2018)",9.25% (Libor + 8.00%/Q),8/21/2012,9975,9975
+100,Restaurants and Food Services,"Hojeij Branded Foods, Inc.",Airport restaurant operator,"Senior secured revolving loan ($1,900 par due 2/2017)",9.00% (Libor + 8.00%/Q),2/15/2012,1900,1900
+101,Restaurants and Food Services,"Hojeij Branded Foods, Inc.",,"Senior secured loan ($25,600 par due 2/2017)",9.00% (Libor + 8.00%/Q),2/15/2012,25053,25600
+102,Restaurants and Food Services,"Hojeij Branded Foods, Inc.",,Warrants to purchase up to 7.5% of membership interest,,2/15/2012,0,164
+103,Restaurants and Food Services,"Hojeij Branded Foods, Inc.",,Warrants to purchase up to 324 shares of Class A common stock,,2/15/2012,669,2362
+104,Restaurants and Food Services,"Orion Foods, LLC (7)",Convenience food service retailer,"Senior secured revolving loan ($9,000 par due 9/2014)",10.75% (Base Rate + 7.50%/M),4/1/2010,9000,9000
+105,Restaurants and Food Services,"Orion Foods, LLC (7)",,"Senior secured loan ($33,367 par due 9/2014)",10.00% (Libor + 8.50%/Q),4/1/2010,33367,33367
+106,Restaurants and Food Services,"Orion Foods, LLC (7)",,"Junior secured loan ($37,552 par due 9/2014)",,4/1/2010,22425,15358
+107,Restaurants and Food Services,"Orion Foods, LLC (7)",,"Preferred units (10,000 units)",,10/28/2010,0,0
+108,Restaurants and Food Services,"Orion Foods, LLC (7)",,"Class A common units (25,001 units)",,4/1/2010,0,0
+109,Restaurants and Food Services,"Orion Foods, LLC (7)",,"Class B common units (1,122,452 units)",,4/1/2010,0,0
+110,Restaurants and Food Services,"OTG Management, LLC",Airport restaurant operator,"Senior secured loan ($25,000 par due 12/2017)",8.75% (Libor + 7.25%/Q),12/11/2012,25000,25000
+111,Restaurants and Food Services,"OTG Management, LLC",,"Common units (3,000,000 units)",,1/5/2011,3000,1955
+112,Restaurants and Food Services,"OTG Management, LLC",,Warrants to purchase up to 7.73% of common units,,6/19/2008,100,4151
+113,Restaurants and Food Services,"Performance Food Group, Inc. and Wellspring Distribution Corp.",Food service distributor,"Junior secured loan ($50,000 par due 5/2015)",11.00%,5/30/2012,50000,50000
+114,Restaurants and Food Services,"Performance Food Group, Inc. and Wellspring Distribution Corp.",,"Junior secured loan ($112,250 par due 5/2015)",11.00%,5/23/2008,111327,112250
+115,Restaurants and Food Services,"Performance Food Group, Inc. and Wellspring Distribution Corp.",,"Class A non-voting common stock (1,366,120 shares)",,5/3/2008,7500,6823
+116,Restaurants and Food Services,"Restaurant Holding Company, LLC",Fast food restaurant operator,"Senior secured loan ($60,667 par due 2/2017)",9.00% (Libor + 7.50%/M),2/17/2012,59676,60667
+117,Restaurants and Food Services,"Restaurant Holding Company, LLC",,"Senior secured loan ($9,333 par due 2/2017)",9.00% (Libor + 7.50%/M),2/17/2012,9180,9333
+118,Restaurants and Food Services,S.B. Restaurant Company,Restaurant owner and,"Preferred stock (46,690",,4/1/2010,0,0
+119,Restaurants and Food Services,S.B. Restaurant Company,operator,"shares) Warrants to purchase up to 257,429 shares of common stock",,4/1/2010,0,0
+120,Restaurants and Food Services,S.B. Restaurant Company,,,,,428155,433631
+121,Financial Services,"AllBridge Financial, LLC (7)",Asset management services,Equity interests,,4/1/2010,5675,7422
+122,Financial Services,Callidus Capital Corporation (7),Asset management services,Common stock (100 shares),,4/1/2010,3000,1735
+123,Financial Services,Ciena Capital LLC (7),Real estate and small business loan servicer,"Senior secured revolving loan ($14,000 par due 12/2014)",6.00%,11/29/2010,14000,14000
+124,Financial Services,Ciena Capital LLC (7),,"Senior secured loan ($32,000 par due 12/2016)",12.00%,11/29/2010,32000,32000
+125,Financial Services,Ciena Capital LLC (7),,Equity interests,,11/29/2010,53374,14533
+126,Financial Services,"Commercial Credit Group, Inc.",Commercial equipment finance and leasing company,"Senior subordinated loan ($28,000 par due 5/2018)",12.75%,5/10/2012,28000,28000
+127,Financial Services,"Cook Inlet Alternative Risk, LLC",Risk management services,"Senior subordinated loan ($2,500 par due 9/2015)",9.00%,9/30/2011,2500,2500
+128,Financial Services,Financial Pacific Company,Commercial finance leasing,"Preferred stock (6,500 shares)",8.00% PIK,10/13/2010,3807,14065
+129,Financial Services,Financial Pacific Company,,"Common stock (650,000 shares)",,10/13/2010,0,0
+130,Financial Services,Gordian Acquisition Corp.,Financial services firm,Common stock (526 shares),,11/30/2012,0,0
+131,Financial Services,Imperial Capital Group LLC,Investment services,"2006 Class B common units (2,526 units)",,5/10/2007,3,4
+132,Financial Services,Imperial Capital Group LLC,,2007 Class B common units (315 units),,5/10/2007,0,1
+133,Financial Services,Imperial Capital Group LLC,,"Class A common units (7,710 units)",,5/10/2007,14997,18949
+134,Financial Services,"Ivy Hill Asset Management, L.P. (7)(9)",Asset management services,Member interest (100.00% interest),,6/15/2009,170961,267839
+135,Financial Services,"Ivy Hill Asset Management, L.P. (7)(9)",,,,,328317,401048
+136,Business Services,"Access CIG, LLC",Records and information management services provider,"Senior secured loan ($1,000 par due 10/2017)",7.00% (Libor + 5.75%/Q),10/5/2012,1000,1000
+137,Business Services,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",Payroll and accounting services provider to the entertainment industry,"Senior secured loan ($19,750 par due 12/2017)",7.50% (Libor + 6.50%/Q),12/24/2012,19750,19750
+138,Business Services,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",,"Senior secured loan ($49,375 par due 12/2017)",7.50% (Libor + 6.50%/Q),12/24/2012,49375,49375
+139,Business Services,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",,"Class A membership units (2,500,000 units)",,12/24/2012,2500,2500
+140,Business Services,"Cast & Crew Payroll, LLC and Centerstage Co-Investors, L.L.C. (6)",,"Class B membership units (2,500,000 units)",,12/24/2012,2500,2500
+141,Business Services,"CIBT Investment Holdings, LLC",Expedited travel document processing services,"Class A shares (2,500 shares)",,12/15/2011,2500,3477
+142,Business Services,CitiPostal Inc. (7),Document storage and management services,"Senior secured revolving loan ($1,000 par due 12/2013)",6.50% (Base Rate + 3.25%/Q),4/1/2010,1000,1000
+143,Business Services,CitiPostal Inc. (7),,Senior secured loan ($525 par due 12/2013),"8.50% Cash, 5.50% PIK",4/1/2010,525,489
+144,Business Services,CitiPostal Inc. (7),,"Senior secured loan ($53,817 par due 12/2013)","8.50% Cash, 5.50% PIK",4/1/2010,53817,50066
+145,Business Services,CitiPostal Inc. (7),,"Senior subordinated loan ($17,936 par due 12/2015)",,4/1/2010,13038,0
+146,Business Services,CitiPostal Inc. (7),,"Common stock (37,024 shares)",,4/1/2010,0,0
+147,Business Services,"Command Alkon, Inc.",Software solutions provider to the ready-mix concrete industry,"Junior secured loan ($39,130 par due 3/2018)",9.75% (Libor + 8.50%/Q),9/28/2012,39130,39130
+148,Business Services,"Cornerstone Records Management, LLC",Physical records storage and management service provider,"Senior secured loan ($18,403 par due 8/2016)",12.25% (Base Rate + 9.00%/Q),8/12/2011,18403,17667
+149,Business Services,"HCPro, Inc. and HCP",Healthcare compliance,Senior subordinated loan,,3/5/2013,5500,5500
+150,Business Services,"Acquisition Holdings, LLC (7)",advisory services,"($17,103 par due 8/2014)",,,0,0
+151,Business Services,"Acquisition Holdings, LLC (7)",,"Class A units (15,043,110 units)",,6/26/2008,13543,0
+152,Business Services,IfByPhone Inc.,Voice-based marketing automation software provider,"Senior secured loan ($2,000 par due 11/2015)",11.00%,10/15/2012,1924,2000
+153,Business Services,IfByPhone Inc.,,"Senior secured loan ($1,000 par due 1/2016)",11.00%,10/15/2012,1000,1000
+154,Business Services,IfByPhone Inc.,,"Warrant to purchase up to 124,300 shares of Series C preferred stock",,10/15/2012,88,88
+155,Business Services,"Impact Innovations Group, LLC",IT consulting and outsourcing services,Member interest (50.00% interest),,4/1/2010,0,200
+156,Business Services,"Investor Group Services, LLC (6)",Business consulting for private equity and corporate clients,Limited liability company membership interest (10.00% interest),,6/22/2006,0,805
+157,Business Services,"Itel Laboratories, Inc.",Data services provider for building materials to property insurance industry,"Senior secured loan ($22,182 par due 6/2018)",6.00% (Libor + 4.75%/M),6/29/2012,22182,22182
+158,Business Services,"Itel Laboratories, Inc.",,"Preferred units (1,798,391 units)",,6/29/2012,1000,1118
+159,Business Services,"Multi-Ad Services, Inc. (6)",Marketing services and software provider,"Preferred units (1,725,280 units)",,4/1/2010,788,2043
+160,Business Services,"Multi-Ad Services, Inc. (6)",,"Common units (1,725,280 units)",,4/1/2010,0,0
+161,Business Services,"MVL Group, Inc. (7)",Marketing research provider,Senior secured revolving loan ($806 par due 6/2012),4.80% (Libor + 4.50%/Q),6/28/2012,806,806
+162,Business Services,"MVL Group, Inc. (7)",,"Senior subordinated loan ($37,003 par due 7/2012)",,4/1/2010,34636,7216
+163,Business Services,"MVL Group, Inc. (7)",,Junior subordinated loan ($185 par due 7/2012),,4/1/2010,0,0
+164,Business Services,"MVL Group, Inc. (7)",,"Common stock (560,716 shares)",,4/1/2010,0,0
+165,Business Services,"NComputing, Inc.",Desktop virtualization hardware and software technology service provider,"Senior secured loan ($6,500 par due 7/2016)",10.50%,3/20/2013,6500,6500
+166,Business Services,"NComputing, Inc.",,"Warrant to purchase up to 462,726 shares of Series C preferred stock",,3/20/2013,0,41
+167,Business Services,Pillar Processing LLC and PHL Holding Co. (6),Mortgage services,"Senior secured loan ($6,659 par due 11/2018)",,7/31/2008,6248,6659
+168,Business Services,Pillar Processing LLC and PHL Holding Co. (6),,"Senior secured loan ($7,375 par due 5/2019)",,11/20/2007,6406,494
+169,Business Services,Pillar Processing LLC and PHL Holding Co. (6),,Class A common stock (576 shares),,7/31/2012,3768,0
+170,Business Services,"Powersport Auctioneer Holdings, LLC",Powersport vehicle auction operator,"Common units (1,972 units)",,3/2/2012,1000,746
+171,Business Services,"Prommis Holdings, LLC",Bankruptcy and foreclosure processing services,"Class B common units (1,727 units)",,6/12/2012,0,0
+172,Business Services,"Promo Works, LLC",Marketing services,"Senior secured loan ($8,655 par due 12/2013)",,4/1/2010,3016,1888
+173,Business Services,R2 Acquisition Corp.,Marketing services,"Common stock (250,000 shares)",,5/29/2007,250,147
+174,Business Services,"Rainstor, Inc.",Database solution provider designed to manage Big Data for large enterprises at the lowest total cost,"Senior secured loan ($3,000 par due 4/2016)",11.25%,3/28/2013,2913,3000
+175,Business Services,"Rainstor, Inc.",,"Warrant to purchase up to 142,210 shares of Series C preferred stock",,3/28/2013,88,89
+176,Business Services,"Strident Holding, Inc.",Recovery audit services provider to commercial and governmental healthcare payors,"Senior secured loan ($7,915 par due 7/2018)",6.50% (Libor + 5.25%/M),7/26/2012,7915,7915
+177,Business Services,"Strident Holding, Inc.",,"Senior secured loan ($9,950 par due 7/2018)",6.50% (Libor + 5.25%/M),7/26/2012,9950,9950
+178,Business Services,Summit Business Media Parent Holding Company LLC,Business media consulting services,Limited liability company membership interest (45.98% interest),,5/20/2011,0,1405
+179,Business Services,"TOA Technologies, Inc.","Cloud based, mobile workforce management applications provider","Senior secured loan ($13,000 par due 11/2016)",10.25%,10/31/2012,12445,12610
+180,Business Services,"TOA Technologies, Inc.",,"Warrant to purchase up to 2,509,770 shares of Series D preferred stock",,10/31/2012,605,677
+181,Business Services,"Tradesmen International, Inc.",Construction labor support,"Warrants to purchase up to 771,036 shares",,4/1/2010,0,9878
+182,Business Services,"Tripwire, Inc.",IT security software provider,"Senior secured loan ($19,950 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,19950,19950
+183,Business Services,"Tripwire, Inc.",,"Senior secured loan ($49,875 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,49875,49875
+184,Business Services,"Tripwire, Inc.",,"Senior secured loan ($9,975 par due 5/2018)",6.00% (Libor + 4.75%/Q),5/23/2011,9975,9975
+185,Business Services,"Tripwire, Inc.",,"Class B common stock (2,655,638 shares)",,5/23/2011,30,72
+186,Business Services,"Tripwire, Inc.",,"Class A common stock (2,970 shares)",,5/23/2011,2970,7103
+187,Business Services,"Venturehouse-Cibernet Investors, LLC",Financial settlement services for intercarrier wireless roaming,Equity interest,,4/1/2010,0,0
+188,Business Services,"VSS-Tranzact Holdings, LLC (6)",Management consulting services,Common membership interest (5.98% interest),,10/26/2007,10204,3306
+189,Business Services,"VSS-Tranzact Holdings, LLC (6)",,,,,439113,382192
+190,Services-Other,Capital Investments and Ventures Corp.,SCUBA diver training and certification provider,"Senior secured loan ($1,692 par due 8/2018)",9.50% (Base Rate + 6.25%/Q),8/9/2012,1692,1692
+191,Services-Other,Capital Investments and Ventures Corp.,,"Senior secured loan ($53,009 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,53009,53009
+192,Services-Other,Capital Investments and Ventures Corp.,,Senior secured loan ($308 par due 8/2018),9.50% (Base Rate + 6.25%/Q),8/9/2012,308,308
+193,Services-Other,Capital Investments and Ventures Corp.,,"Senior secured loan ($9,666 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,9666,9666
+194,Services-Other,Capital Investments and Ventures Corp.,,Senior secured loan ($308 par due 8/2018),9.50% (Base Rate + 6.25%/Q),8/9/2012,308,308
+195,Services-Other,Capital Investments and Ventures Corp.,,"Senior secured loan ($9,642 par due 8/2018)",8.50% (Libor + 7.25%/Q),8/9/2012,9642,9642
+196,Services-Other,"Competitor Group, Inc. and Calera XVI, LLC",Endurance sports media and event operator,"Senior secured revolving loan ($2,350 par due 11/2018)",10.00% (Base Rate + 6.75%/Q),11/30/2012,2350,2350
+197,Services-Other,"Competitor Group, Inc. and Calera XVI, LLC",,Senior secured revolving loan ($900 par due 11/2018),9.00% (Libor + 7.75%/Q),11/30/2012,900,900
+198,Services-Other,"Competitor Group, Inc. and Calera XVI, LLC",,"Senior secured loan ($24,439 par due 11/2018)",9.00% (Libor + 7.75%/Q),11/30/2012,24439,24439
+199,Services-Other,"Competitor Group, Inc. and Calera XVI, LLC",,"Senior secured loan ($29,925 par due 11/2018)",9.00% (Libor + 7.75%/Q),11/30/2012,29925,29925
+200,Services-Other,"Competitor Group, Inc. and Calera XVI, LLC",,"Membership units (2,500,000 units)",,11/30/2012,2500,2500
+201,Services-Other,"Massage Envy, LLC",Franchiser in the massage industry,"Senior secured loan ($53,157 par due 9/2018)",8.50% (Libor + 7.25%/Q),9/27/2012,53157,53157
+202,Services-Other,"Massage Envy, LLC",,"Senior secured loan ($26,830 par due 9/2018)",8.50% (Libor + 7.25%/Q),9/27/2012,26830,26830
+203,Services-Other,"Massage Envy, LLC",,"Common stock (3,000,000 shares)",,9/27/2012,3000,3322
+204,Services-Other,"McKenzie Sports Products, LLC","Designer, manufacturer and distributor of taxidermy forms and supplies",Senior secured loan ($422 par due 3/2017),7.75% (Base Rate + 4.50%/Q),3/30/2012,422,422
+205,Services-Other,"McKenzie Sports Products, LLC",,"Senior secured loan ($10,895 par due 3/2017)",7.00% (Libor + 5.50%/Q),3/30/2012,10895,10895
+206,Services-Other,"McKenzie Sports Products, LLC",,Senior secured loan ($354 par due 3/2017),7.75% (Base Rate + 4.50%/Q),3/30/2012,354,354
+207,Services-Other,"McKenzie Sports Products, LLC",,"Senior secured loan ($9,118 par due 3/2017)",7.00% (Libor + 5.50%/Q),3/30/2012,9118,9118
+208,Services-Other,The Dwyer Group (6),Operator of multiple franchise concepts primarily related to home maintenance or repairs,"Senior subordinated loan ($25,497 par due 6/2018)","12.00% Cash, 1.50% PIK",12/22/2010,25497,25497
+209,Services-Other,The Dwyer Group (6),,"Series A preferred units (13,292,377 units)",8.00% PIK,12/22/2010,6462,15245
+210,Services-Other,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",Laundry service and equipment provider,"Junior secured loan ($78,000 par due 2/2020)",9.75% (Libor + 8.50%/Q),2/21/2013,78000,78000
+211,Services-Other,"Wash Multifamily Laundry Systems, LLC (fka Web Services Company, LLC)",,,,,348474,357579
+212,Consumer Products- Non-durable,"Gilchrist & Soames, Inc.",Personal care manufacturer,"Senior secured revolving loan ($9,200 par due 10/2013)",6.25% (Libor + 5.00%/M),4/1/2010,9200,9200
+213,Consumer Products- Non-durable,"Gilchrist & Soames, Inc.",,"Senior secured loan ($22,171 par due 10/2013)","13.44% Cash, 2.00% PIK",4/1/2010,22009,20619
+214,Consumer Products- Non-durable,"Implus Footcare, LLC",Provider of footwear and other accessories,Preferred stock (455 shares),6.00% PIK,10/31/2011,4945,4945
+215,Consumer Products- Non-durable,"Implus Footcare, LLC",,Common stock (455 shares),,10/31/2011,455,24
+216,Consumer Products- Non-durable,Insight Pharmaceuticals Corporation (6),OTC drug products manufacture,"Junior secured loan ($19,310 par due 8/2017)",13.25% (Libor + 11.75%/Q),8/26/2011,19142,19310
+217,Consumer Products- Non-durable,Insight Pharmaceuticals Corporation (6),,"Class A common stock (155,000 shares)",,8/26/2011,6035,8368
+218,Consumer Products- Non-durable,Insight Pharmaceuticals Corporation (6),,"Class B common stock (155,000 shares)",,8/26/2011,6035,8368
+219,Consumer Products- Non-durable,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",Developer and marketer of over-the-counter healthcare products,"Senior secured revolving loan ($2,000 par due 6/2016)",13.00% (Libor + 12.00%/Q),6/30/2011,2000,1900
+220,Consumer Products- Non-durable,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",,"Senior secured loan ($37,984 par due 6/2016)",13.00% (Libor + 12.00%/Q),6/30/2011,37799,36085
+221,Consumer Products- Non-durable,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",,"Warrants to purchase up to 1,654,678 shares of common stock",,7/27/2011,0,0
+222,Consumer Products- Non-durable,"Matrixx Initiatives, Inc. and Wonder Holdings Acquisition Corp.",,"Warrants to purchase up to 1,489 shares of preferred stock",,7/27/2011,0,891
+223,Consumer Products- Non-durable,"Oak Parent, Inc.",Manufacturer of athletic apparel,"Senior secured loan ($5,896 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,5873,5896
+224,Consumer Products- Non-durable,"Oak Parent, Inc.",,"Senior secured loan ($35,000 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,34859,35000
+225,Consumer Products- Non-durable,"Oak Parent, Inc.",,"Senior secured loan ($9,335 par due 4/2018)",8.00% (Libor + 7.00%/Q),4/2/2012,9297,9335
+226,Consumer Products- Non-durable,"PG-ACP Co-Invest, LLC","Supplier of medical uniforms, specialized medical footwear and accessories","Class A membership units (1,000,0000 units)",,8/29/2012,1000,1665
+227,Consumer Products- Non-durable,"The Step2 Company, LLC",Toy manufacturer,"Junior secured loan ($25,600 par due 4/2015)",10.00%,4/1/2010,24823,25600
+228,Consumer Products- Non-durable,"The Step2 Company, LLC",,"Junior secured loan ($31,621 par due 4/2015)","10.00% Cash, 5.00% PIK",4/1/2010,30802,27194
+229,Consumer Products- Non-durable,"The Step2 Company, LLC",,"Common units (1,116,879 units)",,4/1/2010,24,7
+230,Consumer Products- Non-durable,"The Step2 Company, LLC",,"Warrants to purchase up to 3,157,895 units",,4/1/2010,0,19
+231,Consumer Products- Non-durable,"The Thymes, LLC (7)",Cosmetic products manufacturer,"Preferred units (6,283 units)",8.00% PIK,6/21/2007,5001,4638
+232,Consumer Products- Non-durable,"The Thymes, LLC (7)",,"Common units (5,400 units)",,6/21/2007,0,4473
+233,Consumer Products- Non-durable,Woodstream Corporation,Pet products manufacturer,"Senior secured loan ($3,000 par due 8/2016)",6.00% (Libor + 5.00%/Q),4/18/2012,3000,3000
+234,Consumer Products- Non-durable,Woodstream Corporation,,"Senior secured loan ($15,000 par due 8/2016)",6.00% (Libor + 5.00%/Q),4/18/2012,15000,15000
+235,Consumer Products- Non-durable,Woodstream Corporation,,"Senior subordinated loan ($80,000 par due 2/2017)",11.00%,1/22/2010,76964,80000
+236,Consumer Products- Non-durable,Woodstream Corporation,,"Common stock (4,254 shares)",,1/22/2010,1222,2633
+237,Consumer Products- Non-durable,Woodstream Corporation,,,,,315485,324170
+238,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($26,191 par due 8/2016)",8.00% (Libor + 7.00%/Q),8/31/2011,26191,26191
+239,Containers-Packaging,"ICSH, Inc.",,"Senior secured loan ($24,217 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,24217,24217
+240,Containers-Packaging,"ICSH, Inc.",,Senior secured loan ($176 par due 8/2016),8.00% (Libor + 7.00%/Q),8/31/2011,176,176
+241,Containers-Packaging,"ICSH, Inc.",,"Senior secured loan ($67,961 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,67961,67961
+242,Containers-Packaging,"ICSH, Inc.",,Senior secured loan ($38 par due 8/2016),8.00% (Libor + 7.00%/Q),8/31/2011,38,38
+243,Containers-Packaging,"ICSH, Inc.",,"Senior secured loan ($14,795 par due 8/2016)",8.04% (Libor + 7.00%/Q),8/31/2011,14795,14795
+244,Containers-Packaging,"Microstar Logistics LLC, Microstar Global Asset Management LLC and MStar Holding Corporation",Keg management solutions provider,"Junior secured loan ($165,000 par due 12/2018)",8.50% (Libor + 7.50%/Q),12/14/2012,165000,165000
+245,Containers-Packaging,"Microstar Logistics LLC, Microstar Global Asset Management LLC and MStar Holding Corporation",,"Common Stock (50,000 shares)",,12/14/2012,5000,5000
+246,Containers-Packaging,"Pregis Corporation, Pregis Intellipack Corp. and Pregis Innovative Packaging Inc.","Provider of highly-customized, tailored protective packaging solutions",Senior secured loan ($992 par due 3/2017),7.75% (Libor + 6.25%/M),4/25/2012,992,992
+247,Containers-Packaging,"Pregis Corporation, Pregis Intellipack Corp. and Pregis Innovative Packaging Inc.",,,,,304370,304370
+248,Energy,"Centinela Funding, LLC",Solar power generation facility developer and operator,"Senior secured loan ($56,000 par due 11/2020)",10.00% (Libor + 8.75%/Q),11/14/2012,56000,56000
+249,Energy,"EquiPower Resources Holdings, LLC",Gas-fired power generation facilities operator,"Junior secured loan ($22,500 par due 6/2019)",10.00% (Libor + 8.50%/Q),6/27/2012,22084,22500
+250,Energy,"La Paloma Generating Company, LLC","Natural gas fired, combined cycle plant operator","Junior secured loan ($68,000 par due 8/2018)",10.25% (Libor + 8.75%/Q),8/9/2011,66947,68000
+251,Energy,"Panda Sherman Power, LLC",Developer and operator of a gas turbine power plant,"Senior secured loan ($32,500 par due 9/2018)",9.00% (Libor + 7.50%/Q),9/14/2012,32500,32500
+252,Energy,"Panda Temple Power, LLC",Developer and operator of a gas turbine power plant,"Senior secured loan ($60,000 par due 7/2018)",11.50% (Libor + 10.00%/Q),7/17/2012,58215,60000
+253,Energy,"Panda Temple Power, LLC",,,,,235746,239000
+254,Automotive Services,"Driven Holdings, LLC",Automotive aftermarket car care franchisor,"Preferred stock (247,500 units)",,12/16/2011,2475,2742
+255,Automotive Services,"Driven Holdings, LLC",,"Common stock (25,000 units)",,12/16/2011,25,114
+256,Automotive Services,"Eckler Industries, Inc.",Restoration parts and accessories provider for classic automobiles,"Senior secured loan ($51,302 par due 7/2017)",7.25% (Libor + 6.00%/M),7/12/2012,51302,51302
+257,Automotive Services,"Eckler Industries, Inc.",,Senior secured loan ($505 par due 7/2017),8.25% (Base Rate + 5.00%/Q),7/12/2012,505,505
+258,Automotive Services,"Eckler Industries, Inc.",,"Series A preferred stock (1,800 shares)",,7/12/2012,1800,1909
+259,Automotive Services,"Eckler Industries, Inc.",,"Common stock (20,000 shares)",,7/12/2012,200,64
+260,Automotive Services,"EcoMotors, Inc.",Engine developer,"Senior secured loan ($5,000 par due 7/2016)",10.13%,12/28/2012,4859,5000
+261,Automotive Services,"EcoMotors, Inc.",,"Warrant to purchase up to 321,888 shares of Series C Preferred Stock",,12/28/2012,0,84
+262,Automotive Services,"Service King Paint & Body, LLC",Collision repair site operators,"Senior secured loan ($116,500 par due 8/2017)",7.25% (Libor + 6.25%/Q),8/20/2012,116500,116500
+263,Automotive Services,"Service King Paint & Body, LLC",,Senior secured loan,7.25% (Libor +,8/20/2012,11350,11350
+264,Automotive Services,"Service King Paint & Body, LLC",,"Senior secured loan ($4,925 par due 8/2017)",4.50% (Libor + 3.50%/Q),8/20/2012,4925,4925
+265,Automotive Services,"Service King Paint & Body, LLC",,"Senior secured loan ($9,850 par due 8/2017)",4.50% (Libor + 3.50%/Q),8/20/2012,9850,9850
+266,Automotive Services,"Service King Paint & Body, LLC",,Membership interest,,8/20/2012,5000,6819
+267,Automotive Services,"Service King Paint & Body, LLC",,,,,208791,211164
+268,Manufacturing,Cambrios Technologies Corporation,Developer and manufacturer of nanotechnology-based solutions for electronic devices and computers,"Senior secured loan ($4,394 par due 8/2015)",12.00%,8/7/2012,4394,4394
+269,Manufacturing,Cambrios Technologies Corporation,,"Warrants to purchase up to 400,000 shares of Series D-4 convertible preferred stock",,8/2/2012,0,8
+270,Manufacturing,"Component Hardware Group, Inc.",Commercial equipment,"Junior secured loan ($3,226 par due 12/2014)","7.00% Cash, 3.00% PIK",8/4/2010,3226,3226
+271,Manufacturing,"Component Hardware Group, Inc.",,"Senior subordinated loan ($11,284 par due 12/2014)","7.50% Cash, 5.00% PIK",4/1/2010,8748,11284
+272,Manufacturing,"Component Hardware Group, Inc.",,"Warrants to purchase up to 1,462,500 shares of common stock",,8/4/2010,0,8804
+273,Manufacturing,"MWI Holdings, Inc.","Provider of engineered springs, fasteners, and other precision components","Senior secured loan ($38,274 par due 3/2019)",9.38% (Libor + 8.13%/Q),6/15/2011,38274,38274
+274,Manufacturing,"MWI Holdings, Inc.",,"Senior secured loan ($10,000 par due 6/2017)",9.38% (Libor + 8.13%/Q),6/15/2011,10000,10000
+275,Manufacturing,"NetShape Technologies, Inc.",Metal precision engineered components,Senior secured revolving loan ($454 par due 12/2014),7.50% (Libor + 6.50%/M),4/1/2010,454,454
+276,Manufacturing,"NetShape Technologies, Inc.",,Senior secured revolving loan ($78 par due 12/2014),8.75% (Base Rate + 7.50%/Q),4/1/2010,78,78
+277,Manufacturing,"Pelican Products, Inc.",Flashlights,"Senior secured loan ($7,940 par due 7/2018)",7.00% (Libor + 5.50%/Q),7/13/2012,7940,7940
+278,Manufacturing,"Pelican Products, Inc.",,"Junior secured loan ($32,000 par due 6/2019)",11.50% (Libor + 10.00%/Q),7/13/2012,32000,32000
+279,Manufacturing,"Protective Industries, Inc. dba Caplugs",Plastic protection products,Senior secured revolving loan ($817 par due 5/2016),6.25% (Base Rate + 3.00%/M),5/23/2011,817,817
+280,Manufacturing,"Protective Industries, Inc. dba Caplugs",,Senior secured revolving loan ($467 par due 5/2016),5.75% (Libor + 4.25%/M),5/23/2011,467,467
+281,Manufacturing,"Protective Industries, Inc. dba Caplugs",,"Senior secured loan ($1,481 par due 5/2017)",5.75% (Libor + 4.25%/M),11/30/2012,1481,1481
+282,Manufacturing,"Protective Industries, Inc. dba Caplugs",,Senior subordinated loan ($707 par due 5/2018),"8.00% Cash, 7.25% PIK",5/23/2011,707,707
+283,Manufacturing,"Protective Industries, Inc. dba Caplugs",,"Preferred stock (2,379,361 shares)",,5/23/2011,2307,5203
+284,Manufacturing,Saw Mill PCG Partners LLC,Metal precision engineered components manufacturer,"Common units (1,000 units)",,1/30/2007,1000,0
+285,Manufacturing,"SSH Environmental Industries, Inc. and SSH Non-Destructive Testing, Inc.",Magnetic sensors and supporting sensor products,"Senior secured loan ($11,504 par due 12/2016)",9.00% (Libor + 7.50%/Q),3/23/2012,11315,11504
+286,Manufacturing,"SSH Environmental Industries, Inc. and SSH Non-Destructive Testing, Inc.",,,,,123208,136641
+287,Aerospace and Defense,"ILC Industries, LLC",Designer and manufacturer of protective cases and technically advanced lighting systems,"Senior secured loan ($4,913 par due 7/2018)",7.50% (Libor + 6.00%/Q),7/13/2012,4828,4913
+288,Aerospace and Defense,"ILC Industries, LLC",,"Senior secured loan ($19,900 par due 7/2018)",7.50% (Libor + 6.00%/Q),7/13/2012,19539,19900
+289,Aerospace and Defense,"PRV Aerospace, LLC",Aerospace precision components manufacturer,"Senior secured loan ($1,136 par due 5/2018)",6.50% (Libor + 5.25%/Q),5/15/2012,1130,1136
+290,Aerospace and Defense,"PRV Aerospace, LLC",,"Senior secured loan ($8,460 par due 5/2018)",6.50% (Libor + 5.25%/Q),5/15/2012,8386,8460
+291,Aerospace and Defense,"PRV Aerospace, LLC",,"Junior secured loan ($68,000 par due 5/2019)",10.50% (Libor + 9.25%/Q),5/10/2012,68000,68000
+292,Aerospace and Defense,"PRV Aerospace, LLC",,"Junior secured loan ($11,657 par due 5/2019)",11.50% (Base Rate + 8.25%/Q),5/10/2012,11657,11657
+293,Aerospace and Defense,"TurboCombuster Technology, Inc.","Manufacturer of complex fabrications for the commercial aerospace, military aerospace and industrial gas turbine markets","Senior secured loan ($10,000 par due 12/2017)",6.00% (Base Rate + 5.00%/Q),1/31/2013,9951,10000
+294,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.","Provider of specialized engineering, scientific and technical services",Senior preferred stock (775 shares),8.00% PIK,1/17/2008,105,105
+295,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",,"Common stock (1,885,195 shares)",,1/17/2008,2291,2256
+296,Aerospace and Defense,"Wyle Laboratories, Inc. and Wyle Holdings, Inc.",,,,,125887,126427
+297,Consumer Products- Durable,Bushnell Inc.,Sports optics manufacturer,"Junior secured loan ($48,825 par due 2/2016)",9.00% (Libor + 7.50%/Q),4/1/2010,44301,48825
+298,Consumer Products- Durable,Bushnell Inc.,,"Junior secured loan ($43,675 par due 2/2016)",9.50% (Libor + 8.00%/Q),4/30/2012,43675,43675
+299,Consumer Products- Durable,Bushnell Inc.,,,,,87976,92500
+300,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",Broadband communication services,"Senior secured loan ($6,945 par due 9/2013)",7.50% (Libor + 5.50%/Q),9/1/2010,6945,6945
+301,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",,"Senior subordinated loan ($34,492 par due 11/2014)","12.00% Cash, 2.00% PIK",11/7/2007,34492,33112
+302,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",,"Senior subordinated loan ($10,793 par due 11/2014)","12.00% Cash, 2.00% PIK",9/1/2010,10793,10361
+303,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",,"Senior subordinated loan ($23,850 par due 11/2014)","10.00% Cash, 4.00% PIK",11/7/2007,23850,22896
+304,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",,Warrants to purchase up to 378 shares,,11/7/2007,0,3981
+305,Telecommunications,"American Broadband Communications, LLC, American Broadband Holding Company and Cameron Holdings of NC, Inc.",,Warrants to purchase up to 200 shares,,9/1/2010,0,2106
+306,Telecommunications,"Startec Equity, LLC (7)",Communication services,Member interest,,4/1/2010,0,0
+307,Telecommunications,"Startec Equity, LLC (7)",,,,,76080,79401
+308,Retail,Fulton Holdings Corp.,Airport restaurant operator,"Senior secured loan ($40,000 par due 5/2016)",12.50%,5/28/2010,40000,40000
+309,Retail,Fulton Holdings Corp.,,"Common stock (19,672 shares)",,5/28/2010,1967,1985
+310,Retail,Things Remembered Inc. and TRM Holdings Corporation,Personalized gifts retailer,"Senior secured loan ($14,925 par due 5/2018)",8.00% (Libor + 6.50%/M),5/24/2012,14925,14925
+311,Retail,Things Remembered Inc. and TRM Holdings Corporation,,,,,56892,56910
+312,Oil and Gas,"Geotrace Technologies, Inc.",Reservoir processing and development,"Warrants to purchase up to 69,978 shares of common stock",,4/1/2010,88,0
+313,Oil and Gas,"Geotrace Technologies, Inc.",,"Warrants to purchase up to 210,453 shares of preferred stock",,4/1/2010,2805,1892
+314,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",Petroleum product manufacturer,"Junior secured loan ($2,912 par due 12/2014)","9.17% (Libor + 7.17% Cash, 2.00% PIK /Q)",4/30/2012,2912,2620
+315,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($4,931 par due 12/2014)","12.00% Cash, 2.00% PIK",4/30/2012,4931,4438
+316,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($2,020 par due 12/2014)","9.16% (Libor + 7.16% Cash, 2.00% PIK /Q)",4/30/2012,2020,1818
+317,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($5,102 par due 12/2014)","12.00% Cash, 3.00% PIK",4/30/2012,5102,4847
+318,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($14,672 par due 12/2014)","9.18% (Libor + 7.18% Cash, 2.00% PIK /Q)",4/30/2012,14672,13205
+319,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($10,576 par due 12/2014)","9.17% (Libor + 7.17% Cash,",4/30/2012,10576,9518
+320,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Junior secured loan ($18,760 par due 12/2014)","12.00% Cash, 2.00% PIK",4/30/2012,18760,16884
+321,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Class A common units (10,782 units)",,6/17/2011,1512,2
+322,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Class B-5 common units (599,200 units)",,4/25/2008,5472,8
+323,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Class B-4 common units (50,000 units)",,6/17/2011,500,1
+324,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,"Class C common units (618,091 units)",,4/25/2008,0,11
+325,Oil and Gas,"UL Holding Co., LLC and Universal Lubricants, LLC (6)",,,,,69350,55244
+326,"Printing, Publishing and Media","Batanga, Inc.",Independent digital media company,"Senior secured revolving loan ($1,500 par due 10/2013)",8.50%,10/31/2012,1500,1500
+327,"Printing, Publishing and Media","Batanga, Inc.",,"Senior secured loan ($5,500 par due 11/2016)",9.60%,10/31/2012,5500,5594
+328,"Printing, Publishing and Media","Earthcolor Group, LLC",Printing management services,Limited liability company interests (9.30%),,5/18/2012,0,0
+329,"Printing, Publishing and Media","National Print Group, Inc.",Printing management services,Senior secured revolving loan ($913 par due 10/2013),9.00% (Libor + 6.00%/Q),3/2/2006,913,913
+330,"Printing, Publishing and Media","National Print Group, Inc.",,Senior secured revolving loan ($26 par due 10/2013),9.00% (Base Rate + 5.00%/M),3/2/2006,26,26
+331,"Printing, Publishing and Media","National Print Group, Inc.",,"Senior secured loan ($6,903 par due 10/2013)","10.00% (Libor + 9.00% Cash, 1.00% PIK /Q)",3/2/2006,6632,6903
+332,"Printing, Publishing and Media","National Print Group, Inc.",,Senior secured loan ($349 par due 10/2013),"10.00% (Base Rate + 9.00% Cash, 1.00% PIK /Q)",3/2/2006,335,349
+333,"Printing, Publishing and Media","National Print Group, Inc.",,"Preferred stock (9,344 shares)",,3/2/2006,2000,0
+334,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",Education publications provider,"Senior secured loan ($21,211 par due 3/2017)",9.00% (Libor + 7.50%/Q),9/29/2006,21211,21211
+335,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,"Senior secured loan ($9,851 par due 3/2017)",9.00% (Libor + 7.50%/Q),9/29/2006,9851,9851
+336,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,"Preferred stock (10,663 shares)",,9/29/2006,1066,3341
+337,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,"Common stock (15,393 shares)",,9/29/2006,3,8
+338,"Printing, Publishing and Media","The Teaching Company, LLC and The Teaching Company Holdings, Inc.",,,,,49037,49696
+339,Environmental Services,"AWTP, LLC (7)",Water treatment services,"Junior secured loan ($4,212 par due 6/2015)",10.00%,4/18/2011,4212,4212
+340,Environmental Services,"AWTP, LLC (7)",,"Junior secured loan ($6,121 par due 6/2015)",15.00% PIK,4/18/2011,6121,6121
+341,Environmental Services,"AWTP, LLC (7)",,Membership interests (90% interest),,4/18/2011,0,5646
+342,Environmental Services,"Genomatica, Inc.",Chemical company that is developing a biotechnology platform for the production of basic and intermediate chemical products through a proprietary fermentation-based manufacturing process,"Senior secured loan ($1,500 par due 10/2016)",9.26%,3/28/2013,1425,1500
+343,Environmental Services,"Genomatica, Inc.",,"Warrant to purchase 322,422 shares of Series D preferred stock",,3/28/2013,0,45
+344,Environmental Services,"RE Community Holdings II, Inc.and Pegasus Community Energy, LLC.",Operator of municipal recycling facilities,"Preferred stock (1,000 shares)",,3/1/2011,8839,1946
+345,Environmental Services,"Waste Pro USA, Inc",Waste management,Preferred Class A common,,11/9/2006,12263,25139
+346,Environmental Services,"Waste Pro USA, Inc",,,,,32860,44609
+347,Transportation,PODS Funding Corp.,Storage and warehousing,"Junior subordinated loan ($40,499 par due 5/2017)","12.75% Cash, 2.75% PIK",11/29/2011,40499,40499
+348,Transportation,"United Road Towing, Inc.",Towing company,Warrants to purchase up to 607 shares,,4/1/2010,0,0
+349,Transportation,"United Road Towing, Inc.",,,,,40499,40499
+350,Health Clubs,"Athletic Club Holdings, Inc.",Premier health club operator,"Senior secured loan ($34,000 par due 10/2013)",7.25% (Libor + 6.00%/M),10/11/2007,34000,34000
+351,Health Clubs,"CFW Co-Invest, L.P. and NCP Curves, L.P.",Health club franchisor,"Limited partnership interest (4,152,165 shares)",,7/31/2012,4152,4328
+352,Health Clubs,"CFW Co-Invest, L.P. and NCP Curves, L.P.",,"Limited partnership interest (1,847,835 shares)",,7/31/2012,1848,1926
+353,Health Clubs,"CFW Co-Invest, L.P. and NCP Curves, L.P.",,,,,40000,40254
+354,Commercial Real Estate Finance,"10th Street, LLC (6)",Real estate holding company,"Senior subordinated loan ($25,468 par due 11/2014)","8.93% Cash, 4.07% PIK",4/1/2010,25468,25468
+355,Commercial Real Estate Finance,"10th Street, LLC (6)",,Member interest (10.00% interest),,4/1/2010,594,0
+356,Commercial Real Estate Finance,"10th Street, LLC (6)",,"Option (25,000 units)",,4/1/2010,25,482
+357,Commercial Real Estate Finance,"American Commercial Coatings, Inc.",Real estate property,"Commercial mortgage loan ($2,505 par due 12/2025)",8.75% (Base Rate + 1.50%/Q),4/1/2010,879,2061
+358,Commercial Real Estate Finance,"Cleveland East Equity, LLC",Hotel operator,Real estate equity interests,,4/1/2010,1026,4036
+359,Commercial Real Estate Finance,"Commons R-3, LLC",Real estate developer,Real estate equity interests,,4/1/2010,0,0
+360,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates (7)",Hotel operator,"Senior subordinated loan ($2,236 par due 9/2011)",,4/1/2010,0,0
+361,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates (7)",,"Senior subordinated loan ($2,092 par due 6/2017)",,4/1/2010,0,0
+362,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates (7)",,Common equity interest,,4/1/2010,0,0
+363,Commercial Real Estate Finance,"Crescent Hotels & Resorts, LLC and affiliates (7)",,Limited liability company membership interest (100% interest),,6/19/2012,0,194
+364,Commercial Real Estate Finance,"Hot Light Brands, Inc. (7)",Real estate holding company,"Senior secured loan ($32,957 par due 2/2011)",,4/1/2010,1665,1132
+365,Commercial Real Estate Finance,"Hot Light Brands, Inc. (7)",,"Common stock (93,500 shares)",,4/1/2010,0,0
+366,Commercial Real Estate Finance,"NPH, Inc.",Hotel property,Real estate equity interests,,4/1/2010,5291,6817
+367,Commercial Real Estate Finance,"NPH, Inc.",,,,,34948,40190
+368,Food and Beverage,"Apple & Eve, LLC and US Juice Partners, LLC (6)",Juice manufacturer,"Senior units (50,000 units)",,10/5/2007,5000,5027
+369,Food and Beverage,"Charter Baking Company, Inc.",Baked goods manufacturer,"Senior subordinated loan ($9,741 par due 9/2013)",17.50% PIK,2/6/2008,9741,9741
+370,Food and Beverage,"Charter Baking Company, Inc.",,"Preferred stock (6,258 shares)",,9/1/2006,2567,1979
+371,Food and Beverage,Distant Lands Trading Co.,Coffee manufacturer,"Class A common stock (1,294 shares)",,4/1/2010,980,0
+372,Food and Beverage,Distant Lands Trading Co.,,"Class A-1 common stock (2,157 shares)",,4/1/2010,0,0
+373,Food and Beverage,Distant Lands Trading Co.,,,,,18288,16747
+374,Wholesale Distribution,"BECO Holding Company, Inc.",Wholesale distributor of first response fire protection equipment and related parts,"Common stock (25,000 shares)",,7/30/2010,2500,2483
+375,Wholesale Distribution,"BECO Holding Company, Inc.",,,,,2500,2483
+376,Wholesale Distribution,"BECO Holding Company, Inc.",,,,,5959788,6030459
