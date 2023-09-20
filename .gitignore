@@ -1,0 +1,5 @@
+# add .env file to .gitignore
+
+/README.md
+
+/venv
