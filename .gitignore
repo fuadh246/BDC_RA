@@ -1,5 +1,7 @@
 # add .env file to .gitignore
 
 /README.md
-
 /venv
+
+/ARCC/csv_file/
+/ARCC/clean_csv_file/
