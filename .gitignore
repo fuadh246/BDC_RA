@@ -1,6 +1,5 @@
 # add .env file to .gitignore
 .DS_store
-/README.md
 /venv
 
 /ARCC/csv_file/
