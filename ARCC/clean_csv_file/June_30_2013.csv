@@ -15,7 +15,7 @@
 13,Healthcare-Services,"AxelaCare Holdings, Inc. and AxelaCare Investment Holdings, L.P.",Provider of home infusion services,"Senior secured loan ($7,500 par due 4/2019)",5.75% (Libor + 4.50%/Q),4/12/2013,7500,7500
 14,Healthcare-Services,"AxelaCare Holdings, Inc. and AxelaCare Investment Holdings, L.P.",Provider of home infusion services,"Preferred units (7,425,000 units)",,4/12/2013,743,743
 15,Healthcare-Services,"AxelaCare Holdings, Inc. and AxelaCare Investment Holdings, L.P.",Provider of home infusion services,"Common units (75,000 units)",,4/12/2013,7,7
-16,Healthcare-Services,"California Forensic Medical Group, Incorporated",Correctional facility healthcare operator,Senior secured revolving loan,0,11/16/2012,0,0
+16,Healthcare-Services,"California Forensic Medical Group, Incorporated",Correctional facility healthcare operator,Senior secured revolving loan,,11/16/2012,0,0
 17,Healthcare-Services,"California Forensic Medical Group, Incorporated",Correctional facility healthcare operator,"Senior secured loan ($53,911 par due 11/2018)",9.25% (Libor + 8.00%/Q),11/16/2012,53911,53911
 18,Healthcare-Services,"CCS Group Holdings, LLC",Correctional facility healthcare operator,"Class A units (601,937 units)",,8/19/2010,602,1410
 19,Healthcare-Services,"CT Technologies Intermediate Holdings, Inc. and CT Technologies Holdings LLC (6)",Healthcare analysis services provider,"Senior secured loan ($7,498 par due 3/2017)",7.75% (Libor + 6.50%/Q),3/15/2011,7498,7498
@@ -84,7 +84,7 @@
 82,Education,eInstruction Corporation,"Developer, manufacturer and retailer of educational products","Common stock (2,406 shares)",,4/1/2010,926,0
 83,Education,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)","Developer, manufacturer and retailer of educational products","Preferred stock (99,492 shares)",12.00% PIK,8/1/2011,11208,12482
 84,Education,"ELC Acquisition Corp., ELC Holdings Corporation, and Excelligence Learning Corporation (6)","Developer, manufacturer and retailer of educational products","Common stock (50,800 shares)",,8/1/2011,51,4546
-85,Education,"Infilaw Holding, LLC",Operator of for-profit law schools,Senior secured revolving loan,0,8/25/2011,0,0
+85,Education,"Infilaw Holding, LLC",Operator of for-profit law schools,Senior secured revolving loan,,8/25/2011,0,0
 86,Education,"Infilaw Holding, LLC",Operator of for-profit law schools,Senior secured loan ($1 par due 8/2016),9.50% (Libor + 8.50%/Q),8/25/2011,1,1
 87,Education,"Infilaw Holding, LLC",Operator of for-profit law schools,"Senior secured loan ($19,014 par due 8/2016)",9.50% (Libor + 8.50%/Q),8/25/2011,19014,19014
 88,Education,"Infilaw Holding, LLC",Operator of for-profit law schools,"Series A preferred units (124,890 units)",9.50% (Libor + 8.50%/Q),8/25/2011,124890,124890
@@ -261,7 +261,7 @@
 259,Energy,"Panda Temple Power, LLC",Developer and operator of large-scale energy facilities,"Senior secured loan ($60,000 par due 7/2018)",11.50% (Libor + 10.00%/Q),7/17/2012,58276,60000
 260,Energy,"Sunrun Solar Owner Holdco X, LLC",Residential solar energy provider,"Senior secured loan ($60,000 par due 6/2019)",9.50% (Libor + 8.25%/Q),6/7/2013,60000,60000
 261,Energy,"Sunrun Solar Owner Holdco X, LLC",Residential solar energy provider,,,,315662,318320
-262,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer",Senior secured revolving loan,0,8/31/2011,0,0
+262,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer",Senior secured revolving loan,,8/31/2011,0,0
 263,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($3,713 par due 8/2016)",8.00% (Libor + 7.00%/Q),8/31/2011,3713,3713
 264,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer","Senior secured loan ($23,331 par due 8/2016)",8.00% (Libor + 7.00%/Q),8/31/2011,22331,22331
 265,Containers-Packaging,"ICSH, Inc.","Industrial container manufacturer, reconditioner and servicer",Senior secured loan ($19 par due 8/2016),8.00% (Libor + 7.00%/Q),8/31/2011,19,19
@@ -295,7 +295,7 @@
 293,Manufacturing,"Component Hardware Group, Inc.",Commercial equipment,"Junior secured loan ($3,251 par due 12/2014)","7.00% Cash, 3.00% PIK",8/4/2010,3251,3251
 294,Manufacturing,"Component Hardware Group, Inc.",Commercial equipment,"Senior subordinated loan ($11,424 par due 12/2014)","7.50% Cash, 5.00% PIK",4/1/2010,9174,11425
 295,Manufacturing,"Component Hardware Group, Inc.",Commercial equipment,"Warrants to purchase up to 1,462,500 shares of common stock",,8/4/2010,0,14656
-296,Manufacturing,Lighting Science Group Corporation,Advanced lighting products,Letter of credit facility,0,9/20/2011,0,0
+296,Manufacturing,Lighting Science Group Corporation,Advanced lighting products,Letter of credit facility,,9/20/2011,0,0
 297,Manufacturing,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","Senior secured loan ($38,274 par due 3/2019)",9.38% (Libor + 8.13%/Q),6/15/2011,38274,38274
 298,Manufacturing,"MWI Holdings, Inc.","Engineered springs, fasteners, and other precision components","Senior secured loan ($10,000 par due 3/2019)",9.38% (Libor + 8.13%/Q),6/15/2011,10000,10000
 299,Manufacturing,"NetShape Technologies, Inc.",Metal precision engineered components,Senior secured revolving loan ($408 par due 12/2014),7.50% (Libor + 6.50%/S),4/1/2010,408,408
