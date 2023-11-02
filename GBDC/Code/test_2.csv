@@ -1,535 +1,383 @@
-,0,2,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27,28,29
-0,,,Spread,,,,,,,,,,,,,,Percentage,,,,,,,,,
-1,,Investment,Above,,,Interest,,,Maturity,,,Principal,,,,,of,,Fair,,,,,,,
-2,,Type,Index(1),,,Rate(2),,,Date,,,Amount,,Cost,,,"Net
-    Assets",,Value,,,,,,,
-3,Investments,,,,,,,,,,,,,,,,,,,,,,,,,
-4,United States,,,,,,,,,,,,,,,,,,,,,,,,,
-5,Debt investments,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Aerospace and Defense,,,,,,,,,,,,,,,,,,,,,,,,,
-7,"ILC Dover,
-    LP",Senior loan,,P + 5.00,%,,,8.25,%,,,07/2017,,,21,,,15,,,,-,%,,,17
-8,"ILC Dover, LP",Senior loan,,L + 6.00,%,,,7.29,%,,,07/2017,,,"4,324",,,"4,263",,,,0.6,,,,"4,281"
-9,"ILC Dover, LP",Senior loan,,L + 6.00,%,,,7.29,%,,,07/2017,,,603,,,598,,,,0.1,,,,597
-10,NTS Technical Systems(4),One Stop,,L + 5.50,%,,,,(5),,,11/2018,,,-,,,(19,,,,-,,,,(9
-11,NTS Technical Systems,One Stop,,L + 5.50,%,,,6.75,%,,,11/2018,,,"14,764",,,"14,472",,,,2.2,,,,"14,616"
-12,NTS Technical Systems(4),One Stop,,L + 5.50,%,,,,(5),,,11/2018,,,-,,,(60,,,,-,,,,(30
-13,"Tresys Technology Holdings,
-    Inc.(4)",One Stop,,L + 6.75,%,,,,(5),,,12/2017,,,-,,,(8,,,,-,,,,-
-14,"Tresys Technology Holdings,
-    Inc.",One Stop,,L + 6.75,%,,,8.00,%,,,12/2017,,,"3,950",,,"3,871",,,,0.5,,,,"3,476"
-15,Whitcraft LLC,Subordinated Debt,,,,,,12.00,%,,,12/2018,,,"1,877",,,"1,854",,,,0.3,,,,"1,877"
-16,"White Oak Technologies,
-    Inc.(4)",Senior loan,,L + 5.00,%,,,,(5),,,03/2017,,,-,,,(8,,,,-,,,,-
-17,"White
-    Oak Technologies, Inc.*",Senior loan,,"L
-    + 5.00",%,,,6.25,%,,,03/2017,,,"1,808",,,"1,776",,,,0.3,,,,"1,808"
-18,,,,,,,,,,,,,,,"27,347",,,"26,754",,,,4.0,,,,"26,633"
-19,Automobile,,,,,,,,,,,,,,,,,,,,,,,,,
-20,"ABRA, Inc.(8)",One Stop,,P + 4.75,%,,,8.00,%,,,05/2018,,,934,,,916,,,,0.1,,,,934
-21,"ABRA, Inc.(8)",One Stop,,L + 6.00,%,,,7.25,%,,,05/2018,,,"5,092",,,"5,058",,,,0.8,,,,"5,092"
-22,"ABRA, Inc.*(8)",One Stop,,L + 6.00,%,,,7.25,%,,,05/2018,,,"26,229",,,"25,976",,,,4.0,,,,"26,229"
-23,"ABRA, Inc.(4),(8)",One Stop,,L + 5.75,%,,,,(5),,,05/2018,,,-,,,(84,,,,-,,,,-
-24,"ABRA, Inc.",One Stop,,L + 7.75,%,,,9.00,%,,,05/2018,,,"4,797",,,"4,721",,,,0.7,,,,"4,797"
-25,"American Driveline Systems,
-    Inc.",Senior loan,,L + 5.50,%,,,7.14,%,,,01/2016,,,287,,,282,,,,-,,,,248
-26,"American Driveline Systems,
-    Inc.*",Senior loan,,L + 5.50,%,,,7.00,%,,,01/2016,,,"2,819",,,"2,783",,,,0.4,,,,"2,537"
-27,"K&N Engineering, Inc.(4)",Senior loan,,L + 4.50,%,,,,(5),,,04/2018,,,-,,,(7,,,,-,,,,-
-28,"K&N Engineering, Inc.*",Senior loan,,L + 4.50,%,,,5.75,%,,,04/2018,,,"3,732",,,"3,683",,,,0.6,,,,"3,732"
-29,"K&N Engineering, Inc.",Senior loan,,P + 3.50,%,,,6.75,%,,,04/2018,,,"3,529",,,"3,483",,,,0.5,,,,"3,529"
-30,"Take 5 Oil Change, L.L.C.",Senior loan,,L + 5.25,%,,,6.25,%,,,07/2018,,,55,,,52,,,,-,,,,55
-31,"Take
-    5 Oil Change, L.L.C.",Senior loan,,"L
-    + 5.25",%,,,6.25,%,,,07/2018,,,"2,971",,,"2,951",,,,0.5,,,,"2,971"
-32,,,,,,,,,,,,,,,"50,445",,,"49,814",,,,7.6,,,,"50,124"
-33,Banking,,,,,,,,,,,,,,,,,,,,,,,,,
-34,Prommis Fin Co.(3),Senior loan,,P + 10.00,%,,,13.25,%,,,06/2015,,,85,,,84,,,,-,,,,2
-35,"Prommis
-    Fin Co.*(3)",Senior loan,,,,,,"2.25%
-    cash/8.25% PIK",,,,06/2015,,,124,,,124,,,,-,,,,3
-36,,,,,,,,,,,,,,,209,,,208,,,,-,,,,5
-37,"Beverage, Food and
-    Tobacco",,,,,,,,,,,,,,,,,,,,,,,,,
-38,ABP Corporation(4),Senior loan,,P + 3.50,%,,,,(5),,,06/2016,,,-,,,(4,,,,-,,,,-
-39,ABP Corporation*,Senior loan,,L + 4.75,%,,,6.00,%,,,06/2016,,,"4,478",,,"4,434",,,,0.7,,,,"4,478"
-40,"American Importing Company,
-    Inc.",One Stop,,L + 5.75,%,,,7.00,%,,,05/2018,,,"14,769",,,"14,597",,,,2.2,,,,"14,769"
-41,"Ameriqual Group, LLC*",Senior loan,,L + 5.00,%,,,6.50% cash/0.75% PIK,,,,03/2016,,,"1,727",,,"1,703",,,,0.3,,,,"1,658"
-42,"Ameriqual Group, LLC*",Senior loan,,L + 7.50,%,,,9.00% cash/1.25% PIK,,,,03/2016,,,829,,,821,,,,0.1,,,,713
-43,ARG IH Corporation (Arby's),Senior loan,,L + 4.00,%,,,5.00,%,,,11/2020,,,"2,355",,,"2,326",,,,0.4,,,,"2,372"
-44,"Atkins Nutritionals, Inc*",One Stop,,L + 5.00,%,,,6.25,%,,,01/2019,,,"22,282",,,"22,052",,,,3.4,,,,"22,560"
-45,"Atkins Nutritionals, Inc*",One Stop,,L + 8.50,%,,,9.75,%,,,04/2019,,,"17,270",,,"16,851",,,,2.7,,,,"17,637"
-46,"Candy Intermediate Holdings,
-    Inc. (Ferrara Candy)",Senior loan,,L + 6.25,%,,,7.50,%,,,06/2018,,,"4,925",,,"4,795",,,,0.7,,,,"4,682"
-47,"Diversified Foodservice
-    Supply, Inc.(4)",Senior loan,,L + 4.75,%,,,,(5),,,12/2018,,,-,,,(3,,,,-,,,,(3
-48,"Diversified Foodservice
-    Supply, Inc.*",Senior loan,,L + 4.75,%,,,6.00,%,,,12/2018,,,"4,476",,,"4,431",,,,0.7,,,,"4,431"
-49,"Firebirds International,
-    LLC(4)",One Stop,,L + 5.75,%,,,,(5),,,05/2018,,,-,,,(2,,,,-,,,,-
-50,"Firebirds International,
-    LLC*",One Stop,,L + 5.75,%,,,7.00,%,,,05/2018,,,907,,,897,,,,0.1,,,,907
-51,"Firebirds International,
-    LLC",One Stop,,L + 5.75,%,,,7.00,%,,,05/2018,,,180,,,176,,,,-,,,,180
-52,"Firebirds International,
-    LLC(4)",One Stop,,L + 5.75,%,,,,(5),,,05/2018,,,-,,,(3,,,,-,,,,-
-53,"First Watch Restaurants,
-    Inc.",One Stop,,L + 7.50,%,,,8.86,%,,,12/2016,,,"1,068",,,"1,047",,,,0.2,,,,"1,068"
-54,"First Watch Restaurants,
-    Inc.*",One Stop,,L + 7.50,%,,,8.77,%,,,12/2016,,,"11,356",,,"11,221",,,,1.7,,,,"11,356"
-55,"First Watch Restaurants,
-    Inc.",One Stop,,L + 7.50,%,,,8.75,%,,,12/2016,,,417,,,412,,,,0.1,,,,417
-56,IT'SUGAR LLC,Senior loan,,L + 8.50,%,,,10.00,%,,,04/2017,,,"4,202",,,"4,146",,,,0.6,,,,"4,202"
-57,IT'SUGAR LLC,Subordinated Debt,,,,,,8.00,%,,,10/2017,,,"1,707",,,"1,707",,,,0.4,,,,"2,458"
-58,Julio & Sons Company,One Stop,,L + 7.00,%,,,8.50,%,,,09/2016,,,224,,,216,,,,-,,,,224
-59,Julio & Sons Company*,One Stop,,L + 7.00,%,,,8.50,%,,,09/2016,,,"7,032",,,"6,993",,,,1.1,,,,"7,032"
-60,Julio & Sons Company(4),One Stop,,L + 7.00,%,,,,(5),,,09/2016,,,-,,,(12,,,,-,,,,-
-61,"Northern Brewer, LLC",One Stop,,L + 6.50,%,,,8.06,%,,,02/2018,,,453,,,442,,,,0.1,,,,453
-62,"Northern Brewer, LLC",One Stop,,L + 6.50,%,,,8.00,%,,,02/2018,,,"6,372",,,"6,240",,,,1.0,,,,"6,372"
-63,"Richelieu Foods, Inc.",Senior loan,,P + 4.00,%,,,7.25,%,,,11/2015,,,65,,,57,,,,-,,,,65
-64,"Richelieu Foods, Inc.*",Senior loan,,L + 5.00,%,,,6.75,%,,,11/2015,,,"1,940",,,"1,913",,,,0.3,,,,"1,940"
-65,Smashburger Finance LLC,Senior loan,,P + 3.00,%,,,6.25,%,,,05/2018,,,819,,,810,,,,0.1,,,,819
-66,"Smashburger
-    Finance LLC*",Senior loan,,"L
-    + 4.25",%,,,5.50,%,,,05/2018,,,"6,516",,,"6,471",,,,1.0,,,,"6,516"
-67,,,,,,,,,,,,,,,"116,369",,,"114,734",,,,17.9,,,,"117,306"
-68,,,Spread,,,,,,,,,,,,,,Percentage,,,,,,,,,
-69,,Investment,Above,,,Interest,,,Maturity,,,Principal,,,,,of,,Fair,,,,,,,
-70,,Type,Index(1),,,Rate(2),,,Date,,,Amount,,Cost,,,"Net
-    Assets",,Value,,,,,,,
-71,"Building and Real
-    Estate",,,,,,,,,,,,,,,,,,,,,,,,,
-72,"ITEL Laboratories,
-    Inc.(4)",Senior loan,,L + 4.75,%,,,,(5),,,06/2018,,,-,,,(1,,,,-,,,,-
-73,"ITEL
-    Laboratories, Inc.*",Senior loan,,"L
-    + 4.75",%,,,6.00,%,,,06/2018,,,799,,,790,,,,0.1,,,,799
-74,,,,,,,,,,,,,,,799,,,789,,,,0.1,,,,799
-75,Cargo Transport,,,,,,,,,,,,,,,,,,,,,,,,,
-76,"RP
-    Crown Parent (RedPrairie Corp)*",Senior loan,,"L
-    + 5.50",%,,,6.75,%,,,12/2018,,,"1,985",,,"1,952",,,,0.3,,,,"1,998"
-77,,,,,,,,,,,,,,,"1,985",,,"1,952",,,,0.3,,,,"1,998"
-78,"Chemicals, Plastics
-    and Rubber",,,,,,,,,,,,,,,,,,,,,,,,,
-79,"Integrated DNA Technologies,
-    Inc.",Subordinated debt,,,,,,12.00% cash/2.00% PIK,,,,04/2015,,,321,,,319,,,,0.1,,,,321
-80,"Integrated DNA Technologies,
-    Inc.",Subordinated debt,,,,,,12.00% cash/2.00% PIK,,,,04/2015,,,905,,,887,,,,0.1,,,,905
-81,"Integrated DNA Technologies,
-    Inc.",Subordinated debt,,,,,,12.00% cash/2.00% PIK,,,,04/2015,,,321,,,316,,,,-,,,,321
-82,"Road Infrastructure Investment,
-    LLC(4)",Senior loan,,L + 5.00,%,,,,(5),,,03/2017,,,-,,,(30),,,,-,,,,(1
-83,"Road
-    Infrastructure Investment, LLC*",Senior loan,,"L
-    + 5.00",%,,,6.25,%,,,03/2018,,,"4,515",,,"4,472",,,,0.7,,,,"4,552"
-84,,,,,,,,,,,,,,,"6,062",,,"5,964",,,,0.9,,,,"6,098"
-85,"Containers, Packaging
-    and Glass",,,,,,,,,,,,,,,,,,,,,,,,,
-86,Fort Dearborn Company*,Senior loan,,L + 4.25,%,,,5.86,%,,,10/2017,,,39,,,39,,,,-,,,,39
-87,Fort Dearborn Company*,Senior loan,,L + 4.25,%,,,5.25,%,,,10/2017,,,547,,,543,,,,0.1,,,,547
-88,Fort Dearborn Company*,Senior loan,,L + 4.75,%,,,6.37,%,,,10/2018,,,156,,,155,,,,-,,,,156
-89,Fort Dearborn Company*,Senior loan,,L + 4.75,%,,,5.75,%,,,10/2018,,,"2,197",,,"2,182",,,,0.3,,,,"2,197"
-90,"Packaging Coordinators,
-    Inc.*",Senior loan,,L + 4.25,%,,,5.51,%,,,05/2020,,,"6,792",,,"6,754",,,,1.0,,,,"6,792"
-91,"Packaging Coordinators,
-    Inc.",Second Lien,,L + 8.25,%,,,9.50,%,,,11/2020,,,"29,098",,,"28,270",,,,4.4,,,,"29,098"
-92,"Packaging
-    Coordinators, Inc.(4)",Senior loan,,"L
-    + 4.25",%,,,,(5),,,05/2020,,,-,,,-,,,,-,,,,-
-93,,,,,,,,,,,,,,,"38,829",,,"37,943",,,,5.8,,,,"38,829"
-94,"Diversified Conglomerate
-    Manufacturing",,,,,,,,,,,,,,,,,,,,,,,,,
-95,"Chase Industries, Inc.*",One Stop,,L + 5.00,%,,,6.82,%,,,11/2017,,,"13,426",,,"13,249",,,,2.0,,,,"13,426"
-96,"Metal Spinners, Inc.*",Senior loan,,L + 6.50,%,,,8.00,%,,,12/2014,,,"1,338",,,"1,323",,,,0.2,,,,"1,338"
-97,"Metal Spinners, Inc.*",Senior loan,,L + 6.50,%,,,8.00,%,,,12/2014,,,"2,647",,,"2,619",,,,0.4,,,,"2,647"
-98,Onicon Incorporated(4),One Stop,,L + 6.75,%,,,,(5),,,12/2017,,,-,,,(13,,,,-,,,,-
-99,Onicon Incorporated,One Stop,,L + 6.75,%,,,8.31,%,,,12/2017,,,"3,583",,,"3,525",,,,0.6,,,,"3,583"
-100,"Pasternack Enterprises,
-    Inc.*",Senior loan,,L + 5.00,%,,,6.25,%,,,12/2017,,,"1,167",,,"1,158",,,,0.2,,,,"1,167"
-101,"Plex Systems, Inc.(4)",Senior loan,,L + 7.50,%,,,,(5),,,06/2018,,,-,,,(26,,,,-,,,,-
-102,"Plex Systems, Inc.*",Senior loan,,L + 7.50,%,,,8.75,%,,,06/2018,,,"13,670",,,"13,375",,,,2.1,,,,"13,670"
-103,"Sunless Merger Sub, Inc.",Senior loan,,P + 4.00,%,,,7.25,%,,,07/2016,,,144,,,144,,,,-,,,,111
-104,"Sunless Merger Sub, Inc.*",Senior loan,,L + 5.25,%,,,6.51,%,,,07/2016,,,"1,851",,,"1,846",,,,0.2,,,,"1,388"
-105,"TIDI Products, LLC(4)",One Stop,,L + 6.50,%,,,,(5),,,07/2017,,,-,,,(14,,,,-,,,,-
-106,"TIDI Products, LLC*",One Stop,,L + 6.50,%,,,7.75,%,,,07/2018,,,"11,168",,,"10,957",,,,1.7,,,,"11,168"
-107,"Vintage Parts, Inc.*",One Stop,,L + 4.50,%,,,5.75,%,,,12/2015,,,"4,623",,,"4,576",,,,0.7,,,,"4,623"
-108,"Vintage Parts, Inc.*",One Stop,,L + 4.50,%,,,5.75,%,,,12/2015,,,64,,,64,,,,-,,,,64
-109,"Vintage
-    Parts, Inc.*",One Stop,,"L
-    + 4.50",%,,,5.75,%,,,12/2015,,,966,,,974,,,,0.1,,,,966
-110,,,,,,,,,,,,,,,"54,647",,,"53,757",,,,8.2,,,,"54,151"
-111,"Diversified Conglomerate
-    Service",,,,,,,,,,,,,,,,,,,,,,,,,
-112,"Aderant North America,
-    Inc.*",Senior loan,,L + 5.00,%,,,6.25,%,,,12/2018,,,"4,495",,,"4,458",,,,0.7,,,,"4,495"
-113,"Agility Recovery Solutions
-    Inc.(4)",One Stop,,L + 7.00,%,,,,(5),,,09/2018,,,-,,,(7,,,,-,,,,-
-114,"Agility Recovery Solutions
-    Inc.*",One Stop,,L + 7.00,%,,,8.25,%,,,09/2018,,,"9,349",,,"9,169",,,,1.4,,,,"9,349"
-115,API Healthcare Corporation*,One Stop,,L + 6.25,%,,,9.93,%,,,04/2018,,,"33,722",,,"33,468",,,,5.1,,,,"33,722"
-116,"Consona Holdings, Inc.(4)",Senior loan,,L + 5.50,%,,,,(5),,,08/2017,,,-,,,(2,,,,-,,,,-
-117,"Consona Holdings, Inc.*",Senior loan,,L + 5.50,%,,,6.75,%,,,08/2018,,,"1,024",,,996,,,,0.2,,,,"1,024"
-118,"Consona Holdings, Inc.*",Senior loan,,L + 6.00,%,,,7.25,%,,,08/2018,,,"1,547",,,"1,535",,,,0.2,,,,"1,547"
-119,"Document Technologies,
-    LLC(4)",Senior loan,,L + 4.25,%,,,,(5),,,12/2018,,,-,,,(12,,,,-,,,,-
-120,"Document Technologies,
-    LLC*",Senior loan,,L + 4.25,%,,,5.50,%,,,12/2018,,,"6,690",,,"6,629",,,,1.0,,,,"6,690"
-121,"EAG, INC. (Evans Analytical
-    Group)*",Senior loan,,L + 4.50,%,,,6.00,%,,,07/2017,,,"2,425",,,"2,401",,,,0.4,,,,"2,425"
-122,HighJump Acquisition LLC,One Stop,,L + 7.50,%,,,8.75,%,,,07/2016,,,"7,124",,,"7,064",,,,1.1,,,,"7,124"
-123,"Integration Appliance,
-    Inc.",Senior loan,,L + 8.25,%,,,9.50,%,,,09/2018,,,719,,,709,,,,0.1,,,,709
-124,"Integration Appliance,
-    Inc.",Senior loan,,L + 8.25,%,,,9.50,%,,,09/2018,,,"5,396",,,"5,268",,,,0.8,,,,"5,315"
-125,"Marathon Data Operating
-    Co., LLC(4)",One Stop,,L + 6.25,%,,,,(5),,,08/2017,,,-,,,(8,,,,-,,,,-
-126,"Marathon Data Operating
-    Co., LLC",One Stop,,L + 6.25,%,,,7.50,%,,,08/2017,,,"4,761",,,"4,674",,,,0.7,,,,"4,761"
-127,MSC.Software Corporation*,One Stop,,L + 6.50,%,,,8.51,%,,,11/2017,,,"9,898",,,"9,748",,,,1.5,,,,"9,898"
-128,"Navex Global, Inc.(4)",One Stop,,L + 7.50,%,,,,(5),,,12/2016,,,-,,,(15,,,,-,,,,(25
-129,"Navex Global, Inc.*",One Stop,,L + 7.50,%,,,9.00,%,,,12/2016,,,"17,643",,,"17,370",,,,2.6,,,,"17,290"
-130,"NetSmart Technologies,
-    Inc.",One Stop,,L + 6.00,%,,,8.77,%,,,12/2017,,,"8,324",,,"8,254",,,,1.3,,,,"8,324"
-131,"NetSmart Technologies,
-    Inc.*",One Stop,,L + 6.00,%,,,8.79,%,,,12/2017,,,650,,,639,,,,0.1,,,,650
-132,"PC Helps Support, LLC(4)",Senior loan,,L + 5.25,%,,,,(5),,,09/2017,,,-,,,(2,,,,-,,,,-
-133,"PC Helps Support, LLC",Senior loan,,L + 5.25,%,,,6.52,%,,,09/2017,,,"1,973",,,"1,951",,,,0.3,,,,"1,973"
-134,"Secure-24, LLC(4)",One Stop,,L + 7.00,%,,,,(5),,,08/2017,,,-,,,(6,,,,-,,,,(22
-135,"Secure-24, LLC*",One Stop,,L + 7.00,%,,,8.25,%,,,08/2017,,,"10,512",,,"10,280",,,,1.5,,,,"10,092"
-136,"Secure-24, LLC",One Stop,,L + 7.00,%,,,8.25,%,,,08/2017,,,"1,538",,,"1,513",,,,0.2,,,,"1,476"
-137,"Source Medical Solutions,
-    Inc.",Second Lien,,L + 9.50,%,,,10.75,%,,,03/2018,,,"9,294",,,"9,114",,,,1.4,,,,"9,294"
-138,"Vericlaim, Inc.(4)",Senior loan,,P + 3.50,%,,,,(5),,,05/2018,,,-,,,(3,,,,-,,,,-
-139,"Vericlaim,
-    Inc.",Senior loan,,"L
-    + 4.75",%,,,6.00,%,,,05/2018,,,"6,343",,,"6,311",,,,1.0,,,,"6,343"
-140,,,,,,,,,,,,,,,"143,427",,,"141,496",,,,21.6,,,,"142,454"
-141,,,Spread,,,,,,,,,,,,,,Percentage,,,,,,,,,
-142,,Investment,Above,,,Interest,,,Maturity,,,Principal,,,,,of Total,,Fair,,,,,,,
-143,,Type,Index(1),,,Rate(2),,,Date,,,Amount,,Cost,,,Net Assets,,Value,,,,,,,
-144,Electronics,,,,,,,,,,,,,,,,,,,,,,,,,
-145,"BeyondTrust Software, Inc.",One Stop,,L + 6.00,%,,,7.25,%,,,12/2019,,,"12,014",,,"11,754",,,,1.8,,,,"11,840"
-146,"Ecommerce Industries, Inc.*",One Stop,,L + 6.75,%,,,9.60,%,,,10/2016,,,"12,345",,,"12,218",,,,1.9,,,,"12,345"
-147,"Rogue Wave Holdings, Inc.*",One Stop,,L + 6.50,%,,,7.50,%,,,12/2018,,,"10,885",,,"10,750",,,,1.6,,,,"10,777"
-148,"Sloan Company, Inc., The(4)",One Stop,,L + 7.50,%,,,,(5),,,10/2018,,,-,,,(16,,,,-,,,,(13
-149,"Sloan Company, Inc., The*",One Stop,,L + 7.50,%,,,8.75,%,,,10/2018,,,"13,277",,,"13,119",,,,2.0,,,,"13,144"
-150,"Sparta Systems, Inc.(4)",Senior loan,,L + 5.25,%,,,,(5),,,12/2017,,,-,,,(6,,,,-,,,,-
-151,"Sparta Systems, Inc.",Senior loan,,L + 5.25,%,,,6.50,%,,,12/2017,,,"6,359",,,"6,295",,,,1.0,,,,"6,359"
-152,Syncsort Incorporated(4),Senior loan,,L + 5.50,%,,,,(5),,,03/2015,,,-,,,(2,,,,-,,,,-
-153,Syncsort Incorporated*,Senior loan,,P + 4.25,%,,,7.50,%,,,03/2015,,,"6,271",,,"6,210",,,,1.0,,,,"6,271"
-154,"Systems Maintenance Services Holding,
-    Inc.",Senior loan,,L + 4.25,%,,,5.25,%,,,10/2019,,,"2,670",,,"2,657",,,,0.4,,,,"2,657"
-155,"Taxware, LLC",Second Lien,,L + 8.50,%,,,9.50,%,,,10/2019,,,"11,099",,,"10,884",,,,1.7,,,,"11,099"
-156,"Watchfire Enterprises,
-    Inc.",Second Lien,,L + 8.00,%,,,9.00,%,,,10/2021,,,"9,435",,,"9,253",,,,1.4,,,,"9,293"
-157,,,,,,,,,,,,,,,"84,355",,,"83,116",,,,12.8,,,,"83,772"
-158,Farming and Agriculture,,,,,,,,,,,,,,,,,,,,,,,,,
-159,"AGData, L.P.*",One stop,,L + 6.00,%,,,7.25,%,,,08/2016,,,"3,828",,,"3,792",,,,0.6,,,,"3,828"
-160,,,,,,,,,,,,,,,"3,828",,,"3,792",,,,0.6,,,,"3,828"
-161,Finance,,,,,,,,,,,,,,,,,,,,,,,,,
-162,"Ascensus, Inc.*(4)",One Stop,,L + 4.00,%,,,,(5),,,11/2018,,,-,,,(19,,,,-,,,,(5
-163,"Ascensus, Inc.*",One Stop,,L + 4.00,%,,,5.00,%,,,12/2019,,,"4,224",,,"4,141",,,,0.6,,,,"4,203"
-164,"Ascensus, Inc.*",One Stop,,L + 8.00,%,,,9.00,%,,,12/2020,,,"6,337",,,"6,117",,,,1.0,,,,"6,242"
-165,Pillar Processing LLC*,Senior loan,,L + 5.50,%,,,5.74,%,,,11/2018,,,"1,194",,,"1,191",,,,0.1,,,,597
-166,"Pillar Processing
-    LLC*(3)",Senior loan,,,,,,14.50,%,,,05/2019,,,"2,377",,,"2,369",,,,-,,,,-
-167,,,,,,,,,,,,,,,"14,132",,,"13,799",,,,1.7,,,,"11,037"
-168,Grocery,,,,,,,,,,,,,,,,,,,,,,,,,
-169,"MyWebGrocer, Inc.(4)",Senior loan,,L + 4.75,%,,,,(5),,,05/2018,,,-,,,(14,,,,-,,,,-
-170,"MyWebGrocer, Inc.",Senior loan,,L + 4.75,%,,,6.00% cash/4.00% PIK,,,,05/2018,,,"14,271",,,"14,051",,,,2.2,,,,"14,271"
-171,"Teasdale Quality
-    Foods, Inc.*",Senior loan,,L + 4.50,%,,,5.75,%,,,05/2018,,,"2,793",,,"2,768",,,,0.4,,,,"2,793"
-172,,,,,,,,,,,,,,,"17,064",,,"16,805",,,,2.6,,,,"17,064"
-173,"Healthcare, Education and Childcare",,,,,,,,,,,,,,,,,,,,,,,,,
-174,"Advanced Pain Management Holdings, Inc.(4)",Senior loan,,L + 5.00,%,,,,(5),,,02/2018,,,-,,,(10,,,,-,,,,-
-175,"Advanced Pain Management Holdings, Inc.*",Senior loan,,L + 5.00,%,,,6.25,%,,,02/2018,,,"7,345",,,"7,284",,,,1.1,,,,"7,345"
-176,"Advanced Pain Management Holdings, Inc.(4)",Senior loan,,L + 5.00,%,,,,(5),,,02/2018,,,-,,,(6,,,,-,,,,-
-177,"Avatar International, LLC(4)",One Stop,,L + 7.50,%,,,,(5),,,09/2016,,,-,,,(5,,,,-,,,,(64
-178,"Avatar International, LLC*",One Stop,,L + 7.50,%,,,8.75,%,,,09/2016,,,"7,603",,,"7,532",,,,1.1,,,,"6,995"
-179,"Avatar International, LLC",One Stop,,L + 8.00,%,,,9.25,%,,,09/2016,,,"1,640",,,"1,629",,,,0.2,,,,"1,525"
-180,Certara L.P.(4),One Stop,,L + 6.25,%,,,,(5),,,12/2018,,,-,,,(22,,,,-,,,,(22
-181,Certara L.P.*,One Stop,,L + 6.25,%,,,7.25,%,,,12/2018,,,"17,740",,,"17,520",,,,2.7,,,,"17,518"
-182,DDC Center Inc.*,One Stop,,L + 6.25,%,,,9.25,%,,,10/2014,,,"7,849",,,"7,844",,,,1.2,,,,"7,849"
-183,DDC Center Inc.,One Stop,,L + 6.25,%,,,,(5),,,10/2014,,,-,,,-,,,,-,,,,-
-184,Delta Educational Systems*,Senior loan,,P + 4.75,%,,,8.00,%,,,12/2016,,,"1,762",,,"1,736",,,,0.3,,,,"1,762"
-185,"Dialysis Newco, Inc.(4)",Second Lien,,L + 8.50,%,,,,(5),,,02/2021,,,-,,,(25,,,,-,,,,-
-186,"Dialysis Newco, Inc.*",Second Lien,,L + 8.50,%,,,9.75,%,,,02/2021,,,"23,901",,,"23,310",,,,3.6,,,,"23,901"
-187,"Dialysis Newco, Inc.",Senior loan,,L + 4.25,%,,,5.25,%,,,08/2020,,,"6,330",,,"6,270",,,,1.0,,,,"6,345"
-188,"Encore Rehabilitation Services, LLC(4)",One Stop,,L + 6.25,%,,,,(5),,,06/2017,,,-,,,(11,,,,-,,,,-
-189,"Encore Rehabilitation Services, LLC",One Stop,,L + 6.25,%,,,7.50,%,,,06/2017,,,"5,066",,,"4,970",,,,0.8,,,,"5,066"
-190,"G & H Wire Company, Inc.(4)",Senior loan,,L + 5.50,%,,,,(5),,,11/2016,,,-,,,(8,,,,-,,,,-
-191,"G & H Wire Company, Inc.*",Senior loan,,L + 5.50,%,,,7.00,%,,,11/2016,,,"8,497",,,"8,403",,,,1.3,,,,"8,497"
-192,"Healogics, Inc.*",Second Lien,,L + 8.00,%,,,9.25,%,,,02/2020,,,"16,454",,,"16,310",,,,2.5,,,,"16,824"
-193,"Hospitalists Management Group, LLC",Senior loan,,P + 4.00,%,,,7.06,%,,,05/2017,,,837,,,828,,,,0.1,,,,764
-194,"Hospitalists Management Group, LLC",Senior loan,,L + 5.00,%,,,6.50,%,,,05/2017,,,"3,694",,,"3,634",,,,0.5,,,,"3,398"
-195,"Hospitalists Management Group, LLC",Senior loan,,L + 5.00,%,,,6.51,%,,,05/2017,,,435,,,430,,,,0.1,,,,400
-196,"IntegraMed America, Inc.(4)",One Stop,,L + 7.25,%,,,,(5),,,09/2017,,,-,,,(14,,,,-,,,,-
-197,"IntegraMed America, Inc.*",One Stop,,L + 7.25,%,,,8.50,%,,,09/2017,,,"14,420",,,"14,177",,,,2.2,,,,"14,420"
-198,"Maverick Healthcare Group, LLC*",Senior loan,,L + 5.50,%,,,7.25,%,,,12/2016,,,"2,019",,,"2,003",,,,0.3,,,,"2,019"
-199,"NeuroTherm, Inc.",Senior loan,,L + 5.00,%,,,6.50,%,,,02/2016,,,23,,,19,,,,-,,,,23
-200,"NeuroTherm, Inc.*",Senior loan,,L + 5.00,%,,,6.50,%,,,02/2016,,,"1,298",,,"1,286",,,,0.2,,,,"1,298"
-201,"Northwestern Management Services, LLC*",Senior loan,,L + 5.25,%,,,6.50,%,,,10/2017,,,48,,,35,,,,-,,,,48
-202,"Northwestern Management Services, LLC",Senior loan,,L + 5.25,%,,,6.50,%,,,10/2017,,,"4,019",,,"3,955",,,,0.6,,,,"4,019"
-203,"Northwestern Management Services, LLC(4)",Senior loan,,L + 5.25,%,,,,(5),,,10/2017,,,-,,,(4,,,,-,,,,-
-204,"Pentec Acquisition Sub, Inc.(4)",Senior loan,,L + 5.25,%,,,,(5),,,05/2017,,,-,,,(3,,,,-,,,,-
-205,"Pentec Acquisition Sub, Inc.*",Senior loan,,L + 5.25,%,,,6.50,%,,,05/2018,,,"1,868",,,"1,841",,,,0.3,,,,"1,868"
-206,"Precision Dermatology, Inc.(4)",One Stop,,L + 6.00,%,,,,(5),,,09/2018,,,-,,,(6,,,,-,,,,(3
-207,"Precision Dermatology, Inc.",One Stop,,L + 6.00,%,,,7.25,%,,,09/2018,,,"10,042",,,"9,947",,,,1.5,,,,"9,991"
-208,"Reliant Pro ReHab, LLC",Senior loan,,P + 3.75,%,,,7.00,%,,,06/2016,,,276,,,270,,,,-,,,,276
-209,"Reliant Pro ReHab, LLC*",Senior loan,,L + 4.75,%,,,6.00,%,,,06/2016,,,"3,361",,,"3,332",,,,0.5,,,,"3,361"
-210,"Reliant Pro ReHab, LLC",Senior loan,,L + 4.75,%,,,6.00,%,,,06/2016,,,932,,,927,,,,0.1,,,,932
-211,Renaissance Pharma (U.S.) Holdings Inc.(4),Senior loan,,L + 5.25,%,,,,(5),,,05/2018,,,-,,,(4,,,,-,,,,-
-212,Renaissance Pharma (U.S.) Holdings Inc.*,Senior loan,,L + 5.25,%,,,6.75,%,,,05/2018,,,"4,435",,,"4,382",,,,0.7,,,,"4,435"
-213,Southern Anesthesia and Surgical(4),One Stop,,L + 7.00,%,,,,(5),,,11/2017,,,-,,,(12,,,,-,,,,-
-214,Southern Anesthesia and Surgical,One Stop,,L + 7.00,%,,,8.25,%,,,11/2017,,,"6,186",,,"6,067",,,,0.9,,,,"6,186"
-215,"Surgical Information Systems, LLC",Senior loan,,L + 3.00,%,,,4.01,%,,,09/2018,,,"1,704",,,"1,704",,,,0.3,,,,"1,704"
-216,"WIL Research Company, Inc.*",Senior loan,,L + 4.50,%,,,5.75,%,,,02/2018,,,782,,,774,,,,0.1,,,,770
-217,"Young Innovations, Inc.(4)",Senior loan,,L + 4.50,%,,,,(5),,,01/2018,,,-,,,(2,,,,-,,,,-
-218,"Young Innovations,
-    Inc.",Senior loan,,L + 4.50,%,,,5.75,%,,,01/2019,,,"4,393",,,"4,365",,,,0.7,,,,"4,393"
-219,,,,,,,,,,,,,,,"164,959",,,"162,652",,,,24.9,,,,"163,843"
-220,,,Spread,,,,,,,,,,,,,,Percentage,,,,,,,,,
-221,,Investment,Above,,,Interest,,,Maturity,,,Principal,,,,,of Total,,Fair,,,,,,,
-222,,Type,Index(1),,,Rate(2),,,Date,,,Amount,,Cost,,,Net Assets,,Value,,,,,,,
-223,"Home and Office Furnishings,",,,,,,,,,,,,,,,,,,,,,,,,,
-224,"Housewares, and Durable Consumer",,,,,,,,,,,,,,,,,,,,,,,,,
-225,"Plano Molding Company, LLC",Senior loan,,L + 4.25,%,,,5.25,%,,,10/2018,,,"2,022",,,"2,007",,,,0.3,,,,"2,007"
-226,"WII Components, Inc.*",Senior loan,,L + 4.75,%,,,6.25,%,,,07/2016,,,"1,616",,,"1,604",,,,0.2,,,,"1,616"
-227,"WII Components, Inc.",Senior loan,,P + 3.75,%,,,7.00,%,,,07/2016,,,7,,,6,,,,-,,,,7
-228,Zenith Products Corporation,One Stop,,P + 1.75,%,,,5.00,%,,,09/2013,,,29,,,29,,,,-,,,,19
-229,Zenith Products Corporation*,One Stop,,P + 3.50,%,,,6.75,%,,,09/2013,,,"3,684",,,"3,684",,,,0.4,,,,"2,395"
-230,,,,,,,,,,,,,,,"7,358",,,"7,330",,,,0.9,,,,"6,044"
-231,Insurance,,,,,,,,,,,,,,,,,,,,,,,,,
-232,"AssuredPartners Capital, Inc.*",Senior loan,,L + 4.50,%,,,5.75,%,,,12/2018,,,"2,371",,,"2,353",,,,0.4,,,,"2,371"
-233,"AssuredPartners Capital, Inc.",Senior loan,,L + 4.75,%,,,6.00,%,,,06/2019,,,172,,,168,,,,-,,,,172
-234,"AssuredPartners Capital, Inc.(4)",Senior loan,,L + 4.75,%,,,,(5),,,12/2019,,,-,,,(21,,,,-,,,,-
-235,"Captive Resources Midco, LLC(4)",Senior loan,,L + 5.50,%,,,,(5),,,10/2017,,,-,,,(3,,,,-,,,,-
-236,"Captive Resources Midco, LLC*",Senior loan,,P + 4.50,%,,,7.75,%,,,10/2018,,,"3,543",,,"3,515",,,,0.5,,,,"3,543"
-237,"Evolution1, Inc.*",Senior loan,,L + 4.75,%,,,6.25,%,,,06/2016,,,"4,549",,,"4,515",,,,0.7,,,,"4,549"
-238,"Evolution1, Inc.",Senior loan,,P + 3.75,%,,,7.00,%,,,06/2016,,,56,,,53,,,,-,,,,56
-239,,,,,,,,,,,,,,,"10,691",,,"10,580",,,,1.6,,,,"10,691"
-240,Investment Funds and Vehicles,,,,,,,,,,,,,,,,,,,,,,,,,
-241,"Senior Loan Fund
-    LLC(7)",Investment in SLF,,L + 4.00,%,,,4.18,%,,,05/2020,,,"28,356",,,"28,356",,,,4.2,,,,"27,871"
-242,,,,,,,,,,,,,,,"28,356",,,"28,356",,,,4.2,,,,"27,871"
-243,"Leisure, Amusement, Motion Pictures
-    and Entertainment",,,,,,,,,,,,,,,,,,,,,,,,,
-244,"Competitor Group, Inc.",One Stop,,P + 6.75,%,,,9.76,%,,,11/2018,,,884,,,871,,,,0.1,,,,743
-245,"Competitor Group, Inc.*",One Stop,,L + 7.75,%,,,9.00% cash/1.00% PIK,,,,11/2018,,,"12,807",,,"12,624",,,,1.7,,,,"11,526"
-246,"Octane Fitness, LLC(4)",One Stop,,L + 5.25,%,,,,(5),,,10/2018,,,-,,,(4,,,,-,,,,(4
-247,"Octane Fitness, LLC",One Stop,,L + 5.25,%,,,6.50,%,,,10/2018,,,"8,220",,,"8,181",,,,1.2,,,,"8,179"
-248,"Pride Manufacturing Company, LLC*",Senior loan,,L + 6.00,%,,,7.75,%,,,11/2015,,,571,,,566,,,,0.1,,,,571
-249,"Service Companies, The",Senior loan,,L + 6.50,%,,,,(5),,,03/2014,,,-,,,-,,,,-,,,,-
-250,"Service Companies, The*",Senior loan,,L + 6.50,%,,,9.00,%,,,03/2014,,,"6,290",,,"6,282",,,,1.0,,,,"6,290"
-251,"Starplex Operating, L.L.C.",One Stop,,L + 7.50,%,,,9.00,%,,,12/2017,,,"1,077",,,"1,061",,,,0.2,,,,"1,077"
-252,"Starplex Operating, L.L.C.*",One Stop,,L + 7.50,%,,,9.00,%,,,12/2017,,,"17,388",,,"17,143",,,,2.6,,,,"17,388"
-253,"Titan Fitness, LLC(4)",One Stop,,L + 6.50,%,,,,(5),,,09/2019,,,-,,,(25,,,,-,,,,(17
-254,"Titan Fitness, LLC*",One Stop,,L + 6.50,%,,,7.75,%,,,09/2019,,,"13,706",,,"13,401",,,,2.1,,,,"13,569"
-255,"Titan Fitness, LLC(4)",One Stop,,L + 6.50,%,,,,(5),,,09/2019,,,-,,,(25,,,,-,,,,(17
-256,,,,,,,,,,,,,,,"60,943",,,"60,075",,,,9.0,,,,"59,305"
-257,"Mining, Steel, Iron and Non-Precious
-    Metals",,,,,,,,,,,,,,,,,,,,,,,,,
-258,"Benetech, Inc.*",One Stop,,P + 4.75,%,,,8.00,%,,,10/2017,,,201,,,196,,,,-,,,,201
-259,"Benetech, Inc.*",One Stop,,L + 6.00,%,,,7.25,%,,,10/2017,,,"5,434",,,"5,413",,,,0.8,,,,"5,434"
-260,,,,,,,,,,,,,,,"5,635",,,"5,609",,,,0.8,,,,"5,635"
-261,Oil and Gas,,,,,,,,,,,,,,,,,,,,,,,,,
-262,"Drilling Info, Inc.(4), (8)",One Stop,,L + 5.00,%,,,,(5),,,06/2018,,,-,,,(5,,,,-,,,,-
-263,"Drilling Info, Inc.(4), (8)",One Stop,,L + 5.00,%,,,6.00,%,,,06/2018,,,408,,,404,,,,0.1,,,,408
-264,"Drilling Info, Inc.(4),
-    (8)",One Stop,,L + 5.00,%,,,6.00,%,,,06/2018,,,952,,,943,,,,0.1,,,,952
-265,,,,,,,,,,,,,,,"1,360",,,"1,342",,,,0.2,,,,"1,360"
-266,"Personal and Non-Durable Consumer
-    Products",,,,,,,,,,,,,,,,,,,,,,,,,
-267,"Hygenic Corporation, The(4)",Senior loan,,L + 4.50,%,,,,(5),,,10/2017,,,-,,,(3,,,,-,,,,-
-268,"Hygenic Corporation, The*",Senior loan,,L + 4.50,%,,,5.75,%,,,10/2018,,,"3,455",,,"3,417",,,,0.5,,,,"3,455"
-269,"Massage Envy, LLC(4)",One Stop,,L + 7.25,%,,,,(5),,,09/2018,,,-,,,(15,,,,-,,,,-
-270,"Massage Envy, LLC",One Stop,,L + 7.25,%,,,8.50,%,,,09/2018,,,"16,527",,,"16,203",,,,2.5,,,,"16,527"
-271,Rug Doctor LLC,Senior loan,,P + 4.25,%,,,7.50,%,,,12/2016,,,217,,,205,,,,-,,,,204
-272,Rug Doctor LLC*,Senior loan,,L + 5.25,%,,,6.25,%,,,12/2016,,,"5,574",,,"5,519",,,,0.9,,,,"5,519"
-273,Team Technologies Acquisition Company(4),Senior loan,,L + 4.75,%,,,,(5),,,12/2017,,,-,,,(3,,,,-,,,,-
-274,Team Technologies Acquisition Company,Senior loan,,L + 4.75,%,,,6.00,%,,,12/2017,,,"3,510",,,"3,483",,,,0.5,,,,"3,510"
-275,,,,,,,,,,,,,,,"29,283",,,"28,806",,,,4.4,,,,"29,215"
-276,"Personal, Food and Miscellaneous
-    Services",,,,,,,,,,,,,,,,,,,,,,,,,
-277,Affordable Care Inc.(4),Senior loan,,L + 4.75,%,,,,(5),,,12/2017,,,-,,,(2,,,,-,,,,-
-278,Affordable Care Inc.,Senior loan,,L + 4.75,%,,,6.00,%,,,12/2018,,,"3,532",,,"3,503",,,,0.6,,,,"3,532"
-279,El Pollo Loco Inc,Senior loan,,L + 4.25,%,,,5.25,%,,,10/2018,,,"5,188",,,"5,138",,,,0.8,,,,"5,201"
-280,Focus Brands Inc.,Second Lien,,L + 9.00,%,,,10.25,%,,,08/2018,,,"11,195",,,"11,072",,,,1.7,,,,"11,446"
-281,"National Veterinary Associates, Inc.(4)",Senior loan,,L + 5.00,%,,,,(5),,,12/2017,,,-,,,(1,,,,-,,,,-
-282,"National Veterinary Associates, Inc.",Senior loan,,L + 5.00,%,,,6.25,%,,,12/2017,,,"6,006",,,"5,965",,,,0.9,,,,"6,006"
-283,"National Veterinary Associates, Inc.",Senior loan,,L + 5.00,%,,,6.25,%,,,12/2017,,,"1,433",,,"1,421",,,,0.2,,,,"1,433"
-284,"PMI Holdings, Inc.(4)",One Stop,,L + 5.75,%,,,,(5),,,10/2018,,,-,,,(10,,,,-,,,,(10
-285,"PMI Holdings, Inc.*",One Stop,,L + 5.75,%,,,6.75,%,,,10/2018,,,"33,326",,,"33,166",,,,5.0,,,,"33,160"
-286,Vetcor Merger Sub LLC,One Stop,,L + 6.50,%,,,7.75,%,,,12/2017,,,199,,,192,,,,-,,,,199
-287,Vetcor Merger Sub LLC,One Stop,,L + 6.50,%,,,7.75,%,,,12/2017,,,"5,914",,,"5,862",,,,0.9,,,,"5,914"
-288,"Vetcor Merger Sub
-    LLC*",One Stop,,L + 6.50,%,,,7.75,%,,,12/2017,,,"1,343",,,"1,323",,,,0.2,,,,"1,343"
-289,,,,,,,,,,,,,,,"68,136",,,"67,629",,,,10.3,,,,"68,224"
-290,,,Spread,,,,,,,,,,,,,Percentage,,,,,,,,,,
-291,,Investment,Above,,Interest,,,Maturity,,,Principal,,,,,of Total,,Fair,,,,,,,,
-292,,Type,Index(1),,Rate(2),,,Date,,,Amount,,Cost,,,Net Assets,,Value,,,,,,,,
-293,Printing and Publishing,,,,,,,,,,,,,,,,,,,,,,,,,
-294,"Market Track, LLC(4)",One Stop,L + 6.00,%,,,(5),,,10/2019,,,-,,,,(21,,,-,,,,(22,,
-295,"Market Track, LLC*",One Stop,L + 6.00,%,,7.25,%,,,10/2019,,,"29,492",,,,"29,206",,,4.4,,,,"29,197",,
-296,"Market Track, LLC(4)",One Stop,L + 6.00,%,,,(5),,,10/2019,,,-,,,,(20,,,-,,,,(22,,
-297,,,,,,,,,,,,,"29,492",,,,"29,165",,,4.4,,,,"29,153",,
-298,Retail Stores,,,,,,,,,,,,,,,,,,,,,,,,,
-299,"Benihana, Inc.(4)",One Stop,P + 4.25,%,,,(5),,,07/2018,,,-,,,,(40,,,-,,,,-,,
-300,"Benihana, Inc.*",One Stop,L + 5.50,%,,6.75,%,,,01/2019,,,"14,071",,,,"13,665",,,2.1,,,,"14,071",,
-301,"Boot Barn, Inc.*",One Stop,L + 5.75,%,,7.00,%,,,05/2019,,,"24,614",,,,"24,282",,,3.7,,,,"24,614",,
-302,"Capital Vision Services, LLC",One Stop,L + 7.25,%,,8.50,%,,,12/2017,,,323,,,,312,,,0.1,,,,323,,
-303,"Capital Vision Services, LLC*",One Stop,L + 7.25,%,,8.50,%,,,12/2017,,,"13,324",,,,"13,168",,,2.0,,,,"13,324",,
-304,"Capital Vision Services, LLC",One Stop,L + 7.25,%,,8.50,%,,,12/2017,,,"1,244",,,,"1,230",,,0.2,,,,"1,244",,
-305,"DTLR, Inc.*",One Stop,L + 8.00,%,,11.00,%,,,12/2015,,,"16,541",,,,"16,426",,,2.5,,,,"16,541",,
-306,"Express Oil Change, LLC",Senior loan,L + 4.75,%,,6.35,%,,,12/2017,,,94,,,,91,,,-,,,,94,,
-307,"Express Oil Change, LLC*",Senior loan,P + 3.50,%,,6.75,%,,,12/2017,,,"1,795",,,,"1,780",,,0.3,,,,"1,795",,
-308,"Express Oil Change, LLC",Senior loan,P + 3.50,%,,6.75,%,,,12/2017,,,115,,,,111,,,-,,,,115,,
-309,"Floor & Decor Outlets of America, Inc.*",One Stop,L + 6.50,%,,7.75,%,,,05/2019,,,"11,330",,,,"11,204",,,1.7,,,,"11,330",,
-310,"Marshall Retail Group, LLC, The(4)",Senior loan,L + 6.50,%,,,(5),,,10/2016,,,-,,,,(11,,,-,,,,-,,
-311,"Marshall Retail Group, LLC, The*",Senior loan,L + 6.50,%,,8.00,%,,,10/2016,,,"9,365",,,,"9,251",,,1.4,,,,"9,365",,
-312,"Paper Source, Inc.",One Stop,P + 5.00,%,,,(5),,,09/2018,,,-,,,,(12,,,-,,,,(6,,
-313,"Paper Source, Inc.*",One Stop,L + 6.25,%,,7.25,%,,,09/2018,,,"12,672",,,,"12,553",,,1.9,,,,"12,607",,
-314,"Restaurant Holding Company, LLC",Senior loan,L + 7.50,%,,9.00,%,,,02/2017,,,"9,230",,,,"9,114",,,1.3,,,,"8,630",,
-315,"Rubio's Restaurants, Inc*",Senior loan,L + 4.75,%,,6.00,%,,,11/2018,,,"9,447",,,,"9,439",,,1.4,,,,"9,447",,
-316,"Sneaker Villa, Inc.",One Stop,P + 7.00,%,,11.50,%,,,12/2017,,,"1,190",,,,"1,175",,,0.2,,,,"1,190",,
-317,"Sneaker Villa, Inc.",One Stop,L + 8.50,%,,10.00,%,,,12/2017,,,"4,520",,,,"4,430",,,0.7,,,,"4,520",,
-318,"Sneaker Villa, Inc.",One Stop,L + 8.50,%,,10.00,%,,,12/2017,,,627,,,,619,,,0.1,,,,627,,
-319,Specialty Catalog Corp.(4),One Stop,L + 6.00,%,,,(5),,,07/2017,,,-,,,,(6,,,-,,,,-,,
-320,Specialty Catalog Corp.,One Stop,L + 6.00,%,,7.50,%,,,07/2017,,,"4,961",,,,"4,914",,,0.8,,,,"4,961",,
-321,Vision Source L.P.(4),One Stop,L + 5.00,%,,,(5),,,04/2016,,,-,,,,(9,,,-,,,,-,,
-322,Vision Source L.P.*,One Stop,L + 5.00,%,,6.00,%,,,04/2016,,,"19,574",,,,"19,425",,,3.0,,,,"19,574",,
-323,,,,,,,,,,,,,"155,037",,,,"153,111",,,23.4,,,,"154,366",,
-324,Telecommunications,,,,,,,,,,,,,,,,,,,,,,,,,
-325,"Arise Virtual Solutions, Inc.(4)",One Stop,L + 6.00,%,,,(5),,,12/2018,,,-,,,,(13,,,-,,,,(13,,
-326,"Arise Virtual Solutions, Inc.*",One Stop,L + 6.00,%,,7.25,%,,,12/2018,,,"14,134",,,,"13,993",,,2.1,,,,"13,993",,
-327,Hosting.com Inc.,Senior loan,P + 3.25,%,,6.50,%,,,10/2016,,,14,,,,12,,,-,,,,14,,
-328,Hosting.com Inc.*,Senior loan,L + 4.50,%,,5.75,%,,,10/2016,,,801,,,,793,,,0.1,,,,801,,
-329,"ITC Global, Inc.(4)",One Stop,P + 5.50,%,,,(5),,,07/2018,,,10,,,,(4,,,-,,,,10,,
-330,"ITC Global, Inc.",One Stop,L + 6.75,%,,7.75,%,,,07/2018,,,"8,540",,,,"8,454",,,1.3,,,,"8,540",,
-331,"NameMedia, Inc.",Senior loan,L + 6.00,%,,,(5),,,11/2014,,,-,,,,-,,,-,,,,-,,
-332,,,,,,,,,,,,,"23,499",,,,"23,235",,,3.5,,,,"23,345",,
-333,Utilities,,,,,,,,,,,,,,,,,,,,,,,,,
-334,"PowerPlan Consultants, Inc.(4)",Senior loan,L + 4.25,%,,,(5),,,10/2018,,,-,,,,(2,,,-,,,,(1,,
-335,"PowerPlan Consultants, Inc.*",Senior loan,L + 4.25,%,,5.25,%,,,10/2019,,,"4,207",,,,"4,152",,,0.6,,,,"4,165",,
-336,,,,,,,,,,,,,"4,207",,,,"4,150",,,0.6,,,,"4,164",,
-338,Total debt investments United States,,,,,,,,,,,,"1,148,454",,,,"1,132,963",,,172.3,%,,,"1,137,314",,
-340,Fair Value as a percentage of Principal Amount,,,,,,,,,,,,,,,,,,,,,,,99.0,%,
-341,,,,,,,,,,,Principal,,,,,Percentage,,,,,,,,,,
-342,,Investment,Spread Above,,Interest,,,Maturity,,,Amount/Shares/,,,,,of Total,,Fair,,,,,,,,
-343,,Type,Index(1),,Rate(2),,,Date,,,Contracts,,Cost,,,Net Assets,,Value,,,,,,,,
-344,Equity investments,,,,,,,,,,,,,,,,,,,,,,,,,
-345,Aerospace and Defense,,,,,,,,,,,,,,,,,,,,,,,,,
-346,NTS Technical Systems,Common stock,,,,,,,,,,,1,,,,"1,352",,,0.2,%,,,"1,352",,
-347,"Tresys Technology Holdings, Inc.",Common stock,,,,,,,,,,,295,,,,295,,,-,,,,70,,
-348,Whitcraft LLC,Common stock,,,,,,,,,,,1,,,,670,,,0.1,,,,489,,
-349,Whitcraft LLC,Warrant,,,,,,,,,,,-,,,,-,,,-,,,,95,,
-350,,,,,,,,,,,,,,,,,"2,317",,,0.3,,,,"2,006",,
-351,Automobile,,,,,,,,,,,,,,,,,,,,,,,,,
-352,"ABRA, Inc",LLC interest,,,,,,,,,,,208,,,,352,,,0.3,,,,"2,176",,
-353,"K&N Engineering, Inc.",Common stock,,,,,,,,,,,-,,,,4,,,-,,,,78,,
-354,"K&N Engineering, Inc.",Preferred stock A,,,,,,,,,,,-,,,,26,,,-,,,,38,,
-355,"K&N Engineering, Inc.",Preferred stock B,,,,,,,,,,,-,,,,-,,,-,,,,10,,
-356,,,,,,,,,,,,,,,,,382,,,0.3,,,,"2,302",,
-357,"Beverage, Food and Tobacco",,,,,,,,,,,,,,,,,,,,,,,,,
-358,"Atkins Nutritionals, Inc.",LLC interest,,,,,,,,,,,57,,,,746,,,0.1,,,,824,,
-359,"First Watch Restaurants, Inc.",Common stock,,,,,,,,,,,7,,,,691,,,0.1,,,,691,,
-360,"Goode Seed Co-Invest, LLC",LLC units,,,,,,,,,,,356,,,,356,,,0.1,,,,411,,
-361,Julio & Sons Company,LLC interest,,,,,,,,,,,521,,,,521,,,0.1,,,,504,,
-362,"Northern Brewer, LLC",LLC interest,,,,,,,,,,,142,,,,315,,,-,,,,218,,
-363,"Richelieu Foods, Inc.",LP interest,,,,,,,,,,,220,,,,220,,,-,,,,111,,
-364,,,,,,,,,,,,,,,,,"2,849",,,0.4,,,,"2,759",,
-365,"Containers, Packaging and
-    Glass",,,,,,,,,,,,,,,,,,,,,,,,,
-366,"Packaging Coordinators,
-    Inc.",LLC interest,,,,,,,,,,,48,,,,"2,476",,,0.6,,,,"4,007",,
-367,,,,,,,,,,,,,,,,,"2,476",,,0.6,,,,"4,007",,
-368,"Diversified Conglomerate
-    Manufacturing",,,,,,,,,,,,,,,,,,,,,,,,,
-369,"Oasis Outsourcing Holdings, Inc.",LLC interest,,,,,,,,,,,"1,088",,,,"1,088",,,0.3,,,,"1,797",,
-370,"Sunless Merger Sub, Inc.",LP interest,,,,,,,,,,,-,,,,160,,,-,,,,4,,
-371,"TIDI Products, LLC",LLC interest,,,,,,,,,,,315,,,,158,,,-,,,,235,,
-372,,,,,,,,,,,,,,,,,"1,406",,,0.3,,,,"2,036",,
-373,"Diversified Conglomerate
-    Service",,,,,,,,,,,,,,,,,,,,,,,,,
-374,"Document Technologies, LLC",LLC interest,,,,,,,,,,,24,,,,490,,,0.1,,,,624,,
-375,"Marathon Data Operating Co., LLC",Common stock,,,,,,,,,,,1,,,,264,,,0.1,,,,293,,
-376,"Marathon Data Operating Co., LLC",Preferred stock,,,,,,,,,,,1,,,,264,,,-,,,,218,,
-377,"Navex Global, Inc.",LP interest,,,,,,,,,,,-,,,,666,,,0.1,,,,511,,
-378,"PC Helps Support, LLC",Common stock,,,,,,,,,,,1,,,,7,,,-,,,,7,,
-379,"PC Helps Support, LLC",Preferred stock,,,,,,,,,,,-,,,,61,,,-,,,,61,,
-380,"Secure-24, LLC",LLC Units,,,,,,,,,,,263,,,,263,,,-,,,,141,,
-381,,,,,,,,,,,,,,,,,"2,015",,,0.3,,,,"1,855",,
-382,Grocery,,,,,,,,,,,,,,,,,,,,,,,,,
-383,"MyWebGrocer, Inc.",LLC units,,,,,,,,,,,"1,269",,,,"1,269",,,0.2,,,,"1,269",,
-385,"Healthcare, Education and
-    Childcare",,,,,,,,,,,,,,,,,,,,,,,,,
-386,"Advanced Pain Management Holdings, Inc.",Common stock,,,,,,,,,,,67,,,,67,,,0.1,,,,743,,
-387,"Advanced Pain Management Holdings, Inc.",Preferred stock,,,,,,,,,,,8,,,,829,,,0.1,,,,886,,
-388,"Avatar International, LLC",LP interest,,,,,,,,,,,1,,,,695,,,-,,,,183,,
-389,Certara L.P.,LP interest,,,,,,,,,,,-,,,,541,,,0.1,,,,541,,
-390,"Dialysis Newco, Inc.",LLC interest,,,,,,,,,,,871,,,,89,,,0.2,,,,"1,274",,
-391,"Encore Rehabilitation Services, LLC",LLC interest,,,,,,,,,,,270,,,,270,,,0.1,,,,349,,
-392,"G & H Wire Company, Inc.",LP interest,,,,,,,,,,,-,,,,102,,,-,,,,118,,
-393,"Healogics, Inc.",Preferred stock,,,,,,,,,,,695,,,,799,,,0.2,,,,"1,057",,
-394,"Hospitalists Management Group, LLC",Common stock,,,,,,,,,,,-,,,,38,,,-,,,,10,,
-395,"IntegraMed America, Inc.",Common stock,,,,,,,,,,,1,,,,514,,,0.1,,,,676,,
-396,"NeuroTherm, Inc.",Common stock,,,,,,,,,,,1,,,,569,,,0.1,,,,876,,
-397,"Northwestern Management Services, LLC",LLC units,,,,,,,,,,,3,,,,3,,,-,,,,36,,
-398,"Northwestern Management Services, LLC",LLC units,,,,,,,,,,,-,,,,249,,,0.1,,,,274,,
-399,"Pentec Acquisition Sub, Inc.",Preferred stock,,,,,,,,,,,1,,,,116,,,-,,,,87,,
-400,"Reliant Pro ReHab, LLC",Preferred stock,,,,,,,,,,,2,,,,264,,,0.1,,,,312,,
-401,Southern Anesthesia and Surgical,LLC units,,,,,,,,,,,487,,,,487,,,0.1,,,,603,,
-402,"Surgical Information Systems, LLC",Common stock,,,,,,,,,,,4,,,,414,,,0.1,,,,495,,
-403,"Young Innovations, Inc.",Preferred stock,,,,,,,,,,,-,,,,236,,,0.1,,,,269,,
-404,,,,,,,,,,,,,,,,,"6,282",,,1.5,,,,"8,789",,
-405,"Home
-    and Office Furnishings, Housewares, and Durable Consumer",,,,,,,,,,,,,,,,,,,,,,,,,
-406,"Top Knobs USA, Inc.",Common stock,,,,,,,,,,,3,,,,35,,,-,,,,87,,
-408,Insurance,,,,,,,,,,,,,,,,,,,,,,,,,
-409,"Captive Resources Midco,
-    LLC",LLC units,,,,,,,,,,,1,,,,121,,,-,,,,135,,
-411,"Investment
-    Funds and Vehicles",,,,,,,,,,,,,,,,,,,,,,,,,
-412,Senior Loan Fund LLC(7),LLC interest,,,,,,,,,,,"4,051",,,,"4,051",,,0.7,,,,"4,879",,
-414,"Leisure,
-    Amusement, Motion Pictures and Entertainment",,,,,,,,,,,,,,,,,,,,,,,,,
-415,"Competitor Group, Inc.",LLC interest,,,,,,,,,,,708,,,,712,,,-,,,,150,,
-416,"LMP TR Holdings, LLC",LLC units,,,,,,,,,,,712,,,,712,,,0.1,,,,712,,
-417,"Titan Fitness, LLC",LLC units,,,,,,,,,,,6,,,,583,,,0.1,,,,583,,
-418,,,,,,,,,,,,,,,,,"2,007",,,0.2,,,,"1,445",,
-419,,,,,,,,,,,Principal,,,,,Percentage,,,,,,,,,,
-420,,Investment,Spread Above,,Interest,,,Maturity,,,Amount/Shares/,,,,,of Total,,Fair,,,,,,,,
-421,,Type,Index(1),,Rate(2),,,Date,,,Contracts,,Cost,,,Net Assets,,Value,,,,,,,,
-422,"Personal
-    and Non-Durable Consumer Products",,,,,,,,,,,,,,,,,,,,,,,,,
-423,"Hygenic Corporation, The",LP interest,,,,,,,,,,,1,,,,61,,,-,,,,74,,
-424,"Massage Envy, LLC",LLC interest,,,,,,,,,,,749,,,,749,,,0.1,,,,749,,
-425,"Team Technologies Acquisition
-    Company",Common stock,,,,,,,,,,,-,,,,148,,,-,,,,168,,
-426,,,,,,,,,,,,,,,,,958,,,0.1,,,,991,,
-427,Personal Transportation,,,,,,,,,,,,,,,,,,,,,,,,,
-428,PODS Funding Corp.  II,Warrant,,,,,,,,,,,271,,,,-,,,0.1,,,,687,,
-430,Printing and Publishing,,,,,,,,,,,,,,,,,,,,,,,,,
-431,"Market Track, LLC",Preferred stock,,,,,,,,,,,-,,,,145,,,-,,,,166,,
-432,"Market Track, LLC",Common stock,,,,,,,,,,,1,,,,145,,,0.1,,,,174,,
-433,,,,,,,,,,,,,,,,,290,,,0.1,,,,340,,
-434,Retail Stores,,,,,,,,,,,,,,,,,,,,,,,,,
-435,"Barcelona Restaurants, LLC(6)",LP interest,,,,,,,,,,,"1,996",,,,"1,996",,,0.4,,,,"2,879",,
-436,"Benihana, Inc.",LLC interest,,,,,,,,,,,43,,,,699,,,0.1,,,,830,,
-437,"Capital Vision Services, LLC",LLC interest,,,,,,,,,,,402,,,,402,,,0.1,,,,562,,
-438,"Express Oil Change, LLC",LLC interest,,,,,,,,,,,81,,,,81,,,-,,,,66,,
-439,"Paper Source, Inc.",LLC interest,,,,,,,,,,,8,,,,"1,387",,,0.2,,,,"1,387",,
-440,"Rubio's Restaurants, Inc.",Preferred stock,,,,,,,,,,,199,,,,945,,,0.2,,,,"1,442",,
-441,"Sneaker Villa, Inc.",LLC interest,,,,,,,,,,,4,,,,411,,,0.1,,,,509,,
-442,Vision Source L.P.,Common stock,,,,,,,,,,,9,,,,936,,,0.2,,,,"1,032",,
-443,,,,,,,,,,,,,,,,,"6,857",,,1.3,,,,"8,707",,
-444,Telecommunications,,,,,,,,,,,,,,,,,,,,,,,,,
-445,"ITC Global, Inc.",Preferred stock,,,,,,,,,,,17,,,,311,,,0.1,,,,311,,
-447,"Total
-    equity investments United States",,,,,,,,,,,,,,,,"33,626",,,6.5,%,,,"42,605",,
-449,"Total
-    United States",,,,,,,,,,,,,,,,"1,166,589",,,178.8,%,,,"1,179,919",,
-451,"Total
-    Investments",,,,,,,,,,,,,,,,"1,166,589",,,178.8,%,,,"1,179,919",,
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,Investments,,,,,,,,,,,,,,,,,,
+1,United States,,,,,,,,,,,,,,,,,,
+2,Debt investments,,,,,,,,,,,,,,,,,,
+3,Aerospace and Defense,,,,,,,,,,,,,,,,,,
+4,"ILC Dover,  LP",Senior loan,P + 5.00,%,8.25,%,07/2017,21,15,0,17,,,,,,,,
+5,"ILC Dover, LP",Senior loan,L + 6.00,%,7.29,%,07/2017,4324,4263,0.6,4281,,,,,,,,
+6,"ILC Dover, LP",Senior loan,L + 6.00,%,7.29,%,07/2017,603,598,0.1,597,,,,,,,,
+7,NTS Technical Systems  (4),One Stop,L + 5.50,%,(5),11/2018,0,(19,0,(9,,,,,,,,,
+8,NTS Technical Systems,One Stop,L + 5.50,%,6.75,%,11/2018,14764,14472,2.2,14616,,,,,,,,
+9,NTS Technical Systems  (4),One Stop,L + 5.50,%,(5),11/2018,0,(60,0,(30,,,,,,,,,
+10,"Tresys Technology Holdings,  Inc.  (4)",One Stop,L + 6.75,%,(5),12/2017,0,(8,0,0,,,,,,,,,
+11,"Tresys Technology Holdings,  Inc.",One Stop,L + 6.75,%,8.00,%,12/2017,3950,3871,0.5,3476,,,,,,,,
+12,Whitcraft LLC,Subordinated Debt,12.00,12.00,%,12/2018,1877,1854,0.3,1877,,,,,,,,,
+13,"White Oak Technologies,  Inc.  (4)",Senior loan,L + 5.00,%,(5),03/2017,0,(8,0,0,,,,,,,,,
+14,"White  Oak Technologies, Inc.*",Senior loan,L  + 5.00,%,6.25,%,03/2017,1808,1776,0.3,1808,,,,,,,,
+15,Automobile,,,,,,,,,,,,,,,,,,
+16,"ABRA, Inc.  (8)",One Stop,P + 4.75,%,8.00,%,05/2018,934,916,0.1,934,,,,,,,,
+17,"ABRA, Inc.  (8)",One Stop,L + 6.00,%,7.25,%,05/2018,5092,5058,0.8,5092,,,,,,,,
+18,"ABRA, Inc.*  (8)",One Stop,L + 6.00,%,7.25,%,05/2018,26229,25976,4.0,26229,,,,,,,,
+19,"ABRA, Inc.  (4),(8)",One Stop,L + 5.75,%,(5),05/2018,0,(84,0,0,,,,,,,,,
+20,"ABRA, Inc.",One Stop,L + 7.75,%,9.00,%,05/2018,4797,4721,0.7,4797,,,,,,,,
+21,"American Driveline Systems,  Inc.",Senior loan,L + 5.50,%,7.14,%,01/2016,287,282,0,248,,,,,,,,
+22,"American Driveline Systems,  Inc.*",Senior loan,L + 5.50,%,7.00,%,01/2016,2819,2783,0.4,2537,,,,,,,,
+23,"K&N Engineering, Inc.  (4)",Senior loan,L + 4.50,%,(5),04/2018,0,(7,0,0,,,,,,,,,
+24,"K&N Engineering, Inc.*",Senior loan,L + 4.50,%,5.75,%,04/2018,3732,3683,0.6,3732,,,,,,,,
+25,"K&N Engineering, Inc.",Senior loan,P + 3.50,%,6.75,%,04/2018,3529,3483,0.5,3529,,,,,,,,
+26,"Take 5 Oil Change, L.L.C.",Senior loan,L + 5.25,%,6.25,%,07/2018,55,52,0,55,,,,,,,,
+27,"Take  5 Oil Change, L.L.C.",Senior loan,L  + 5.25,%,6.25,%,07/2018,2971,2951,0.5,2971,,,,,,,,
+28,Banking,,,,,,,,,,,,,,,,,,
+29,Prommis Fin Co.  (3),Senior loan,P + 10.00,%,13.25,%,06/2015,85,84,0,2,,,,,,,,
+30,Prommis  Fin Co.*  (3),Senior loan,2.25%  cash/8.25% PIK,2.25%  cash/8.25% PIK,06/2015,124,124,0,3,,,,,,,,,,
+31,"Beverage, Food and  Tobacco",,,,,,,,,,,,,,,,,,
+32,ABP Corporation  (4),Senior loan,P + 3.50,%,(5),06/2016,0,(4,0,0,,,,,,,,,
+33,ABP Corporation*,Senior loan,L + 4.75,%,6.00,%,06/2016,4478,4434,0.7,4478,,,,,,,,
+34,"American Importing Company,  Inc.",One Stop,L + 5.75,%,7.00,%,05/2018,14769,14597,2.2,14769,,,,,,,,
+35,"Ameriqual Group, LLC*",Senior loan,L + 5.00,%,6.50% cash/0.75% PIK,03/2016,1727,1703,0.3,1658,,,,,,,,,
+36,"Ameriqual Group, LLC*",Senior loan,L + 7.50,%,9.00% cash/1.25% PIK,03/2016,829,821,0.1,713,,,,,,,,,
+37,ARG IH Corporation (Arby's),Senior loan,L + 4.00,%,5.00,%,11/2020,2355,2326,0.4,2372,,,,,,,,
+38,"Atkins Nutritionals, Inc*",One Stop,L + 5.00,%,6.25,%,01/2019,22282,22052,3.4,22560,,,,,,,,
+39,"Atkins Nutritionals, Inc*",One Stop,L + 8.50,%,9.75,%,04/2019,17270,16851,2.7,17637,,,,,,,,
+40,"Candy Intermediate Holdings,  Inc. (Ferrara Candy)",Senior loan,L + 6.25,%,7.50,%,06/2018,4925,4795,0.7,4682,,,,,,,,
+41,"Diversified Foodservice  Supply, Inc.  (4)",Senior loan,L + 4.75,%,(5),12/2018,0,(3,0,(3,,,,,,,,,
+42,"Diversified Foodservice  Supply, Inc.*",Senior loan,L + 4.75,%,6.00,%,12/2018,4476,4431,0.7,4431,,,,,,,,
+43,"Firebirds International,  LLC  (4)",One Stop,L + 5.75,%,(5),05/2018,0,(2,0,0,,,,,,,,,
+44,"Firebirds International,  LLC*",One Stop,L + 5.75,%,7.00,%,05/2018,907,897,0.1,907,,,,,,,,
+45,"Firebirds International,  LLC",One Stop,L + 5.75,%,7.00,%,05/2018,180,176,0,180,,,,,,,,
+46,"Firebirds International,  LLC  (4)",One Stop,L + 5.75,%,(5),05/2018,0,(3,0,0,,,,,,,,,
+47,"First Watch Restaurants,  Inc.",One Stop,L + 7.50,%,8.86,%,12/2016,1068,1047,0.2,1068,,,,,,,,
+48,"First Watch Restaurants,  Inc.*",One Stop,L + 7.50,%,8.77,%,12/2016,11356,11221,1.7,11356,,,,,,,,
+49,"First Watch Restaurants,  Inc.",One Stop,L + 7.50,%,8.75,%,12/2016,417,412,0.1,417,,,,,,,,
+50,IT'SUGAR LLC,Senior loan,L + 8.50,%,10.00,%,04/2017,4202,4146,0.6,4202,,,,,,,,
+51,IT'SUGAR LLC,Subordinated Debt,8.00,8.00,%,10/2017,1707,1707,0.4,2458,,,,,,,,,
+52,Julio & Sons Company,One Stop,L + 7.00,%,8.50,%,09/2016,224,216,0,224,,,,,,,,
+53,Julio & Sons Company*,One Stop,L + 7.00,%,8.50,%,09/2016,7032,6993,1.1,7032,,,,,,,,
+54,Julio & Sons Company  (4),One Stop,L + 7.00,%,(5),09/2016,0,(12,0,0,,,,,,,,,
+55,"Northern Brewer, LLC",One Stop,L + 6.50,%,8.06,%,02/2018,453,442,0.1,453,,,,,,,,
+56,"Northern Brewer, LLC",One Stop,L + 6.50,%,8.00,%,02/2018,6372,6240,1.0,6372,,,,,,,,
+57,"Richelieu Foods, Inc.",Senior loan,P + 4.00,%,7.25,%,11/2015,65,57,0,65,,,,,,,,
+58,"Richelieu Foods, Inc.*",Senior loan,L + 5.00,%,6.75,%,11/2015,1940,1913,0.3,1940,,,,,,,,
+59,Smashburger Finance LLC,Senior loan,P + 3.00,%,6.25,%,05/2018,819,810,0.1,819,,,,,,,,
+60,Smashburger  Finance LLC*,Senior loan,L  + 4.25,%,5.50,%,05/2018,6516,6471,1.0,6516,,,,,,,,
+61,Building and Real  Estate,,,,,,,,,,,,,,,,,,
+62,"ITEL Laboratories,  Inc.  (4)",Senior loan,L + 4.75,%,(5),06/2018,0,(1,0,0,,,,,,,,,
+63,"ITEL  Laboratories, Inc.*",Senior loan,L  + 4.75,%,6.00,%,06/2018,799,790,0.1,799,,,,,,,,
+64,Cargo Transport,,,,,,,,,,,,,,,,,,
+65,RP  Crown Parent (RedPrairie Corp)*,Senior loan,L  + 5.50,%,6.75,%,12/2018,1985,1952,0.3,1998,,,,,,,,
+66,"Chemicals, Plastics  and Rubber",,,,,,,,,,,,,,,,,,
+67,"Integrated DNA Technologies,  Inc.",Subordinated debt,12.00% cash/2.00% PIK,12.00% cash/2.00% PIK,04/2015,321,319,0.1,321,,,,,,,,,,
+68,"Integrated DNA Technologies,  Inc.",Subordinated debt,12.00% cash/2.00% PIK,12.00% cash/2.00% PIK,04/2015,905,887,0.1,905,,,,,,,,,,
+69,"Integrated DNA Technologies,  Inc.",Subordinated debt,12.00% cash/2.00% PIK,12.00% cash/2.00% PIK,04/2015,321,316,0,321,,,,,,,,,,
+70,"Road Infrastructure Investment,  LLC  (4)",Senior loan,L + 5.00,%,(5),03/2017,0,(30  ),0,(1,,,,,,,,,
+71,"Road  Infrastructure Investment, LLC*",Senior loan,L  + 5.00,%,6.25,%,03/2018,4515,4472,0.7,4552,,,,,,,,
+72,"Containers, Packaging  and Glass",,,,,,,,,,,,,,,,,,
+73,Fort Dearborn Company*,Senior loan,L + 4.25,%,5.86,%,10/2017,39,39,0,39,,,,,,,,
+74,Fort Dearborn Company*,Senior loan,L + 4.25,%,5.25,%,10/2017,547,543,0.1,547,,,,,,,,
+75,Fort Dearborn Company*,Senior loan,L + 4.75,%,6.37,%,10/2018,156,155,0,156,,,,,,,,
+76,Fort Dearborn Company*,Senior loan,L + 4.75,%,5.75,%,10/2018,2197,2182,0.3,2197,,,,,,,,
+77,"Packaging Coordinators,  Inc.*",Senior loan,L + 4.25,%,5.51,%,05/2020,6792,6754,1.0,6792,,,,,,,,
+78,"Packaging Coordinators,  Inc.",Second Lien,L + 8.25,%,9.50,%,11/2020,29098,28270,4.4,29098,,,,,,,,
+79,"Packaging  Coordinators, Inc.  (4)",Senior loan,L  + 4.25,%,(5),05/2020,0,0,0,0,,,,,,,,,
+80,Diversified Conglomerate  Manufacturing,,,,,,,,,,,,,,,,,,
+81,"Chase Industries, Inc.*",One Stop,L + 5.00,%,6.82,%,11/2017,13426,13249,2.0,13426,,,,,,,,
+82,"Metal Spinners, Inc.*",Senior loan,L + 6.50,%,8.00,%,12/2014,1338,1323,0.2,1338,,,,,,,,
+83,"Metal Spinners, Inc.*",Senior loan,L + 6.50,%,8.00,%,12/2014,2647,2619,0.4,2647,,,,,,,,
+84,Onicon Incorporated  (4),One Stop,L + 6.75,%,(5),12/2017,0,(13,0,0,,,,,,,,,
+85,Onicon Incorporated,One Stop,L + 6.75,%,8.31,%,12/2017,3583,3525,0.6,3583,,,,,,,,
+86,"Pasternack Enterprises,  Inc.*",Senior loan,L + 5.00,%,6.25,%,12/2017,1167,1158,0.2,1167,,,,,,,,
+87,"Plex Systems, Inc.  (4)",Senior loan,L + 7.50,%,(5),06/2018,0,(26,0,0,,,,,,,,,
+88,"Plex Systems, Inc.*",Senior loan,L + 7.50,%,8.75,%,06/2018,13670,13375,2.1,13670,,,,,,,,
+89,"Sunless Merger Sub, Inc.",Senior loan,P + 4.00,%,7.25,%,07/2016,144,144,0,111,,,,,,,,
+90,"Sunless Merger Sub, Inc.*",Senior loan,L + 5.25,%,6.51,%,07/2016,1851,1846,0.2,1388,,,,,,,,
+91,"TIDI Products, LLC  (4)",One Stop,L + 6.50,%,(5),07/2017,0,(14,0,0,,,,,,,,,
+92,"TIDI Products, LLC*",One Stop,L + 6.50,%,7.75,%,07/2018,11168,10957,1.7,11168,,,,,,,,
+93,"Vintage Parts, Inc.*",One Stop,L + 4.50,%,5.75,%,12/2015,4623,4576,0.7,4623,,,,,,,,
+94,"Vintage Parts, Inc.*",One Stop,L + 4.50,%,5.75,%,12/2015,64,64,0,64,,,,,,,,
+95,"Vintage  Parts, Inc.*",One Stop,L  + 4.50,%,5.75,%,12/2015,966,974,0.1,966,,,,,,,,
+96,Diversified Conglomerate  Service,,,,,,,,,,,,,,,,,,
+97,"Aderant North America,  Inc.*",Senior loan,L + 5.00,%,6.25,%,12/2018,4495,4458,0.7,4495,,,,,,,,
+98,Agility Recovery Solutions  Inc.  (4),One Stop,L + 7.00,%,(5),09/2018,0,(7,0,0,,,,,,,,,
+99,Agility Recovery Solutions  Inc.*,One Stop,L + 7.00,%,8.25,%,09/2018,9349,9169,1.4,9349,,,,,,,,
+100,API Healthcare Corporation*,One Stop,L + 6.25,%,9.93,%,04/2018,33722,33468,5.1,33722,,,,,,,,
+101,"Consona Holdings, Inc.  (4)",Senior loan,L + 5.50,%,(5),08/2017,0,(2,0,0,,,,,,,,,
+102,"Consona Holdings, Inc.*",Senior loan,L + 5.50,%,6.75,%,08/2018,1024,996,0.2,1024,,,,,,,,
+103,"Consona Holdings, Inc.*",Senior loan,L + 6.00,%,7.25,%,08/2018,1547,1535,0.2,1547,,,,,,,,
+104,"Document Technologies,  LLC  (4)",Senior loan,L + 4.25,%,(5),12/2018,0,(12,0,0,,,,,,,,,
+105,"Document Technologies,  LLC*",Senior loan,L + 4.25,%,5.50,%,12/2018,6690,6629,1.0,6690,,,,,,,,
+106,"EAG, INC. (Evans Analytical  Group)*",Senior loan,L + 4.50,%,6.00,%,07/2017,2425,2401,0.4,2425,,,,,,,,
+107,HighJump Acquisition LLC,One Stop,L + 7.50,%,8.75,%,07/2016,7124,7064,1.1,7124,,,,,,,,
+108,"Integration Appliance,  Inc.",Senior loan,L + 8.25,%,9.50,%,09/2018,719,709,0.1,709,,,,,,,,
+109,"Integration Appliance,  Inc.",Senior loan,L + 8.25,%,9.50,%,09/2018,5396,5268,0.8,5315,,,,,,,,
+110,"Marathon Data Operating  Co., LLC  (4)",One Stop,L + 6.25,%,(5),08/2017,0,(8,0,0,,,,,,,,,
+111,"Marathon Data Operating  Co., LLC",One Stop,L + 6.25,%,7.50,%,08/2017,4761,4674,0.7,4761,,,,,,,,
+112,MSC.Software Corporation*,One Stop,L + 6.50,%,8.51,%,11/2017,9898,9748,1.5,9898,,,,,,,,
+113,"Navex Global, Inc.  (4)",One Stop,L + 7.50,%,(5),12/2016,0,(15,0,(25,,,,,,,,,
+114,"Navex Global, Inc.*",One Stop,L + 7.50,%,9.00,%,12/2016,17643,17370,2.6,17290,,,,,,,,
+115,"NetSmart Technologies,  Inc.",One Stop,L + 6.00,%,8.77,%,12/2017,8324,8254,1.3,8324,,,,,,,,
+116,"NetSmart Technologies,  Inc.*",One Stop,L + 6.00,%,8.79,%,12/2017,650,639,0.1,650,,,,,,,,
+117,"PC Helps Support, LLC  (4)",Senior loan,L + 5.25,%,(5),09/2017,0,(2,0,0,,,,,,,,,
+118,"PC Helps Support, LLC",Senior loan,L + 5.25,%,6.52,%,09/2017,1973,1951,0.3,1973,,,,,,,,
+119,"Secure-24, LLC  (4)",One Stop,L + 7.00,%,(5),08/2017,0,(6,0,(22,,,,,,,,,
+120,"Secure-24, LLC*",One Stop,L + 7.00,%,8.25,%,08/2017,10512,10280,1.5,10092,,,,,,,,
+121,"Secure-24, LLC",One Stop,L + 7.00,%,8.25,%,08/2017,1538,1513,0.2,1476,,,,,,,,
+122,"Source Medical Solutions,  Inc.",Second Lien,L + 9.50,%,10.75,%,03/2018,9294,9114,1.4,9294,,,,,,,,
+123,"Vericlaim, Inc.  (4)",Senior loan,P + 3.50,%,(5),05/2018,0,(3,0,0,,,,,,,,,
+124,"Vericlaim,  Inc.",Senior loan,L  + 4.75,%,6.00,%,05/2018,6343,6311,1.0,6343,,,,,,,,
+125,Electronics,,,,,,,,,,,,,,,,,,
+126,"BeyondTrust Software, Inc.",One Stop,L + 6.00,%,7.25,%,12/2019,12014,11754,1.8,11840,,,,,,,,
+127,"Ecommerce Industries, Inc.*",One Stop,L + 6.75,%,9.60,%,10/2016,12345,12218,1.9,12345,,,,,,,,
+128,"Rogue Wave Holdings, Inc.*",One Stop,L + 6.50,%,7.50,%,12/2018,10885,10750,1.6,10777,,,,,,,,
+129,"Sloan Company, Inc., The  (4)",One Stop,L + 7.50,%,(5),10/2018,0,(16,0,(13,,,,,,,,,
+130,"Sloan Company, Inc., The*",One Stop,L + 7.50,%,8.75,%,10/2018,13277,13119,2.0,13144,,,,,,,,
+131,"Sparta Systems, Inc.  (4)",Senior loan,L + 5.25,%,(5),12/2017,0,(6,0,0,,,,,,,,,
+132,"Sparta Systems, Inc.",Senior loan,L + 5.25,%,6.50,%,12/2017,6359,6295,1.0,6359,,,,,,,,
+133,Syncsort Incorporated  (4),Senior loan,L + 5.50,%,(5),03/2015,0,(2,0,0,,,,,,,,,
+134,Syncsort Incorporated*,Senior loan,P + 4.25,%,7.50,%,03/2015,6271,6210,1.0,6271,,,,,,,,
+135,"Systems Maintenance Services Holding,  Inc.",Senior loan,L + 4.25,%,5.25,%,10/2019,2670,2657,0.4,2657,,,,,,,,
+136,"Taxware, LLC",Second Lien,L + 8.50,%,9.50,%,10/2019,11099,10884,1.7,11099,,,,,,,,
+137,"Watchfire Enterprises,  Inc.",Second Lien,L + 8.00,%,9.00,%,10/2021,9435,9253,1.4,9293,,,,,,,,
+138,Farming and Agriculture,,,,,,,,,,,,,,,,,,
+139,"AGData, L.P.*",One stop,L + 6.00,%,7.25,%,08/2016,3828,3792,0.6,3828,,,,,,,,
+140,Finance,,,,,,,,,,,,,,,,,,
+141,"Ascensus, Inc.*  (4)",One Stop,L + 4.00,%,(5),11/2018,0,(19,0,(5,,,,,,,,,
+142,"Ascensus, Inc.*",One Stop,L + 4.00,%,5.00,%,12/2019,4224,4141,0.6,4203,,,,,,,,
+143,"Ascensus, Inc.*",One Stop,L + 8.00,%,9.00,%,12/2020,6337,6117,1.0,6242,,,,,,,,
+144,Pillar Processing LLC*,Senior loan,L + 5.50,%,5.74,%,11/2018,1194,1191,0.1,597,,,,,,,,
+145,Pillar Processing  LLC*  (3),Senior loan,14.50,14.50,%,05/2019,2377,2369,0,0,,,,,,,,,
+146,Grocery,,,,,,,,,,,,,,,,,,
+147,"MyWebGrocer, Inc.  (4)",Senior loan,L + 4.75,%,(5),05/2018,0,(14,0,0,,,,,,,,,
+148,"MyWebGrocer, Inc.",Senior loan,L + 4.75,%,6.00% cash/4.00% PIK,05/2018,14271,14051,2.2,14271,,,,,,,,,
+149,"Teasdale Quality  Foods, Inc.*",Senior loan,L + 4.50,%,5.75,%,05/2018,2793,2768,0.4,2793,,,,,,,,
+150,"Healthcare, Education and Childcare",,,,,,,,,,,,,,,,,,
+151,"Advanced Pain Management Holdings, Inc.  (4)",Senior loan,L + 5.00,%,(5),02/2018,0,(10,0,0,,,,,,,,,
+152,"Advanced Pain Management Holdings, Inc.*",Senior loan,L + 5.00,%,6.25,%,02/2018,7345,7284,1.1,7345,,,,,,,,
+153,"Advanced Pain Management Holdings, Inc.  (4)",Senior loan,L + 5.00,%,(5),02/2018,0,(6,0,0,,,,,,,,,
+154,"Avatar International, LLC  (4)",One Stop,L + 7.50,%,(5),09/2016,0,(5,0,(64,,,,,,,,,
+155,"Avatar International, LLC*",One Stop,L + 7.50,%,8.75,%,09/2016,7603,7532,1.1,6995,,,,,,,,
+156,"Avatar International, LLC",One Stop,L + 8.00,%,9.25,%,09/2016,1640,1629,0.2,1525,,,,,,,,
+157,Certara L.P.  (4),One Stop,L + 6.25,%,(5),12/2018,0,(22,0,(22,,,,,,,,,
+158,Certara L.P.*,One Stop,L + 6.25,%,7.25,%,12/2018,17740,17520,2.7,17518,,,,,,,,
+159,DDC Center Inc.*,One Stop,L + 6.25,%,9.25,%,10/2014,7849,7844,1.2,7849,,,,,,,,
+160,DDC Center Inc.,One Stop,L + 6.25,%,(5),10/2014,0,0,0,0,,,,,,,,,
+161,Delta Educational Systems*,Senior loan,P + 4.75,%,8.00,%,12/2016,1762,1736,0.3,1762,,,,,,,,
+162,"Dialysis Newco, Inc.  (4)",Second Lien,L + 8.50,%,(5),02/2021,0,(25,0,0,,,,,,,,,
+163,"Dialysis Newco, Inc.*",Second Lien,L + 8.50,%,9.75,%,02/2021,23901,23310,3.6,23901,,,,,,,,
+164,"Dialysis Newco, Inc.",Senior loan,L + 4.25,%,5.25,%,08/2020,6330,6270,1.0,6345,,,,,,,,
+165,"Encore Rehabilitation Services, LLC  (4)",One Stop,L + 6.25,%,(5),06/2017,0,(11,0,0,,,,,,,,,
+166,"Encore Rehabilitation Services, LLC",One Stop,L + 6.25,%,7.50,%,06/2017,5066,4970,0.8,5066,,,,,,,,
+167,"G & H Wire Company, Inc.  (4)",Senior loan,L + 5.50,%,(5),11/2016,0,(8,0,0,,,,,,,,,
+168,"G & H Wire Company, Inc.*",Senior loan,L + 5.50,%,7.00,%,11/2016,8497,8403,1.3,8497,,,,,,,,
+169,"Healogics, Inc.*",Second Lien,L + 8.00,%,9.25,%,02/2020,16454,16310,2.5,16824,,,,,,,,
+170,"Hospitalists Management Group, LLC",Senior loan,P + 4.00,%,7.06,%,05/2017,837,828,0.1,764,,,,,,,,
+171,"Hospitalists Management Group, LLC",Senior loan,L + 5.00,%,6.50,%,05/2017,3694,3634,0.5,3398,,,,,,,,
+172,"Hospitalists Management Group, LLC",Senior loan,L + 5.00,%,6.51,%,05/2017,435,430,0.1,400,,,,,,,,
+173,"IntegraMed America, Inc.  (4)",One Stop,L + 7.25,%,(5),09/2017,0,(14,0,0,,,,,,,,,
+174,"IntegraMed America, Inc.*",One Stop,L + 7.25,%,8.50,%,09/2017,14420,14177,2.2,14420,,,,,,,,
+175,"Maverick Healthcare Group, LLC*",Senior loan,L + 5.50,%,7.25,%,12/2016,2019,2003,0.3,2019,,,,,,,,
+176,"NeuroTherm, Inc.",Senior loan,L + 5.00,%,6.50,%,02/2016,23,19,0,23,,,,,,,,
+177,"NeuroTherm, Inc.*",Senior loan,L + 5.00,%,6.50,%,02/2016,1298,1286,0.2,1298,,,,,,,,
+178,"Northwestern Management Services, LLC*",Senior loan,L + 5.25,%,6.50,%,10/2017,48,35,0,48,,,,,,,,
+179,"Northwestern Management Services, LLC",Senior loan,L + 5.25,%,6.50,%,10/2017,4019,3955,0.6,4019,,,,,,,,
+180,"Northwestern Management Services, LLC  (4)",Senior loan,L + 5.25,%,(5),10/2017,0,(4,0,0,,,,,,,,,
+181,"Pentec Acquisition Sub, Inc.  (4)",Senior loan,L + 5.25,%,(5),05/2017,0,(3,0,0,,,,,,,,,
+182,"Pentec Acquisition Sub, Inc.*",Senior loan,L + 5.25,%,6.50,%,05/2018,1868,1841,0.3,1868,,,,,,,,
+183,"Precision Dermatology, Inc.  (4)",One Stop,L + 6.00,%,(5),09/2018,0,(6,0,(3,,,,,,,,,
+184,"Precision Dermatology, Inc.",One Stop,L + 6.00,%,7.25,%,09/2018,10042,9947,1.5,9991,,,,,,,,
+185,"Reliant Pro ReHab, LLC",Senior loan,P + 3.75,%,7.00,%,06/2016,276,270,0,276,,,,,,,,
+186,"Reliant Pro ReHab, LLC*",Senior loan,L + 4.75,%,6.00,%,06/2016,3361,3332,0.5,3361,,,,,,,,
+187,"Reliant Pro ReHab, LLC",Senior loan,L + 4.75,%,6.00,%,06/2016,932,927,0.1,932,,,,,,,,
+188,Renaissance Pharma (U.S.) Holdings Inc.  (4),Senior loan,L + 5.25,%,(5),05/2018,0,(4,0,0,,,,,,,,,
+189,Renaissance Pharma (U.S.) Holdings Inc.*,Senior loan,L + 5.25,%,6.75,%,05/2018,4435,4382,0.7,4435,,,,,,,,
+190,Southern Anesthesia and Surgical  (4),One Stop,L + 7.00,%,(5),11/2017,0,(12,0,0,,,,,,,,,
+191,Southern Anesthesia and Surgical,One Stop,L + 7.00,%,8.25,%,11/2017,6186,6067,0.9,6186,,,,,,,,
+192,"Surgical Information Systems, LLC",Senior loan,L + 3.00,%,4.01,%,09/2018,1704,1704,0.3,1704,,,,,,,,
+193,"WIL Research Company, Inc.*",Senior loan,L + 4.50,%,5.75,%,02/2018,782,774,0.1,770,,,,,,,,
+194,"Young Innovations, Inc.  (4)",Senior loan,L + 4.50,%,(5),01/2018,0,(2,0,0,,,,,,,,,
+195,"Young Innovations,  Inc.",Senior loan,L + 4.50,%,5.75,%,01/2019,4393,4365,0.7,4393,,,,,,,,
+196,"Home and Office Furnishings,",,,,,,,,,,,,,,,,,,
+197,"Housewares, and Durable Consumer",,,,,,,,,,,,,,,,,,
+198,"Plano Molding Company, LLC",Senior loan,L + 4.25,%,5.25,%,10/2018,2022,2007,0.3,2007,,,,,,,,
+199,"WII Components, Inc.*",Senior loan,L + 4.75,%,6.25,%,07/2016,1616,1604,0.2,1616,,,,,,,,
+200,"WII Components, Inc.",Senior loan,P + 3.75,%,7.00,%,07/2016,7,6,0,7,,,,,,,,
+201,Zenith Products Corporation,One Stop,P + 1.75,%,5.00,%,09/2013,29,29,0,19,,,,,,,,
+202,Zenith Products Corporation*,One Stop,P + 3.50,%,6.75,%,09/2013,3684,3684,0.4,2395,,,,,,,,
+203,Insurance,,,,,,,,,,,,,,,,,,
+204,"AssuredPartners Capital, Inc.*",Senior loan,L + 4.50,%,5.75,%,12/2018,2371,2353,0.4,2371,,,,,,,,
+205,"AssuredPartners Capital, Inc.",Senior loan,L + 4.75,%,6.00,%,06/2019,172,168,0,172,,,,,,,,
+206,"AssuredPartners Capital, Inc.  (4)",Senior loan,L + 4.75,%,(5),12/2019,0,(21,0,0,,,,,,,,,
+207,"Captive Resources Midco, LLC  (4)",Senior loan,L + 5.50,%,(5),10/2017,0,(3,0,0,,,,,,,,,
+208,"Captive Resources Midco, LLC*",Senior loan,P + 4.50,%,7.75,%,10/2018,3543,3515,0.5,3543,,,,,,,,
+209,"Evolution1, Inc.*",Senior loan,L + 4.75,%,6.25,%,06/2016,4549,4515,0.7,4549,,,,,,,,
+210,"Evolution1, Inc.",Senior loan,P + 3.75,%,7.00,%,06/2016,56,53,0,56,,,,,,,,
+211,Investment Funds and Vehicles,,,,,,,,,,,,,,,,,,
+212,Senior Loan Fund  LLC  (7),Investment in SLF,L + 4.00,%,4.18,%,05/2020,28356,28356,4.2,27871,,,,,,,,
+213,"Leisure, Amusement, Motion Pictures  and Entertainment",,,,,,,,,,,,,,,,,,
+214,"Competitor Group, Inc.",One Stop,P + 6.75,%,9.76,%,11/2018,884,871,0.1,743,,,,,,,,
+215,"Competitor Group, Inc.*",One Stop,L + 7.75,%,9.00% cash/1.00% PIK,11/2018,12807,12624,1.7,11526,,,,,,,,,
+216,"Octane Fitness, LLC  (4)",One Stop,L + 5.25,%,(5),10/2018,0,(4,0,(4,,,,,,,,,
+217,"Octane Fitness, LLC",One Stop,L + 5.25,%,6.50,%,10/2018,8220,8181,1.2,8179,,,,,,,,
+218,"Pride Manufacturing Company, LLC*",Senior loan,L + 6.00,%,7.75,%,11/2015,571,566,0.1,571,,,,,,,,
+219,"Service Companies, The",Senior loan,L + 6.50,%,(5),03/2014,0,0,0,0,,,,,,,,,
+220,"Service Companies, The*",Senior loan,L + 6.50,%,9.00,%,03/2014,6290,6282,1.0,6290,,,,,,,,
+221,"Starplex Operating, L.L.C.",One Stop,L + 7.50,%,9.00,%,12/2017,1077,1061,0.2,1077,,,,,,,,
+222,"Starplex Operating, L.L.C.*",One Stop,L + 7.50,%,9.00,%,12/2017,17388,17143,2.6,17388,,,,,,,,
+223,"Titan Fitness, LLC  (4)",One Stop,L + 6.50,%,(5),09/2019,0,(25,0,(17,,,,,,,,,
+224,"Titan Fitness, LLC*",One Stop,L + 6.50,%,7.75,%,09/2019,13706,13401,2.1,13569,,,,,,,,
+225,"Titan Fitness, LLC  (4)",One Stop,L + 6.50,%,(5),09/2019,0,(25,0,(17,,,,,,,,,
+226,"Mining, Steel, Iron and Non-Precious  Metals",,,,,,,,,,,,,,,,,,
+227,"Benetech, Inc.*",One Stop,P + 4.75,%,8.00,%,10/2017,201,196,0,201,,,,,,,,
+228,"Benetech, Inc.*",One Stop,L + 6.00,%,7.25,%,10/2017,5434,5413,0.8,5434,,,,,,,,
+229,Oil and Gas,,,,,,,,,,,,,,,,,,
+230,"Drilling Info, Inc.  (4), (8)",One Stop,L + 5.00,%,(5),06/2018,0,(5,0,0,,,,,,,,,
+231,"Drilling Info, Inc.  (4), (8)",One Stop,L + 5.00,%,6.00,%,06/2018,408,404,0.1,408,,,,,,,,
+232,"Drilling Info, Inc.  (4),  (8)",One Stop,L + 5.00,%,6.00,%,06/2018,952,943,0.1,952,,,,,,,,
+233,Personal and Non-Durable Consumer  Products,,,,,,,,,,,,,,,,,,
+234,"Hygenic Corporation, The  (4)",Senior loan,L + 4.50,%,(5),10/2017,0,(3,0,0,,,,,,,,,
+235,"Hygenic Corporation, The*",Senior loan,L + 4.50,%,5.75,%,10/2018,3455,3417,0.5,3455,,,,,,,,
+236,"Massage Envy, LLC  (4)",One Stop,L + 7.25,%,(5),09/2018,0,(15,0,0,,,,,,,,,
+237,"Massage Envy, LLC",One Stop,L + 7.25,%,8.50,%,09/2018,16527,16203,2.5,16527,,,,,,,,
+238,Rug Doctor LLC,Senior loan,P + 4.25,%,7.50,%,12/2016,217,205,0,204,,,,,,,,
+239,Rug Doctor LLC*,Senior loan,L + 5.25,%,6.25,%,12/2016,5574,5519,0.9,5519,,,,,,,,
+240,Team Technologies Acquisition Company  (4),Senior loan,L + 4.75,%,(5),12/2017,0,(3,0,0,,,,,,,,,
+241,Team Technologies Acquisition Company,Senior loan,L + 4.75,%,6.00,%,12/2017,3510,3483,0.5,3510,,,,,,,,
+242,"Personal, Food and Miscellaneous  Services",,,,,,,,,,,,,,,,,,
+243,Affordable Care Inc.  (4),Senior loan,L + 4.75,%,(5),12/2017,0,(2,0,0,,,,,,,,,
+244,Affordable Care Inc.,Senior loan,L + 4.75,%,6.00,%,12/2018,3532,3503,0.6,3532,,,,,,,,
+245,El Pollo Loco Inc,Senior loan,L + 4.25,%,5.25,%,10/2018,5188,5138,0.8,5201,,,,,,,,
+246,Focus Brands Inc.,Second Lien,L + 9.00,%,10.25,%,08/2018,11195,11072,1.7,11446,,,,,,,,
+247,"National Veterinary Associates, Inc.  (4)",Senior loan,L + 5.00,%,(5),12/2017,0,(1,0,0,,,,,,,,,
+248,"National Veterinary Associates, Inc.",Senior loan,L + 5.00,%,6.25,%,12/2017,6006,5965,0.9,6006,,,,,,,,
+249,"National Veterinary Associates, Inc.",Senior loan,L + 5.00,%,6.25,%,12/2017,1433,1421,0.2,1433,,,,,,,,
+250,"PMI Holdings, Inc.  (4)",One Stop,L + 5.75,%,(5),10/2018,0,(10,0,(10,,,,,,,,,
+251,"PMI Holdings, Inc.*",One Stop,L + 5.75,%,6.75,%,10/2018,33326,33166,5.0,33160,,,,,,,,
+252,Vetcor Merger Sub LLC,One Stop,L + 6.50,%,7.75,%,12/2017,199,192,0,199,,,,,,,,
+253,Vetcor Merger Sub LLC,One Stop,L + 6.50,%,7.75,%,12/2017,5914,5862,0.9,5914,,,,,,,,
+254,Vetcor Merger Sub  LLC*,One Stop,L + 6.50,%,7.75,%,12/2017,1343,1323,0.2,1343,,,,,,,,
+255,Printing and Publishing,,,,,,,,,,,,,,,,,,
+256,"Market Track, LLC  (4)",One Stop,L + 6.00,%,(5),10/2019,0,(21,0,(22,,,,,,,,,
+257,"Market Track, LLC*",One Stop,L + 6.00,%,7.25,%,10/2019,29492,29206,4.4,29197,,,,,,,,
+258,"Market Track, LLC  (4)",One Stop,L + 6.00,%,(5),10/2019,0,(20,0,(22,,,,,,,,,
+259,Retail Stores,,,,,,,,,,,,,,,,,,
+260,"Benihana, Inc.  (4)",One Stop,P + 4.25,%,(5),07/2018,0,(40,0,0,,,,,,,,,
+261,"Benihana, Inc.*",One Stop,L + 5.50,%,6.75,%,01/2019,14071,13665,2.1,14071,,,,,,,,
+262,"Boot Barn, Inc.*",One Stop,L + 5.75,%,7,%,05/2019,24614,24282,3.7,24614,,,,,,,,
+263,"Capital Vision Services, LLC",One Stop,L + 7.25,%,8.5,%,12/2017,323,312,0.1,323,,,,,,,,
+264,"Capital Vision Services, LLC*",One Stop,L + 7.25,%,8.5,%,12/2017,13324,13168,2.0,13324,,,,,,,,
+265,"Capital Vision Services, LLC",One Stop,L + 7.25,%,8.5,%,12/2017,1244,1230,0.2,1244,,,,,,,,
+266,"DTLR, Inc.*",One Stop,L + 8.00,%,11,%,12/2015,16541,16426,2.5,16541,,,,,,,,
+267,"Express Oil Change, LLC",Senior loan,L + 4.75,%,6.35,%,12/2017,94,91,0,94,,,,,,,,
+268,"Express Oil Change, LLC*",Senior loan,P + 3.50,%,6.75,%,12/2017,1795,1780,0.3,1795,,,,,,,,
+269,"Express Oil Change, LLC",Senior loan,P + 3.50,%,6.75,%,12/2017,115,111,0,115,,,,,,,,
+270,"Floor & Decor Outlets of America, Inc.*",One Stop,L + 6.50,%,7.75,%,05/2019,11330,11204,1.7,11330,,,,,,,,
+271,"Marshall Retail Group, LLC, The  (4)",Senior loan,L + 6.50,%,(5),10/2016,0,(11,0,0,,,,,,,,,
+272,"Marshall Retail Group, LLC, The*",Senior loan,L + 6.50,%,8,%,10/2016,9365,9251,1.4,9365,,,,,,,,
+273,"Paper Source, Inc.",One Stop,P + 5.00,%,(5),09/2018,0,(12,0,(6,,,,,,,,,
+274,"Paper Source, Inc.*",One Stop,L + 6.25,%,7.25,%,09/2018,12672,12553,1.9,12607,,,,,,,,
+275,"Restaurant Holding Company, LLC",Senior loan,L + 7.50,%,9,%,02/2017,9230,9114,1.3,8630,,,,,,,,
+276,"Rubio's Restaurants, Inc*",Senior loan,L + 4.75,%,6,%,11/2018,9447,9439,1.4,9447,,,,,,,,
+277,"Sneaker Villa, Inc.",One Stop,P + 7.00,%,11.5,%,12/2017,1190,1175,0.2,1190,,,,,,,,
+278,"Sneaker Villa, Inc.",One Stop,L + 8.50,%,10,%,12/2017,4520,4430,0.7,4520,,,,,,,,
+279,"Sneaker Villa, Inc.",One Stop,L + 8.50,%,10,%,12/2017,627,619,0.1,627,,,,,,,,
+280,Specialty Catalog Corp.  (4),One Stop,L + 6.00,%,(5),07/2017,0,(6,0,0,,,,,,,,,
+281,Specialty Catalog Corp.,One Stop,L + 6.00,%,7.5,%,07/2017,4961,4914,0.8,4961,,,,,,,,
+282,Vision Source L.P.  (4),One Stop,L + 5.00,%,(5),04/2016,0,(9,0,0,,,,,,,,,
+283,Vision Source L.P.*,One Stop,L + 5.00,%,6,%,04/2016,19574,19425,3.0,19574,,,,,,,,
+284,Telecommunications,,,,,,,,,,,,,,,,,,
+285,"Arise Virtual Solutions, Inc.  (4)",One Stop,L + 6.00,%,(5),12/2018,0,(13,0,(13,,,,,,,,,
+286,"Arise Virtual Solutions, Inc.*",One Stop,L + 6.00,%,7.25,%,12/2018,14134,13993,2.1,13993,,,,,,,,
+287,Hosting.com Inc.,Senior loan,P + 3.25,%,6.5,%,10/2016,14,12,0,14,,,,,,,,
+288,Hosting.com Inc.*,Senior loan,L + 4.50,%,5.75,%,10/2016,801,793,0.1,801,,,,,,,,
+289,"ITC Global, Inc.  (4)",One Stop,P + 5.50,%,(5),07/2018,10,(4,0,10,,,,,,,,,
+290,"ITC Global, Inc.",One Stop,L + 6.75,%,7.75,%,07/2018,8540,8454,1.3,8540,,,,,,,,
+291,"NameMedia, Inc.",Senior loan,L + 6.00,%,(5),11/2014,0,0,0,0,,,,,,,,,
+292,Utilities,,,,,,,,,,,,,,,,,,
+293,"PowerPlan Consultants, Inc.  (4)",Senior loan,L + 4.25,%,(5),10/2018,0,(2,0,(1,,,,,,,,,
+294,"PowerPlan Consultants, Inc.*",Senior loan,L + 4.25,%,5.25,%,10/2019,4207,4152,0.6,4165,,,,,,,,
+295,Total debt investments United States,1148454,1148454,1148454,1132963,172.3,1137314,,,,,,,,,,,,
+296,Equity investments,,,,,,,,,,,,,,,,,,
+297,Aerospace and Defense,,,,,,,,,,,,,,,,,,
+298,NTS Technical Systems,Common stock,1,1,1,1352,0.2,1352,,,,,,,,,,,
+299,"Tresys Technology Holdings, Inc.",Common stock,295,295,295,295,0,70,,,,,,,,,,,
+300,Whitcraft LLC,Common stock,1,1,1,670,0.1,489,,,,,,,,,,,
+301,Whitcraft LLC,Warrant,0,0,0,0,0,95,,,,,,,,,,,
+302,Automobile,,,,,,,,,,,,,,,,,,
+303,"ABRA, Inc",LLC interest,208,208,208,352,0.3,2176,,,,,,,,,,,
+304,"K&N Engineering, Inc.",Common stock,0,0,0,4,0,78,,,,,,,,,,,
+305,"K&N Engineering, Inc.",Preferred stock A,0,0,0,26,0,38,,,,,,,,,,,
+306,"K&N Engineering, Inc.",Preferred stock B,0,0,0,0,0,10,,,,,,,,,,,
+307,"Beverage, Food and Tobacco",,,,,,,,,,,,,,,,,,
+308,"Atkins Nutritionals, Inc.",LLC interest,57,57,57,746,0.1,824,,,,,,,,,,,
+309,"First Watch Restaurants, Inc.",Common stock,7,7,7,691,0.1,691,,,,,,,,,,,
+310,"Goode Seed Co-Invest, LLC",LLC units,356,356,356,356,0.1,411,,,,,,,,,,,
+311,Julio & Sons Company,LLC interest,521,521,521,521,0.1,504,,,,,,,,,,,
+312,"Northern Brewer, LLC",LLC interest,142,142,142,315,0,218,,,,,,,,,,,
+313,"Richelieu Foods, Inc.",LP interest,220,220,220,220,0,111,,,,,,,,,,,
+314,"Containers, Packaging and  Glass",,,,,,,,,,,,,,,,,,
+315,"Packaging Coordinators,  Inc.",LLC interest,48,48,48,2476,0.6,4007,,,,,,,,,,,
+316,Diversified Conglomerate  Manufacturing,,,,,,,,,,,,,,,,,,
+317,"Oasis Outsourcing Holdings, Inc.",LLC interest,1088,1088,1088,1088,0.3,1797,,,,,,,,,,,
+318,"Sunless Merger Sub, Inc.",LP interest,0,0,0,160,0,4,,,,,,,,,,,
+319,"TIDI Products, LLC",LLC interest,315,315,315,158,0,235,,,,,,,,,,,
+320,Diversified Conglomerate  Service,,,,,,,,,,,,,,,,,,
+321,"Document Technologies, LLC",LLC interest,24,24,24,490,0.1,624,,,,,,,,,,,
+322,"Marathon Data Operating Co., LLC",Common stock,1,1,1,264,0.1,293,,,,,,,,,,,
+323,"Marathon Data Operating Co., LLC",Preferred stock,1,1,1,264,0,218,,,,,,,,,,,
+324,"Navex Global, Inc.",LP interest,0,0,0,666,0.1,511,,,,,,,,,,,
+325,"PC Helps Support, LLC",Common stock,1,1,1,7,0,7,,,,,,,,,,,
+326,"PC Helps Support, LLC",Preferred stock,0,0,0,61,0,61,,,,,,,,,,,
+327,"Secure-24, LLC",LLC Units,263,263,263,263,0,141,,,,,,,,,,,
+328,Grocery,,,,,,,,,,,,,,,,,,
+329,"MyWebGrocer, Inc.",LLC units,1269,1269,1269,1269,0.2,1269,,,,,,,,,,,
+330,"Healthcare, Education and  Childcare",,,,,,,,,,,,,,,,,,
+331,"Advanced Pain Management Holdings, Inc.",Common stock,67,67,67,67,0.1,743,,,,,,,,,,,
+332,"Advanced Pain Management Holdings, Inc.",Preferred stock,8,8,8,829,0.1,886,,,,,,,,,,,
+333,"Avatar International, LLC",LP interest,1,1,1,695,0,183,,,,,,,,,,,
+334,Certara L.P.,LP interest,0,0,0,541,0.1,541,,,,,,,,,,,
+335,"Dialysis Newco, Inc.",LLC interest,871,871,871,89,0.2,1274,,,,,,,,,,,
+336,"Encore Rehabilitation Services, LLC",LLC interest,270,270,270,270,0.1,349,,,,,,,,,,,
+337,"G & H Wire Company, Inc.",LP interest,0,0,0,102,0,118,,,,,,,,,,,
+338,"Healogics, Inc.",Preferred stock,695,695,695,799,0.2,1057,,,,,,,,,,,
+339,"Hospitalists Management Group, LLC",Common stock,0,0,0,38,0,10,,,,,,,,,,,
+340,"IntegraMed America, Inc.",Common stock,1,1,1,514,0.1,676,,,,,,,,,,,
+341,"NeuroTherm, Inc.",Common stock,1,1,1,569,0.1,876,,,,,,,,,,,
+342,"Northwestern Management Services, LLC",LLC units,3,3,3,3,0,36,,,,,,,,,,,
+343,"Northwestern Management Services, LLC",LLC units,0,0,0,249,0.1,274,,,,,,,,,,,
+344,"Pentec Acquisition Sub, Inc.",Preferred stock,1,1,1,116,0,87,,,,,,,,,,,
+345,"Reliant Pro ReHab, LLC",Preferred stock,2,2,2,264,0.1,312,,,,,,,,,,,
+346,Southern Anesthesia and Surgical,LLC units,487,487,487,487,0.1,603,,,,,,,,,,,
+347,"Surgical Information Systems, LLC",Common stock,4,4,4,414,0.1,495,,,,,,,,,,,
+348,"Young Innovations, Inc.",Preferred stock,0,0,0,236,0.1,269,,,,,,,,,,,
+349,"Home  and Office Furnishings, Housewares, and Durable Consumer",,,,,,,,,,,,,,,,,,
+350,"Top Knobs USA, Inc.",Common stock,3,3,3,35,0,87,,,,,,,,,,,
+351,Insurance,,,,,,,,,,,,,,,,,,
+352,"Captive Resources Midco,  LLC",LLC units,1,1,1,121,0,135,,,,,,,,,,,
+353,Investment  Funds and Vehicles,,,,,,,,,,,,,,,,,,
+354,Senior Loan Fund LLC  (7),LLC interest,4051,4051,4051,4051,0.7,4879,,,,,,,,,,,
+355,"Leisure,  Amusement, Motion Pictures and Entertainment",,,,,,,,,,,,,,,,,,
+356,"Competitor Group, Inc.",LLC interest,708,708,708,712,0,150,,,,,,,,,,,
+357,"LMP TR Holdings, LLC",LLC units,712,712,712,712,0.1,712,,,,,,,,,,,
+358,"Titan Fitness, LLC",LLC units,6,6,6,583,0.1,583,,,,,,,,,,,
+359,Personal  and Non-Durable Consumer Products,,,,,,,,,,,,,,,,,,
+360,"Hygenic Corporation, The",LP interest,1,1,1,61,0,74,,,,,,,,,,,
+361,"Massage Envy, LLC",LLC interest,749,749,749,749,0.1,749,,,,,,,,,,,
+362,Team Technologies Acquisition  Company,Common stock,0,0,0,148,0,168,,,,,,,,,,,
+363,Personal Transportation,,,,,,,,,,,,,,,,,,
+364,PODS Funding Corp. II,Warrant,271,271,271,0,0.1,687,,,,,,,,,,,
+365,Printing and Publishing,,,,,,,,,,,,,,,,,,
+366,"Market Track, LLC",Preferred stock,0,0,0,145,0,166,,,,,,,,,,,
+367,"Market Track, LLC",Common stock,1,1,1,145,0.1,174,,,,,,,,,,,
+368,Retail Stores,,,,,,,,,,,,,,,,,,
+369,"Barcelona Restaurants, LLC  (6)",LP interest,1996,1996,1996,1996,0.4,2879,,,,,,,,,,,
+370,"Benihana, Inc.",LLC interest,43,43,43,699,0.1,830,,,,,,,,,,,
+371,"Capital Vision Services, LLC",LLC interest,402,402,402,402,0.1,562,,,,,,,,,,,
+372,"Express Oil Change, LLC",LLC interest,81,81,81,81,0,66,,,,,,,,,,,
+373,"Paper Source, Inc.",LLC interest,8,8,8,1387,0.2,1387,,,,,,,,,,,
+374,"Rubio's Restaurants, Inc.",Preferred stock,199,199,199,945,0.2,1442,,,,,,,,,,,
+375,"Sneaker Villa, Inc.",LLC interest,4,4,4,411,0.1,509,,,,,,,,,,,
+376,Vision Source L.P.,Common stock,9,9,9,936,0.2,1032,,,,,,,,,,,
+377,Telecommunications,,,,,,,,,,,,,,,,,,
+378,"ITC Global, Inc.",Preferred stock,17,17,17,311,0.1,311,,,,,,,,,,,
+379,Total  equity investments United States,33626,33626,33626,33626,6.5,42605,,,,,,,,,,,,
+380,Total  United States,1166589,1166589,1166589,1166589,178.8,1179919,,,,,,,,,,,,
+381,Total  Investments,1166589,1166589,1166589,1166589,178.8,1179919,,,,,,,,,,,,
