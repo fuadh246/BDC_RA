@@ -9,7 +9,7 @@ from openpyxl import Workbook
 from datetime import datetime
 import webbrowser
 import os
-
+ 
 
 def parse_and_trim(content, content_type):
     if content_type == 'HTML':
