@@ -1,5 +1,6 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
 <<<<<<< HEAD
+<<<<<<< HEAD
 0,,,,,Spread,,,,,,,,,,,,,,Percentage,,,,,,,,
 1,,,Investment,,Above,,Interest,,Maturity,,"Principal / Par  ($),",,,Amortized,,,of,,,Fair,,,,,,,
 2,,,Type,,Index  (1),,Rate  (2),,Date,,Shares/Units  (3),,,Cost,,,Net  Assets,,,Value,,,,,,,
@@ -644,6 +645,8 @@
 641,(12),,"As defined in the 1940 Act, the Company is deemed to be an ""Affiliated Person"" of the company as the Company along with affiliated entities owns five percent or more of the portfolio company's securities.",,,,,,,,,,,,,,,,,,,,,,,,
 642,(13),,"As defined in the 1940 Act, the Company is deemed to be both an ""Affiliated Person"" of and ""Control"" this portfolio company as the Company owns more than 25 of the portfolio company's outstanding voting securities or has the power to exercise control over management or policies of such portfolio company (including through a management agreement). See Note 5 in the accompanying notes to the consolidated financial statements for transactions during the three months ended June 30, 2016 in which the issuer was both an Affiliated Person and a portfolio company that the Company is deemed to Control.",,,,,,,,,,,,,,,,,,,,,,,,
 =======
+=======
+>>>>>>> 9e06f79 (sep17)
 0,,,,,Spread,,,,,,,,,,,,,Percentage,,,,,,,,,
 1,,,Investment,,Above,,Interest,,Maturity,,"Principal / Par ($),",,,Amortized,,,of,,,Fair,,,,,,,
 2,,,Type,,Index  (1),,Rate  (2),,Date,,Shares/Units  (3),,,Cost,,,Net Assets,,,Value,,,,,,,
@@ -1208,4 +1211,7 @@
 561,(11),,Ownership of certain equity investments may occur through a holding company or partnership.,,,,,,,,,,,,,,,,,,,,,,,,
 562,(12),,"As defined in the 1940 Act, the Company is deemed to be an ""Affiliated Person"" of the company as the Company along with affiliated entities owns five percent or more of the portfolio company's securities.",,,,,,,,,,,,,,,,,,,,,,,,
 563,(13),,"As defined in the 1940 Act, the Company is deemed to be both an ""Affiliated Person"" of and ""Control"" this portfolio company as the Company owns more than 25 of the portfolio company's outstanding voting securities or has the power to exercise control over management or policies of such portfolio company (including through a management agreement). See Note 5 in the accompanying notes to the consolidated financial statements for transactions during the three months ended June 30, 2016 in which the issuer was both an Affiliated Person and a portfolio company that the Company is deemed to Control.",,,,,,,,,,,,,,,,,,,,,,,,
+<<<<<<< HEAD
+>>>>>>> 9e06f79 (sep17)
+=======
 >>>>>>> 9e06f79 (sep17)

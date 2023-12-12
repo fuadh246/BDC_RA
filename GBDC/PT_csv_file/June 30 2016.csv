@@ -1,5 +1,6 @@
 ,Industry,Company,Investment Type,Spread Above Index,Interest Rate,Maturity Date,Principal Shares,Amortized Cost,Percentage of Net Assets,Fair Value
 <<<<<<< HEAD
+<<<<<<< HEAD
 0,Investments,Investments,,,,,,,,
 1,Non-controlled/non-affiliate  company investments,Non-controlled/non-affiliate  company investments,,,,,,,,
 2,Debt  investments,Debt  investments,,,,,,,,
@@ -543,6 +544,8 @@
 540,Investment Funds and Vehicles,Investment Funds and Vehicles,Subordinated debt,,,,,,,
 541,Investment Funds and Vehicles,Senior Loan Fund LLC  (7),LLC interest,No Value,No Value,No Value,31339.0,31339.0,3.6,29772.0
 =======
+=======
+>>>>>>> 9e06f79 (sep17)
 0,No value,"Tate's Bake Shop, Inc.  #",Senior loan,L + 5.00,6.00,08/2019,599.0,594.0,0.1,599.0
 1,No value,Uinta Brewing Company,One stop,L + 7.00,8.00,08/2019,308.0,305.0,0.0,291.0
 2,No value,Uinta Brewing Company^,One stop,L + 7.00,8.00,08/2019,3734.0,3711.0,0.5,3586.0
@@ -1012,4 +1015,7 @@
 466,Equity investments,Equity investments,Subordinated debt,,,,,,,
 467,Investment Funds and Vehicles,Investment Funds and Vehicles,Subordinated debt,,,,,,,
 468,Investment Funds and Vehicles,Senior Loan Fund LLC  (7),LLC interest,No Value,No Value,No Value,31339.0,31339.0,3.6,29772.0
+<<<<<<< HEAD
+>>>>>>> 9e06f79 (sep17)
+=======
 >>>>>>> 9e06f79 (sep17)

@@ -3,6 +3,7 @@
 1,,,Investment,,Above,,Interest,,,Maturity,,Principal / Par,,,,,,of,,,Fair,,,,,,
 2,,,Type,,Index  (1),,Rate  (2),,,Date,,Amount,,,Cost,,,Net  Assets,,,Value,,,,,,
 <<<<<<< HEAD
+<<<<<<< HEAD
 3,Investments,,,,,,,,,,,,,,,,,,,,,,,,,,
 4,Canada,,,,,,,,,,,,,,,,,,,,,,,,,,
 5,Debt  investments,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -569,6 +570,8 @@
 566,"Total  Cash, Restricted Cash and Cash Equivalents",,,,,,,101070,,,,12.4,,,,101070,,,,,,,,,,,
 567,"Total  Investments and Cash, Restricted Cash and Cash Equivalents",,,,,,,1616400,,,,199.6,,,,1629532,,,,,,,,,,,
 =======
+=======
+>>>>>>> 9e06f79 (sep17)
 3,"Hopdoddy  Holdings, LLC  (4)",,One stop,,L + 8.00,,,No Value,(5),,08/2020,,,-,,,,(3,,,,-,,,,-,
 4,"Hopdoddy  Holdings, LLC",,One stop,,L + 8.00,,,No Value,(5),,08/2020,,,-,,,,-,,,,-,,,,-,
 5,"Hopdoddy  Holdings, LLC",,One stop,,L + 8.00,,,9.00,,,08/2020,,,666,,,,654,,,,0.1,,,,666,
@@ -1071,4 +1074,7 @@
 502,US  Bank Money Market Account (CUSIP 9AMMF05B2),,,,,,,31268,,,,3.8,,,,31268,,,,,,,,,,,
 503,"Total  Cash, Restricted Cash and Cash Equivalents",,,,,,,101070,,,,12.4,,,,101070,,,,,,,,,,,
 504,"Total  Investments and Cash, Restricted Cash and Cash Equivalents",,,,,,,1616400,,,,199.6,,,,1629532,,,,,,,,,,,
+<<<<<<< HEAD
+>>>>>>> 9e06f79 (sep17)
+=======
 >>>>>>> 9e06f79 (sep17)

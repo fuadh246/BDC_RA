@@ -107,6 +107,10 @@ def extract_tables(soup_content, qtr_date):
                     master_table = pd.concat(
                         [master_table, new_table], ignore_index=True)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            # print(master_table)
+>>>>>>> 9e06f79 (sep17)
 =======
             # print(master_table)
 >>>>>>> 9e06f79 (sep17)
@@ -213,8 +217,13 @@ def process_table_function(soi_table_df):
                 if str(row[column])[-1] == "+":
                     if (next_column_index < len(soi_table_df.columns)
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 and not pd.isna(row[soi_table_df.columns[next_column_index]])
                             ):
+=======
+                            and not pd.isna(row[soi_table_df.columns[next_column_index]])
+                        ):
+>>>>>>> 9e06f79 (sep17)
 =======
                             and not pd.isna(row[soi_table_df.columns[next_column_index]])
                         ):
@@ -327,8 +336,13 @@ def test_file(date, filing_links):
     master_table = extract_tables(get_content(
         get_response(url=url, headers=header)), qtr_date=date)
 <<<<<<< HEAD
+<<<<<<< HEAD
     # processed_table = process_table_function(master_table)
     return master_table
+=======
+    processed_table = process_table_function(master_table)
+    return processed_table
+>>>>>>> 9e06f79 (sep17)
 =======
     processed_table = process_table_function(master_table)
     return processed_table
@@ -365,6 +379,7 @@ def main() -> None:
     filing_links = process_filingLinks(
         get_filingLinks(path=filling_links_path))
 <<<<<<< HEAD
+<<<<<<< HEAD
     # test = test_file("September 30, 2017", filing_links=filing_links)
     # print(test)
     # run_all(path='../process_tables_GBDC_Investment.xlsx',
@@ -377,10 +392,15 @@ def main() -> None:
     mt = pd.read_excel('September 30 2017.xlsx')
     pt.to_excel("p_September.xlsx")
 =======
+=======
+>>>>>>> 9e06f79 (sep17)
     test = test_file("December 31, 2015", filing_links=filing_links)
     print(test)
     run_all(path='../process_tables_GBDC_Investment.xlsx',
             filing_links=filing_links)
+<<<<<<< HEAD
+>>>>>>> 9e06f79 (sep17)
+=======
 >>>>>>> 9e06f79 (sep17)
 
 
