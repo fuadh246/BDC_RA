@@ -1,0 +1,433 @@
+,Industry,Company,Investment Type,Spread Above Index,Interest Rate,Maturity Date,Principal Shares,Amortized Cost,Percentage of Net Assets,Fair Value
+0,Investments,Investments,,,,,,,,
+1,United States,United States,,,,,,,,
+2,Debt investments,Debt investments,,,,,,,,
+3,Aerospace and Defense,Aerospace and Defense,,,,,,,,
+4,Aerospace and Defense,"ILC Dover, LP",One stop,P + 4.50,7.75,03/2019,360.0,352.0,0.1,360.0
+5,Aerospace and Defense,"ILC Dover, LPˆ",One stop,L + 5.50,6.50,03/2020,18594.0,18467.0,2.5,18594.0
+6,Aerospace and Defense,"ILC Industries, Inc.  (3)",One stop,L + 4.75,(4),07/2020,0.0,,0.0,
+7,Aerospace and Defense,"ILC Industries, Inc.*ˆ",One stop,L + 4.75,5.75,07/2020,28510.0,28234.0,3.9,28296.0
+8,Aerospace and Defense,Novetta Solutions LLC,Senior loan,P + 3.00,6.25,03/2017,184.0,178.0,0.0,184.0
+9,Aerospace and Defense,Novetta Solutions LLC*,Senior loan,L + 5.00,6.25,03/2017,1697.0,1673.0,0.2,1697.0
+10,Aerospace and Defense,NTS Technical Systems  (3),One stop,L + 6.00,(4),11/2018,0.0,,0.0,0.0
+11,Aerospace and Defense,NTS Technical Systems*ˆ,One stop,L + 6.00,7.25,11/2018,18871.0,18572.0,2.6,18871.0
+12,Aerospace and Defense,NTS Technical Systems  (3),One stop,L + 6.00,(4),11/2018,0.0,,0.0,0.0
+13,Aerospace and Defense,"Tresys Technology Holdings, Inc.",One stop,L + 6.75,8.00,12/2017,188.0,181.0,0.0,188.0
+14,Aerospace and Defense,"Tresys Technology Holdings, Inc.",One stop,L + 6.75,8.00,12/2017,3899.0,3836.0,0.3,2339.0
+15,Aerospace and Defense,Whitcraft LLC,Subordinated debt,No Value,12.00,12/2018,1877.0,1857.0,0.3,1877.0
+16,Automobile,Automobile,Subordinated debt,,,,,,,
+17,Automobile,"American Driveline Systems, Inc.",Senior loan,L + 5.50,7.22,01/2016,331.0,328.0,0.0,292.0
+18,Automobile,"American Driveline Systems, Inc.*",Senior loan,L + 5.50,7.00,01/2016,2797.0,2774.0,0.3,2517.0
+19,Automobile,"K&N Engineering, Inc.  (3)",Senior loan,L + 4.25,(4),07/2019,0.0,,0.0,
+20,Automobile,"K&N Engineering, Inc.*ˆ",Senior loan,L + 4.25,5.25,07/2019,6816.0,6721.0,0.9,6782.0
+21,Automobile,"K&N Engineering, Inc.  (3)",Senior loan,L + 4.25,(4),07/2019,0.0,,0.0,
+22,Automobile,"Take 5 Oil Change,  L.L.C.  (3)",Senior loan,L + 5.25,(4),07/2018,0.0,,0.0,0.0
+23,Automobile,"Take 5 Oil Change,  L.L.C.ˆ",Senior loan,L + 5.25,6.25,07/2018,4872.0,4840.0,0.7,4872.0
+24,Banking,Banking,Senior loan,,,,,,,
+25,Banking,HedgeServ Holding L.P.ˆ,One stop,L + 8.25,5.25 cash/  4.00 PIK,02/2019,17240.0,17092.0,2.4,17240.0
+26,Banking,HedgeServ Holding L.P.  (3),One stop,L + 4.25,(4),02/2019,0.0,,0.0,0.0
+27,Banking,Prommis Fin Co.  (6),Senior loan,P + 10.00,13.25,06/2015,85.0,84.0,0.0,2.0
+28,Banking,Prommis Fin Co.*  (6),Senior loan,No Value,2.25 cash/  11.5 PIK,06/2015,124.0,124.0,0.0,3.0
+29,"Beverage, Food and Tobacco","Beverage, Food and Tobacco",Senior loan,,,,,,,
+30,"Beverage, Food and Tobacco",ABP Corporation,Senior loan,P + 3.50,7.25,09/2018,84.0,77.0,0.0,84.0
+31,"Beverage, Food and Tobacco",ABP Corporation*,Senior loan,L + 4.75,6.00,09/2018,4796.0,4727.0,0.7,4796.0
+32,"Beverage, Food and Tobacco","Ameriqual Group, LLC*",Senior loan,L + 6.00,6.50 cash/  1.00 PIK,03/2016,1693.0,1676.0,0.2,1625.0
+33,"Beverage, Food and Tobacco","Ameriqual Group, LLC*",Senior loan,L + 9.00,9.00 cash/  1.50 PIK,03/2016,831.0,826.0,0.1,686.0
+34,"Beverage, Food and Tobacco",ARG IH Corporation (Arby’s)ˆ,Senior loan,L + 3.75,4.75,11/2020,2337.0,2311.0,0.3,2339.0
+35,"Beverage, Food and Tobacco","Atkins Nutritionals, Inc*ˆ",One stop,L + 5.00,6.25,01/2019,23873.0,23683.0,3.2,23754.0
+36,"Beverage, Food and Tobacco","Atkins Nutritionals, Inc*",One stop,L + 8.50,9.75,04/2019,21636.0,21326.0,3.0,21744.0
+37,"Beverage, Food and Tobacco","C. J. Foods, Inc.",One stop,L + 5.50,6.50,05/2019,86.0,77.0,0.0,86.0
+38,"Beverage, Food and Tobacco","C. J. Foods, Inc.  (3)",One stop,L + 5.50,(4),05/2019,0.0,,0.0,0.0
+39,"Beverage, Food and Tobacco","C. J. Foods, Inc.",One stop,L + 5.50,6.50,05/2019,3224.0,3179.0,0.4,3224.0
+40,"Beverage, Food and Tobacco","Candy Intermediate Holdings, Inc. (Ferrara Candy)ˆ",Senior loan,L + 6.25,7.50,06/2018,4887.0,4780.0,0.6,4747.0
+41,"Beverage, Food and Tobacco","Diversified Foodservice Supply, Inc.  (3)",Senior loan,L + 4.50,(4),12/2018,0.0,,0.0,0.0
+42,"Beverage, Food and Tobacco","Diversified Foodservice Supply, Inc.*",Senior loan,L + 4.50,5.75,12/2018,4556.0,4518.0,0.6,4556.0
+43,"Beverage, Food and Tobacco","Firebirds International,  LLC  (3)",One stop,L + 6.25,(4),05/2018,0.0,,0.0,0.0
+44,"Beverage, Food and Tobacco","Firebirds International, LLC*",One stop,L + 6.25,7.50,05/2018,1096.0,1081.0,0.1,1096.0
+45,"Beverage, Food and Tobacco","Firebirds International,  LLC",One stop,L + 6.25,7.50,05/2018,304.0,299.0,0.1,304.0
+46,"Beverage, Food and Tobacco","Firebirds International,  LLC  (3)",One stop,L + 6.25,(4),05/2018,0.0,,0.0,0.0
+47,"Beverage, Food and Tobacco","First Watch Restaurants,  Inc.  (3)",One stop,L + 7.50,(4),12/2018,0.0,,0.0,0.0
+48,"Beverage, Food and Tobacco","First Watch Restaurants, Inc.*ˆ",One stop,L + 7.50,8.75,12/2018,11293.0,11165.0,1.5,11293.0
+49,"Beverage, Food and Tobacco","First Watch Restaurants, Inc.*ˆ",One stop,P + 6.50,9.75,12/2018,3070.0,3035.0,0.4,3070.0
+50,"Beverage, Food and Tobacco","First Watch Restaurants,  Inc.",One stop,L + 7.50,8.75,12/2018,1749.0,1744.0,0.2,1749.0
+51,"Beverage, Food and Tobacco",IT’SUGAR LLC,Senior loan,L + 7.50,9.00,04/2018,7566.0,7456.0,1.0,7566.0
+52,"Beverage, Food and Tobacco",IT’SUGAR LLC,Subordinated debt,No Value,5.00,10/2017,1707.0,1707.0,0.3,1833.0
+53,"Beverage, Food and Tobacco",Julio & Sons Company,One stop,L + 5.50,6.50,09/2016,277.0,271.0,0.0,277.0
+54,"Beverage, Food and Tobacco",Julio & Sons Company*,One stop,L + 5.50,6.50,09/2016,6978.0,6935.0,1.0,6978.0
+55,"Beverage, Food and Tobacco",Julio & Sons Company  (3),One stop,L + 5.50,(4),09/2016,0.0,,0.0,0.0
+56,"Beverage, Food and Tobacco","Northern Brewer, LLC",One stop,P + 9.25,8.50 cash/  4.00 PIK,02/2018,676.0,665.0,0.1,541.0
+57,"Beverage, Food and Tobacco","Northern Brewer, LLC",One stop,P + 9.25,8.50 cash/  4.00 PIK,02/2018,6363.0,6244.0,0.7,5090.0
+58,"Beverage, Food and Tobacco","Richelieu Foods, Inc.",Senior loan,P + 4.00,7.25,11/2015,101.0,96.0,0.0,101.0
+59,"Beverage, Food and Tobacco","Richelieu Foods, Inc.*",Senior loan,L + 5.00,6.75,11/2015,1854.0,1839.0,0.3,1854.0
+60,"Beverage, Food and Tobacco","Tate’s Bake Shop, Inc.  (3)",Senior loan,L + 4.75,(4),08/2019,0.0,,0.0,
+61,"Beverage, Food and Tobacco","Tate’s Bake Shop, Inc.ˆ",Senior loan,L + 4.75,5.75,08/2019,3008.0,2978.0,0.4,2978.0
+62,"Beverage, Food and Tobacco","Tate’s Bake Shop, Inc.  (3)",Senior loan,L + 4.75,(4),08/2019,0.0,,0.0,
+63,"Beverage, Food and Tobacco",Uinta Brewing Company  (3),One stop,L + 6.00,(4),08/2019,0.0,,0.0,
+64,"Beverage, Food and Tobacco",Uinta Brewing Companyˆ,One stop,L + 6.00,7.00,08/2019,3236.0,3204.0,0.4,3203.0
+65,Building and Real Estate,Building and Real Estate,One stop,,,,,,,
+66,Building and Real Estate,"Brooks Equipment Company, LLC  (3)",One stop,L + 5.75,(4),08/2020,0.0,,0.0,
+67,Building and Real Estate,"Brooks Equipment Company, LLC*ˆ",One stop,L + 5.75,6.75,08/2020,27150.0,26753.0,3.7,26946.0
+68,Building and Real Estate,"ITEL Laboratories, Inc.  (3)",Senior loan,L + 4.75,(4),06/2018,0.0,,0.0,0.0
+69,Building and Real Estate,"ITEL Laboratories, Inc.*",Senior loan,L + 4.75,6.00,06/2018,756.0,749.0,0.1,756.0
+70,Cargo Transport,Cargo Transport,Senior loan,,,,,,,
+71,Cargo Transport,RP Crown Parent (RedPrairie Corp)*,Senior loan,L + 5.00,6.00,12/2018,1970.0,1942.0,0.3,1923.0
+72,"Containers, Packaging and Glass","Containers, Packaging and Glass",Senior loan,,,,,,,
+73,"Containers, Packaging and Glass",Fort Dearborn Company*,Senior loan,L + 4.25,5.25,10/2017,16.0,16.0,0.0,16.0
+74,"Containers, Packaging and Glass",Fort Dearborn Company*ˆ,Senior loan,L + 4.25,5.25,10/2017,511.0,508.0,0.1,511.0
+75,"Containers, Packaging and Glass",Fort Dearborn Company*,Senior loan,L + 4.75,5.75,10/2018,63.0,63.0,0.0,63.0
+76,"Containers, Packaging and Glass",Fort Dearborn  Company*ˆ,Senior loan,L + 4.75,5.75,10/2018,2180.0,2168.0,0.3,2180.0
+77,"Containers, Packaging and Glass","Packaging Coordinators, Inc.*ˆ",Senior loan,L + 4.25,5.25,08/2021,15000.0,14852.0,2.1,15032.0
+78,"Containers, Packaging and Glass","Packaging Coordinators,  Inc.",Second lien,L + 8.00,9.00,08/2022,10000.0,9901.0,1.4,9950.0
+79,Diversified Conglomerate Manufacturing,Diversified Conglomerate Manufacturing,Second lien,,,,,,,
+80,Diversified Conglomerate Manufacturing,"Chase Industries, Inc.*ˆ",One stop,P + 4.50,7.75,09/2020,21037.0,20828.0,2.8,20827.0
+81,Diversified Conglomerate Manufacturing,"Chase Industries, Inc.",One stop,P + 4.50,7.75,09/2020,277.0,255.0,0.0,255.0
+82,Diversified Conglomerate Manufacturing,"Chase Industries, Inc.  (3)",One stop,L + 5.75,(4),09/2020,0.0,,0.0,
+83,Diversified Conglomerate Manufacturing,ICCN Acquisition Corp.  (3),One stop,L + 5.25,(4),03/2019,0.0,,0.0,0.0
+84,Diversified Conglomerate Manufacturing,ICCN Acquisition Corp.ˆ,One stop,L + 5.25,6.25,03/2019,3998.0,3936.0,0.5,3998.0
+85,Diversified Conglomerate Manufacturing,ICCN Acquisition Corp.  (3),One stop,L + 5.25,(4),03/2019,0.0,,0.0,0.0
+86,Diversified Conglomerate Manufacturing,"Metal Spinners, Inc.*",Senior loan,L + 7.50,9.00,04/2015,1294.0,1288.0,0.2,1294.0
+87,Diversified Conglomerate Manufacturing,"Metal Spinners, Inc.*",Senior loan,L + 7.50,9.00,04/2015,2536.0,2524.0,0.3,2536.0
+88,Diversified Conglomerate Manufacturing,Onicon Incorporated  (3),One stop,L + 4.50,(4),12/2017,0.0,,0.0,0.0
+89,Diversified Conglomerate Manufacturing,Onicon Incorporated,One stop,L + 4.50,5.50,12/2017,3141.0,3100.0,0.4,3141.0
+90,Diversified Conglomerate Manufacturing,"Pasternack Enterprises,  Inc.*",Senior loan,L + 5.00,6.25,12/2017,1126.0,1119.0,0.2,1126.0
+91,Diversified Conglomerate Manufacturing,"Plex Systems, Inc.  (3)",Senior loan,L + 7.50,(4),06/2018,0.0,,0.0,0.0
+92,Diversified Conglomerate Manufacturing,"Plex Systems, Inc.*ˆ",Senior loan,L + 7.50,8.75,06/2018,18797.0,18409.0,2.6,18797.0
+93,Diversified Conglomerate Manufacturing,"Sunless Merger Sub, Inc.  (3)",Senior loan,L + 5.25,(4),07/2016,0.0,0.0,0.0,
+94,Diversified Conglomerate Manufacturing,"Sunless Merger Sub, Inc.*",Senior loan,L + 5.25,6.50,07/2016,1816.0,1813.0,0.2,1271.0
+95,Diversified Conglomerate Manufacturing,"TIDI Products, LLC  (3)",One stop,L + 6.50,(4),07/2017,0.0,,0.0,0.0
+96,Diversified Conglomerate Manufacturing,"TIDI Products, LLC*",One stop,L + 6.50,7.75,07/2018,12631.0,12441.0,1.7,12631.0
+97,Diversified Conglomerate Manufacturing,"Vintage Parts, Inc.*",One stop,L + 4.50,5.75,12/2015,4049.0,4022.0,0.6,4049.0
+98,Diversified Conglomerate Manufacturing,"Vintage Parts, Inc.*",One stop,L + 4.50,5.75,12/2015,56.0,56.0,0.0,56.0
+99,Diversified Conglomerate Manufacturing,"Vintage Parts, Inc.*",One stop,L + 4.50,5.75,12/2015,846.0,850.0,0.1,846.0
+100,Diversified Conglomerate Service,Diversified Conglomerate Service,One stop,,,,,,,
+101,Diversified Conglomerate Service,"Accellos, Inc.  (3)",One stop,L + 5.75,(4),07/2020,0.0,,0.0,0.0
+102,Diversified Conglomerate Service,"Accellos, Inc.ˆ",One stop,L + 5.75,6.75,07/2020,31113.0,30740.0,4.2,31113.0
+103,Diversified Conglomerate Service,"Aderant North America, Inc.*",Senior loan,L + 4.25,5.25,12/2018,4220.0,4190.0,0.6,4220.0
+104,Diversified Conglomerate Service,Agility Recovery Solutions Inc.  (3),One stop,L + 6.75,(4),09/2018,0.0,,0.0,0.0
+105,Diversified Conglomerate Service,Agility Recovery Solutions Inc.*,One stop,L + 6.75,8.00,09/2018,8128.0,7995.0,1.1,8128.0
+106,Diversified Conglomerate Service,Bomgar Corporation  (3),One stop,L + 6.00,(4),05/2019,0.0,,0.0,
+107,Diversified Conglomerate Service,Bomgar Corporation*,One stop,L + 6.00,7.00,05/2020,29423.0,28935.0,4.0,29129.0
+108,Diversified Conglomerate Service,"Daxko, LLC  (3)",One stop,L + 7.75,(4),03/2019,0.0,,0.0,0.0
+109,Diversified Conglomerate Service,"Daxko, LLC",One stop,L + 7.75,8.75,03/2019,16840.0,16564.0,2.3,16840.0
+110,Diversified Conglomerate Service,"EAG, INC. (Evans Analytical Group)*",Senior loan,L + 4.00,5.00,07/2017,2401.0,2377.0,0.3,2401.0
+111,Diversified Conglomerate Service,"Integration Appliance,  Inc.",Senior loan,L + 8.25,9.50,09/2018,719.0,711.0,0.1,719.0
+112,Diversified Conglomerate Service,"Integration Appliance,  Inc.",Senior loan,L + 8.25,9.50,09/2018,5396.0,5288.0,0.7,5396.0
+113,Diversified Conglomerate Service,"Integration Appliance,  Inc.",Senior loan,L + 8.25,9.50,06/2019,7914.0,7727.0,1.1,7914.0
+114,Diversified Conglomerate Service,"Marathon Data Operating Co., LLC  (3)",One stop,L + 6.25,(4),08/2017,0.0,,0.0,0.0
+115,Diversified Conglomerate Service,"Marathon Data Operating Co., LLC",One stop,L + 6.25,7.50,08/2017,4595.0,4528.0,0.6,4595.0
+116,Diversified Conglomerate Service,"Navex Global, Inc.  (3)",One stop,L + 5.50,(4),12/2016,0.0,,0.0,0.0
+117,Diversified Conglomerate Service,"Navex Global, Inc.*",One stop,L + 5.50,6.50,12/2016,19045.0,18718.0,2.6,19045.0
+118,Diversified Conglomerate Service,"NetSmart Technologies, Inc.*",One stop,L + 7.53,8.78,12/2017,8068.0,8012.0,1.1,8068.0
+119,Diversified Conglomerate Service,"NetSmart Technologies,  Inc.",One stop,L + 7.52,8.77,12/2017,637.0,629.0,0.1,637.0
+120,Diversified Conglomerate Service,"PC Helps Support, LLC  (3)",Senior loan,L + 5.25,(4),09/2017,0.0,,0.0,0.0
+121,Diversified Conglomerate Service,"PC Helps Support, LLC",Senior loan,L + 5.25,6.51,09/2017,1707.0,1692.0,0.2,1707.0
+122,Diversified Conglomerate Service,"Secure-24, LLC  (3)",One stop,L + 6.25,(4),08/2017,0.0,,0.0,0.0
+123,Diversified Conglomerate Service,"Secure-24, LLC*",One stop,L + 6.25,7.50,08/2017,10433.0,10249.0,1.4,10433.0
+124,Diversified Conglomerate Service,"Secure-24, LLCˆ",One stop,L + 6.25,7.50,08/2017,1526.0,1507.0,0.2,1526.0
+125,Diversified Conglomerate Service,"SoftWriters, Inc.  (3)",One stop,L + 5.00,(4),05/2019,0.0,,0.0,0.0
+126,Diversified Conglomerate Service,"SoftWriters, Inc.  (3)",One stop,L + 5.00,(4),05/2019,0.0,,0.0,0.0
+127,Diversified Conglomerate Service,"SoftWriters, Inc.",One stop,L + 5.00,6.00,05/2019,6411.0,6387.0,0.9,6411.0
+128,Diversified Conglomerate Service,"Source Medical Solutions, Inc.",Second lien,L + 8.00,9.00,03/2018,9294.0,9146.0,1.3,9294.0
+129,Electronics,Electronics,Second lien,,,,,,,
+130,Electronics,"ECI Acquisition Holdings, Inc.  (3)",One stop,L + 6.25,(4),03/2019,0.0,,0.0,0.0
+131,Electronics,"ECI Acquisition Holdings, Inc.ˆ",One stop,L + 6.25,7.25,03/2019,22215.0,21844.0,3.0,22215.0
+132,Electronics,"ECI Acquisition Holdings, Inc.  (3)",One stop,L + 6.25,(4),03/2019,0.0,,0.0,0.0
+133,Electronics,"Rogue Wave Holdings, Inc.*ˆ",One stop,L + 8.08,9.10,12/2018,10613.0,10500.0,1.4,10613.0
+134,Electronics,"Sloan Company, Inc., The  (3)",One stop,L + 7.50,(4),10/2018,0.0,,0.0,0.0
+135,Electronics,"Sloan Company, Inc.,  The*ˆ",One stop,L + 7.50,8.75,10/2018,13027.0,12895.0,1.8,13027.0
+136,Electronics,Sparta Holding  Corporation  (3),One stop,L + 5.25,(4),07/2020,0.0,,0.0,
+137,Electronics,Sparta Holding Corporation*ˆ,One stop,L + 6.75,6.25 cash/  1.50 PIK,07/2020,23358.0,23075.0,3.2,23124.0
+138,Electronics,Syncsort Incorporated  (3),Senior loan,L + 4.75,(4),03/2019,0.0,,0.0,0.0
+139,Electronics,Syncsort Incorporated  (3),Senior loan,L + 4.75,(4),03/2019,0.0,,0.0,0.0
+140,Electronics,Syncsort Incorporated*,Senior loan,L + 4.75,5.75,03/2019,6143.0,6089.0,0.8,6143.0
+141,Electronics,"Systems Maintenance Services Holding, Inc.ˆ",Senior loan,L + 4.00,5.00,10/2019,2650.0,2639.0,0.4,2650.0
+142,Electronics,"Taxware, LLC*ˆ",Second lien,L + 8.38,9.38,10/2019,19979.0,19678.0,2.7,19979.0
+143,Electronics,"Watchfire Enterprises,  Inc.",Second lien,L + 8.00,9.00,10/2021,9435.0,9270.0,1.3,9435.0
+144,Finance,Finance,Second lien,,,,,,,
+145,Finance,"Ascensus, Inc.  (3)",One stop,L + 4.00,(4),11/2018,0.0,,0.0,0.0
+146,Finance,"Ascensus, Inc.ˆ",One stop,L + 4.00,5.00,12/2019,4193.0,4120.0,0.6,4193.0
+147,Finance,"Ascensus, Inc.ˆ",One stop,L + 8.00,9.00,12/2020,6337.0,6142.0,0.9,6337.0
+148,Finance,Pillar Processing LLC*  (6),Senior loan,L + 5.50,5.72,11/2018,447.0,445.0,0.0,0.0
+149,Finance,Pillar Processing LLC*  (6),Senior loan,No Value,14.50,05/2019,2377.0,2368.0,0.0,0.0
+150,Grocery,Grocery,Senior loan,,,,,,,
+151,Grocery,"MyWebGrocer, Inc.  (3)",Senior loan,L + 4.75,(4),05/2018,0.0,,0.0,0.0
+152,Grocery,"MyWebGrocer, Inc.ˆ",Senior loan,L + 8.75,6.00 cash/  4.00 PIK,05/2018,14271.0,14093.0,1.9,14271.0
+153,Grocery,"Teasdale Quality Foods, Inc.*",Senior loan,L + 4.50,5.75,05/2018,2674.0,2653.0,0.4,2674.0
+154,"Healthcare, Education and Childcare","Healthcare, Education and Childcare",Senior loan,,,,,,,
+155,"Healthcare, Education and Childcare","Advanced Pain Management Holdings, Inc.  (3)",Senior loan,L + 5.00,(4),02/2018,0.0,,0.0,0.0
+156,"Healthcare, Education and Childcare","Advanced Pain Management Holdings, Inc.*",Senior loan,L + 5.00,6.25,02/2018,7102.0,7054.0,1.0,7102.0
+157,"Healthcare, Education and Childcare","Advanced Pain Management Holdings, Inc.",Senior loan,L + 5.00,6.25,02/2018,486.0,481.0,0.1,486.0
+158,"Healthcare, Education and Childcare","Avatar International,  LLC  (3)",One stop,L + 4.94,(4),09/2016,0.0,,0.0,0.0
+159,"Healthcare, Education and Childcare","Avatar International,  LLC*",One stop,L + 7.89,6.19 cash/  2.95 PIK,09/2016,7611.0,7560.0,0.7,4947.0
+160,"Healthcare, Education and Childcare","Avatar International, LLC",One stop,L + 7.89,6.19 cash/  2.95 PIK,09/2016,1642.0,1634.0,0.1,1067.0
+161,"Healthcare, Education and Childcare (Continued)","Healthcare, Education and Childcare (Continued)",One stop,,,,,,,
+162,"Healthcare, Education and Childcare (Continued)","California Cryobank,  LLC",One stop,P + 4.25,7.50,08/2019,86.0,84.0,0.0,84.0
+163,"Healthcare, Education and Childcare (Continued)","California Cryobank, LLCˆ",One stop,L + 5.50,6.50,08/2019,1550.0,1535.0,0.2,1535.0
+164,"Healthcare, Education and Childcare (Continued)","California Cryobank,  LLC  (3)",One stop,L + 5.50,(4),08/2019,0.0,,0.0,
+165,"Healthcare, Education and Childcare (Continued)",Certara L.P.  (3),One stop,L + 6.25,(4),12/2018,0.0,,0.0,0.0
+166,"Healthcare, Education and Childcare (Continued)",Certara L.P.*ˆ,One stop,L + 6.25,7.25,12/2018,22948.0,22722.0,3.1,22948.0
+167,"Healthcare, Education and Childcare (Continued)",Data Innovations LLC,One stop,L + 7.69,8.69,05/2019,8800.0,8619.0,1.2,8800.0
+168,"Healthcare, Education and Childcare (Continued)",Delta Educational Systems*,Senior loan,P + 4.75,8.00,12/2016,1646.0,1627.0,0.2,1646.0
+169,"Healthcare, Education and Childcare (Continued)",Delta Educational  Systems,Senior loan,L + 6.00,(4),12/2016,0.0,0.0,0.0,0.0
+170,"Healthcare, Education and Childcare (Continued)","Encore Rehabilitation Services, LLC  (3)",One stop,L + 6.00,(4),06/2017,0.0,,0.0,0.0
+171,"Healthcare, Education and Childcare (Continued)","Encore Rehabilitation Services, LLC",One stop,L + 6.00,7.25,06/2017,4969.0,4895.0,0.7,4969.0
+172,"Healthcare, Education and Childcare (Continued)","G & H Wire Company,  Inc.  (3)",Senior loan,L + 5.75,(4),12/2017,0.0,,0.0,0.0
+173,"Healthcare, Education and Childcare (Continued)","G & H Wire Company,  Inc.*ˆ",Senior loan,L + 5.75,6.75,12/2017,12902.0,12766.0,1.8,12902.0
+174,"Healthcare, Education and Childcare (Continued)","Global Healthcare Exchange, LLC  (3)",One stop,L + 9.00,(4),03/2020,0.0,,0.0,0.0
+175,"Healthcare, Education and Childcare (Continued)","Global Healthcare Exchange, LLC",One stop,L + 9.00,10.00,03/2020,20087.0,19723.0,2.7,20087.0
+176,"Healthcare, Education and Childcare (Continued)",GSDM Holdings Corp.,Senior loan,L + 4.25,5.25,06/2019,627.0,624.0,0.1,627.0
+177,"Healthcare, Education and Childcare (Continued)","Hospitalists Management Group, LLC",Senior loan,L + 5.00,6.77,05/2018,910.0,896.0,0.1,864.0
+178,"Healthcare, Education and Childcare (Continued)","Hospitalists Management Group, LLC",Senior loan,L + 5.00,6.51,05/2017,3672.0,3608.0,0.5,3489.0
+179,"Healthcare, Education and Childcare (Continued)","Hospitalists Management Group, LLC",Senior loan,L + 5.00,6.50,05/2017,427.0,421.0,0.1,406.0
+180,"Healthcare, Education and Childcare (Continued)","IntegraMed America,  Inc.  (3)",One stop,L + 7.25,8.50,09/2017,811.0,800.0,0.1,811.0
+181,"Healthcare, Education and Childcare (Continued)","IntegraMed America,  Inc.*ˆ",One stop,L + 7.25,8.50,09/2017,15587.0,15376.0,2.1,15587.0
+182,"Healthcare, Education and Childcare (Continued)","Joerns Healthcare, LLC",One stop,L + 5.00,6.00,05/2020,9794.0,9702.0,1.3,9782.0
+183,"Healthcare, Education and Childcare (Continued)","Maverick Healthcare Group, LLC*",Senior loan,L + 5.50,7.25,12/2016,1989.0,1964.0,0.3,1949.0
+184,"Healthcare, Education and Childcare (Continued)","Northwestern Management Services, LLC",Senior loan,P + 4.00,7.25,10/2017,114.0,104.0,0.0,114.0
+185,"Healthcare, Education and Childcare (Continued)","Northwestern Management Services, LLC*",Senior loan,L + 5.25,6.50,10/2017,3964.0,3913.0,0.5,3964.0
+186,"Healthcare, Education and Childcare (Continued)","Northwestern Management Services, LLC",Senior loan,L + 5.25,6.50,10/2017,47.0,44.0,0.0,47.0
+187,"Healthcare, Education and Childcare (Continued)",Onsite Holding Corp.  (3),One stop,L + 5.25,(4),06/2020,0.0,,0.0,0.0
+188,"Healthcare, Education and Childcare (Continued)",Onsite Holding Corp.*ˆ,One stop,L + 5.25,6.25,06/2020,26921.0,26696.0,3.7,26921.0
+189,"Healthcare, Education and Childcare (Continued)","Paradigm Management Services, LLCˆ",Senior loan,L + 4.50,5.50,01/2019,2740.0,2719.0,0.4,2740.0
+190,"Healthcare, Education and Childcare (Continued)","Pentec Acquisition Sub, Inc.  (3)",Senior loan,L + 5.25,(4),05/2017,0.0,,0.0,0.0
+191,"Healthcare, Education and Childcare (Continued)","Pentec Acquisition Sub,  Inc.*",Senior loan,L + 5.25,6.50,05/2018,1776.0,1754.0,0.2,1776.0
+192,"Healthcare, Education and Childcare (Continued)","Pyramid Healthcare,  Inc.  (3)",One stop,L + 5.75,(4),08/2019,0.0,,0.0,
+193,"Healthcare, Education and Childcare (Continued)","Healthcare, Education and Childcare (Continued)",One stop,,,,,,,
+194,"Healthcare, Education and Childcare (Continued)","Pyramid Healthcare,  Inc.ˆ",One stop,L + 5.75,6.75,08/2019,7607.0,7542.0,1.0,7550.0
+195,"Healthcare, Education and Childcare (Continued)","Radiology Partners, Inc.  (3)",One stop,L + 5.00,(4),09/2020,0.0,,0.0,
+196,"Healthcare, Education and Childcare (Continued)","Radiology Partners,  Inc.*ˆ",One stop,L + 5.00,6.00,09/2020,17209.0,16937.0,2.3,17037.0
+197,"Healthcare, Education and Childcare (Continued)","Radiology Partners, Inc.  (3)",One stop,L + 5.00,(4),09/2020,0.0,,0.0,
+198,"Healthcare, Education and Childcare (Continued)","Reliant Pro ReHab, LLC",Senior loan,P + 4.00,7.25,06/2017,10.0,3.0,0.0,10.0
+199,"Healthcare, Education and Childcare (Continued)","Reliant Pro ReHab, LLC*ˆ",Senior loan,L + 5.00,6.00,06/2017,7615.0,7547.0,1.0,7615.0
+200,"Healthcare, Education and Childcare (Continued)",Renaissance Pharma (U.S.) Holdings Inc.,Senior loan,P + 3.00,6.25,05/2018,63.0,59.0,0.0,63.0
+201,"Healthcare, Education and Childcare (Continued)",Renaissance Pharma (U.S.) Holdings Inc.*ˆ,Senior loan,L + 4.00,5.00,05/2018,4090.0,4039.0,0.6,4090.0
+202,"Healthcare, Education and Childcare (Continued)",Southern Anesthesia and Surgical  (3),One stop,L + 5.50,(4),11/2017,0.0,,0.0,0.0
+203,"Healthcare, Education and Childcare (Continued)",Southern Anesthesia and Surgical,One stop,L + 5.50,6.50,11/2017,6012.0,5905.0,0.8,6012.0
+204,"Healthcare, Education and Childcare (Continued)",Southern Anesthesia and Surgical  (3),One stop,L + 5.50,(4),11/2017,0.0,,0.0,0.0
+205,"Healthcare, Education and Childcare (Continued)","Spear Education, LLC  (3)",One stop,L + 5.50,(4),08/2019,0.0,,0.0,
+206,"Healthcare, Education and Childcare (Continued)","Spear Education, LLC*ˆ",One stop,L + 5.50,6.50,08/2019,6005.0,5961.0,0.8,5960.0
+207,"Healthcare, Education and Childcare (Continued)","Spear Education, LLC",One stop,L + 5.50,(4),08/2019,0.0,0.0,0.0,0.0
+208,"Healthcare, Education and Childcare (Continued)","Surgical Information Systems, LLCˆ",Senior loan,L + 3.50,4.51,09/2018,2060.0,2055.0,0.3,2060.0
+209,"Healthcare, Education and Childcare (Continued)","U.S. Anesthesia Partners,  Inc.",One stop,L + 5.00,6.00,12/2019,6000.0,5970.0,0.8,5970.0
+210,"Healthcare, Education and Childcare (Continued)","WIL Research Company,  Inc.*",Senior loan,L + 4.50,5.75,02/2018,776.0,769.0,0.1,753.0
+211,"Healthcare, Education and Childcare (Continued)","Young Innovations, Inc.  (3)",Senior loan,L + 4.25,(4),01/2018,0.0,,0.0,0.0
+212,"Healthcare, Education and Childcare (Continued)","Young Innovations, Inc.*ˆ",Senior loan,L + 4.25,5.25,01/2019,5443.0,5412.0,0.7,5443.0
+213,"Home and Office Furnishings, Housewares, and Durable Consumer","Home and Office Furnishings, Housewares, and Durable Consumer",Senior loan,,,,,,,
+214,"Home and Office Furnishings, Housewares, and Durable Consumer","Plano Molding Company, LLCˆ",Senior loan,L + 4.25,5.25,10/2018,1984.0,1972.0,0.3,1984.0
+215,"Home and Office Furnishings, Housewares, and Durable Consumer","WII Components, Inc.",Senior loan,L + 4.50,(4),07/2018,0.0,0.0,0.0,0.0
+216,"Home and Office Furnishings, Housewares, and Durable Consumer","WII Components, Inc.*",Senior loan,L + 4.50,5.50,07/2018,1183.0,1177.0,0.2,1177.0
+217,"Home and Office Furnishings, Housewares, and Durable Consumer",Zenith Products Corporation,One stop,P + 1.75,5.00,09/2013,29.0,29.0,0.0,25.0
+218,"Home and Office Furnishings, Housewares, and Durable Consumer",Zenith Products  Corporation*,One stop,P + 3.50,6.75,09/2013,3684.0,3684.0,0.3,1842.0
+219,Insurance,Insurance,One stop,,,,,,,
+220,Insurance,"Captive Resources Midco, LLC  (3)",One stop,L + 5.00,(4),01/2019,0.0,,0.0,0.0
+221,Insurance,"Captive Resources Midco, LLC*ˆ",One stop,L + 5.00,6.50,01/2019,19653.0,19477.0,2.7,19653.0
+222,Investment Funds and Vehicles,Investment Funds and Vehicles,One stop,,,,,,,
+223,Investment Funds and Vehicles,Senior Loan Fund LLC  (7)  (8),Subordinated debt,L + 8.00,8.16,05/2020,25589.0,25589.0,3.5,25589.0
+224,"Leisure, Amusement, Motion Pictures and Entertainment","Leisure, Amusement, Motion Pictures and Entertainment",Subordinated debt,,,,,,,
+225,"Leisure, Amusement, Motion Pictures and Entertainment","Competitor Group, Inc.",One stop,P + 6.75,9.76,11/2018,884.0,873.0,0.1,769.0
+226,"Leisure, Amusement, Motion Pictures and Entertainment","Competitor Group, Inc.*",One stop,L + 8.75,9.00 cash/  1.00 PIK,11/2018,12807.0,12654.0,1.6,11526.0
+227,"Leisure, Amusement, Motion Pictures and Entertainment","Octane Fitness, LLC  (3)",One stop,L + 5.25,(4),10/2018,0.0,,0.0,0.0
+228,"Leisure, Amusement, Motion Pictures and Entertainment","Octane Fitness, LLC*",One stop,L + 5.25,6.50,10/2018,8034.0,8001.0,1.1,8034.0
+229,"Leisure, Amusement, Motion Pictures and Entertainment","Pride Manufacturing Company, LLC*",Senior loan,L + 6.00,7.75,11/2015,493.0,490.0,0.1,493.0
+230,"Leisure, Amusement, Motion Pictures and Entertainment","Self Esteem Brands, LLC  (3)",Senior loan,L + 4.00,(4),02/2020,0.0,,0.0,0.0
+231,"Leisure, Amusement, Motion Pictures and Entertainment","Self Esteem Brands, LLCˆ",Senior loan,L + 4.00,5.00,02/2020,7462.0,7420.0,1.0,7462.0
+232,"Leisure, Amusement, Motion Pictures and Entertainment","Starplex Operating, L.L.C.",One stop,P + 6.25,9.50,12/2017,311.0,298.0,0.0,311.0
+233,"Leisure, Amusement, Motion Pictures and Entertainment","Starplex Operating,  L.L.C.*ˆ",One stop,L + 7.50,9.00,12/2017,10079.0,9912.0,1.4,10079.0
+234,"Leisure, Amusement, Motion Pictures and Entertainment","Titan Fitness, LLC  (3)",One stop,L + 6.50,(4),09/2019,0.0,,0.0,0.0
+235,"Leisure, Amusement, Motion Pictures and Entertainment","Titan Fitness, LLC*",One stop,L + 6.50,7.75,09/2019,13603.0,13340.0,1.9,13603.0
+236,"Leisure, Amusement, Motion Pictures and Entertainment","Titan Fitness, LLC  (3)",One stop,L + 6.50,(4),09/2019,0.0,,0.0,0.0
+237,"Mining, Steel, Iron and  Non-Precious Metals","Mining, Steel, Iron and  Non-Precious Metals",One stop,,,,,,,
+238,"Mining, Steel, Iron and  Non-Precious Metals","Benetech, Inc.",One stop,P + 7.75,11.00,10/2017,162.0,154.0,0.0,162.0
+239,"Mining, Steel, Iron and  Non-Precious Metals","Benetech, Inc.*",One stop,L + 9.00,10.25,10/2017,5020.0,4982.0,0.7,5020.0
+240,Oil and Gas,Oil and Gas,One stop,,,,,,,
+241,Oil and Gas,"Drilling Info, Inc.  (3)  (5)",One stop,L + 5.00,(4),06/2018,0.0,,0.0,0.0
+242,Oil and Gas,"Drilling Info, Inc.  (5)  ˆ",One stop,L + 5.00,6.00,06/2018,1325.0,1315.0,0.2,1325.0
+243,Oil and Gas,"Drilling Info, Inc.  (3)  (5)",One stop,L + 5.00,(4),06/2018,0.0,,0.0,0.0
+244,Personal and Non-Durable Consumer Products,Personal and Non-Durable Consumer Products,One stop,,,,,,,
+245,Personal and Non-Durable Consumer Products,"Hygenic Corporation, The",Senior loan,P + 3.75,6.79,10/2017,142.0,140.0,0.0,142.0
+246,Personal and Non-Durable Consumer Products,"Hygenic Corporation,  The*ˆ",Senior loan,L + 4.75,6.00,10/2018,4538.0,4494.0,0.6,4538.0
+247,Personal and Non-Durable Consumer Products,"Massage Envy, LLC  (3)",One stop,L + 7.25,(4),09/2018,0.0,,0.0,0.0
+248,Personal and Non-Durable Consumer Products,"Massage Envy, LLC*",One stop,L + 7.25,8.50,09/2018,15999.0,15735.0,2.2,15999.0
+249,Personal and Non-Durable Consumer Products,Rug Doctor LLC,Senior loan,L + 5.25,6.25,12/2016,465.0,455.0,0.1,465.0
+250,Personal and Non-Durable Consumer Products,Rug Doctor LLC*,Senior loan,L + 5.25,6.25,12/2016,5365.0,5326.0,0.7,5365.0
+251,Personal and Non-Durable Consumer Products,Team Technologies Acquisition Companyˆ,Senior loan,L + 5.00,6.25,12/2017,4831.0,4790.0,0.7,4831.0
+252,Personal and Non-Durable Consumer Products,Team Technologies Acquisition Company,Senior loan,P + 3.75,7.00,12/2017,182.0,179.0,0.0,182.0
+253,"Personal, Food and Miscellaneous Services","Personal, Food and Miscellaneous Services",Senior loan,,,,,,,
+254,"Personal, Food and Miscellaneous Services",Affordable Care Inc.  (3),Senior loan,L + 4.75,(4),12/2017,0.0,,0.0,0.0
+255,"Personal, Food and Miscellaneous Services",Affordable Care Inc.ˆ,Senior loan,L + 4.75,6.00,12/2018,3347.0,3324.0,0.5,3347.0
+256,"Personal, Food and Miscellaneous Services",El Pollo Loco Incˆ,Senior loan,L + 4.25,5.25,10/2018,5149.0,5100.0,0.7,5168.0
+257,"Personal, Food and Miscellaneous Services",Focus Brands Inc.ˆ,Second lien,L + 9.00,10.25,08/2018,11194.0,11091.0,1.5,11306.0
+258,"Personal, Food and Miscellaneous Services","Ignite Restaurant Group, Inc (Joe’s Crab Shack)ˆ",One stop,L + 7.00,8.00,02/2019,6170.0,6080.0,0.8,6077.0
+259,"Personal, Food and Miscellaneous Services",R.G. Barry Corporation*,Senior loan,L + 5.00,6.00,09/2019,6830.0,6741.0,0.9,6761.0
+260,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLC,One stop,L + 6.50,7.75,12/2017,199.0,194.0,0.0,199.0
+261,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLC*ˆ,One stop,L + 6.50,7.75,12/2017,5847.0,5805.0,0.8,5847.0
+262,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLC  (3),One stop,L + 6.50,(4),12/2017,0.0,,0.0,0.0
+263,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLCˆ,One stop,L + 6.50,7.75,12/2017,371.0,371.0,0.1,371.0
+264,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLCˆ,One stop,L + 6.50,7.75,12/2017,573.0,573.0,0.1,573.0
+265,"Personal, Food and Miscellaneous Services",Vetcor Merger Sub LLCˆ,One stop,L + 6.50,7.75,12/2017,384.0,384.0,0.1,384.0
+266,Printing and Publishing,Printing and Publishing,One stop,,,,,,,
+267,Printing and Publishing,"Market Track, LLC  (3)",One stop,L + 6.00,(4),10/2019,0.0,,0.0,0.0
+268,Printing and Publishing,"Market Track, LLC*ˆ",One stop,L + 6.00,7.25,10/2019,29270.0,29024.0,4.0,29270.0
+269,Printing and Publishing,"Market Track, LLC",One stop,L + 6.00,7.25,10/2019,1217.0,1199.0,0.2,1217.0
+270,Retail Stores,Retail Stores,One stop,,,,,,,
+271,Retail Stores,"Benihana, Inc.  (3)",One stop,L + 5.50,(4),07/2018,0.0,,0.0,0.0
+272,Retail Stores,"Benihana, Inc.*ˆ",One stop,P + 4.25,7.50,01/2019,15554.0,15145.0,2.1,15554.0
+273,Retail Stores,"Boot Barn, Inc.*ˆ",One stop,L + 5.75,7.00,05/2019,24430.0,24143.0,3.3,24430.0
+274,Retail Stores,"Boot Barn, Inc.*",One stop,L + 5.75,7.00,05/2019,7726.0,7657.0,1.1,7726.0
+275,Retail Stores,"Capital Vision Services,  LLC",One stop,P + 6.25,9.50,12/2017,475.0,466.0,0.1,475.0
+276,Retail Stores,"Capital Vision Services, LLC*ˆ",One stop,L + 7.25,8.50,12/2017,15354.0,15219.0,2.1,15354.0
+277,Retail Stores,"Capital Vision Services,  LLCˆ",One stop,L + 7.25,8.50,12/2017,1231.0,1219.0,0.2,1231.0
+278,Retail Stores,"Capital Vision Services,  LLC",One stop,L + 7.25,8.50,12/2017,1459.0,1453.0,0.2,1459.0
+279,Retail Stores,"DentMall MSO, LLC",One stop,L + 5.00,6.00,07/2019,179.0,153.0,0.0,179.0
+280,Retail Stores,"DentMall MSO, LLC",One stop,L + 5.00,6.00,07/2019,10354.0,10257.0,1.4,10354.0
+281,Retail Stores,"DTLR, Inc.*ˆ",One stop,L + 8.00,11.00,12/2015,15892.0,15824.0,2.2,15892.0
+282,Retail Stores,"Express Oil Change, LLC",Senior loan,L + 4.75,6.33,12/2017,221.0,219.0,0.0,221.0
+283,Retail Stores,"Express Oil Change, LLC*",Senior loan,P + 3.50,6.75,12/2017,1945.0,1932.0,0.3,1945.0
+284,Retail Stores,"Express Oil Change, LLC",Senior loan,P + 3.50,6.75,12/2017,110.0,109.0,0.0,110.0
+285,Retail Stores,"Floor & Decor Outlets of America, Inc.*ˆ",One stop,L + 6.50,7.75,05/2019,11244.0,11137.0,1.5,11244.0
+286,Retail Stores,"Marshall Retail Group, LLC, The  (3)",One stop,L + 6.00,(4),08/2019,0.0,,0.0,
+287,Retail Stores,"Marshall Retail Group, LLC, The  (3)",One stop,L + 6.00,(4),08/2020,0.0,,0.0,
+288,Retail Stores,"Marshall Retail Group, LLC, Theˆ",One stop,L + 6.00,7.00,08/2020,12424.0,12271.0,1.7,12299.0
+289,Retail Stores,"Paper Source, Inc.",One stop,P + 5.00,7.92,09/2018,508.0,498.0,0.1,508.0
+290,Retail Stores,"Paper Source, Inc.*ˆ",One stop,L + 6.25,7.25,09/2018,12576.0,12476.0,1.7,12576.0
+291,Retail Stores,"Restaurant Holding Company, LLC",Senior loan,L + 7.75,8.75,02/2019,4976.0,4932.0,0.6,4429.0
+292,Retail Stores (continued),Retail Stores (continued),Senior loan,,,,,,,
+293,Retail Stores (continued),"Rubio’s Restaurants, Inc*ˆ",Senior loan,L + 4.75,6.00,11/2018,9376.0,9369.0,1.3,9376.0
+294,Retail Stores (continued),"Sneaker Villa, Inc.",One stop,P + 7.00,11.50,12/2017,1002.0,984.0,0.1,1002.0
+295,Retail Stores (continued),"Sneaker Villa, Inc.",One stop,L + 8.50,10.00,12/2017,4433.0,4340.0,0.6,4433.0
+296,Retail Stores (continued),"Sneaker Villa, Inc.ˆ",One stop,L + 8.50,10.00,12/2017,627.0,617.0,0.1,627.0
+297,Retail Stores (continued),"Sneaker Villa, Inc.ˆ",One stop,L + 8.50,10.00,12/2017,1237.0,1221.0,0.2,1237.0
+298,Retail Stores (continued),"Sneaker Villa, Inc.  (3)",One stop,L + 8.50,(4),12/2017,0.0,,0.0,0.0
+299,Retail Stores (continued),"Sneaker Villa, Inc.ˆ",One stop,L + 8.50,10.00,12/2017,4260.0,4219.0,0.6,4217.0
+300,Retail Stores (continued),"Sneaker Villa, Inc.",One stop,L + 8.50,10.00,12/2017,752.0,727.0,0.1,727.0
+301,Retail Stores (continued),Specialty Catalog Corp.  (3),One stop,L + 6.00,(4),07/2017,0.0,,0.0,0.0
+302,Retail Stores (continued),Specialty Catalog Corp.,One stop,L + 6.00,7.50,07/2017,4658.0,4623.0,0.6,4658.0
+303,Retail Stores (continued),Vision Source L.P.,One stop,L + 6.00,7.25,08/2019,273.0,270.0,0.0,270.0
+304,Retail Stores (continued),Vision Source L.P.*ˆ,One stop,L + 6.00,7.00,08/2019,17759.0,17645.0,2.4,17671.0
+305,Telecommunications,Telecommunications,One stop,,,,,,,
+306,Telecommunications,"Arise Virtual Solutions, Inc.  (3)",One stop,L + 6.00,(4),12/2018,0.0,,0.0,0.0
+307,Telecommunications,"Arise Virtual Solutions,  Inc.*ˆ",One stop,L + 6.00,7.25,12/2018,13869.0,13753.0,1.9,13869.0
+308,Telecommunications,Hosting.com Inc.  (3),Senior loan,L + 4.50,(4),12/2017,0.0,,0.0,0.0
+309,Telecommunications,Hosting.com Inc.*,Senior loan,L + 4.50,5.75,12/2017,861.0,851.0,0.1,861.0
+310,Telecommunications,"ITC Global, Inc.  (3)",One stop,L + 6.75,7.75,07/2018,289.0,277.0,0.0,289.0
+311,Telecommunications,"ITC Global, Inc.*",One stop,L + 6.75,7.75,07/2018,8345.0,8274.0,1.1,8345.0
+312,Telecommunications,"ITC Global, Inc.ˆ",One stop,L + 6.75,7.75,07/2018,1423.0,1411.0,0.2,1423.0
+313,Textile and Leather,Textile and Leather,One stop,,,,,,,
+314,Textile and Leather,"5.11, Inc.*ˆ",Senior loan,L + 5.00,6.00,02/2020,1031.0,1026.0,0.1,1032.0
+315,Textile and Leather,"Southern Tide, LLC  (3)",One stop,L + 6.75,(4),06/2019,0.0,,0.0,0.0
+316,Textile and Leather,"Southern Tide, LLCˆ",One stop,L + 6.75,7.75,06/2019,4096.0,4057.0,0.6,4096.0
+317,Utilities,Utilities,One stop,,,,,,,
+318,Utilities,"PowerPlan Consultants,  Inc.  (3)",Senior loan,L + 4.25,(4),10/2018,0.0,,0.0,0.0
+319,Utilities,"PowerPlan Consultants,  Inc.*ˆ",Senior loan,L + 4.25,5.26,10/2019,3583.0,3538.0,0.5,3583.0
+320,Equity Investments  (9),Equity Investments  (9),Senior loan,,,,,,,
+321,Aerospace and Defense,Aerospace and Defense,Senior loan,,,,,,,
+322,Aerospace and Defense,NTS Technical Systems,Common stock,No Value,No Value,No Value,2.0,1506.0,0.2,1597.0
+323,Aerospace and Defense,"Tresys Technology Holdings, Inc.",Common stock,No Value,No Value,No Value,295.0,295.0,0.0,3.0
+324,Aerospace and Defense,Whitcraft LLC,Common stock,No Value,No Value,No Value,1.0,670.0,0.1,409.0
+325,Aerospace and Defense,Whitcraft LLC,Warrant,No Value,No Value,No Value,0.0,0.0,0.0,80.0
+326,Automobile,Automobile,Warrant,,,,,,,
+327,Automobile,"K&N Engineering, Inc.",Preferred stock A,No Value,No Value,No Value,0.0,0.0,0.0,9.0
+328,Automobile,"K&N Engineering, Inc.",Preferred stock B,No Value,No Value,No Value,0.0,0.0,0.0,9.0
+329,Automobile,"K&N Engineering, Inc.",Common stock,No Value,No Value,No Value,0.0,0.0,0.0,69.0
+330,"Beverage, Food and Tobacco","Beverage, Food and Tobacco",Common stock,,,,,,,
+331,"Beverage, Food and Tobacco","Atkins Nutritionals, Inc.",LLC interest,No Value,No Value,No Value,57.0,746.0,0.2,1038.0
+332,"Beverage, Food and Tobacco","C. J. Foods, Inc.",Common stock,No Value,No Value,No Value,157.0,157.0,0.0,157.0
+333,"Beverage, Food and Tobacco","First Watch Restaurants,  Inc.",Common stock,No Value,No Value,No Value,8.0,816.0,0.1,908.0
+334,"Beverage, Food and Tobacco","Goode Seed Co-Invest, LLC",LLC units,No Value,No Value,No Value,356.0,356.0,0.1,408.0
+335,"Beverage, Food and Tobacco",Julio & Sons Company,LLC interest,No Value,No Value,No Value,521.0,521.0,0.1,445.0
+336,"Beverage, Food and Tobacco","Northern Brewer, LLC",LLC interest,No Value,No Value,No Value,438.0,362.0,0.0,8.0
+337,"Beverage, Food and Tobacco","Richelieu Foods, Inc.",LP interest,No Value,No Value,No Value,220.0,220.0,0.0,166.0
+338,"Beverage, Food and Tobacco","Tate’s Bake Shop, Inc.",LP interest,No Value,No Value,No Value,0.0,462.0,0.1,462.0
+339,"Beverage, Food and Tobacco",Uinta Brewing Company,LP interest,No Value,No Value,No Value,0.0,462.0,0.1,462.0
+340,Buildings and Real Estate,Buildings and Real Estate,LP interest,,,,,,,
+341,Buildings and Real Estate,"Brooks Equipment Company, LLC",Common stock,No Value,No Value,No Value,102.0,1021.0,0.1,1021.0
+342,"Containers, Packaging and Glass","Containers, Packaging and Glass",Common stock,,,,,,,
+343,"Containers, Packaging and Glass","Packaging Coordinators,  Inc.",Common stock,No Value,No Value,No Value,25.0,2065.0,0.3,2536.0
+344,"Containers, Packaging and Glass","Packaging Coordinators,  Inc.",Common stock,No Value,No Value,No Value,48.0,1563.0,0.3,2212.0
+345,Diversified Conglomerate Manufacturing,Diversified Conglomerate Manufacturing,Common stock,,,,,,,
+346,Diversified Conglomerate Manufacturing,"Chase Industries, Inc.",Common stock,No Value,No Value,No Value,1.0,1186.0,0.2,1186.0
+347,Diversified Conglomerate Manufacturing,ICCN Acquisition Corp.,Preferred stock,No Value,No Value,No Value,0.0,162.0,0.0,172.0
+348,Diversified Conglomerate Manufacturing,ICCN Acquisition Corp.,Common stock,No Value,No Value,No Value,0.0,0.0,0.0,2.0
+349,Diversified Conglomerate Manufacturing,"Oasis Outsourcing Holdings, Inc.",LLC interest,No Value,No Value,No Value,1088.0,860.0,0.2,1679.0
+350,Diversified Conglomerate Manufacturing,"Sunless Merger Sub, Inc.",LP interest,No Value,No Value,No Value,0.0,160.0,0.0,4.0
+351,Diversified Conglomerate Manufacturing,"TIDI Products, LLC",LLC units,No Value,No Value,No Value,315.0,157.0,0.1,263.0
+352,Diversified Conglomerate Service,Diversified Conglomerate Service,LLC units,,,,,,,
+353,Diversified Conglomerate Service,"Daxko, LLC",LLC units,No Value,No Value,No Value,219.0,219.0,0.0,230.0
+354,Diversified Conglomerate Service,"Marathon Data Operating Co., LLC",Preferred stock,No Value,No Value,No Value,1.0,264.0,0.1,604.0
+355,Diversified Conglomerate Service,"Marathon Data Operating Co., LLC",Common stock,No Value,No Value,No Value,1.0,264.0,0.0,57.0
+356,Diversified Conglomerate Service,"Navex Global, Inc.",LP interest,No Value,No Value,No Value,0.0,666.0,0.2,1604.0
+357,Diversified Conglomerate Service,"PC Helps Support, LLC",Common stock,No Value,No Value,No Value,1.0,7.0,0.0,0.0
+358,Diversified Conglomerate Service,"PC Helps Support, LLC",Preferred stock,No Value,No Value,No Value,0.0,61.0,0.0,70.0
+359,Diversified Conglomerate Service,"Secure-24, LLC",LLC units,No Value,No Value,No Value,263.0,263.0,0.1,275.0
+360,Electronics,Electronics,LLC units,,,,,,,
+361,Electronics,"ECI Acquisition Holdings,  Inc.",Common stock,No Value,No Value,No Value,9.0,873.0,0.1,966.0
+362,Electronics,Sparta Holding Corporation,Common stock,No Value,No Value,No Value,1.0,567.0,0.1,567.0
+363,Electronics,Sparta Holding Corporation,Common stock,No Value,No Value,No Value,235.0,6.0,0.0,6.0
+364,Grocery,Grocery,Common stock,,,,,,,
+365,Grocery,"MyWebGrocer, Inc.",LLC units,No Value,No Value,No Value,1315.0,1322.0,0.2,1322.0
+366,"Healthcare, Education and Childcare","Healthcare, Education and Childcare",LLC units,,,,,,,
+367,"Healthcare, Education and Childcare","Advanced Pain Management Holdings, Inc.",Common stock,No Value,No Value,No Value,67.0,67.0,0.1,768.0
+368,"Healthcare, Education and Childcare","Advanced Pain Management Holdings, Inc.",Preferred stock,No Value,No Value,No Value,8.0,829.0,0.1,901.0
+369,"Healthcare, Education and Childcare","Avatar International, LLC",LP interest,No Value,No Value,No Value,1.0,741.0,0.0,3.0
+370,"Healthcare, Education and Childcare","California Cryobank, LLC",Common stock,No Value,No Value,No Value,0.0,28.0,0.0,28.0
+371,"Healthcare, Education and Childcare","California Cryobank, LLC",Common stock,No Value,No Value,No Value,0.0,0.0,0.0,0.0
+372,"Healthcare, Education and Childcare",Certara L.P.,LP interest,No Value,No Value,No Value,0.0,635.0,0.1,679.0
+373,"Healthcare, Education and Childcare","Dialysis Newco, Inc.",LLC units,No Value,No Value,No Value,871.0,0.0,0.2,1557.0
+374,"Healthcare, Education and Childcare","Encore Rehabilitation Services, LLC",LLC interest,No Value,No Value,No Value,270.0,270.0,0.1,783.0
+375,"Healthcare, Education and Childcare","G & H Wire Company, Inc.",LP interest,No Value,No Value,No Value,0.0,102.0,0.0,124.0
+376,"Healthcare, Education and Childcare","Global Healthcare Exchange, LLC",Common stock,No Value,No Value,No Value,0.0,4.0,0.0,31.0
+377,"Healthcare, Education and Childcare","Global Healthcare Exchange, LLC",Preferred stock,No Value,No Value,No Value,0.0,398.0,0.1,418.0
+378,"Healthcare, Education and Childcare","Hospitalists Management Group, LLC",Common stock,No Value,No Value,No Value,0.0,38.0,0.0,4.0
+379,"Healthcare, Education and Childcare","IntegraMed America, Inc.",Common stock,No Value,No Value,No Value,1.0,701.0,0.1,701.0
+380,"Healthcare, Education and Childcare","Northwestern Management Services, LLC",Common stock,No Value,No Value,No Value,3.0,3.0,0.0,49.0
+381,"Healthcare, Education and Childcare","Northwestern Management Services, LLC",LLC units,No Value,No Value,No Value,0.0,249.0,0.1,285.0
+382,"Healthcare, Education and Childcare","Pentec Acquisition Sub, Inc.",Preferred stock,No Value,No Value,No Value,1.0,116.0,0.0,83.0
+383,"Healthcare, Education and Childcare","Radiology Partners, Inc.",LLC units,No Value,No Value,No Value,43.0,85.0,0.0,85.0
+384,"Healthcare, Education and Childcare","Reliant Pro ReHab, LLC",Preferred stock,No Value,No Value,No Value,2.0,183.0,0.1,883.0
+385,"Healthcare, Education and Childcare",Southern Anesthesia and Surgical,Common stock,No Value,No Value,No Value,487.0,487.0,0.1,697.0
+386,"Healthcare, Education and Childcare","Spear Education, LLC",Preferred stock,No Value,No Value,No Value,0.0,86.0,0.0,86.0
+387,"Healthcare, Education and Childcare","Spear Education, LLC",Common stock,No Value,No Value,No Value,1.0,1.0,0.0,1.0
+388,"Healthcare, Education and Childcare","Healthcare, Education and Childcare",Common stock,,,,,,,
+389,"Healthcare, Education and Childcare","Surgical Information Systems, LLC",Common stock,No Value,No Value,No Value,4.0,414.0,0.1,554.0
+390,"Healthcare, Education and Childcare","Young Innovations, Inc.",Preferred stock,No Value,No Value,No Value,0.0,236.0,0.0,277.0
+391,"Home and Office Furnishings,  Housewares, and Durable Consumer","Home and Office Furnishings,  Housewares, and Durable Consumer",Preferred stock,,,,,,,
+392,"Home and Office Furnishings,  Housewares, and Durable Consumer","Top Knobs USA, Inc.",Common stock,No Value,No Value,No Value,3.0,35.0,0.0,213.0
+393,Insurance,Insurance,Common stock,,,,,,,
+394,Insurance,"Captive Resources Midco, LLC",LLC units,No Value,No Value,No Value,1.0,86.0,0.0,191.0
+395,Investment Funds and Vehicles,Investment Funds and Vehicles,LLC units,,,,,,,
+396,Investment Funds and Vehicles,Senior Loan Fund LLC  (7)(8),LLC interest,No Value,No Value,No Value,9318.0,9318.0,1.3,9242.0
+397,"Leisure, Amusement, Motion Pictures and Entertainment","Leisure, Amusement, Motion Pictures and Entertainment",LLC interest,,,,,,,
+398,"Leisure, Amusement, Motion Pictures and Entertainment","Competitor Group, Inc.",LLC interest,No Value,No Value,No Value,708.0,713.0,0.0,43.0
+399,"Leisure, Amusement, Motion Pictures and Entertainment","LMP TR Holdings, LLC",LLC units,No Value,No Value,No Value,712.0,712.0,0.1,712.0
+400,"Leisure, Amusement, Motion Pictures and Entertainment","Starplex Operating, L.L.C.",Common stock,No Value,No Value,No Value,1.0,183.0,0.0,241.0
+401,"Leisure, Amusement, Motion Pictures and Entertainment","Titan Fitness, LLC",Common stock,No Value,No Value,No Value,6.0,582.0,0.1,649.0
+402,Personal and Non-Durable Consumer Products,Personal and Non-Durable Consumer Products,Common stock,,,,,,,
+403,Personal and Non-Durable Consumer Products,"Hygenic Corporation, The",LP interest,No Value,No Value,No Value,1.0,61.0,0.0,116.0
+404,Personal and Non-Durable Consumer Products,"Massage Envy, LLC",LLC interest,No Value,No Value,No Value,749.0,749.0,0.1,757.0
+405,Personal and Non-Durable Consumer Products,Team Technologies Acquisition Company,Common stock,No Value,No Value,No Value,0.0,148.0,0.0,225.0
+406,Personal Transportation,Personal Transportation,Common stock,,,,,,,
+407,Personal Transportation,PODS Funding Corp. II,Warrant,No Value,No Value,No Value,271.0,0.0,0.2,1599.0
+408,"Personal, Food and Miscellaneous Services","Personal, Food and Miscellaneous Services",Warrant,,,,,,,
+409,"Personal, Food and Miscellaneous Services",R.G. Barry Corporation,Preferred stock,No Value,No Value,No Value,0.0,161.0,0.0,161.0
+410,Printing and Publishing,Printing and Publishing,Preferred stock,,,,,,,
+411,Printing and Publishing,"Market Track, LLC",Preferred stock,No Value,No Value,No Value,0.0,145.0,0.0,178.0
+412,Printing and Publishing,"Market Track, LLC",Common stock,No Value,No Value,No Value,1.0,145.0,0.1,245.0
+413,Retail Stores,Retail Stores,Common stock,,,,,,,
+414,Retail Stores,"Barcelona Restaurants, LLC  (8)  (10)",LP interest,No Value,No Value,No Value,1996.0,1996.0,0.4,3080.0
+415,Retail Stores,"Benihana, Inc.",LLC units,No Value,No Value,No Value,43.0,699.0,0.1,747.0
+416,Retail Stores,"Capital Vision Services,  LLC",LLC interest,No Value,No Value,No Value,402.0,17.0,0.1,520.0
+417,Retail Stores,"DentMall MSO, LLC",Common stock,No Value,No Value,No Value,2.0,0.0,0.0,0.0
+418,Retail Stores,"DentMall MSO, LLC",Preferred stock,No Value,No Value,No Value,2.0,97.0,0.0,97.0
+419,Retail Stores,"Express Oil Change, LLC",LLC interest,No Value,No Value,No Value,81.0,81.0,0.0,79.0
+420,Retail Stores (Continued),Retail Stores (Continued),LLC interest,,,,,,,
+421,Retail Stores (Continued),"Marshall Retail Group LLC, The",Common stock,No Value,No Value,No Value,15.0,154.0,0.0,154.0
+422,Retail Stores (Continued),"Paper Source, Inc.",LLC interest,No Value,No Value,No Value,8.0,1387.0,0.2,1417.0
+423,Retail Stores (Continued),"PetPeople Enterprise, LLC",LP interest,No Value,No Value,No Value,889.0,889.0,0.1,889.0
+424,Retail Stores (Continued),"Rubio’s Restaurants, Inc.",Preferred stock,No Value,No Value,No Value,199.0,945.0,0.2,1430.0
+425,Retail Stores (Continued),"Sneaker Villa, Inc.",LLC interest,No Value,No Value,No Value,4.0,411.0,0.1,511.0
+426,Retail Stores (Continued),Vision Source L.P.,Common stock,No Value,No Value,No Value,9.0,386.0,0.1,760.0
+427,Retail Stores (Continued),Vision Source L.P.,Common stock,No Value,No Value,No Value,0.0,0.0,0.0,0.0
+428,Telecommunications,Telecommunications,Common stock,,,,,,,
+429,Telecommunications,"ITC Global, Inc.",Preferred stock,No Value,No Value,No Value,17.0,311.0,0.1,311.0
+430,Textiles and Leather,Textiles and Leather,Preferred stock,,,,,,,
+431,Textiles and Leather,"Southern Tide, LLC",LLC interest,No Value,No Value,No Value,2.0,191.0,0.0,191.0
