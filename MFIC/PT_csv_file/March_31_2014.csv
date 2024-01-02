@@ -1,140 +1,126 @@
-,new_Industry,INVESTMENTS IN NON-CONTROLLED/NON-AFFILIATED INVESTMENTS0134.1,Industry,Par Amount*,Cost,Fair  Value (1),
-0,Unfunded Revolver Obligations0(0.4),Unfunded Revolver Obligations0(0.4),,,,,
-1,,"Avaya, Inc., L+275 Funded, 0.50 Unfunded, 10/26/16 (8)",Telecommunications,36785,"(5,203","(3,035",
-2,,"BMC Software Inc., L+400 Funded, 0.50 Unfunded, 9/10/18 (8)",Business Services,30760,"(3,243","(2,307",
-3,,"Confie Seguros Holding II Co., L+450 P+350 Funded, 0.50 Unfunded, 12/10/18 (8)",Insurance,3627,(450,(326,
-4,,"Laureate Education, Inc., L+375, Funded, 0.625 Unfunded, 6/16/16 (8) ‡",Education,28880,"(2,888","(2,599",
-5,,"Reichhold Holdings International B.V., L+600 Funded, 1.50 Unfunded, 12/19/16 ‡",Chemicals,12500,0,0,
-6,,"Salix Pharmaceuticals, Ltd., L+300 Funded, 0.50 Unfunded, 1/2/19 ‡ (8)",Healthcare,25000,"(1,923",(125,
-7,,"UniTek Global Services Inc., L+925 Funded, 2.00 Unfunded, 4/15/16",Telecommunications,18052,0,0,
-9,Letters of Credit0 (0.0),Letters of Credit0 (0.0),,,,,
-10,,"Confie Seguros Holding II Co., 4.50, 10/27/14 (8)",Insurance,600,0,(54,
-11,,"Confie Seguros Holding II Co., 4.50, 1/13/15 (8)",Insurance,33,0,(3,
-12,,"UniTek Global Services Inc., 9.25, 3/26/15",Telecommunications,3000,0,0,
-13,,"UniTek Global Services Inc., 9.25, 3/18/15",Telecommunications,1000,0,0,
-14,,"UniTek Global Services Inc., 9.25, 3/18/15",Telecommunications,2700,0,0,
-15,,"UniTek Global Services Inc., 9.25, 12/15/14",Telecommunications,5446,0,0,
-17,2nd Lien Secured Debt047.9,2nd Lien Secured Debt047.9,,,,,
-18,,"Active Network, Inc., L+850, 11/15/21",Business Services,25000,24879,25344,
-19,,"Applied Systems, Inc., L+650, 1/24/22",Business Services,9110,9043,9281,
-20,,"Aptean, Inc., L+750, 2/26/21",Business Services,11322,11153,11478,
-21,,"Armor Holdings, Inc. (American Stock Transfer and Trust Company), L+900, 12/26/20",Financial Services,8000,7851,8000,
-22,,"Asurion Corporation, L+750, 3/3/21",Insurance,90400,89050,93413,
-23,,"Bennu Oil & Gas, LLC, L+900, 11/1/18",Oil and Gas,8999,8927,9123,
-24,,"BJ's Wholesale Club, Inc, L+750, 3/26/20",Retail,20000,19904,20537,
-25,,"Brock Holdings III, Inc., L+825, 3/16/18",Environmental Services,19500,19245,19805,
-26,,"Confie Seguros Holding II Co., L+900, 5/8/19",Insurance,27344,27096,27566,
-27,,"Consolidated Precision Products Corp., L+775, 4/30/21",Aerospace and Defense,8940,8897,9096,
-28,,"Del Monte Foods Co, L+725, 8/18/21","Beverage, Food, and Tobacco",12140,12019,12110,
-29,,"Deltek, Inc., L+875, 10/10/19",Business Services,27273,27023,27887,
-30,,"Elements Behavioral Health, Inc., L+825, 2/11/20",Healthcare,9500,9407,9500,
-31,,"Flexera Software LLC, L+700, 4/2/21",Business Services,7000,6965,7053,
-32,,"Garden Fresh Restaurant Corp., L+575 PIK, 1/1/19 †",Restaurants,7661,5618,5210,
-33,,"Garden Fresh Restaurant Corp., L+1300 PIK, 1/1/19 †",Restaurants,34513,32326,30716,
-34,"APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)","APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)",,,,,
-35,2nd Lien Secured Debt047.9 (continued),2nd Lien Secured Debt047.9 (continued),,,,,
-36,,"GCA Services Group, Inc., L+800, 11/1/20",Diversified Service,22838,22940,23194,
-37,,"Grocery Outlet Inc., L+925, 6/17/19",Grocery,8674,8526,8847,
-38,,"HD Vest Inc., L+800, 6/18/19 ‡",Financial Services,9396,9290,9302,
-39,,"Healogics, Inc., L+800, 2/5/20",Healthcare,10000,10109,10242,
-40,,"IMG Worldwide, Inc., L+725, 3/21/22",Leisure,2167,2145,2199,
-41,,"Insight Pharmaceuticals, LLC., L+1175, 8/25/17",Consumer Products,15448,15243,15139,
-42,,"Kronos, Inc., L+850, 4/30/20",Business Services,92516,91531,96332,
-43,,"Landslide Holdings, Inc., L+725, 2/25/21",Business Services,5630,5588,5672,
-44,,"Learfield Communications, Inc, L+775, 10/8/21",Media,15000,14856,15375,
-45,,"Miller Energy Resources, Inc., L+975, 2/3/18 ‡",Oil and Gas,87500,85804,85750,
-46,,"Ranpak Corp., L+725, 4/23/20",Packaging,22000,21802,22522,
-47,,"River Cree Enterprises LP, 11.00, 1/20/21  t  ‡","Hotels, Motels, Inns and Gaming","CAD 33,000",31110,31767,
-48,,"SESAC Holdco II LLC, L+875, 4/9/14",Broadcasting & Entertainment,10750,10758,10978,
-49,,"Sprint Industrial Holdings, LLC, L+1000, 11/14/19","Containers, Packaging, and Glass",14163,13928,14305,
-50,,"SquareTwo Financial Corp. (Collect America, Ltd.), 11.625, 4/1/17 ‡",Financial Services,61079,59929,61690,
-51,,"Stadium Management Corp, L+825, 2/27/21",Business Services,19900,19900,20348,
-52,,"Tectum Holdings, Inc, L+800/P+700, 3/12/19",Auto Sector,17670,17582,17626,
-53,,"Transfirst Holdings Inc., L+650, 6/27/18",Financial Services,59750,59601,60422,
-54,,"TriMark USA, LLC, L+900, 8/12/19",Distribution,27000,26470,27338,
-55,,"U.S. Renal Care, Inc., L+900, 1/3/20 †",Healthcare,11927,11980,12195,
-56,,"U.S. Renal Care, Inc., L+750, 7/3/20 †",Healthcare,12120,11930,12325,
-57,,"Velocity Technology Solutions, Inc., L+775, 9/28/20",Business Services,16500,16170,16170,
-58,,"Vertafore, Inc., L+825, 10/27/17",Business Services,50436,50167,51397,
-59,,"Walter Energy Inc., 11.00, 4/1/20  t  ‡",Mining,27798,26308,25192,
-62,"APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)","APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)",,,,,
-63,UNSECURED DEBT045.9,UNSECURED DEBT045.9,,,,,
-64,,"Altegrity, Inc., 0.00, 8/2/16 †",Diversified Service,3545,2664,957,
-65,,"Altegrity, Inc., 12.00, 11/1/15  t  †",Diversified Service,14667,14667,13567,
-66,,"American Energy - Utica LLC, 3.50, 3/1/21  t",Oil and Gas,10868,10868,11031,
-67,,"American Tire Distributors, Inc., 11.50, 6/1/18  t  †",Distribution,25000,25000,25700,
-68,,"American Tire Distributors, Inc., 11.50, 6/1/18 †",Distribution,40000,39321,41120,
-69,,"Artsonig Pty Ltd, 11.50, 4/1/19  t‡",Transportation,20000,19701,20025,
-70,,"BCA Osprey II Limited (British Car Auctions), 12.50 PIK, 8/17/17 †‡",Transportation,£,20948,33173,36058
-71,,"BCA Osprey II Limited (British Car Auctions), 12.50 PIK, 8/17/17 †‡",Transportation,€,12721,17489,18102
-72,,"Ceridian Corp., 12.25 Cash or 13.00 PIK, 11/15/15 †",Diversified Service,14420,14420,14562,
-73,,"Ceridian Corp., 11.25, 11/15/15 †",Diversified Service,35800,35800,36154,
-74,,"Ceridian Corp., 11.00, 3/15/21  t  †",Diversified Service,34000,34000,39335,
-75,,"CRC Health Corp., 10.75, 2/1/16",Healthcare,13000,13079,13077,
-76,,"Delta Educational Systems, Inc., 16.00 (10.00 Cash/ 6.00 PIK), 5/12/17",Education,21684,21353,20708,
-77,,"Denver Parent Corp. (Venoco), 12.25, 8/15/18  t",Oil and Gas,15000,14633,15150,
-78,,"Energy & Exploration Partners, Inc., 15.00, 4/8/18 †",Oil and Gas,25000,22410,23750,
-79,,"Energy & Exploration Partners, Inc., 15.00, 12/12/18 †",Oil and Gas,4464,4263,4241,
-80,,"Energy & Exploration Partners, Inc., 15.00, 12/12/18 †",Oil and Gas,2679,2469,2545,
-81,,"Energy & Exploration Partners, Inc., 15.00, 3/27/19 †",Oil and Gas,8036,7650,7634,
-82,,"Exova Limited, 10.50, 5/20/14  t  †‡",Business Services,£,18000,28165,33010
-83,,"Exova Limited, 10.50, 5/20/14 †‡",Business Services,4655,6606,8537,
-84,,"First Data Corp., 11.25, 1/15/21 †",Financial Services,67000,66977,76548,
-85,,"First Data Corp., 10.625, 6/15/21 †",Financial Services,10000,10000,11288,
-86,,"First Data Corp., 12.625, 1/15/21 †",Financial Services,5000,5641,5963,
-87,,"inVentiv Health, Inc., 11.00, 8/15/18  t",Healthcare,106500,106500,98646,
-88,,"My Alarm Center, LLC, 16.25 (12.00 Cash / 4.25PIK), 7/9/18",Business Services,4101,4101,4101,
-89,,"Niacet Corporation, 13.00, 8/28/18",Chemicals,12500,12500,12625,
-90,,"PetroBakken Energy Ltd., 8.625, 2/1/20  t  ‡",Oil and Gas,44082,44390,44206,
-91,,"Prospect Holding Co LLC, 10.25, 10/1/18  t",Financial Services,20000,19106,19450,
-92,,"Radio One Inc, 9.25, 2/15/20  t  ‡",Broadcasting & Entertainment,14804,14804,15778,
-93,,"Symbion Inc., 11.00, 8/23/15",Healthcare,8488,8501,8538,
-94,,"Tervita Corporation, 10.875, 2/15/18  t  ‡",Environmental Services,22438,21739,22662,
-95,,"U.S. Security Associates Holdings, Inc., 11.00, 7/28/18",Business Services,135000,135000,139590,
-96,,"Univar Inc., 10.50, 6/30/18",Distribution,20000,20000,19960,
-97,,"Varietal Distribution, 10.75, 6/30/17  t  †",Distribution,€,11574,15092,16111
-98,,"Varietal Distribution, 10.75, 6/30/17  t  †",Distribution,22204,21908,22426,
-99,,"Venoco, Inc., 8.875, 2/15/19",Oil and Gas,38050,38463,38573,
-102,"APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)","APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands)",,,,,
-103,STRUCTURED PRODUCTS AND OTHER03.9,STRUCTURED PRODUCTS AND OTHER03.9,,,,,
-104,,"Craft 2013-1,Credit Linked Note, L+925, 4/17/22 ‡",Diversified Investment Vehicle,20000,20000,19802,
-105,,"Dark Castle Holdings, LLC",Media,25302,2094,3077,
-106,,"JP Morgan Chase & Co, Credit-Linked Note, L+1225, 12/20/21 ‡",Diversified Investment Vehicle,43250,43010,42935,
-107,,"Renaissance Umiat, LLC, ACES, Tax Receivable ****‡",Oil and Gas,0,7153,7799,
-108,,"Renaissance Umiat, LLC, ACES, Tax Receivable ****‡",Oil and Gas,0,6351,6391,
-110,,PREFERRED EQUITY02.0,Shares,,,,
-111,,"CA Holding, Inc. (Collect America, Ltd.) Series A **‡",Financial Services,7961,788,1592,
-112,,"Crowley Holdings, Series A, 12.00 (10.00 Cash / 2.00 PIK)",Cargo Transport,22500,22623,22620,
-113,,"Gryphon Colleges Corporation (Delta Educational Systems, Inc.), 13.50 PIK***",Education,12360,27685,13802,
-114,,"Gryphon Colleges Corporation (Delta Educational Systems, Inc.), 12.50 PIK ***",Education,332500,6863,0,
-115,,"Varietal Distribution Holdings, LLC, Class A, 8.00 PIK",Distribution,3097,5288,3275,
-117,EQUITY02.3,EQUITY02.3,,,,,
-118,Common Equity/Interests01.8,Common Equity/Interests01.8,,,,,
-119,,Accelerate Parent Corp. (American Tire Distributors) **,Distribution,3225514,3276,4710,
-120,,"AHC Mezzanine, LLC (Advanstar) **",Media,25016,1063,350,
-121,,Altegrity Holding Corp. **,Diversified Service,353399,13797,0,
-122,,"CA Holding, Inc. (Collect America, Ltd.), Series A **‡",Financial Services,25000,2500,1380,
-123,,"CA Holding, Inc. (Collect America, Ltd.), Series AA **‡",Financial Services,4294,430,859,
-124,,"Caza Petroleum Inc., Net Profits Interest **",Oil and Gas,0,940,946,
-125,,"Caza Petroleum Inc., Overriding Royalty Interest **",Oil and Gas,0,265,228,
-126,,"Clothesline Holdings, Inc. (Angelica Corporation) **",Healthcare,6000,6000,3282,
-127,,"Explorer Coinvest, LLC (Booz Allen) **‡",Business Services,340,2603,6958,
-128,,"Garden Fresh Restaurant Holdings, LLC. **",Restaurants,50000,5000,138,
-129,,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.) **",Education,17500,175,0,
-130,,"GS Prysmian Co-Invest L.P. (Prysmian Cables & Systems), Limited Partnership **‡(2)(3)",Manufacturing,0,0,17,
-131,,"JV Note Holdco, LLC (DSI Renal Inc.) **",Healthcare,9303,85,0,
-132,,"Pelican Energy, LLC, Net Profit Interest **‡",Oil and Gas,696656,697,477,
-133,,"RC Coinvestment, LLC (Ranpak Corp.) **",Packaging,50000,5000,7674,
-134,,"Sorenson Communications Holdings, LLC, Class A **",Consumer Products,454828,45,61,
-135,,Univar Inc. **,Distribution,900000,9000,9680,
-136,,"Varietal Distribution Holdings, LLC Class A **",Distribution,28028,28,0,
-138,"APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands, except warrants)","APOLLO INVESTMENT CORPORATION  SCHEDULE OF INVESTMENTS (continued)  March 31, 2014  (in thousands, except warrants)",,,,,
-139,Warrants00.5,Warrants00.5,,,,,
-140,,"CA Holding, Inc. (Collect America, Ltd.), Common Stock Warrants **‡",Financial Services,7961,8,0,
-141,,"Energy & Exploration Partners, Inc., Common Stock Warrants**",Oil and Gas,60778,2374,1829,
-142,,"Fidji Luxco (BC) S.C.A., Common Stock Warrants **‡(2)",Electronics,18113,182,5069,
-143,,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Common Stock Warrants**",Education,9820,98,0,
-144,,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Class A-1 Preferred Stock Warrants**",Education,45947,459,0,
-145,,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Class B-1 Preferred Stock Warrants**",Education,104314,1043,0,
-146,,"Osage Exploration & Development, Inc., Common Stock Warrants **‡",Oil and Gas,1496843,0,1398,
-147,,"Spotted Hawk Development LLC, Common Stock Warrants **‡",Oil and Gas,54545,852,2304,
+,INVESTMENTS IN NON-CONTROLLED/NON-AFFILIATED INVESTMENTS0134.1,Industry,Par Amount,Cost,Fair_Value
+1,"Avaya, Inc., L+275 Funded, 0.50 Unfunded, 10/26/16 (8)",Telecommunications,36785,"(5,203","(3,035"
+2,"BMC Software Inc., L+400 Funded, 0.50 Unfunded, 9/10/18 (8)",Business Services,30760,"(3,243","(2,307"
+3,"Confie Seguros Holding II Co., L+450 P+350 Funded, 0.50 Unfunded, 12/10/18 (8)",Insurance,3627,(450,(326
+4,"Laureate Education, Inc., L+375, Funded, 0.625 Unfunded, 6/16/16 (8) ‡",Education,28880,"(2,888","(2,599"
+5,"Reichhold Holdings International B.V., L+600 Funded, 1.50 Unfunded, 12/19/16 ‡",Chemicals,12500,0,0
+6,"Salix Pharmaceuticals, Ltd., L+300 Funded, 0.50 Unfunded, 1/2/19 ‡ (8)",Healthcare,25000,"(1,923",(125
+7,"UniTek Global Services Inc., L+925 Funded, 2.00 Unfunded, 4/15/16",Telecommunications,18052,0,0
+10,"Confie Seguros Holding II Co., 4.50, 10/27/14 (8)",Insurance,600,0,(54
+11,"Confie Seguros Holding II Co., 4.50, 1/13/15 (8)",Insurance,33,0,(3
+12,"UniTek Global Services Inc., 9.25, 3/26/15",Telecommunications,3000,0,0
+13,"UniTek Global Services Inc., 9.25, 3/18/15",Telecommunications,1000,0,0
+14,"UniTek Global Services Inc., 9.25, 3/18/15",Telecommunications,2700,0,0
+15,"UniTek Global Services Inc., 9.25, 12/15/14",Telecommunications,5446,0,0
+18,"Active Network, Inc., L+850, 11/15/21",Business Services,25000,24879,25344
+19,"Applied Systems, Inc., L+650, 1/24/22",Business Services,9110,9043,9281
+20,"Aptean, Inc., L+750, 2/26/21",Business Services,11322,11153,11478
+21,"Armor Holdings, Inc. (American Stock Transfer and Trust Company), L+900, 12/26/20",Financial Services,8000,7851,8000
+22,"Asurion Corporation, L+750, 3/3/21",Insurance,90400,89050,93413
+23,"Bennu Oil & Gas, LLC, L+900, 11/1/18",Oil and Gas,8999,8927,9123
+24,"BJ's Wholesale Club, Inc, L+750, 3/26/20",Retail,20000,19904,20537
+25,"Brock Holdings III, Inc., L+825, 3/16/18",Environmental Services,19500,19245,19805
+26,"Confie Seguros Holding II Co., L+900, 5/8/19",Insurance,27344,27096,27566
+27,"Consolidated Precision Products Corp., L+775, 4/30/21",Aerospace and Defense,8940,8897,9096
+28,"Del Monte Foods Co, L+725, 8/18/21","Beverage, Food, and Tobacco",12140,12019,12110
+29,"Deltek, Inc., L+875, 10/10/19",Business Services,27273,27023,27887
+30,"Elements Behavioral Health, Inc., L+825, 2/11/20",Healthcare,9500,9407,9500
+31,"Flexera Software LLC, L+700, 4/2/21",Business Services,7000,6965,7053
+32,"Garden Fresh Restaurant Corp., L+575 PIK, 1/1/19 †",Restaurants,7661,5618,5210
+33,"Garden Fresh Restaurant Corp., L+1300 PIK, 1/1/19 †",Restaurants,34513,32326,30716
+36,"GCA Services Group, Inc., L+800, 11/1/20",Diversified Service,22838,22940,23194
+37,"Grocery Outlet Inc., L+925, 6/17/19",Grocery,8674,8526,8847
+38,"HD Vest Inc., L+800, 6/18/19 ‡",Financial Services,9396,9290,9302
+39,"Healogics, Inc., L+800, 2/5/20",Healthcare,10000,10109,10242
+40,"IMG Worldwide, Inc., L+725, 3/21/22",Leisure,2167,2145,2199
+41,"Insight Pharmaceuticals, LLC., L+1175, 8/25/17",Consumer Products,15448,15243,15139
+42,"Kronos, Inc., L+850, 4/30/20",Business Services,92516,91531,96332
+43,"Landslide Holdings, Inc., L+725, 2/25/21",Business Services,5630,5588,5672
+44,"Learfield Communications, Inc, L+775, 10/8/21",Media,15000,14856,15375
+45,"Miller Energy Resources, Inc., L+975, 2/3/18 ‡",Oil and Gas,87500,85804,85750
+46,"Ranpak Corp., L+725, 4/23/20",Packaging,22000,21802,22522
+47,"River Cree Enterprises LP, 11.00, 1/20/21  t  ‡","Hotels, Motels, Inns and Gaming","CAD 33,000",31110,31767
+48,"SESAC Holdco II LLC, L+875, 4/9/14",Broadcasting & Entertainment,10750,10758,10978
+49,"Sprint Industrial Holdings, LLC, L+1000, 11/14/19","Containers, Packaging, and Glass",14163,13928,14305
+50,"SquareTwo Financial Corp. (Collect America, Ltd.), 11.625, 4/1/17 ‡",Financial Services,61079,59929,61690
+51,"Stadium Management Corp, L+825, 2/27/21",Business Services,19900,19900,20348
+52,"Tectum Holdings, Inc, L+800/P+700, 3/12/19",Auto Sector,17670,17582,17626
+53,"Transfirst Holdings Inc., L+650, 6/27/18",Financial Services,59750,59601,60422
+54,"TriMark USA, LLC, L+900, 8/12/19",Distribution,27000,26470,27338
+55,"U.S. Renal Care, Inc., L+900, 1/3/20 †",Healthcare,11927,11980,12195
+56,"U.S. Renal Care, Inc., L+750, 7/3/20 †",Healthcare,12120,11930,12325
+57,"Velocity Technology Solutions, Inc., L+775, 9/28/20",Business Services,16500,16170,16170
+58,"Vertafore, Inc., L+825, 10/27/17",Business Services,50436,50167,51397
+59,"Walter Energy Inc., 11.00, 4/1/20  t  ‡",Mining,27798,26308,25192
+64,"Altegrity, Inc., 0.00, 8/2/16 †",Diversified Service,3545,2664,957
+65,"Altegrity, Inc., 12.00, 11/1/15  t  †",Diversified Service,14667,14667,13567
+66,"American Energy - Utica LLC, 3.50, 3/1/21  t",Oil and Gas,10868,10868,11031
+67,"American Tire Distributors, Inc., 11.50, 6/1/18  t  †",Distribution,25000,25000,25700
+68,"American Tire Distributors, Inc., 11.50, 6/1/18 †",Distribution,40000,39321,41120
+69,"Artsonig Pty Ltd, 11.50, 4/1/19  t‡",Transportation,20000,19701,20025
+70,"BCA Osprey II Limited (British Car Auctions), 12.50 PIK, 8/17/17 †‡",Transportation,20948,33173,36058
+71,"BCA Osprey II Limited (British Car Auctions), 12.50 PIK, 8/17/17 †‡",Transportation,12721,17489,18102
+72,"Ceridian Corp., 12.25 Cash or 13.00 PIK, 11/15/15 †",Diversified Service,14420,14420,14562
+73,"Ceridian Corp., 11.25, 11/15/15 †",Diversified Service,35800,35800,36154
+74,"Ceridian Corp., 11.00, 3/15/21  t  †",Diversified Service,34000,34000,39335
+75,"CRC Health Corp., 10.75, 2/1/16",Healthcare,13000,13079,13077
+76,"Delta Educational Systems, Inc., 16.00 (10.00 Cash/ 6.00 PIK), 5/12/17",Education,21684,21353,20708
+77,"Denver Parent Corp. (Venoco), 12.25, 8/15/18  t",Oil and Gas,15000,14633,15150
+78,"Energy & Exploration Partners, Inc., 15.00, 4/8/18 †",Oil and Gas,25000,22410,23750
+79,"Energy & Exploration Partners, Inc., 15.00, 12/12/18 †",Oil and Gas,4464,4263,4241
+80,"Energy & Exploration Partners, Inc., 15.00, 12/12/18 †",Oil and Gas,2679,2469,2545
+81,"Energy & Exploration Partners, Inc., 15.00, 3/27/19 †",Oil and Gas,8036,7650,7634
+82,"Exova Limited, 10.50, 5/20/14  t  †‡",Business Services,18000,28165,33010
+83,"Exova Limited, 10.50, 5/20/14 †‡",Business Services,4655,6606,8537
+84,"First Data Corp., 11.25, 1/15/21 †",Financial Services,67000,66977,76548
+85,"First Data Corp., 10.625, 6/15/21 †",Financial Services,10000,10000,11288
+86,"First Data Corp., 12.625, 1/15/21 †",Financial Services,5000,5641,5963
+87,"inVentiv Health, Inc., 11.00, 8/15/18  t",Healthcare,106500,106500,98646
+88,"My Alarm Center, LLC, 16.25 (12.00 Cash / 4.25PIK), 7/9/18",Business Services,4101,4101,4101
+89,"Niacet Corporation, 13.00, 8/28/18",Chemicals,12500,12500,12625
+90,"PetroBakken Energy Ltd., 8.625, 2/1/20  t  ‡",Oil and Gas,44082,44390,44206
+91,"Prospect Holding Co LLC, 10.25, 10/1/18  t",Financial Services,20000,19106,19450
+92,"Radio One Inc, 9.25, 2/15/20  t  ‡",Broadcasting & Entertainment,14804,14804,15778
+93,"Symbion Inc., 11.00, 8/23/15",Healthcare,8488,8501,8538
+94,"Tervita Corporation, 10.875, 2/15/18  t  ‡",Environmental Services,22438,21739,22662
+95,"U.S. Security Associates Holdings, Inc., 11.00, 7/28/18",Business Services,135000,135000,139590
+96,"Univar Inc., 10.50, 6/30/18",Distribution,20000,20000,19960
+97,"Varietal Distribution, 10.75, 6/30/17  t  †",Distribution,11574,15092,16111
+98,"Varietal Distribution, 10.75, 6/30/17  t  †",Distribution,22204,21908,22426
+99,"Venoco, Inc., 8.875, 2/15/19",Oil and Gas,38050,38463,38573
+104,"Craft 2013-1,Credit Linked Note, L+925, 4/17/22 ‡",Diversified Investment Vehicle,20000,20000,19802
+105,"Dark Castle Holdings, LLC",Media,25302,2094,3077
+106,"JP Morgan Chase & Co, Credit-Linked Note, L+1225, 12/20/21 ‡",Diversified Investment Vehicle,43250,43010,42935
+107,"Renaissance Umiat, LLC, ACES, Tax Receivable ****‡",Oil and Gas,0,7153,7799
+108,"Renaissance Umiat, LLC, ACES, Tax Receivable ****‡",Oil and Gas,0,6351,6391
+111,"CA Holding, Inc. (Collect America, Ltd.) Series A **‡",Financial Services,7961,788,1592
+112,"Crowley Holdings, Series A, 12.00 (10.00 Cash / 2.00 PIK)",Cargo Transport,22500,22623,22620
+113,"Gryphon Colleges Corporation (Delta Educational Systems, Inc.), 13.50 PIK***",Education,12360,27685,13802
+114,"Gryphon Colleges Corporation (Delta Educational Systems, Inc.), 12.50 PIK ***",Education,332500,6863,0
+115,"Varietal Distribution Holdings, LLC, Class A, 8.00 PIK",Distribution,3097,5288,3275
+119,Accelerate Parent Corp. (American Tire Distributors) **,Distribution,3225514,3276,4710
+120,"AHC Mezzanine, LLC (Advanstar) **",Media,25016,1063,350
+121,Altegrity Holding Corp. **,Diversified Service,353399,13797,0
+122,"CA Holding, Inc. (Collect America, Ltd.), Series A **‡",Financial Services,25000,2500,1380
+123,"CA Holding, Inc. (Collect America, Ltd.), Series AA **‡",Financial Services,4294,430,859
+124,"Caza Petroleum Inc., Net Profits Interest **",Oil and Gas,0,940,946
+125,"Caza Petroleum Inc., Overriding Royalty Interest **",Oil and Gas,0,265,228
+126,"Clothesline Holdings, Inc. (Angelica Corporation) **",Healthcare,6000,6000,3282
+127,"Explorer Coinvest, LLC (Booz Allen) **‡",Business Services,340,2603,6958
+128,"Garden Fresh Restaurant Holdings, LLC. **",Restaurants,50000,5000,138
+129,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.) **",Education,17500,175,0
+130,"GS Prysmian Co-Invest L.P. (Prysmian Cables & Systems), Limited Partnership **‡(2)(3)",Manufacturing,0,0,17
+131,"JV Note Holdco, LLC (DSI Renal Inc.) **",Healthcare,9303,85,0
+132,"Pelican Energy, LLC, Net Profit Interest **‡",Oil and Gas,696656,697,477
+133,"RC Coinvestment, LLC (Ranpak Corp.) **",Packaging,50000,5000,7674
+134,"Sorenson Communications Holdings, LLC, Class A **",Consumer Products,454828,45,61
+135,Univar Inc. **,Distribution,900000,9000,9680
+136,"Varietal Distribution Holdings, LLC Class A **",Distribution,28028,28,0
+140,"CA Holding, Inc. (Collect America, Ltd.), Common Stock Warrants **‡",Financial Services,7961,8,0
+141,"Energy & Exploration Partners, Inc., Common Stock Warrants**",Oil and Gas,60778,2374,1829
+142,"Fidji Luxco (BC) S.C.A., Common Stock Warrants **‡(2)",Electronics,18113,182,5069
+143,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Common Stock Warrants**",Education,9820,98,0
+144,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Class A-1 Preferred Stock Warrants**",Education,45947,459,0
+145,"Gryphon Colleges Corp. (Delta Educational Systems, Inc.), Class B-1 Preferred Stock Warrants**",Education,104314,1043,0
+146,"Osage Exploration & Development, Inc., Common Stock Warrants **‡",Oil and Gas,1496843,0,1398
+147,"Spotted Hawk Development LLC, Common Stock Warrants **‡",Oil and Gas,54545,852,2304

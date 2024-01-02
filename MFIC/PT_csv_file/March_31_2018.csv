@@ -1,258 +1,185 @@
-,new_Industry,Industry / Company,Investment Type,Interest Rate (20),Maturity  Date,Par / Shares (12),Cost (30),Fair  Value (1) (31),,
-0,"Advertising, Printing & Publishing","Advertising, Printing & Publishing",,,,,,,,
-1,,A-L Parent LLC,Second Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",12/02/24,7536,7473,7611,,
-2,,"American Media, Inc.",First Lien Secured Debt,"10.75 (3M L+900, 1.00 Floor)",08/24/20,13867,13596,14213,,
-3,,"American Media, Inc.",First Lien Secured Debt - Revolver,"11.25 (3M L+900, 1.00 Floor)",08/24/20,948,948,963,(23),
-4,,"American Media, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,08/24/20,746,(32,0,(21)(23),
-5,,"American Media, Inc.",First Lien Secured Debt - Letter of Credit,9.00,08/24/20,84,0,0,(23),
-6,,"American Media, Inc.",14512,15176,,,,,,
-7,,"Simplifi Holdings, Inc.",First Lien Secured Debt,"8.39 (1M L+650, 1.00 Floor)",09/28/22,12139,11812,11775,(9),
-8,,"Simplifi Holdings, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/28/22,2400,(65,(72,(8)(9)(21)(23),
-9,,"Simplifi Holdings, Inc.",11747,11703,,,,,,
-11,Aerospace & Defense,Aerospace & Defense,,,,,,,,
-12,,Erickson Inc,First Lien Secured Debt - Revolver,"9.81 (3M L+750, 1.00 Floor)",04/28/22,21140,21140,20823,(9)(23),
-13,,Erickson Inc,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,04/28/22,16201,(458,(243,(8)(9)(21)(23),
-14,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,04/01/18,277,0,(4,(8)(9)(23),
-15,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,06/20/18,43,0,0,(8)(9)(23),
-16,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,06/25/18,4,0,0,(8)(9)(23),
-17,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,09/30/18,104,0,(2,(8)(9)(23),
-18,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,10/18/18,708,0,(11,(8)(9)(23),
-19,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,11/28/18,670,0,(10,(8)(9)(23),
-20,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,12/10/18,37,0,(1,(8)(9)(23),
-21,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,03/31/20,1287,0,(19,(8)(9)(23),
-22,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/24/18,288,0,(4,(8)(9)(23),
-23,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,10/27/18,5,0,0,(8)(9)(23),
-24,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/26/18,9,0,0,(8)(9)(23),
-25,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/16/18,9,0,0,(8)(9)(23),
-26,,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,04/30/20,4218,0,(63,(8)(9)(23),
-27,,Erickson Inc,20682,20466,,,,,,
-28,,ILC Dover LP,Second Lien Secured Debt,"10.95 (6M L+850, 1.00 Floor)",06/28/24,20000,19566,19550,,
-29,,PAE Holding Corporation,Second Lien Secured Debt,"11.49 (2M L+950, 1.00 Floor)",10/20/23,28097,27422,28343,(10),
-31,Automotive,Automotive,,,,,,,,
-32,Crowne Automotive,Crowne Automotive,,,,,,,,
-33,,"Vari-Form Group, LLC",First Lien Secured Debt,"12.92 (3M L+11.00 (7.00 Cash plus 4.00 PIK), 1.00 Floor)",02/02/23,5000,4855,4850,(9),
-34,,Vari-Form Inc.,First Lien Secured Debt,"12.92 (3M L+11.00 (7.00 Cash plus 4.00 PIK), 1.00 Floor)",02/02/23,10000,9710,9700,(9),
-35,,Vari-Form Inc.,14565,14550,,,,,,
-36,,"K&N Parent, Inc.",Second Lien Secured Debt,"10.63 (1M L+875, 1.00 Floor)",10/21/24,27000,26550,26325,(10),
-38,Aviation and Consumer Transport,Aviation and Consumer Transport,,,,,,,,
-39,Merx Aviation,Merx Aviation,,,,,,,,
-40,,Merx Aviation Finance Assets Ireland Limited (5),First Lien Secured Debt - Letter of Credit,2.25,09/30/18,3600,0,0,(23),
-41,,"Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Revolver,12.00,10/31/23,359800,359800,359800,(23),
-42,,"Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,07/13/18,177,0,0,(23),
-43,,"Merx Aviation Finance, LLC (5)",Common Equity/Interests - Membership Interests,N/A,N/A,N/A,15000,42381,,
-45,Business Services,Business Services,,,,,,,,
-46,,"Access CIG, LLC",Second Lien Secured Debt,9.63 (1M L+775),02/27/26,20235,20035,20463,(10),
-47,,"Access CIG, LLC",Second Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,02/27/26,3765,0,0,(10)(21)(23),
-48,,"Access CIG, LLC",20035,20463,,,,,,
-49,,Aero Operating LLC,First Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",12/29/22,33477,32683,32640,(9),
-50,,Aero Operating LLC,First Lien Secured Debt - Revolver,"9.13 (1M L+725, 1.00 Floor)",12/29/22,2486,2486,2424,(9)(23),
-51,,Aero Operating LLC,First Lien Secured Debt - Unfunded Revolver,1.00 Unfunded,12/29/22,2326,(71,(58,(8)(9)(21)(23),
-52,,Aero Operating LLC,35098,35006,,,,,,
-53,,"Almonde, Inc",Second Lien Secured Debt,"9.23 (3M L+725, 1.00 Floor)",06/13/25,2316,2294,2300,(10)(17),
-54,,Ambrosia Buyer Corp.,Second Lien Secured Debt,"9.88 (1M L+ 800, 1.00 Floor)",08/28/25,21429,20933,20934,,
-55,,"Aptean, Inc.",Second Lien Secured Debt,"11.80 (3M L+950, 1.00 Floor)",12/20/23,11148,11045,11245,(10),
-56,,"CT Technologies Intermediate Holdings, Inc",Second Lien Secured Debt,"10.88 (1M L+900, 1.00 Floor)",12/01/22,31253,30470,30315,(9),
-57,,Electro Rent Corporation,Second Lien Secured Debt,"10.98 (3M L+900, 1.00 Floor)",01/31/25,18333,17863,17967,(9),
-58,,Electro Rent Corporation,Second Lien Secured Debt,"11.25 (3M L+900, 1.00 Floor)",01/31/25,18265,17753,17899,(9),
-59,,Electro Rent Corporation,35616,35866,,,,,,
-60,,"Ministry Brands, LLC",Second Lien Secured Debt,"11.13 (1M L+925, 1.00 Floor)",06/02/23,10000,9880,9875,,
-61,,"Newscycle Solutions, Inc.",First Lien Secured Debt,"8.89 (1M L+700, 1.00 Floor)",12/28/22,13743,13416,13399,(9),
-62,,"Newscycle Solutions, Inc.",First Lien Secured Debt,"8.88 (1M L+700, 1.00 Floor)",12/28/22,1257,1227,1226,(9),
-63,,"Newscycle Solutions, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/28/22,500,(7,(13,(8)(9)(21)(23),
-64,,"Newscycle Solutions, Inc.",14636,14612,,,,,,
-65,,"PSI Services, LLC",First Lien Secured Debt,"6.87 (1M L+500, 1.00 Floor)",01/20/23,4121,4038,4055,(9),
-66,,"PSI Services, LLC",First Lien Secured Debt - Revolver,"6.89 (1M L+500, 1.00 Floor)",01/20/22,79,79,78,(9)(23),
-67,,"PSI Services, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,01/20/22,159,(8,(2,(8)(9)(21)(23),
-68,,"RA Outdoors, LLC",First Lien Secured Debt,"6.54 (1M L+475, 1.00 Floor)",09/11/24,7229,7095,7156,(9),
-69,,"RA Outdoors, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/09/22,1200,(21,(12,(8)(9)(21)(23),
-70,,"RA Outdoors, LLC",Second Lien Secured Debt,"10.54 (1M L+875, 1.00 Floor)",09/11/25,34200,33404,33516,(9),
-71,,"RA Outdoors, LLC",40478,40660,,,,,,
-72,Skyline Data/Dodge Data,Skyline Data/Dodge Data,,,,,,,,
-73,,Dodge Data & Analytics LLC,First Lien Secured Debt,"11.06 (3M L+875, 1.00 Floor)",10/31/19,48965,48653,47790,,
-74,,"Skyline Data, News and Analytics LLC",Common Equity/Interests - Class A Common Unit,N/A,N/A,"4,500,000 Shares",4500,4500,(13),
-75,,"Skyline Data, News and Analytics LLC",53153,52290,,,,,,
-76,,"STG-Fairway Acquisitions, Inc.",Second Lien Secured Debt,"11.23 (3M L+925, 1.00 Floor)",06/30/23,15000,14753,14400,(10),
-77,,"Transplace Holdings, Inc.",Second Lien Secured Debt,"10.46 (1M L+875, 1.00 Floor)",10/06/25,14963,14609,15187,(10),
-78,,"U.S. Security Associates Holdings, Inc.",Unsecured Debt,11.00,01/28/20,80000,80000,80000,,
-80,"Chemicals, Plastics & Rubber","Chemicals, Plastics & Rubber",,,,,,,,
-81,Carbon Free Chemicals,Carbon Free Chemicals,,,,,,,,
-82,,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),First Lien Secured Debt,5.215 PIK,06/30/20,59305,59305,47170,,
-83,,Carbonfree Caustic SPE LLC,Unfunded Delayed Draw - Promissory Note,0.00 Unfunded,06/30/20,6111,0,0,(21)(23),
-84,,Carbonfree Caustic SPE LLC,59305,47170,,,,,,
-85,,"Hare Bidco, Inc.",Second Lien Secured Debt,"9.75 (3M E+875, 1.00 Floor)",08/01/24,€,13574,14423,16360,
-87,Consumer Goods – Durable,Consumer Goods – Durable,,,,,,,,
-88,,"Hayward Industries, Inc.",Second Lien Secured Debt,10.13 (1M L+825),08/04/25,25110,24649,24647,,
-89,KLO Holdings,KLO Holdings,,,,,,,,
-90,,9357-5991 Quebec Inc.,First Lien Secured Debt,"9.69 (1M L+775, 0.75 Floor)",04/07/22,9322,9229,9224,,
-91,,KLO Acquisition LLC,First Lien Secured Debt,"9.69 (1M L+775, 0.75 Floor)",04/07/22,5397,5343,5340,,
-92,,KLO Acquisition LLC,14572,14564,,,,,,
-93,,"Sorenson Holdings, LLC",Common Equity/Interests - Membership Interests,N/A,N/A,587 Shares,0,466,(13),
-95,Consumer Goods – Non-Durable,Consumer Goods – Non-Durable,,,,,,,,
-96,,"ABG Intermediate Holdings 2, LLC",Second Lien Secured Debt,"10.05 (3M L+775, 1.00 Floor)",09/29/25,8094,8036,8226,(10),
-97,,"Sequential Brands Group, Inc.",Second Lien Secured Debt,10.79 (1M L+900),07/01/22,17160,17007,17250,(17),
-99,Consumer Services,Consumer Services,,,,,,,,
-100,,1A Smart Start LLC,Second Lien Secured Debt,"10.13 (1M L+825, 1.00 Floor)",08/22/22,25100,24628,24623,,
-102,"Containers, Packaging & Glass","Containers, Packaging & Glass",,,,,,,,
-103,,"Sprint Industrial Holdings, LLC",Second Lien Secured Debt,13.5 PIK,11/14/19,19072,18107,10159,(13)(14),
-104,,"Sprint Industrial Holdings, LLC",Common Equity/Interests - Warrants,N/A,N/A,"7,341 Warrants",0,0,(13)(26),
-105,,"Sprint Industrial Holdings, LLC",18107,10159,,,,,,
-106,,"TricorBraun Holdings, Inc.",First Lien Secured Debt - Revolver,7.00 (P+225),11/30/21,1560,1560,1561,(23),
-107,,"TricorBraun Holdings, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,11/30/21,4065,(371,0,(21)(23),
-108,,"TricorBraun Holdings, Inc.",1189,1561,,,,,,
-110,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Diversified Investment Vehicles, Banking, Finance, Real Estate",,,,,,,,
-111,,Armor Holding II LLC,Second Lien Secured Debt,"11.31 (3M L+900, 1.25 Floor)",12/26/20,8000,7941,8110,(10),
-112,,Craft 2014-1A,Structured Products and Other - Credit-Linked Note,N/A,05/15/21,42500,0,0,(11)(17),
-113,,Craft 2015-2,Structured Products and Other - Credit-Linked Note,10.22 (3M L+925),01/16/24,24998,25691,24960,(11)(17),
-114,,"Golden Bear 2016-R, LLC (3)(4)",Structured Products and Other - Membership Interests,N/A,09/20/42,0,16506,14147,(17),
-115,,Mayfield Agency Borrower Inc.,Second Lien Secured Debt,"10.38 (1M L+850, 1.00 Floor)",03/02/26,5000,4926,4997,(10),
-116,,"Purchasing Power, LLC",First Lien Secured Debt - Revolver,"9.88 (1M L + 800, 1.00 Floor)",07/10/19,3068,3068,3048,(9)(23),
-117,,"Purchasing Power, LLC",First Lien Secured Debt - Unfunded Revolver,0.75 Unfunded,07/10/19,1432,(53,(35,(8)(9)(21)(23),
-118,,"Purchasing Power, LLC",3015,3013,,,,,,
-119,,"Ten-X, LLC",First Lien Secured Debt - Revolver,"5.60 (1M L+375, 1.00 Floor)",09/29/22,520,520,477,(23),
-120,,"Ten-X, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/29/22,4160,(379,(341,(8)(21)(23),
-121,,"Ten-X, LLC",141,136,,,,,,
-123,Energy – Electricity,Energy – Electricity,,,,,,,,
-124,,"AMP Solar Group, Inc. (4)",Common Equity/Interests - Class A Common Unit,N/A,N/A,"243,646 Shares",10000,5051,(13)(17),
-125,Renew Financial,Renew Financial,,,,,,,,
-126,,"AIC SPV Holdings II, LLC (4)",Preferred Equity - Preferred Stock,N/A,N/A,143 Shares,534,925,(13)(15)(17),
-127,,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series B Preferred Stock,N/A,N/A,"1,505,868 Shares",8343,19035,(13),
-128,,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series D Preferred Stock,N/A,N/A,"436,689 Shares",5568,6676,(13),
-129,,Renew JV LLC (4),Common Equity/Interests - Membership Interests,N/A,N/A,N/A,2740,4111,(13)(17),
-130,,Renew JV LLC (4),17185,30747,,,,,,
-131,Solarplicity Group,Solarplicity Group,,,,,,,,
-132,,Solarplicity Group Limited (3)(4),First Lien Secured Debt,N/A,11/30/22,£,4331,5811,6063,(13)(17)
-133,,Solarplicity UK Holdings Limited,First Lien Secured Debt,4.00,03/08/23,£,5562,7637,7778,(17)
-134,,Solarplicity UK Holdings Limited,Preferred Equity - Preferred Stock,N/A,N/A,"4,286 Shares",5832,5008,(2)(17),
-135,,Solarplicity UK Holdings Limited,Common Equity/Interests - Ordinary Shares,N/A,N/A,"2,825 Shares",4,929,(2)(13)(17),
-136,,Solarplicity UK Holdings Limited,19284,19778,,,,,,
-137,,Westinghouse Electric Co LLC,First Lien Secured Debt,"6.44 (1M L+450, 1.00 Floor)",01/11/19,30000,30000,30000,(9),
-139,Energy – Oil & Gas,Energy – Oil & Gas,,,,,,,,
-140,,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",First Lien Secured Debt,8.00 Cash (10.00 PIK Toggle),03/29/19,15000,15000,15000,,
-141,,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",Second Lien Secured Debt,10.00 PIK (8.00 Cash Toggle),03/29/21,30510,30510,30510,,
-142,,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",Common Equity/Interests - Common Stock,N/A,N/A,"5,000,000 Shares",30078,20303,(13),
-143,,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",75588,65813,,,,,,
-144,,"Pelican Energy, LLC (4)",Common Equity/Interests - Membership Interests,N/A,N/A,"1,444 Shares",24441,12946,(13)(17)(29),
-145,,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche A Note,14.00 (8.00 Cash plus 6.00 PIK),12/31/19,43436,43436,44739,,
-146,,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche B Note,14.00 PIK,12/31/19,73231,44380,40816,(13)(14),
-147,,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche C Note,12.00,12/31/19,19200,19200,19776,,
-148,,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,12/31/19,2800,0,0,(21)(23),
-149,,"SHD Oil & Gas, LLC (5)",Common Equity/Interests - Series A Units,N/A,N/A,"7,600,000 Shares",1411,0,(13)(29),
-150,,"SHD Oil & Gas, LLC (5)",108427,105331,,,,,,
-152,Food & Grocery,Food & Grocery,,,,,,,,
-153,Bumble Bee Foods,Bumble Bee Foods,,,,,,,,
-154,,"Bumble Bee Holdings, Inc.",First Lien Secured Debt,"9.87 (3M L+800, 1.00 Floor)",08/15/23,15507,15221,15197,,
-155,,Connors Bros Clover Leaf Seafoods Company,First Lien Secured Debt,"9.87 (3M L+800, 1.00 Floor)",08/15/23,4393,4312,4305,,
-156,,Connors Bros Clover Leaf Seafoods Company,19533,19502,,,,,,
-157,,"Grocery Outlet, Inc.",Second Lien Secured Debt,"10.55 (3M L+825, 1.00 Floor)",10/21/22,25000,24784,25250,(10),
-159,Healthcare & Pharmaceuticals,Healthcare & Pharmaceuticals,,,,,,,,
-160,Altasciences,Altasciences,,,,,,,,
-161,,9360-1367 Quebec Inc.,First Lien Secured Debt,"7.93 (3M L+625, 1.00 Floor)",06/09/23,C$,2418,1766,1833,(9)(17)
-162,,9360-1367 Quebec Inc.,First Lien Secured Debt,"8.56 (3M L+625, 1.00 Floor)",06/09/23,2899,2842,2834,(9)(17),
-163,,"Altasciences US Acquisition, Inc.",First Lien Secured Debt,"8.56 (3M L+625, 1.00 Floor)",06/09/23,5235,5133,5117,(9),
-164,,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Unfunded Delayed Draw,0.50 Unfunded,06/09/23,2851,(31,(64,(8)(9)(21)(23)(28),
-165,,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Revolver,"8.56 (3M L+625, 1.00 Floor)",06/09/23,71,71,70,(9)(23)(28),
-166,,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Revolver,"8.56 (3M L+625, 1.00 Floor)",06/09/23,214,214,209,(9)(23)(28),
-167,,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Unfunded Revolver,0.25 Unfunded,06/09/23,1140,(28,(27,(8)(9)(21)(23)(28),
-168,,"Altasciences US Acquisition, Inc.",9967,9972,,,,,,
-169,,Aptevo Therapeutics Inc.,First Lien Secured Debt,"9.48 (1M L+760, 0.50 Floor)",02/01/21,8571,8708,8531,(9),
-170,,"Argon Medical Devices Holdings, Inc.",Second Lien Secured Debt,"10.30 (3M L+800, 1.00 Floor)",01/23/26,21600,21494,21870,(10),
-171,,"Avalign Technologies, Inc.",Second Lien Secured Debt,"10.38 (6M L+825, 1.00 Floor)",09/02/24,5500,5449,5483,(10),
-172,,"BioClinica Holding I, LP",Second Lien Secured Debt,"9.99 (3M L+825, 1.00 Floor)",10/21/24,24612,24201,23874,(10),
-173,,"Genesis Healthcare, Inc.",First Lien Secured Debt,"8.31 (3M L+600, 0.50 Floor)",03/06/23,25000,24630,24630,(9),
-174,,"Genesis Healthcare, Inc.",First Lien Secured Debt - Unfunded Delayed Draw,2.00 Unfunded,03/06/23,9130,(180,(135,(8)(9)(21)(23),
-175,,"Genesis Healthcare, Inc.",First Lien Secured Debt - Revolver,"8.03 (3M L+600, 0.50 Floor)",03/06/23,23835,23835,23483,(9)(23),
-176,,"Genesis Healthcare, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/06/23,37035,(877,(547,(8)(9)(21)(23),
-177,,"Genesis Healthcare, Inc.",47408,47431,,,,,,
-178,,"Elements Behavioral Health, Inc.",Second Lien Secured Debt,"15.06 (3M L+1275, 1.00 Floor)",02/11/20,12353,11911,0,(13)(14),
-179,,"Invuity, Inc.",First Lien Secured Debt,"8.38 (1M L+650, 1.50 Floor)",03/01/22,10000,9855,9750,(9),
-180,,"Invuity, Inc.",First Lien Secured Debt - Revolver,"5.13 (1M L+325, 1.50 Floor)",03/01/22,657,657,649,(9)(23),
-181,,"Invuity, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/01/22,1343,(8,(17,(8)(9)(21)(23),
-182,,"Invuity, Inc.",Common Equity/Interests - Warrants,N/A,N/A,"32,803 Warrants",180,69,(9)(13),
-183,,"Invuity, Inc.",10684,10451,,,,,,
-184,,"Lanai Holdings III, Inc.",Second Lien Secured Debt,"10.29 (2M L+850, 1.00 Floor)",08/28/23,17391,16991,16696,(10),
-185,,"LSCS Holdings, Inc",Second Lien Secured Debt,10.31 (3M L+825),03/16/26,20455,19995,20352,,
-186,,"LSCS Holdings, Inc",Second Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,03/16/26,4545,(102,(23,(8)(21)(23),
-187,,"LSCS Holdings, Inc",19893,20329,,,,,,
-188,,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt,"8.25 (3M L+600, 1.00 Floor)",11/22/23,21577,21070,21373,(9),
-189,,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Revolver,9.75 (P+500),11/22/22,195,195,193,(9)(23),
-190,,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,11/22/22,1363,(19,(12,(8)(9)(21)(23),
-191,,"Maxor National Pharmacy Services, LLC",21246,21554,,,,,,
-192,,"Oxford Immunotec, Inc.",First Lien Secured Debt,"9.48 (1M L+760, 0.50 Floor)",10/01/21,9750,9886,9916,(9)(17),
-193,,"Oxford Immunotec, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,10/01/21,1000,(4,0,(9)(17)(21)(23),
-194,,"Oxford Immunotec, Inc.",9882,9916,,,,,,
-195,,"Partner Therapeutics, Inc",First Lien Secured Debt,"8.53 (1M L+665, 1.00 Floor)",01/01/23,10000,9821,9846,(9),
-196,,"Partner Therapeutics, Inc",Preferred Equity - Preferred Stock,N/A,N/A,"55,556 Shares",333,333,(9),
-197,,"Partner Therapeutics, Inc",Common Equity/Interests - Warrants,N/A,N/A,"33,333 Warrants",135,104,(9)(13),
-198,,"Partner Therapeutics, Inc",10289,10283,,,,,,
-199,,"PTC Therapeutics, Inc",First Lien Secured Debt,"8.03 (1M L+615, 1.00 Floor)",05/01/21,12667,12618,12743,(9)(17),
-200,,"PTC Therapeutics, Inc",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,05/01/21,6333,(24,0,(9)(17)(21)(23),
-201,,"PTC Therapeutics, Inc",12594,12743,,,,,,
-202,,"RiteDose Holdings I, Inc.",First Lien Secured Debt,"8.81 (3M L+650, 1.00 Floor)",09/13/23,14963,14520,14681,(9),
-203,,"RiteDose Holdings I, Inc.",First Lien Secured Debt - Revolver,"8.81 (3M L+650, 1.00 Floor)",09/13/22,1067,1067,1048,(9)(23),
-204,,"RiteDose Holdings I, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/13/22,933,(58,(17,(8)(9)(21)(23),
-205,,"RiteDose Holdings I, Inc.",15529,15712,,,,,,
-206,,"Teladoc, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,07/14/20,1289,(52,(1,(8)(17)(21)(23),
-207,,"Teladoc, Inc.",First Lien Secured Debt - Letter of Credit,7.25,01/12/19,378,0,0,(8)(17)(23),
-208,,"Teladoc, Inc.",(52,(1,,,,,,
-209,,"Wright Medical Group, Inc.",First Lien Secured Debt - Revolver,"6.13 (1M L+425, 0.75 Floor)",12/23/21,18333,18333,18333,(9)(17)(23),
-210,,"Wright Medical Group, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/23/21,31667,(373,0,(9)(17)(21)(23),
-211,,"Wright Medical Group, Inc.",17960,18333,,,,,,
-213,High Tech Industries,High Tech Industries,,,,,,,,
-214,,ChyronHego Corporation,First Lien Secured Debt,"7.43 (3M L+643, 1.00 Floor)",03/09/20,35277,34967,33866,(18),
-215,,"DigiCert Holdings, Inc.",Second Lien Secured Debt,"9.77 (3M L+800, 1.00 Floor)",10/31/25,20196,20100,20405,(10),
-216,LabVantage Solutions,LabVantage Solutions,,,,,,,,
-217,,LabVantage Solutions Inc.,First Lien Secured Debt,"9.38 (1M L+750, 1.00 Floor)",12/29/20,13688,13441,13551,,
-218,,LabVantage Solutions Limited,First Lien Secured Debt,"8.50 (1M E+750, 1.00 Floor)",12/29/20,€,12539,13246,15267,(17)
-219,,LabVantage Solutions Limited,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/29/20,€,3435,(63,(42,(8)(17)(21)(23)
-220,,LabVantage Solutions Limited,26624,28776,,,,,,
-221,,"Omnitracs, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/23/23,3750,(336,(338,(8)(21)(23),
-222,,"Smokey Merger Sub, Inc.",Second Lien Secured Debt,"10.44 (3M L+850, 1.00 Floor)",05/24/24,30000,29208,29250,(9),
-223,,Telestream Holdings Corporation,First Lien Secured Debt,"7.61 (6M L+645, 1.00 Floor)",03/24/22,36748,36446,36014,(18),
-224,,Tibco Software Inc.,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/05/19,6000,(20,(840,(8)(21)(23),
-225,,"ZPower, LLC",First Lien Secured Debt,"9.63 (1M L+775, 1.00 Floor)",07/01/22,6667,6607,6593,(9),
-226,,"ZPower, LLC",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,07/01/22,1667,71,(18,(8)(9)(21)(23),
-227,,"ZPower, LLC",Common Equity/Interests - Warrants,N/A,N/A,"29,630 Warrants",48,78,(9)(13),
-228,,"ZPower, LLC",6726,6653,,,,,,
-230,"Hotel, Gaming, Leisure, Restaurants","Hotel, Gaming, Leisure, Restaurants",,,,,,,,
-231,,GFRC Holdings LLC,First Lien Secured Debt,"9.77 (3M L+800 Cash (L+800 PIK Toggle), 1.50 Floor))",02/01/22,2500,2500,2500,,
-233,Insurance,Insurance,,,,,,,,
-234,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Revolver,7.25 (P+250),08/14/20,3375,3375,3278,(23),
-235,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,08/14/20,11438,(810,(327,(8)(21)(23),
-236,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,04/23/18,37,0,(1,(8)(23),
-237,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,05/04/18,8,0,0,(8)(23),
-238,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,07/30/18,97,0,(2,(8)(23),
-239,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,11/30/18,37,0,(1,(8)(23),
-240,,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,05/31/19,8,0,0,(8)(23),
-241,,"Alliant Holdings Intermediate, LLC",2565,2947,,,,,,
-242,,Confie Seguros Holding II Co.,Second Lien Secured Debt,"11.48 (3M L+950, 1.25 Floor)",05/08/19,21844,21807,21216,(10),
-244,"Manufacturing, Capital Equipment","Manufacturing, Capital Equipment",,,,,,,,
-245,,MedPlast Holdings Inc.,Second Lien Secured Debt,"10.43 (2M L+875, 1.00 Floor)",06/06/23,8000,7832,7740,,
-246,,"Power Products, LLC",Second Lien Secured Debt,"10.74 (3M L+900, 1.00 Floor)",12/20/23,32500,31568,32226,(9),
-248,Media – Diversified & Production,Media – Diversified & Production,,,,,,,,
-249,,SESAC Holdco II LLC,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,02/23/22,587,(41,(44,(8)(21)(23),
-250,,SESAC Holdco II LLC,Second Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",02/24/25,3241,3213,3233,(10),
-252,Metals & Mining,Metals & Mining,,,,,,,,
-253,,"Magnetation, LLC",First Lien Secured Debt,10.31 (3M L+800 Cash (PIK Toggle)),12/31/19,1352,1273,451,(13)(14),
-255,Telecommunications,Telecommunications,,,,,,,,
-256,,"Securus Technologies Holdings, Inc.",Second Lien Secured Debt,"10.13 (1M L+825, 1.00 Floor)",11/01/25,12878,12755,13051,(10),
-257,,UniTek Global Services Inc.,First Lien Secured Debt,"10.81 (3M L+850, 1.00 Floor)",01/13/19,32367,32367,33014,,
-258,,UniTek Global Services Inc.,First Lien Secured Debt,"10.81 (3M L+750 Cash plus 1.00 PIK, 1.00 Floor)",01/13/19,1951,1951,1951,,
-259,,UniTek Global Services Inc.,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,01/13/19,5000,0,0,(21)(23),
-260,,UniTek Global Services Inc.,First Lien Secured Debt - Letter of Credit,7.50,01/13/19,5857,0,0,(23),
-261,,UniTek Global Services Inc.,Unsecured Debt,15.00 PIK,07/13/19,9918,9918,10117,,
-262,,UniTek Global Services Inc.,44236,45082,,,,,,
-263,,"Wave Holdco Merger Sub, Inc.",Second Lien Secured Debt,"11.13 (1M L+925, 1.00 Floor)",05/27/23,10000,9810,9890,,
-265,"Transportation – Cargo, Distribution","Transportation – Cargo, Distribution",,,,,,,,
-266,American Tire,American Tire,,,,,,,,
-267,,Accelerate Parent Corp.,Common Equity/Interests - Common Stock,N/A,N/A,"1,664,046 Shares",1715,2310,(13),
-268,,"American Tire Distributors, Inc.",Unsecured Debt,10.25,03/01/22,12741,12798,13049,(10)(11),
-269,,"American Tire Distributors, Inc.",14513,15359,,,,,,
-270,,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt,9.30 (3M L+700),06/30/23,42000,41790,42000,(17),
-271,,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,09/20/18,2250,0,0,(17)(23),
-272,,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,01/31/21,500,0,0,(17)(23),
-273,,"Dynamic Product Tankers, LLC (5)",Common Equity/Interests - Class A Units,N/A,N/A,N/A,48106,41479,(17)(24),
-274,,"Dynamic Product Tankers, LLC (5)",89896,83479,,,,,,
-275,,MSEA Tankers LLC (5),Common Equity/Interests - Class A Units,N/A,N/A,N/A,74450,72256,(17)(25),
-276,,"PT Intermediate Holdings III, LLC",Second Lien Secured Debt,"10.30 (3M L+800, 1.00 Floor)",12/08/25,9375,9284,9516,,
-278,Utilities – Electric,Utilities – Electric,,,,,,,,
-279,,Asset Repackaging Trust Six B.V.,Structured Products and Other,12.81,05/18/27,58411,26030,28860,(11)(17)(19),
+,Industry,Company,Investment_Type,Interest_Rate,Maturity_Date,Par_Shares,Cost,Fair_Value,
+1,"Advertising, Printing & Publishing",A-L Parent LLC,Second Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",12/02/24,7536,7473,7611,
+2,"Advertising, Printing & Publishing","American Media, Inc.",First Lien Secured Debt,"10.75 (3M L+900, 1.00 Floor)",08/24/20,13867,13596,14213,
+3,"Advertising, Printing & Publishing","American Media, Inc.",First Lien Secured Debt - Revolver,"11.25 (3M L+900, 1.00 Floor)",08/24/20,948,948,963,(23)
+4,"Advertising, Printing & Publishing","American Media, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,08/24/20,746,(32,0,(21)(23)
+5,"Advertising, Printing & Publishing","American Media, Inc.",First Lien Secured Debt - Letter of Credit,9.00,08/24/20,84,0,0,(23)
+7,"Advertising, Printing & Publishing","Simplifi Holdings, Inc.",First Lien Secured Debt,"8.39 (1M L+650, 1.00 Floor)",09/28/22,12139,11812,11775,(9)
+8,"Advertising, Printing & Publishing","Simplifi Holdings, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/28/22,2400,(65,(72,(8)(9)(21)(23)
+12,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Revolver,"9.81 (3M L+750, 1.00 Floor)",04/28/22,21140,21140,20823,(9)(23)
+13,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,04/28/22,16201,(458,(243,(8)(9)(21)(23)
+14,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,04/01/18,277,0,(4,(8)(9)(23)
+15,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,06/20/18,43,0,0,(8)(9)(23)
+16,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,06/25/18,4,0,0,(8)(9)(23)
+17,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,09/30/18,104,0,(2,(8)(9)(23)
+18,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,10/18/18,708,0,(11,(8)(9)(23)
+19,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,11/28/18,670,0,(10,(8)(9)(23)
+20,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,12/10/18,37,0,(1,(8)(9)(23)
+21,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,03/31/20,1287,0,(19,(8)(9)(23)
+22,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/24/18,288,0,(4,(8)(9)(23)
+23,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,10/27/18,5,0,0,(8)(9)(23)
+24,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/26/18,9,0,0,(8)(9)(23)
+25,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,08/16/18,9,0,0,(8)(9)(23)
+26,Aerospace & Defense,Erickson Inc,First Lien Secured Debt - Letter of Credit,7.50,04/30/20,4218,0,(63,(8)(9)(23)
+28,Aerospace & Defense,ILC Dover LP,Second Lien Secured Debt,"10.95 (6M L+850, 1.00 Floor)",06/28/24,20000,19566,19550,
+29,Aerospace & Defense,PAE Holding Corporation,Second Lien Secured Debt,"11.49 (2M L+950, 1.00 Floor)",10/20/23,28097,27422,28343,(10)
+33,Crowne Automotive,"Vari-Form Group, LLC",First Lien Secured Debt,"12.92 (3M L+11.00 (7.00 Cash plus 4.00 PIK), 1.00 Floor)",02/02/23,5000,4855,4850,(9)
+34,Crowne Automotive,Vari-Form Inc.,First Lien Secured Debt,"12.92 (3M L+11.00 (7.00 Cash plus 4.00 PIK), 1.00 Floor)",02/02/23,10000,9710,9700,(9)
+36,Crowne Automotive,"K&N Parent, Inc.",Second Lien Secured Debt,"10.63 (1M L+875, 1.00 Floor)",10/21/24,27000,26550,26325,(10)
+40,Merx Aviation,Merx Aviation Finance Assets Ireland Limited (5),First Lien Secured Debt - Letter of Credit,2.25,09/30/18,3600,0,0,(23)
+41,Merx Aviation,"Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Revolver,12.00,10/31/23,359800,359800,359800,(23)
+42,Merx Aviation,"Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,07/13/18,177,0,0,(23)
+43,Merx Aviation,"Merx Aviation Finance, LLC (5)",Common Equity/Interests - Membership Interests,N/A,N/A,N/A,15000,42381,
+46,Business Services,"Access CIG, LLC",Second Lien Secured Debt,9.63 (1M L+775),02/27/26,20235,20035,20463,(10)
+47,Business Services,"Access CIG, LLC",Second Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,02/27/26,3765,0,0,(10)(21)(23)
+49,Business Services,Aero Operating LLC,First Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",12/29/22,33477,32683,32640,(9)
+50,Business Services,Aero Operating LLC,First Lien Secured Debt - Revolver,"9.13 (1M L+725, 1.00 Floor)",12/29/22,2486,2486,2424,(9)(23)
+51,Business Services,Aero Operating LLC,First Lien Secured Debt - Unfunded Revolver,1.00 Unfunded,12/29/22,2326,(71,(58,(8)(9)(21)(23)
+53,Business Services,"Almonde, Inc",Second Lien Secured Debt,"9.23 (3M L+725, 1.00 Floor)",06/13/25,2316,2294,2300,(10)(17)
+54,Business Services,Ambrosia Buyer Corp.,Second Lien Secured Debt,"9.88 (1M L+ 800, 1.00 Floor)",08/28/25,21429,20933,20934,
+55,Business Services,"Aptean, Inc.",Second Lien Secured Debt,"11.80 (3M L+950, 1.00 Floor)",12/20/23,11148,11045,11245,(10)
+56,Business Services,"CT Technologies Intermediate Holdings, Inc",Second Lien Secured Debt,"10.88 (1M L+900, 1.00 Floor)",12/01/22,31253,30470,30315,(9)
+57,Business Services,Electro Rent Corporation,Second Lien Secured Debt,"10.98 (3M L+900, 1.00 Floor)",01/31/25,18333,17863,17967,(9)
+58,Business Services,Electro Rent Corporation,Second Lien Secured Debt,"11.25 (3M L+900, 1.00 Floor)",01/31/25,18265,17753,17899,(9)
+60,Business Services,"Ministry Brands, LLC",Second Lien Secured Debt,"11.13 (1M L+925, 1.00 Floor)",06/02/23,10000,9880,9875,
+61,Business Services,"Newscycle Solutions, Inc.",First Lien Secured Debt,"8.89 (1M L+700, 1.00 Floor)",12/28/22,13743,13416,13399,(9)
+62,Business Services,"Newscycle Solutions, Inc.",First Lien Secured Debt,"8.88 (1M L+700, 1.00 Floor)",12/28/22,1257,1227,1226,(9)
+63,Business Services,"Newscycle Solutions, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/28/22,500,(7,(13,(8)(9)(21)(23)
+65,Business Services,"PSI Services, LLC",First Lien Secured Debt,"6.87 (1M L+500, 1.00 Floor)",01/20/23,4121,4038,4055,(9)
+66,Business Services,"PSI Services, LLC",First Lien Secured Debt - Revolver,"6.89 (1M L+500, 1.00 Floor)",01/20/22,79,79,78,(9)(23)
+67,Business Services,"PSI Services, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,01/20/22,159,(8,(2,(8)(9)(21)(23)
+68,Business Services,"RA Outdoors, LLC",First Lien Secured Debt,"6.54 (1M L+475, 1.00 Floor)",09/11/24,7229,7095,7156,(9)
+69,Business Services,"RA Outdoors, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/09/22,1200,(21,(12,(8)(9)(21)(23)
+70,Business Services,"RA Outdoors, LLC",Second Lien Secured Debt,"10.54 (1M L+875, 1.00 Floor)",09/11/25,34200,33404,33516,(9)
+73,Skyline Data/Dodge Data,Dodge Data & Analytics LLC,First Lien Secured Debt,"11.06 (3M L+875, 1.00 Floor)",10/31/19,48965,48653,47790,
+74,Skyline Data/Dodge Data,"Skyline Data, News and Analytics LLC",Common Equity/Interests - Class A Common Unit,N/A,N/A,"4,500,000 Shares",4500,4500,(13)
+76,Skyline Data/Dodge Data,"STG-Fairway Acquisitions, Inc.",Second Lien Secured Debt,"11.23 (3M L+925, 1.00 Floor)",06/30/23,15000,14753,14400,(10)
+77,Skyline Data/Dodge Data,"Transplace Holdings, Inc.",Second Lien Secured Debt,"10.46 (1M L+875, 1.00 Floor)",10/06/25,14963,14609,15187,(10)
+78,Skyline Data/Dodge Data,"U.S. Security Associates Holdings, Inc.",Unsecured Debt,11.00,01/28/20,80000,80000,80000,
+82,Carbon Free Chemicals,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),First Lien Secured Debt,5.215 PIK,06/30/20,59305,59305,47170,
+83,Carbon Free Chemicals,Carbonfree Caustic SPE LLC,Unfunded Delayed Draw - Promissory Note,0.00 Unfunded,06/30/20,6111,0,0,(21)(23)
+85,Carbon Free Chemicals,"Hare Bidco, Inc.",Second Lien Secured Debt,"9.75 (3M E+875, 1.00 Floor)",08/01/24,13574,14423,16360,
+88,Consumer Goods – Durable,"Hayward Industries, Inc.",Second Lien Secured Debt,10.13 (1M L+825),08/04/25,25110,24649,24647,
+90,KLO Holdings,9357-5991 Quebec Inc.,First Lien Secured Debt,"9.69 (1M L+775, 0.75 Floor)",04/07/22,9322,9229,9224,
+91,KLO Holdings,KLO Acquisition LLC,First Lien Secured Debt,"9.69 (1M L+775, 0.75 Floor)",04/07/22,5397,5343,5340,
+93,KLO Holdings,"Sorenson Holdings, LLC",Common Equity/Interests - Membership Interests,N/A,N/A,587 Shares,0,466,(13)
+96,Consumer Goods – Non-Durable,"ABG Intermediate Holdings 2, LLC",Second Lien Secured Debt,"10.05 (3M L+775, 1.00 Floor)",09/29/25,8094,8036,8226,(10)
+97,Consumer Goods – Non-Durable,"Sequential Brands Group, Inc.",Second Lien Secured Debt,10.79 (1M L+900),07/01/22,17160,17007,17250,(17)
+100,Consumer Services,1A Smart Start LLC,Second Lien Secured Debt,"10.13 (1M L+825, 1.00 Floor)",08/22/22,25100,24628,24623,
+103,"Containers, Packaging & Glass","Sprint Industrial Holdings, LLC",Second Lien Secured Debt,13.5 PIK,11/14/19,19072,18107,10159,(13)(14)
+104,"Containers, Packaging & Glass","Sprint Industrial Holdings, LLC",Common Equity/Interests - Warrants,N/A,N/A,"7,341 Warrants",0,0,(13)(26)
+106,"Containers, Packaging & Glass","TricorBraun Holdings, Inc.",First Lien Secured Debt - Revolver,7.00 (P+225),11/30/21,1560,1560,1561,(23)
+107,"Containers, Packaging & Glass","TricorBraun Holdings, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,11/30/21,4065,(371,0,(21)(23)
+111,"Diversified Investment Vehicles, Banking, Finance, Real Estate",Armor Holding II LLC,Second Lien Secured Debt,"11.31 (3M L+900, 1.25 Floor)",12/26/20,8000,7941,8110,(10)
+112,"Diversified Investment Vehicles, Banking, Finance, Real Estate",Craft 2014-1A,Structured Products and Other - Credit-Linked Note,N/A,05/15/21,42500,0,0,(11)(17)
+113,"Diversified Investment Vehicles, Banking, Finance, Real Estate",Craft 2015-2,Structured Products and Other - Credit-Linked Note,10.22 (3M L+925),01/16/24,24998,25691,24960,(11)(17)
+114,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Golden Bear 2016-R, LLC (3)(4)",Structured Products and Other - Membership Interests,N/A,09/20/42,0,16506,14147,(17)
+115,"Diversified Investment Vehicles, Banking, Finance, Real Estate",Mayfield Agency Borrower Inc.,Second Lien Secured Debt,"10.38 (1M L+850, 1.00 Floor)",03/02/26,5000,4926,4997,(10)
+116,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Purchasing Power, LLC",First Lien Secured Debt - Revolver,"9.88 (1M L + 800, 1.00 Floor)",07/10/19,3068,3068,3048,(9)(23)
+117,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Purchasing Power, LLC",First Lien Secured Debt - Unfunded Revolver,0.75 Unfunded,07/10/19,1432,(53,(35,(8)(9)(21)(23)
+119,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Ten-X, LLC",First Lien Secured Debt - Revolver,"5.60 (1M L+375, 1.00 Floor)",09/29/22,520,520,477,(23)
+120,"Diversified Investment Vehicles, Banking, Finance, Real Estate","Ten-X, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/29/22,4160,(379,(341,(8)(21)(23)
+124,Energy – Electricity,"AMP Solar Group, Inc. (4)",Common Equity/Interests - Class A Common Unit,N/A,N/A,"243,646 Shares",10000,5051,(13)(17)
+126,Renew Financial,"AIC SPV Holdings II, LLC (4)",Preferred Equity - Preferred Stock,N/A,N/A,143 Shares,534,925,(13)(15)(17)
+127,Renew Financial,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series B Preferred Stock,N/A,N/A,"1,505,868 Shares",8343,19035,(13)
+128,Renew Financial,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series D Preferred Stock,N/A,N/A,"436,689 Shares",5568,6676,(13)
+129,Renew Financial,Renew JV LLC (4),Common Equity/Interests - Membership Interests,N/A,N/A,N/A,2740,4111,(13)(17)
+132,Solarplicity Group,Solarplicity Group Limited (3)(4),First Lien Secured Debt,N/A,11/30/22,4331,5811,6063,(13)(17)
+133,Solarplicity Group,Solarplicity UK Holdings Limited,First Lien Secured Debt,4.00,03/08/23,5562,7637,7778,(17)
+134,Solarplicity Group,Solarplicity UK Holdings Limited,Preferred Equity - Preferred Stock,N/A,N/A,"4,286 Shares",5832,5008,(2)(17)
+135,Solarplicity Group,Solarplicity UK Holdings Limited,Common Equity/Interests - Ordinary Shares,N/A,N/A,"2,825 Shares",4,929,(2)(13)(17)
+137,Solarplicity Group,Westinghouse Electric Co LLC,First Lien Secured Debt,"6.44 (1M L+450, 1.00 Floor)",01/11/19,30000,30000,30000,(9)
+140,Energy – Oil & Gas,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",First Lien Secured Debt,8.00 Cash (10.00 PIK Toggle),03/29/19,15000,15000,15000,
+141,Energy – Oil & Gas,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",Second Lien Secured Debt,10.00 PIK (8.00 Cash Toggle),03/29/21,30510,30510,30510,
+142,Energy – Oil & Gas,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (5)",Common Equity/Interests - Common Stock,N/A,N/A,"5,000,000 Shares",30078,20303,(13)
+144,Energy – Oil & Gas,"Pelican Energy, LLC (4)",Common Equity/Interests - Membership Interests,N/A,N/A,"1,444 Shares",24441,12946,(13)(17)(29)
+145,Energy – Oil & Gas,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche A Note,14.00 (8.00 Cash plus 6.00 PIK),12/31/19,43436,43436,44739,
+146,Energy – Oil & Gas,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche B Note,14.00 PIK,12/31/19,73231,44380,40816,(13)(14)
+147,Energy – Oil & Gas,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Tranche C Note,12.00,12/31/19,19200,19200,19776,
+148,Energy – Oil & Gas,"SHD Oil & Gas, LLC (5)",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,12/31/19,2800,0,0,(21)(23)
+149,Energy – Oil & Gas,"SHD Oil & Gas, LLC (5)",Common Equity/Interests - Series A Units,N/A,N/A,"7,600,000 Shares",1411,0,(13)(29)
+154,Bumble Bee Foods,"Bumble Bee Holdings, Inc.",First Lien Secured Debt,"9.87 (3M L+800, 1.00 Floor)",08/15/23,15507,15221,15197,
+155,Bumble Bee Foods,Connors Bros Clover Leaf Seafoods Company,First Lien Secured Debt,"9.87 (3M L+800, 1.00 Floor)",08/15/23,4393,4312,4305,
+157,Bumble Bee Foods,"Grocery Outlet, Inc.",Second Lien Secured Debt,"10.55 (3M L+825, 1.00 Floor)",10/21/22,25000,24784,25250,(10)
+161,Altasciences,9360-1367 Quebec Inc.,First Lien Secured Debt,"7.93 (3M L+625, 1.00 Floor)",06/09/23,2418,1766,1833,(9)(17)
+162,Altasciences,9360-1367 Quebec Inc.,First Lien Secured Debt,"8.56 (3M L+625, 1.00 Floor)",06/09/23,2899,2842,2834,(9)(17)
+163,Altasciences,"Altasciences US Acquisition, Inc.",First Lien Secured Debt,"8.56 (3M L+625, 1.00 Floor)",06/09/23,5235,5133,5117,(9)
+164,Altasciences,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Unfunded Delayed Draw,0.50 Unfunded,06/09/23,2851,(31,(64,(8)(9)(21)(23)(28)
+165,Altasciences,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Revolver,"8.56 (3M L+625, 1.00 Floor)",06/09/23,71,71,70,(9)(23)(28)
+166,Altasciences,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Revolver,"8.56 (3M L+625, 1.00 Floor)",06/09/23,214,214,209,(9)(23)(28)
+167,Altasciences,"Altasciences US Acquisition, Inc.",First Lien Secured Debt - Unfunded Revolver,0.25 Unfunded,06/09/23,1140,(28,(27,(8)(9)(21)(23)(28)
+169,Altasciences,Aptevo Therapeutics Inc.,First Lien Secured Debt,"9.48 (1M L+760, 0.50 Floor)",02/01/21,8571,8708,8531,(9)
+170,Altasciences,"Argon Medical Devices Holdings, Inc.",Second Lien Secured Debt,"10.30 (3M L+800, 1.00 Floor)",01/23/26,21600,21494,21870,(10)
+171,Altasciences,"Avalign Technologies, Inc.",Second Lien Secured Debt,"10.38 (6M L+825, 1.00 Floor)",09/02/24,5500,5449,5483,(10)
+172,Altasciences,"BioClinica Holding I, LP",Second Lien Secured Debt,"9.99 (3M L+825, 1.00 Floor)",10/21/24,24612,24201,23874,(10)
+173,Altasciences,"Genesis Healthcare, Inc.",First Lien Secured Debt,"8.31 (3M L+600, 0.50 Floor)",03/06/23,25000,24630,24630,(9)
+174,Altasciences,"Genesis Healthcare, Inc.",First Lien Secured Debt - Unfunded Delayed Draw,2.00 Unfunded,03/06/23,9130,(180,(135,(8)(9)(21)(23)
+175,Altasciences,"Genesis Healthcare, Inc.",First Lien Secured Debt - Revolver,"8.03 (3M L+600, 0.50 Floor)",03/06/23,23835,23835,23483,(9)(23)
+176,Altasciences,"Genesis Healthcare, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/06/23,37035,(877,(547,(8)(9)(21)(23)
+178,Altasciences,"Elements Behavioral Health, Inc.",Second Lien Secured Debt,"15.06 (3M L+1275, 1.00 Floor)",02/11/20,12353,11911,0,(13)(14)
+179,Altasciences,"Invuity, Inc.",First Lien Secured Debt,"8.38 (1M L+650, 1.50 Floor)",03/01/22,10000,9855,9750,(9)
+180,Altasciences,"Invuity, Inc.",First Lien Secured Debt - Revolver,"5.13 (1M L+325, 1.50 Floor)",03/01/22,657,657,649,(9)(23)
+181,Altasciences,"Invuity, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/01/22,1343,(8,(17,(8)(9)(21)(23)
+182,Altasciences,"Invuity, Inc.",Common Equity/Interests - Warrants,N/A,N/A,"32,803 Warrants",180,69,(9)(13)
+184,Altasciences,"Lanai Holdings III, Inc.",Second Lien Secured Debt,"10.29 (2M L+850, 1.00 Floor)",08/28/23,17391,16991,16696,(10)
+185,Altasciences,"LSCS Holdings, Inc",Second Lien Secured Debt,10.31 (3M L+825),03/16/26,20455,19995,20352,
+186,Altasciences,"LSCS Holdings, Inc",Second Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,03/16/26,4545,(102,(23,(8)(21)(23)
+188,Altasciences,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt,"8.25 (3M L+600, 1.00 Floor)",11/22/23,21577,21070,21373,(9)
+189,Altasciences,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Revolver,9.75 (P+500),11/22/22,195,195,193,(9)(23)
+190,Altasciences,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,11/22/22,1363,(19,(12,(8)(9)(21)(23)
+192,Altasciences,"Oxford Immunotec, Inc.",First Lien Secured Debt,"9.48 (1M L+760, 0.50 Floor)",10/01/21,9750,9886,9916,(9)(17)
+193,Altasciences,"Oxford Immunotec, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,10/01/21,1000,(4,0,(9)(17)(21)(23)
+195,Altasciences,"Partner Therapeutics, Inc",First Lien Secured Debt,"8.53 (1M L+665, 1.00 Floor)",01/01/23,10000,9821,9846,(9)
+196,Altasciences,"Partner Therapeutics, Inc",Preferred Equity - Preferred Stock,N/A,N/A,"55,556 Shares",333,333,(9)
+197,Altasciences,"Partner Therapeutics, Inc",Common Equity/Interests - Warrants,N/A,N/A,"33,333 Warrants",135,104,(9)(13)
+199,Altasciences,"PTC Therapeutics, Inc",First Lien Secured Debt,"8.03 (1M L+615, 1.00 Floor)",05/01/21,12667,12618,12743,(9)(17)
+200,Altasciences,"PTC Therapeutics, Inc",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,05/01/21,6333,(24,0,(9)(17)(21)(23)
+202,Altasciences,"RiteDose Holdings I, Inc.",First Lien Secured Debt,"8.81 (3M L+650, 1.00 Floor)",09/13/23,14963,14520,14681,(9)
+203,Altasciences,"RiteDose Holdings I, Inc.",First Lien Secured Debt - Revolver,"8.81 (3M L+650, 1.00 Floor)",09/13/22,1067,1067,1048,(9)(23)
+204,Altasciences,"RiteDose Holdings I, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,09/13/22,933,(58,(17,(8)(9)(21)(23)
+206,Altasciences,"Teladoc, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,07/14/20,1289,(52,(1,(8)(17)(21)(23)
+207,Altasciences,"Teladoc, Inc.",First Lien Secured Debt - Letter of Credit,7.25,01/12/19,378,0,0,(8)(17)(23)
+209,Altasciences,"Wright Medical Group, Inc.",First Lien Secured Debt - Revolver,"6.13 (1M L+425, 0.75 Floor)",12/23/21,18333,18333,18333,(9)(17)(23)
+210,Altasciences,"Wright Medical Group, Inc.",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/23/21,31667,(373,0,(9)(17)(21)(23)
+214,High Tech Industries,ChyronHego Corporation,First Lien Secured Debt,"7.43 (3M L+643, 1.00 Floor)",03/09/20,35277,34967,33866,(18)
+215,High Tech Industries,"DigiCert Holdings, Inc.",Second Lien Secured Debt,"9.77 (3M L+800, 1.00 Floor)",10/31/25,20196,20100,20405,(10)
+217,LabVantage Solutions,LabVantage Solutions Inc.,First Lien Secured Debt,"9.38 (1M L+750, 1.00 Floor)",12/29/20,13688,13441,13551,
+218,LabVantage Solutions,LabVantage Solutions Limited,First Lien Secured Debt,"8.50 (1M E+750, 1.00 Floor)",12/29/20,12539,13246,15267,(17)
+219,LabVantage Solutions,LabVantage Solutions Limited,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/29/20,3435,(63,(42,(8)(17)(21)(23)
+221,LabVantage Solutions,"Omnitracs, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,03/23/23,3750,(336,(338,(8)(21)(23)
+222,LabVantage Solutions,"Smokey Merger Sub, Inc.",Second Lien Secured Debt,"10.44 (3M L+850, 1.00 Floor)",05/24/24,30000,29208,29250,(9)
+223,LabVantage Solutions,Telestream Holdings Corporation,First Lien Secured Debt,"7.61 (6M L+645, 1.00 Floor)",03/24/22,36748,36446,36014,(18)
+224,LabVantage Solutions,Tibco Software Inc.,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,12/05/19,6000,(20,(840,(8)(21)(23)
+225,LabVantage Solutions,"ZPower, LLC",First Lien Secured Debt,"9.63 (1M L+775, 1.00 Floor)",07/01/22,6667,6607,6593,(9)
+226,LabVantage Solutions,"ZPower, LLC",First Lien Secured Debt - Unfunded Delayed Draw,0.00 Unfunded,07/01/22,1667,71,(18,(8)(9)(21)(23)
+227,LabVantage Solutions,"ZPower, LLC",Common Equity/Interests - Warrants,N/A,N/A,"29,630 Warrants",48,78,(9)(13)
+231,"Hotel, Gaming, Leisure, Restaurants",GFRC Holdings LLC,First Lien Secured Debt,"9.77 (3M L+800 Cash (L+800 PIK Toggle), 1.50 Floor))",02/01/22,2500,2500,2500,
+234,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Revolver,7.25 (P+250),08/14/20,3375,3375,3278,(23)
+235,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,08/14/20,11438,(810,(327,(8)(21)(23)
+236,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,04/23/18,37,0,(1,(8)(23)
+237,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,05/04/18,8,0,0,(8)(23)
+238,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,07/30/18,97,0,(2,(8)(23)
+239,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,11/30/18,37,0,(1,(8)(23)
+240,Insurance,"Alliant Holdings Intermediate, LLC",First Lien Secured Debt - Letter of Credit,3.375,05/31/19,8,0,0,(8)(23)
+242,Insurance,Confie Seguros Holding II Co.,Second Lien Secured Debt,"11.48 (3M L+950, 1.25 Floor)",05/08/19,21844,21807,21216,(10)
+245,"Manufacturing, Capital Equipment",MedPlast Holdings Inc.,Second Lien Secured Debt,"10.43 (2M L+875, 1.00 Floor)",06/06/23,8000,7832,7740,
+246,"Manufacturing, Capital Equipment","Power Products, LLC",Second Lien Secured Debt,"10.74 (3M L+900, 1.00 Floor)",12/20/23,32500,31568,32226,(9)
+249,Media – Diversified & Production,SESAC Holdco II LLC,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,02/23/22,587,(41,(44,(8)(21)(23)
+250,Media – Diversified & Production,SESAC Holdco II LLC,Second Lien Secured Debt,"9.13 (1M L+725, 1.00 Floor)",02/24/25,3241,3213,3233,(10)
+253,Metals & Mining,"Magnetation, LLC",First Lien Secured Debt,10.31 (3M L+800 Cash (PIK Toggle)),12/31/19,1352,1273,451,(13)(14)
+256,Telecommunications,"Securus Technologies Holdings, Inc.",Second Lien Secured Debt,"10.13 (1M L+825, 1.00 Floor)",11/01/25,12878,12755,13051,(10)
+257,Telecommunications,UniTek Global Services Inc.,First Lien Secured Debt,"10.81 (3M L+850, 1.00 Floor)",01/13/19,32367,32367,33014,
+258,Telecommunications,UniTek Global Services Inc.,First Lien Secured Debt,"10.81 (3M L+750 Cash plus 1.00 PIK, 1.00 Floor)",01/13/19,1951,1951,1951,
+259,Telecommunications,UniTek Global Services Inc.,First Lien Secured Debt - Unfunded Revolver,0.50 Unfunded,01/13/19,5000,0,0,(21)(23)
+260,Telecommunications,UniTek Global Services Inc.,First Lien Secured Debt - Letter of Credit,7.50,01/13/19,5857,0,0,(23)
+261,Telecommunications,UniTek Global Services Inc.,Unsecured Debt,15.00 PIK,07/13/19,9918,9918,10117,
+263,Telecommunications,"Wave Holdco Merger Sub, Inc.",Second Lien Secured Debt,"11.13 (1M L+925, 1.00 Floor)",05/27/23,10000,9810,9890,
+267,American Tire,Accelerate Parent Corp.,Common Equity/Interests - Common Stock,N/A,N/A,"1,664,046 Shares",1715,2310,(13)
+268,American Tire,"American Tire Distributors, Inc.",Unsecured Debt,10.25,03/01/22,12741,12798,13049,(10)(11)
+270,American Tire,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt,9.30 (3M L+700),06/30/23,42000,41790,42000,(17)
+271,American Tire,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,09/20/18,2250,0,0,(17)(23)
+272,American Tire,"Dynamic Product Tankers, LLC (5)",First Lien Secured Debt - Letter of Credit,2.25,01/31/21,500,0,0,(17)(23)
+273,American Tire,"Dynamic Product Tankers, LLC (5)",Common Equity/Interests - Class A Units,N/A,N/A,N/A,48106,41479,(17)(24)
+275,American Tire,MSEA Tankers LLC (5),Common Equity/Interests - Class A Units,N/A,N/A,N/A,74450,72256,(17)(25)
+276,American Tire,"PT Intermediate Holdings III, LLC",Second Lien Secured Debt,"10.30 (3M L+800, 1.00 Floor)",12/08/25,9375,9284,9516,
+279,Utilities – Electric,Asset Repackaging Trust Six B.V.,Structured Products and Other,12.81,05/18/27,58411,26030,28860,(11)(17)(19)
