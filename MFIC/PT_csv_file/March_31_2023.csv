@@ -1,308 +1,474 @@
-,Industry,Company,Investment_Type,Interest Rate,Maturity_Date,Par_Shares,Cost,Fair_Value,
-2,FingerPaint Marketing,KL Charlie Acquisition Company,First Lien Secured Debt,"L+  625  ,  1.00   Floor",12/30/26,23460,23143,23108,(9)(28)
-3,FingerPaint Marketing,KL Charlie Acquisition Company,First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",12/30/26,1000,701,706,(9)(23)(32)
-4,FingerPaint Marketing,KL Charlie Acquisition Company,First Lien Secured Debt - Revolver,P+  525,12/30/26,1962,526,520,(9)(21)(23)(25)
-5,FingerPaint Marketing,"KL Charlie Co-Invest, L.P.",Common Equity - Common Stock,N/A,N/A,"218,978  Shares",219,357,(9)(13)
-8,Hero Digital,"HRO (Hero Digital) Holdings, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",11/18/28,26989,18971,18312,(9)(21)(23)(28)
-9,Hero Digital,"HRO (Hero Digital) Holdings, LLC",First Lien Secured Debt - Revolver,"L+  600  ,  1.00   Floor",11/18/26,2553,2481,2422,(9)(20)(21)(23)  (28)
-10,Hero Digital,HRO Holdings I LP,Common Equity - Common Stock,N/A,N/A,213  Shares,213,125,(9)(13)
-15,Club Car Wash,"Club Car Wash Operating, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",06/16/27,29668,27377,27239,(9)(21)(23)(32)
-16,Club Car Wash,"Club Car Wash Operating, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",06/16/27,2438,(  31,(  44,(8)(9)(21)(23)
-19,Crowne Automotive,"Vari-Form Group, LLC",First Lien Secured Debt,11.00   (  7.00   Cash plus  4.00   PIK),02/02/23,5860,893,264,(9)(11)(14)
-20,Crowne Automotive,Vari-Form Inc.,First Lien Secured Debt,11.00   (  7.00   Cash plus  4.00   PIK),02/02/23,2110,391,95,(9)(11)(14)
-23,"K&N Parent, Inc.","K&N Holdco, LLC",Common Equity - Common Stock,N/A,N/A,"77,622  Shares",23621,1423,(13)(24)
-25,"Truck-Lite Co., LLC","TL Lighting Holdings, LLC",Common Equity - Equity,N/A,N/A,350  Shares,350,403,(9)(13)
-26,"Truck-Lite Co., LLC","Truck-Lite Co., LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/14/26,31653,31224,31034,(9)(33)
-27,"Truck-Lite Co., LLC","Truck-Lite Co., LLC",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",12/13/24,3052,0,(  31,(8)(9)(20)(21)  (23)
-32,"Merx Aviation Finance, LLC","Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Revolver,10.00,10/31/23,2004677,84575,84575,(20)(23)
-33,"Merx Aviation Finance, LLC","Merx Aviation Finance, LLC (5)",Common Equity - Membership Interests,N/A,N/A,146500,112639,(24),
-36,PrimeFlight,"PrimeFlight Aviation Services, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/09/24,13561,13487,13493,(9)(31)(32)
-40,Berner Foods,"Berner Food & Beverage, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",07/30/27,30652,30135,29273,(9)(28)
-41,Berner Foods,"Berner Food & Beverage, LLC",First Lien Secured Debt - Revolver,P+  450,07/30/26,1008,980,926,(9)(21)(23)(25)
-42,Berner Foods,"Berner Food & Beverage, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",07/30/26,1873,560,529,(9)(21)(23)(28)
-45,Bolthouse Farms,"Wm. Bolthouse Farms, Inc.",Common Equity - Equity Interests,N/A,N/A,"1,086,122  Shares",1147,1151,(13)(24)
-47,Hive,"FCP-Hive Holdings, LLC",Preferred Equity - Preferred Equity,N/A,N/A,589  Shares,448,220,(9)(13)
-48,Hive,"FCP-Hive Holdings, LLC",Common Equity - Common Stock,N/A,N/A,589  Shares,3,0,(9)(13)
-49,Hive,"Hive Intermediate, LLC",First Lien Secured Debt,"SOFR+  400  Cash plus  2.00   PIK,  1.00   Floor",09/22/27,15866,15633,15232,(9)(31)
-50,Hive,"Hive Intermediate, LLC",First Lien Secured Debt - Revolver,"SOFR+  400  Cash plus  2.00   PIK,  1.00   Floor",09/22/27,2326,589,530,(9)(21)(23)(31)
-53,"Orgain, Inc.","Butterfly Fighter Co-Invest, L.P.",Common Equity - Membership Interests,N/A,N/A,"490,000  Shares",90,913,
-55,Rise Baking,Ultimate Baked Goods Midco LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",08/13/27,26422,25925,25566,(9)(31)
-56,Rise Baking,Ultimate Baked Goods Midco LLC,First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",08/13/27,3243,345,300,(9)(20)(21)(23)  (31)
-59,Turkey Hill,IC Holdings LLC,Common Equity - Series A Units,N/A,N/A,169  Shares,169,177,(9)(13)
-60,Turkey Hill,THLP CO. LLC,First Lien Secured Debt,"L+  600  Cash plus  2.00   PIK,  1.00   Floor",05/31/25,25570,25369,25314,(9)(29)
-61,Turkey Hill,THLP CO. LLC,First Lien Secured Debt - Revolver,"L+  600  Cash plus  2.00   PIK,  1.00   Floor",05/31/24,3231,1939,1923,(9)(20)(21)(23)(29)
-62,Turkey Hill,THLP CO. LLC,First Lien Secured Debt - Revolver,P+  500,05/31/24,1263,1256,1246,(9)(21)(23)(25)
-67,Accelerate Learning,"Eagle Purchaser, Inc.",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/22/30,4342,3305,3304,(9)(21)(23)(32)
-68,Accelerate Learning,"Eagle Purchaser, Inc.",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/22/29,658,112,112,(9)(21)(23)(32)
-71,Access Information,"Access CIG, LLC",Second Lien Secured Debt,"L+  775  ,  0.00   Floor",02/27/26,15900,15850,15662,(28)
-73,AlpineX,"Alpinex Opco, LLC",First Lien Secured Debt,"SOFR+  626  ,  1.00   Floor",12/27/27,21435,21043,21162,(9)(32)
-74,AlpineX,"Alpinex Opco, LLC",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",12/27/27,1489,563,588,(9)(21)(23)(32)
-77,Ambrosia Buyer Corp.,Ambrosia Buyer Corp.,Second Lien Secured Debt,8.00,08/28/25,21429,17307,6129,(14)
-79,AML Rightsource,"Gabriel Partners, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",09/21/26,31134,30698,30506,(9)(31)
-80,AML Rightsource,"Gabriel Partners, LLC",First Lien Secured Debt - Revolver,P+  475,09/21/26,665,123,116,(9)(21)(23)(25)
-83,Continuum,"Continuum Global Solutions, LLC",Preferred Equity - Preferred Equity,N/A,N/A,775  Shares,78,78,(9)(13)
-85,Electro Rent Corporation,Electro Rent Corporation,Second Lien Secured Debt,"L+  900  ,  1.00   Floor",01/31/25,34235,33957,34064,(9)(28)
-87,Elo Touch,TGG TS Acquisition Company,First Lien Secured Debt - Revolver,"L+  650  ,  0.00   Floor",12/14/23,1750,0,(  17,(8)(21)(23)
-89,Ensemble Health,"EHL Merger Sub, LLC",First Lien Secured Debt - Revolver,"L+  325  ,  0.00   Floor",08/01/24,4155,(  103,(  125,(8)(21)(23)
-91,HMA,"Health Management Associates Superholdings, Inc.",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/30/29,4716,3863,3863,(9)(21)(23)(32)
-92,HMA,"Health Management Associates Superholdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",03/30/29,284,(  9,(  9,(8)(9)(21)(23)
-95,IRP,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/08/28,10117,9932,9814,(9)(32)
-96,IRP,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/08/28,1000,970,970,(9)(32)
-97,IRP,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/08/28,1705,540,517,(9)(21)(23)(32)
-98,IRP,"SMC IR Holdings, LLC",Common Equity - Common Stock,N/A,N/A,134  Shares,145,234,(9)
-101,Jacent,Jacent Strategic Merchandising,First Lien Secured Debt,"L+  725  ,  1.00   Floor",04/23/24,22186,22115,21421,(9)(26)
-102,Jacent,Jacent Strategic Merchandising,First Lien Secured Debt - Revolver,"L+  725  ,  1.00   Floor",04/23/24,3500,3447,3373,(9)(21)(23)(26)
-103,Jacent,Jacent Strategic Merchandising,Common Equity - Common Stock,N/A,N/A,"5,000  Shares",500,4,(9)(13)
-104,Jacent,"JSM Equity Investors, L.P.",Preferred Equity - Class P Partnership Units,N/A,N/A,114  Shares,11,11,(9)(13)
-107,Jones & Frank,"JF Acquisition, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",07/31/26,13066,12957,12767,(9)(26)
-108,Jones & Frank,"JF Acquisition, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",07/31/26,1569,1367,1345,(9)(21)(23)(26)
-111,Naviga,"Naviga Inc. (fka Newscycle Solutions, Inc.)",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",12/29/23,13262,13206,13262,(9)(32)
-112,Naviga,"Naviga Inc. (fka Newscycle Solutions, Inc.)",First Lien Secured Debt - Revolver,"SOFR+  700  ,  1.00   Floor",12/29/23,500,443,444,(9)(21)(23)(32)
-115,PSE,"Graffiti Buyer, Inc.",First Lien Secured Debt,"L+  550  ,  1.00   Floor",08/10/27,8359,6307,6288,(9)(21)(23)(28)
-116,PSE,"Graffiti Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",08/10/27,1067,513,513,(9)(21)(23)(28)
-117,PSE,"Graffiti Buyer, Inc.",First Lien Secured Debt - Revolver,P+  450,08/10/27,240,234,233,(9)(21)(23)(25)
-118,PSE,"Graffiti Parent, LP",Common Equity - Common Stock,N/A,N/A,"2,439  Shares",244,307,(9)(13)
-121,"PSI Services, LLC","Lifelong Learner Holdings, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",10/19/26,33628,33276,32077,(9)(28)
-122,"PSI Services, LLC","Lifelong Learner Holdings, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",10/20/25,2985,2956,2874,(9)(21)(23)(28)
-125,Soliant,"Soliant Health, Inc.",Common Equity - Membership Interests,N/A,N/A,300  Shares,300,1412,(9)
-127,Trench Plate,Trench Plate Rental Co.,First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",12/03/26,18045,17813,17775,(9)(32)
-128,Trench Plate,Trench Plate Rental Co.,First Lien Secured Debt - Revolver,"SOFR+  550  ,  1.00   Floor",12/03/26,1818,460,455,(9)(20)(21)(23)  (32)
-129,Trench Plate,"Trench Safety Solutions Holdings, LLC",Common Equity - Common Stock,N/A,N/A,331  Shares,50,43,(9)(13)(24)
-132,US Legal Support,"US Legal Support Investment Holdings, LLC",Common Equity - Series A-1 Units,N/A,N/A,"631,972  Shares",632,720,(9)(13)
-133,US Legal Support,"USLS Acquisition, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/02/24,19245,19118,18941,(9)(31)
-134,US Legal Support,"USLS Acquisition, Inc.",First Lien Secured Debt,"SOFR+  585  ,  1.00   Floor",12/02/24,4510,4476,4439,(9)(31)
-135,US Legal Support,"USLS Acquisition, Inc.",First Lien Secured Debt - Revolver,"SOFR+  590  ,  1.00   Floor",12/02/24,1608,1024,1020,(9)(20)(21)(23)(31)
-138,Wilson Language Training,"Owl Acquisition, LLC",First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",02/04/28,9635,9473,9538,(9)(31)
-139,Wilson Language Training,"Owl Parent Holdings, LLC",Common Equity - Common Stock,N/A,N/A,100  Shares,100,175,(9)(13)
-144,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),Carbonfree Chemicals Holdings LLC (4),Common Equity - Common Equity / Interest,N/A,N/A,"1,246  Shares",56505,19478,(13)(16)(24)
-145,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),FC2 LLC (4),Common Equity - Common Stock,N/A,N/A,5  Shares,0,0,(13)(24)
-146,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),FC2 LLC (4),Secured Debt - Promissory Note,6.50,10/14/27,12500,12500,12500,
-149,"Westfall Technik, Inc.","Westfall Technik, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",09/13/24,21248,21121,20762,(9)(32)
-150,"Westfall Technik, Inc.","Westfall Technik, Inc.",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",09/13/24,2039,2029,1993,(9)(23)(32)
-155,Englert,"Gutter Buyer, Inc.",First Lien Secured Debt,"L+  625  ,  1.00   Floor",03/06/25,28894,28654,27991,(9)(28)
-156,Englert,"Gutter Buyer, Inc.",First Lien Secured Debt - Revolver,P+  525,03/06/24,2727,2566,2531,(9)(20)(21)(23)  (25)
-157,Englert,"Gutter Holdings, LP",Common Equity - Common Stock,N/A,N/A,500  Shares,500,149,(9)(13)
-160,Pave America,"Pavement Partners Interco, LLC",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",02/07/28,11558,9801,9788,(9)(21)(23)(32)
-161,Pave America,"Pavement Partners Interco, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",02/07/28,942,287,286,(9)(21)(23)(33)
-164,Yak Access,Yak Access LLC,First Lien Secured Debt - Revolver,"SOFR+  475  ,  1.00   Floor",09/10/27,5000,1176,1175,(9)(21)(23)(31)
-168,A&V,"A&V Holdings Midco, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",03/10/25,1505,397,413,(21)(23)(26)
-170,KDC,KDC US Holdings,First Lien Secured Debt - Revolver,"L+  325  ,  0.00   Floor",12/21/23,6020,781,744,(20)(21)(23)  (26)
-172,"KLO Holdings, LLC",1244311 B.C. Ltd. (4),First Lien Secured Debt,"L+  500  ,  1.00   Floor",09/30/25,2978,2978,2828,(17)(28)
-173,"KLO Holdings, LLC",1244311 B.C. Ltd. (4),First Lien Secured Debt,"L+  500  PIK,  1.00   Floor",09/30/25,1158,1158,1093,(17)(28)
-174,"KLO Holdings, LLC",1244311 B.C. Ltd. (4),Common Equity - Common Stock,N/A,N/A,"1,000,032  Shares",1000,806,(2)(13)(17)(24)
-175,"KLO Holdings, LLC",GSC Technologies Inc. (1244311 BC LTD) (4),First Lien Secured Debt,"L+  500  Cash plus  5.00   PIK,  1.00   Floor",09/30/25,186,186,175,(17)(28)
-178,NSi Industries,"Wildcat BuyerCo, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",02/27/26,16987,16595,16742,(32)
-179,NSi Industries,"Wildcat BuyerCo, Inc.",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",02/27/26,725,108,106,(20)(21)(23)  (32)
-180,NSi Industries,Wildcat Parent LP,Common Equity - Common Stock,N/A,N/A,"1,070  Shares",107,218,(13)
-183,"Sorenson Holdings, LLC","Sorenson Holdings, LLC",Common Equity - Membership Interests,N/A,N/A,587  Shares,0,323,(10)(13)
-187,3D Protein,"Protein For Pets Opco, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",05/31/24,2219,(  14,0,(9)(21)(23)
-189,Dan Dee,"Project Comfort Buyer, Inc.",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",02/01/25,22251,22044,21657,(9)(31)
-190,Dan Dee,"Project Comfort Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  700  ,  1.00   Floor",02/01/25,3462,(  28,(  94,(8)(9)(21)(23)
-191,Dan Dee,"Project Comfort Buyer, Inc.",Preferred Equity - Preferred Equity,N/A,N/A,"491,405  Shares",492,69,(9)(13)(24)
-194,LashCo,"Lash OpCo, LLC",First Lien Secured Debt,"L+  700  ,  1.00   Floor",03/18/26,43030,42373,42267,(9)(29)
-195,LashCo,"Lash OpCo, LLC",First Lien Secured Debt - Revolver,"L+  700  ,  1.00   Floor",09/18/25,1612,1114,1124,(9)(21)(23)(26)  (28)(29)
-198,Paladone,Paladone Group Bidco Limited,First Lien Secured Debt,"L+  550  ,  1.00   Floor",11/12/27,6043,5947,5975,(9)(17)(28)
-199,Paladone,Paladone Group Bidco Limited,First Lien Secured Debt,"L+  575  ,  1.00   Floor",11/12/27,1883,(  10,(  21,(8)(9)(17)(21)  (23)
-200,Paladone,Paladone Group Bidco Limited,First Lien Secured Debt - Revolver,"SON+  575  ,  1.00   Floor",11/12/27,353,(  7,(  5,(8)(9)(17)(21)  (23)
-201,Paladone,Paladone Group Bidco Limited,First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",11/12/27,1412,(  22,(  16,(8)(9)(17)(21)  (23)
-202,Paladone,Paladone Group Holdings Limited,Common Equity - Common Stock,N/A,N/A,"94,151  Shares",94,85,(9)(13)(17)
-205,"Sequential Brands Group, Inc.",Gainline Galaxy Holdings LLC,Common Equity - Common Stock,N/A,N/A,"10,854  Shares",2041,1061,(13)(16)(17)
-206,"Sequential Brands Group, Inc.",Sequential Avia Holdings LLC,First Lien Secured Debt,"L+  525  ,  1.00   Floor",11/12/26,1225,1225,1221,(17)(29)
-207,"Sequential Brands Group, Inc.","Sequential Brands Group, Inc.",Second Lien Secured Debt,8.75,02/07/24,1293,0,233,(14)(17)
-208,"Sequential Brands Group, Inc.","Swisstech IP CO, LLC",First Lien Secured Debt,6   PIK,11/29/24,281,26,276,(17)
-213,Activ,"Activ Software Holdings, LLC",First Lien Secured Debt,"L+  625  ,  1.00   Floor",05/04/27,29566,29136,28827,(9)(30)
-214,Activ,"Activ Software Holdings, LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/04/27,2800,2721,2731,(9)(33)
-215,Activ,"Activ Software Holdings, LLC",First Lien Secured Debt - Revolver,"L+  625  ,  1.00   Floor",05/04/27,2407,(  33,(  72,(8)(9)(21)(23)
-218,Bird,"Bird US Opco, LLC",First Lien Secured Debt,"SOFR+  750  ,  1.00   Floor",01/13/25,14202,13996,14085,(9)(31)
-220,Clarus Commerce,"Marlin DTC-LS Midco 2, LLC",First Lien Secured Debt,"L+  650  ,  1.00   Floor",07/01/25,21492,21276,21294,(28)
-221,Clarus Commerce,"Marlin DTC-LS Midco 2, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",07/01/25,685,0,(  6,(8)(21)(23)
-224,Go Car Wash,Go Car Wash Management Corp.,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/31/26,26336,10871,10573,(9)(21)(23)(31)
-225,Go Car Wash,Go Car Wash Management Corp.,First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",12/31/26,417,(  2,(  8,(8)(9)(21)(23)
-228,Lending Point,LendingPoint LLC,First Lien Secured Debt,"SOFR+  1050  ,  1.00   Floor",12/30/26,32500,32165,32162,(9)(32)
-229,Lending Point,LendingPoint LLC,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/30/26,4167,4136,4124,(9)(32)
-230,Lending Point,LendingPoint LLC,First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",12/30/26,8333,4111,4082,(9)(21)(23)(32)
-233,Renovo,"HomeRenew Buyer, Inc.",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",11/23/27,17929,15039,14863,(9)(21)(23)(31)  (32)(33)
-234,Renovo,"HomeRenew Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  660  ,  1.00   Floor",11/23/27,1958,946,930,(9)(21)(23)(31)  (32)
-237,The Club Company,Eldrickco Limited,First Lien Secured Debt,"SON+  575  ,  0.50   Floor",11/26/25,14914,14633,14002,(9)(17)(21)(23)  (27)
-238,The Club Company,Eldrickco Limited,First Lien Secured Debt - Revolver,"SON+  575  ,  0.50   Floor",11/26/25,356,413,432,(9)(17)(23)(27)
-239,The Club Company,Eldrickco Limited,First Lien Secured Debt - Revolver,"SON+  525  ,  0.50   Floor",05/26/25,345,0,(  7,(8)(9)(17)(21)  (23)
-242,US Auto,"U.S. Auto Finance, Inc.",First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",04/17/24,20000,9584,8715,(9)(21)(23)(31)
-243,US Auto,"U.S. Auto Finance, Inc.",First Lien Secured Debt,"SOFR+  900  ,  1.00   Floor",04/17/25,3550,3511,3492,(9)(31)
-244,US Auto,"U.S. Auto Finance, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",04/17/24,13333,12700,12301,(9)(21)(23)(31)
-249,Celink,Compu-Link Corporation,First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",06/11/24,2273,(  12,(  13,(8)(9)(21)(23)
-250,Celink,"Peer Advisors, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",06/11/24,12841,12769,12766,(9)(31)
-253,Definiti LLC,Greylock Holdings LLC,Common Equity - Common Stock,N/A,N/A,"100,000  Shares",100,100,(9)(13)(24)
-254,Definiti LLC,RHI Acquisition LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/16/29,9240,5863,5862,(9)(21)(23)(33)
-255,Definiti LLC,RHI Acquisition LLC,First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",03/16/29,660,(  20,(  20,(8)(9)(21)(23)
-258,Golden Bear,"Golden Bear 2016-R, LLC (4)",Structured Products and Other - Membership Interests,N/A,09/20/42,N/A,17103,10902,(3)(17)
-260,"Purchasing Power, LLC","Purchasing Power Funding I, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  0.00   Floor",02/24/25,9113,3378,3378,(9)(21)(23)(26)
-262,Spectrum Automotive,Shelby 2021 Holdings Corp.,First Lien Secured Debt,"L+  575  ,  0.75   Floor",06/29/28,14358,13281,13230,(9)(21)(23)(28)
-263,Spectrum Automotive,Shelby 2021 Holdings Corp.,First Lien Secured Debt - Revolver,"L+  575  ,  0.75   Floor",06/29/27,420,(  4,(  6,(8)(9)(21)(23)
-268,NFA Group,SSCP Spring Bidco Limited,First Lien Secured Debt,"SON+  600  ,  0.50   Floor",07/30/25,30000,36437,36697,(9)(17)(27)
-272,"Renew Financial LLC (f/k/a Renewable Funding, LLC)","AIC SPV Holdings II, LLC (4)",Preferred Equity - Preferred Stock,N/A,N/A,"534,375  Shares",534,111,(15)(17)(24)
-273,"Renew Financial LLC (f/k/a Renewable Funding, LLC)","Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Preferred Equity,N/A,N/A,"1,000,000  Shares",1000,1960,(13)(17)(24)
-274,"Renew Financial LLC (f/k/a Renewable Funding, LLC)","Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series B Preferred Stock,N/A,N/A,"1,505,868  Shares",8343,0,(13)(24)
-275,"Renew Financial LLC (f/k/a Renewable Funding, LLC)","Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series D Preferred Stock,N/A,N/A,"436,689  Shares",5568,0,(13)(24)
-276,"Renew Financial LLC (f/k/a Renewable Funding, LLC)","Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Common Equity - Common Stock,N/A,N/A,"441,576  Shares",1902,0,(13)(17)(24)
-277,"Renew Financial LLC (f/k/a Renewable Funding, LLC)",Renew JV LLC (4),Common Equity - Membership Interests,N/A,N/A,"360,302  Shares",360,428,(13)(17)(24)
-280,Solarplicity Group Limited (f/k/a AMP Solar UK),Solarplicity UK Holdings Limited,First Lien Secured Debt,4.00,03/08/23,5562,7231,2011,(11)(14)(17)
-281,Solarplicity Group Limited (f/k/a AMP Solar UK),Solarplicity UK Holdings Limited,Preferred Equity - Preferred Stock,N/A,N/A,"4,286  Shares",5623,0,(2)(13)(17)
-282,Solarplicity Group Limited (f/k/a AMP Solar UK),Solarplicity UK Holdings Limited,Common Equity - Ordinary Shares,N/A,N/A,"2,825  Shares",4,0,(2)(13)(17)
-287,Pelican,"Pelican Energy, LLC (4)",Common Equity - Membership Interests,N/A,N/A,"1,444  Shares",12271,195,(13)(16)(17)(24)
-289,Spotted Hawk,"SHD Oil & Gas, LLC (5)",Common Equity - Series C Units,N/A,N/A,"50,952,525  Shares",43454,480,(13)(16)(24)
-290,Spotted Hawk,"SHD Oil & Gas, LLC (5)",Common Equity - Series A Units,N/A,N/A,"7,600,000  Shares",1411,0,(13)(16)(24)
-295,83bar,"83Bar, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.50   Floor",07/02/26,3445,3435,3385,(9)(31)
-297,Akoya,"Akoya Biosciences, Inc.",First Lien Secured Debt,"SOFR+  680  ,  2.50   Floor",11/01/27,22500,19113,19125,(9)(23)(31)
-299,Alcami,Alcami Corporation,First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",12/21/28,8884,7901,7888,(9)(21)(23)(31)
-300,Alcami,Alcami Corporation,First Lien Secured Debt - Revolver,"SOFR+  700  ,  1.00   Floor",12/21/28,1096,(  37,(  38,(8)(9)(21)(23)
-303,Analogic,Analogic Corporation,First Lien Secured Debt,"L+  525  ,  1.00   Floor",06/22/24,17667,17563,17579,(9)(28)
-304,Analogic,Analogic Corporation,First Lien Secured Debt - Revolver,"L+  525  ,  1.00   Floor",06/22/23,1826,1301,1304,(9)(21)(23)(28)
-307,Carbon6,"Carbon6 Technologies, Inc.",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",08/01/27,12500,2489,2413,(9)(23)(31)
-308,Carbon6,"Carbon6 Technologies, Inc.",Preferred Equity - Preferred Equity,N/A,N/A,"280,899  Shares",250,250,(9)(13)(24)
-311,Cato Research,"LS Clinical Services Holdings, Inc.",First Lien Secured Debt,"L+  675  ,  1.00   Floor",12/16/27,12961,12702,12610,(9)(28)
-312,Cato Research,"LS Clinical Services Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  675  ,  1.00   Floor",12/16/26,1875,1839,1828,(9)(23)(28)
-315,Celerion,"Celerion Buyer, Inc.",First Lien Secured Debt,"SOFR+  650  ,  0.75   Floor",11/05/29,9340,7795,7828,(9)(21)(23)(32)
-316,Celerion,"Celerion Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.75   Floor",11/03/28,639,(  18,(  16,(8)(9)(21)(23)
-319,Cerus,Cerus Corporation,First Lien Secured Debt,"SOFR+  545  ,  1.80   Floor",03/01/28,16500,16464,16418,(9)(17)(31)
-320,Cerus,Cerus Corporation,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/01/28,6000,(  30,(  30,(8)(9)(17)(23)
-321,Cerus,Cerus Corporation,First Lien Secured Debt - Revolver,"SOFR+  375  ,  1.00   Floor",03/01/28,2000,435,434,(9)(17)(21)(23)  (31)
-324,CNSI,"CNSI Holdings, LLC",First Lien Secured Debt,"SOFR+  650  ,  0.50   Floor",12/17/28,17955,17370,17327,(9)(32)
-325,CNSI,"CNSI Holdings, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.50   Floor",12/17/27,2000,(  65,(  70,(8)(9)(21)(23)
-328,Compass Health,"Roscoe Medical, Inc",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",09/30/24,7525,7254,7149,(9)(31)
-329,Compass Health,"Roscoe Medical, Inc",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",09/30/24,1393,1341,1323,(9)(23)(31)
-332,EmpiRx,EmpiRx Health LLC,First Lien Secured Debt,"SOFR+  500  ,  1.00   Floor",08/05/27,8977,8842,8910,(9)(32)
-333,EmpiRx,EmpiRx Health LLC,First Lien Secured Debt - Revolver,"SOFR+  500  ,  1.00   Floor",08/05/27,909,(  13,(  7,(8)(9)(20)(21)  (23)
-336,Forge Biologics,"Forge Biologics, Inc.",First Lien Secured Debt,"SOFR+  675  ,  0.50   Floor",12/03/26,26667,13234,13245,(9)(23)(31)
-338,Gateway Services,"Gateway US Holdings, Inc.",First Lien Secured Debt,"SOFR+  650  ,  0.75   Floor",09/22/26,9657,9510,9448,(9)(21)(23)(32)
-339,Gateway Services,"Gateway US Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.75   Floor",09/22/26,304,164,162,(9)(21)(23)(32)
-342,Gossamer,"GB001, Inc.",First Lien Secured Debt,"SOFR+  700  ,  2.00   Floor",01/01/25,4258,4264,4259,(9)(17)(31)
-343,Gossamer,"GB001, Inc.",First Lien Secured Debt,"L+  700  ,  2.00   Floor",01/01/25,24000,(  77,0,(9)(17)(23)
-346,Health & Safety Institute,"HSI HALO Acquisition, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",08/31/26,16225,16046,15709,(9)(31)
-347,Health & Safety Institute,"HSI HALO Acquisition, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",08/31/26,2459,2411,2411,(9)(31)
-348,Health & Safety Institute,"HSI HALO Acquisition, Inc.",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",09/02/25,813,674,663,(9)(21)(23)(31)  (33)
-349,Health & Safety Institute,"HSI HALO Acquisition, Inc.",Common Equity - Common Stock,N/A,N/A,500  Shares,500,1462,(9)(13)
-350,Health & Safety Institute,"HSI Halo Holdings, LLC",Common Equity - Common Stock,N/A,N/A,104  Shares,16,15,(9)(24)
-351,Health & Safety Institute,"HSI Halo Holdings, LLC",Unsecured Debt - Convertible Bond,10.00,09/28/27,33,33,31,(9)
-354,IMA Group,"IMA Group Management Company, LLC",First Lien Secured Debt,"L+  500  ,  1.00   Floor",05/30/24,12576,12505,12513,(28)
-355,IMA Group,"IMA Group Management Company, LLC",First Lien Secured Debt - Revolver,"L+  500  ,  1.00   Floor",05/30/24,289,173,172,(21)(23)(28)
-358,KureSmart,"Clearway Corporation (f/k/a NP/Clearway Holdings, Inc.)",Common Equity - Common Stock,N/A,N/A,133  Shares,133,224,(9)(13)
-359,KureSmart,"Kure Pain Holdings, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",08/27/25,21436,21305,21213,(9)(31)
-360,KureSmart,"Kure Pain Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  500  ,  1.00   Floor",08/27/24,2654,(  16,(  18,(8)(9)(21)(23)
-363,LucidHealth,"Premier Imaging, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",01/02/25,12399,7982,7907,(9)(21)(23)(26)
-365,Mannkind Corporation,Mannkind Corporation,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",08/01/25,13867,13814,13859,(9)(31)
-366,Mannkind Corporation,Mannkind Corporation,Common Equity - Common Stock,N/A,N/A,"334,226  Shares",76,1370,(9)(10)(13)(17)
-369,"Maxor National Pharmacy Services, LLC","Maxor National Pharmacy Services, LLC",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/01/29,13420,13020,13017,(9)(33)
-370,"Maxor National Pharmacy Services, LLC","Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/01/29,1530,873,872,(9)(21)(23)(31)  (33)
-371,"Maxor National Pharmacy Services, LLC","Maxor Topco, L.P.",Preferred Equity - Preferred Equity,N/A,N/A,"50,000  Shares",50,50,(9)(13)(24)
-374,Medical Guardian,"Medical Guardian, LLC",First Lien Secured Debt,"L+  650  ,  1.00   Floor",10/26/26,35798,30672,30742,(9)(21)(23)(26)
-375,Medical Guardian,"Medical Guardian, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",10/26/26,3810,607,640,(9)(21)(23)(26)
-378,Midwest Vision,"Midwest Vision Partners Management, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",01/12/27,24041,21285,21022,(9)(21)(23)(32)
-379,Midwest Vision,"Midwest Vision Partners Management, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",01/12/27,612,604,596,(9)(23)(32)
-382,Orchard,Orchard Therapeutics PLC,First Lien Secured Debt,"SOFR+  595  ,  1.00   Floor",05/28/26,9952,9932,9953,(9)(17)(31)
-384,Ovation Fertility,"FPG Services, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",06/13/25,18879,14742,14855,(9)(21)(23)(26)
-385,Ovation Fertility,"FPG Services, LLC",First Lien Secured Debt - Revolver,P+  450,06/13/24,632,625,629,(9)(21)(23)(25)
-386,Ovation Fertility,"FPG Services, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",06/13/24,1474,417,420,(9)(21)(23)(26)
-389,Paragon 28,"Paragon 28, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",05/01/26,10000,7481,7450,(9)(23)(31)
-390,Paragon 28,"Paragon 28, Inc.",First Lien Secured Debt - Revolver,"SOFR+  375  ,  1.00   Floor",05/01/26,2000,(  9,(  10,(8)(9)(21)(23)
-393,"Partner Therapeutics, Inc","Partner Therapeutics, Inc",Preferred Equity - Preferred Equity,N/A,N/A,"55,556  Shares",333,629,(9)(13)
-394,"Partner Therapeutics, Inc","Partner Therapeutics, Inc",Warrants - Warrants,N/A,N/A,73,389,461,(9)(13)
-397,PHS,"PHS Buyer, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",01/31/27,24862,24538,23992,(9)(31)
-398,PHS,"PHS Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",01/31/27,2000,960,930,(9)(21)(23)(31)
-401,RHA Health Services,"Pace Health Companies, LLC",First Lien Secured Debt,"SOFR+  450  ,  1.00   Floor",08/02/24,3758,3737,3739,(9)(32)
-402,RHA Health Services,"Pace Health Companies, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",08/02/24,500,0,(  3,(8)(9)(20)(21)  (23)
-405,Rigel Pharmaceuticals,"Rigel Pharmaceuticals, Inc.",First Lien Secured Debt,"SOFR+  565  ,  1.50   Floor",09/01/26,18000,17996,17957,(9)(31)
-407,"TELA Bio, Inc.","TELA Bio, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/01/27,16667,13277,13333,(9)(23)(31)
-409,TissueTech,"TissueTech, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",04/01/27,17500,12199,12250,(9)(23)(31)
-410,TissueTech,"TissueTech, Inc.",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",04/01/27,1000,(  4,0,(9)(21)(23)
-413,Treace,"Treace Medical Concepts, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",04/01/27,35000,14522,14408,(9)(17)(23)(31)
-414,Treace,"Treace Medical Concepts, Inc.",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",04/01/27,3000,388,370,(9)(17)(21)(23)  (31)
-417,Unchained Labs,"Unchained Labs, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",08/09/27,6718,4079,4086,(9)(21)(23)(31)
-418,Unchained Labs,"Unchained Labs, LLC",First Lien Secured Debt - Revolver,"SOFR+  550  ,  1.00   Floor",08/09/27,726,(  11,(  7,(8)(9)(21)(23)
-421,ViewRay,ViewRay Inc.,First Lien Secured Debt,P+  350,11/01/27,12500,12445,12438,(9)(17)(25)
-422,ViewRay,ViewRay Inc.,First Lien Secured Debt,"L+  350  ,  0.00   Floor",11/01/27,4167,(  19,(  21,(8)(9)(17)(23)
-423,ViewRay,ViewRay Inc.,First Lien Secured Debt - Revolver,P+  050,11/01/27,750,211,210,(9)(17)(21)(23)  (25)
-426,"WellDyneRx, LLC","WelldyneRX, LLC",First Lien Secured Debt,"SOFR+  675  ,  0.75   Floor",03/09/27,17896,17586,17447,(9)(32)
-427,"WellDyneRx, LLC","WelldyneRX, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  0.75   Floor",03/09/26,1923,(  28,(  48,(8)(9)(21)(23)
-432,Acronis AG,ACRONIS AG,First Lien Secured Debt,"L+  585  ,  1.00   Floor",04/01/27,21000,20944,21000,(9)(17)(26)
-434,American Megatrends,AMI US Holdings Inc.,First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",04/01/25,21209,21056,21103,(9)(31)
-435,American Megatrends,AMI US Holdings Inc.,First Lien Secured Debt - Revolver,"SOFR+  525  ,  0.00   Floor",04/01/24,2907,(  12,0,(9)(21)(23)
-438,BarTender,Sigma Buyer LLC,First Lien Secured Debt,"SOFR+  675  ,  0.75   Floor",01/04/28,6000,5825,5820,(9)(33)
-439,BarTender,Sigma Buyer LLC,First Lien Secured Debt - Revolver,"SOFR+  675  ,  0.75   Floor",01/04/28,1500,(  43,(  45,(8)(9)(21)(23)
-442,"Calero Holdings, Inc.","Telesoft Holdings, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",12/16/25,22045,21813,21644,(26)(28)
-443,"Calero Holdings, Inc.","Telesoft Holdings, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/16/25,2273,204,185,(21)(23)(26)
-446,ChyronHego Corporation,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  350  Cash plus  1.50   PIK,  1.75   Floor",12/31/24,86581,86490,86581,(32)
-447,ChyronHego Corporation,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  1025  PIK,  1.75   Floor",12/31/24,2866,2806,2866,(32)
-448,ChyronHego Corporation,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  650  Cash plus  1.50   PIK,  1.00   Floor",12/31/24,2019,1915,2019,(32)
-449,ChyronHego Corporation,ChyronHego Corporation (5),First Lien Secured Debt - Revolver,"SOFR+  500  ,  1.75   Floor",12/31/24,10000,8945,8956,(21)(23)(32)
-450,ChyronHego Corporation,ChyronHego Corporation (5),Preferred Equity - Preferred Equity,N/A,N/A,"7,800  Shares",6000,23390,(13)(24)
-451,ChyronHego Corporation,ChyronHego US Holding Corporation (5),First Lien Secured Debt,"SOFR+  950  ,  1.75   Floor",12/31/24,5000,2911,3010,(23)(32)
-454,Dairy.com,Momentx Corporation,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",06/24/27,15162,14936,14851,(9)(32)
-455,Dairy.com,Momentx Corporation,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",06/24/27,1367,1339,1361,(9)(32)
-456,Dairy.com,Momentx Corporation,First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",06/24/27,1257,(  18,(  27,(8)(9)(21)(23)
-459,Digital.ai,"Digital.ai Software Holdings, Inc.",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",02/10/27,22129,21709,21576,(9)(32)
-460,Digital.ai,"Digital.ai Software Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",02/10/27,2419,518,492,(9)(21)(23)(32)
-463,GoHealth,"Norvax, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",09/13/24,3182,(  23,0,(9)(21)(23)
-465,"International Cruise & Excursion Gallery, Inc.","International Cruise & Excursion Gallery, Inc.",First Lien Secured Debt,"SOFR+  535  ,  1.00   Floor",06/06/25,14288,14197,13802,(31)
-467,Litify,Litify Holdings Inc.,Common Equity - Common Stock,N/A,N/A,"83,330  Shares",83,83,(9)(13)(24)
-468,Litify,Litify LLC,First Lien Secured Debt,"SOFR+  725  ,  1.00   Floor",02/03/29,11667,11328,11317,(9)(32)
-469,Litify,Litify LLC,First Lien Secured Debt - Revolver,"SOFR+  725  ,  1.00   Floor",02/03/29,833,(  24,(  25,(8)(9)(21)(23)
-472,Modern Campus,"Destiny Solutions U.S., Inc.",First Lien Secured Debt,"L+  575  ,  1.00   Floor",06/08/26,25573,25139,25062,(19)(26)
-473,Modern Campus,"RMCF IV CIV XXXV, L.P.",Common Equity - Common Stock,N/A,N/A,482  Shares,1000,1571,(13)
-476,MYCOM,Magnate Holding Corp.,First Lien Secured Debt,"SOFR+  600  ,  0.50   Floor",12/16/24,18998,18937,18821,(9)(17)(32)
-477,MYCOM,Magnate Holding Corp.,First Lien Secured Debt - Revolver,"SOFR+  600  ,  0.50   Floor",12/14/23,3150,3141,3124,(9)(17)(23)(32)
-480,"New Era Technology, Inc.","New Era Technology, Inc.",First Lien Secured Debt,"L+  625  ,  1.00   Floor",10/31/26,32870,31707,31422,(9)(21)(23)(28)
-481,"New Era Technology, Inc.","New Era Technology, Inc.",First Lien Secured Debt - Revolver,"L+  625  ,  1.00   Floor",10/30/26,1732,1274,1260,(9)(21)(23)(28)
-484,Pro Vigil,"Pro-Vigil Holding Company, LLC",First Lien Secured Debt,"SOFR+  850  ,  1.00   Floor",01/11/25,23095,17770,17997,(9)(21)(23)(32)  (33)
-486,Schlesinger Group,"Schlesinger Global, LLC",First Lien Secured Debt,"SOFR+  600  Cash plus  0.50   PIK,  1.00   Floor",07/12/25,10283,10168,10194,(9)(31)
-487,Schlesinger Group,"Schlesinger Global, LLC",First Lien Secured Debt,"SOFR+  785  ,  1.00   Floor",07/12/25,951,942,951,(9)(31)
-490,Simeio,"Simeio Group Holdings, Inc.",First Lien Secured Debt,"L+  550  ,  1.00   Floor",02/02/26,8178,8119,7933,(9)(26)
-491,Simeio,"Simeio Group Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",02/02/26,1731,1142,1102,(9)(21)(23)(26)
-494,Sirsi Corporation,Sirsi Corporation,First Lien Secured Debt,"L+  450  ,  1.00   Floor",03/15/24,5046,5031,4945,(9)(26)
-495,Sirsi Corporation,Sirsi Corporation,First Lien Secured Debt - Revolver,"SOFR+  450  ,  1.00   Floor",03/15/24,429,(  1,(  9,(8)(9)(21)(23)
-498,Springbrook,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  585  ,  1.00   Floor",12/23/26,9132,9042,8781,(33)
-499,Springbrook,"Springbrook Holding Company, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",12/23/26,5058,4989,4863,(28)
-500,Springbrook,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",12/23/26,2349,2319,2311,(33)
-501,Springbrook,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",12/23/26,1578,1566,1517,(31)
-502,Springbrook,"Springbrook Holding Company, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/23/26,1463,(  14,(  56,(8)(21)(23)
-505,Tax Slayer,"MEP-TS Midco, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",12/31/26,13244,13046,12912,(9)(26)
-506,Tax Slayer,"MEP-TS Midco, LLC",First Lien Secured Debt - Revolver,"L+  600  ,  1.00   Floor",12/31/26,1452,0,(  36,(8)(9)(21)(23)
-509,UpStack,Upstack Holdco Inc.,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",08/20/27,31630,30996,30918,(9)(33)
-510,UpStack,Upstack Holdco Inc.,First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",08/20/27,3000,(  61,(  67,(8)(9)(20)(21)  (23)
-515,Cave,"Cave Enterprises Operations, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.50   Floor",08/09/28,10000,8499,8493,(9)(23)(31)
-517,Guernsey,Guernsey Holdings SDI LA LLC,First Lien Secured Debt,6.95,11/18/26,1912,1898,1779,(9)
-518,Guernsey,Guernsey Holdings SDI LA LLC,First Lien Secured Debt,"L+  595  ,  1.00   Floor",11/18/26,1167,0,(  6,(8)(9)(23)
-521,PARS Group LLC,PARS Group LLC,First Lien Secured Debt,"SOFR+  675  ,  1.50   Floor",04/03/28,10000,8924,8898,(9)(23)(31)
-523,Taco Cabana,"YTC Enterprises, LLC",First Lien Secured Debt,"L+  625  ,  1.00   Floor",08/16/26,9754,9667,9559,(9)(26)
-527,High Street Insurance,"High Street Buyer, Inc.",First Lien Secured Debt,"SOFR+  600  ,  0.75   Floor",04/14/28,29810,29390,29288,(9)(32)
-528,High Street Insurance,"High Street Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  600  ,  0.75   Floor",04/16/27,2203,(  30,(  39,(8)(9)(21)(23)
-531,PGM Holdings Corporation,"Turbo Buyer, Inc.",First Lien Secured Debt,"L+  600  ,  1.00   Floor",12/02/25,19034,18814,18654,(9)(28)
-532,PGM Holdings Corporation,"Turbo Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/02/25,923,(  10,(  18,(8)(9)(21)(23)
-535,Relation Insurance,"AQ Sunshine, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",04/15/25,34507,34102,34213,(9)(32)
-536,Relation Insurance,"AQ Sunshine, Inc.",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",04/15/24,1785,1607,1605,(9)(20)(21)(23)(32)
-541,"AVAD, LLC","Surf Opco, LLC",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",03/17/26,16667,13389,13296,(9)(16)(20)(21)  (23)(31)
-542,"AVAD, LLC","Surf Opco, LLC",Preferred Equity - Class P-1 Preferred,N/A,N/A,"33,333  Shares",3333,6667,(9)(13)(16)
-543,"AVAD, LLC","Surf Opco, LLC",Preferred Equity - Class P-2 Preferred,N/A,N/A,"85,164  Shares",8516,3177,(9)(13)(16)
-544,"AVAD, LLC","Surf Opco, LLC",Common Equity - Class A-1 Common,N/A,N/A,"3,333  Shares",0,140,(9)(13)(16)
-547,Kauffman,"Kauffman Holdco, LLC",Common Equity - Common Stock,N/A,N/A,"250,000  Shares",250,230,(9)(13)
-548,Kauffman,"Kauffman Intermediate, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",05/08/25,16106,15995,15763,(9)(32)
-549,Kauffman,"Kauffman Intermediate, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",05/08/25,1243,(  2,(  26,(8)(9)(21)(23)
-552,MedPlast Holdings Inc.,"Viant Medical Holdings, Inc. (fka MedPlast Holdings, Inc.)",Second Lien Secured Debt,"L+  775  ,  0.00   Floor",07/02/26,8000,7972,7425,(26)
-556,Sonar Entertainment,"Sonar Entertainment, Inc.",First Lien Secured Debt,"L+  760  ,  1.25   Floor",11/15/21,738,737,576,(9)(11)(26)
-557,Sonar Entertainment,"Sonar Entertainment, Inc.",First Lien Secured Debt - Revolver,"L+  760  ,  1.25   Floor",11/15/21,563,521,439,(9)(11)(23)(26)
-562,IPS,"SI Holdings, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",07/25/25,30688,30441,30421,(9)(33)
-563,IPS,"SI Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",07/25/24,3413,1398,1396,(9)(21)(23)(33)
-568,"Securus Technologies Holdings, Inc.","Securus Technologies Holdings, Inc.",Second Lien Secured Debt,"L+  825  ,  1.00   Floor",11/01/25,7128,7098,5845,
-572,Beacon Mobility,Beacon Mobility Corp.,First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",05/22/24,29223,29023,28854,(9)(31)(32)
-573,Beacon Mobility,Beacon Mobility Corp.,First Lien Secured Debt,"SOFR+  610  ,  1.00   Floor",05/22/24,13814,13703,13640,(9)(31)
-574,Beacon Mobility,Beacon Mobility Corp.,First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",05/22/24,4145,265,254,(9)(20)(21)(23)(31)
-575,Beacon Mobility,Beacon Mobility Corp.,First Lien Secured Debt - Revolver,4.00,05/22/24,50000,0,0,(9)(22)(23)
-578,Heniff and Superior,"Heniff Holdco, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/03/26,29909,29547,29461,(9)(32)
-579,Heniff and Superior,"Heniff Holdco, LLC",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",12/03/24,3925,745,752,(9)(20)(21)(23)(31)
-582,MSEA Tankers LLC,MSEA Tankers LLC (5),Common Equity - Class A Units,N/A,N/A,19397,3692,(13)(17)(18)(24),
-586,Congruex,Congruex Group LLC,First Lien Secured Debt,"SOFR+  575  ,  0.75   Floor",05/03/29,14888,14562,14553,(9)(32)
-590,Banner Solutions,"Banner Buyer, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",10/31/25,15142,15024,15018,(9)(31)
-591,Banner Solutions,"Banner Buyer, LLC",First Lien Secured Debt - Revolver,"SOFR+  575  ,  0.00   Floor",10/31/25,1935,370,371,(9)(21)(23)(31)
-592,Banner Solutions,"Banner Parent Holdings, Inc.",Common Equity - Common Stock,N/A,N/A,"6,125  Shares",613,665,(9)(13)
-595,Thomas Scientific,"BSP-TS, LP",Common Equity - Common Stock,N/A,N/A,185  Shares,185,195,(9)(13)
-596,Thomas Scientific,"Thomas Scientific, LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/14/27,31493,30991,31010,(9)(32)
-597,Thomas Scientific,"Thomas Scientific, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",12/14/27,2963,(  47,(  45,(8)(9)(21)(23)
+,Industry/Company,Investment_Type,Interest_Rate,Maturity_Date,Par_Shares,Cost,Fair_Value,
+0,"Advertising, Printing & Publishing",,,,,,,
+1,FingerPaint Marketing,,,,,,,
+2,KL Charlie Acquisition Company,First Lien Secured Debt,"L+  625  ,  1.00   Floor",12/30/26,23460,23143,23108,(9)(28)
+3,KL Charlie Acquisition Company,First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",12/30/26,1000,701,706,(9)(23)(32)
+4,KL Charlie Acquisition Company,First Lien Secured Debt - Revolver,P+  525,12/30/26,1962,526,520,(9)(21)(23)(25)
+5,"KL Charlie Co-Invest, L.P.",Common Equity - Common Stock,N/A,N/A,"218,978  Shares",219,357,(9)(13)
+6,Hero Digital,,,,,,,
+7,"HRO (Hero Digital) Holdings, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",11/18/28,26989,18971,18312,(9)(21)(23)(28)
+8,"HRO (Hero Digital) Holdings, LLC",First Lien Secured Debt - Revolver,"L+  600  ,  1.00   Floor",11/18/26,2553,2481,2422,(9)(20)(21)(23)  (28)
+9,HRO Holdings I LP,Common Equity - Common Stock,N/A,N/A,213  Shares,213,125,(9)(13)
+11,Automotive,,,,,,,
+12,Club Car Wash,,,,,,,
+13,"Club Car Wash Operating, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",06/16/27,29668,27377,27239,(9)(21)(23)(32)
+14,"Club Car Wash Operating, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",06/16/27,2438,(  31,(  44,(8)(9)(21)(23)
+15,Crowne Automotive,,,,,,,
+16,"Vari-Form Group, LLC",First Lien Secured Debt,11.00   (  7.00   Cash plus  4.00   PIK),02/02/23,5860,893,264,(9)(11)(14)
+17,Vari-Form Inc.,First Lien Secured Debt,11.00   (  7.00   Cash plus  4.00   PIK),02/02/23,2110,391,95,(9)(11)(14)
+18,"K&N Parent, Inc.",,,,,,,
+19,"K&N Holdco, LLC",Common Equity - Common Stock,N/A,N/A,"77,622  Shares",23621,1423,(13)(24)
+20,"Truck-Lite Co., LLC",,,,,,,
+21,"TL Lighting Holdings, LLC",Common Equity - Equity,N/A,N/A,350  Shares,350,403,(9)(13)
+22,"Truck-Lite Co., LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/14/26,31653,31224,31034,(9)(33)
+23,"Truck-Lite Co., LLC",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",12/13/24,3052,0,(  31,(8)(9)(20)(21)  (23)
+25,Aviation and Consumer Transport,,,,,,,
+26,"Merx Aviation Finance, LLC",,,,,,,
+27,"Merx Aviation Finance, LLC (5)",First Lien Secured Debt - Revolver,10.00,10/31/23,2004677,84575,84575,(20)(23)
+28,"Merx Aviation Finance, LLC (5)",Common Equity - Membership Interests,N/A,N/A,146500,112639,(24),
+29,PrimeFlight,,,,,,,
+30,"PrimeFlight Aviation Services, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/09/24,13561,13487,13493,(9)(31)(32)
+32,"Beverage, Food & Tobacco",,,,,,,
+33,Berner Foods,,,,,,,
+34,"Berner Food & Beverage, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",07/30/27,30652,30135,29273,(9)(28)
+35,"Berner Food & Beverage, LLC",First Lien Secured Debt - Revolver,P+  450,07/30/26,1008,980,926,(9)(21)(23)(25)
+36,"Berner Food & Beverage, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",07/30/26,1873,560,529,(9)(21)(23)(28)
+37,Bolthouse Farms,,,,,,,
+38,"Wm. Bolthouse Farms, Inc.",Common Equity - Equity Interests,N/A,N/A,"1,086,122  Shares",1147,1151,(13)(24)
+39,Hive,,,,,,,
+40,"FCP-Hive Holdings, LLC",Preferred Equity - Preferred Equity,N/A,N/A,589  Shares,448,220,(9)(13)
+41,"FCP-Hive Holdings, LLC",Common Equity - Common Stock,N/A,N/A,589  Shares,3,0,(9)(13)
+42,"Hive Intermediate, LLC",First Lien Secured Debt,"SOFR+  400  Cash plus  2.00   PIK,  1.00   Floor",09/22/27,15866,15633,15232,(9)(31)
+43,"Hive Intermediate, LLC",First Lien Secured Debt - Revolver,"SOFR+  400  Cash plus  2.00   PIK,  1.00   Floor",09/22/27,2326,589,530,(9)(21)(23)(31)
+44,"Orgain, Inc.",,,,,,,
+45,"Butterfly Fighter Co-Invest, L.P.",Common Equity - Membership Interests,N/A,N/A,"490,000  Shares",90,913,
+46,Rise Baking,,,,,,,
+47,Ultimate Baked Goods Midco LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",08/13/27,26422,25925,25566,(9)(31)
+48,Ultimate Baked Goods Midco LLC,First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",08/13/27,3243,345,300,(9)(20)(21)(23)  (31)
+49,Turkey Hill,,,,,,,
+50,IC Holdings LLC,Common Equity - Series A Units,N/A,N/A,169  Shares,169,177,(9)(13)
+51,THLP CO. LLC,First Lien Secured Debt,"L+  600  Cash plus  2.00   PIK,  1.00   Floor",05/31/25,25570,25369,25314,(9)(29)
+52,THLP CO. LLC,First Lien Secured Debt - Revolver,"L+  600  Cash plus  2.00   PIK,  1.00   Floor",05/31/24,3231,1939,1923,(9)(20)(21)(23)(29)
+53,THLP CO. LLC,First Lien Secured Debt - Revolver,P+  500,05/31/24,1263,1256,1246,(9)(21)(23)(25)
+55,Business Services,,,,,,,
+56,Accelerate Learning,,,,,,,
+57,"Eagle Purchaser, Inc.",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/22/30,4342,3305,3304,(9)(21)(23)(32)
+58,"Eagle Purchaser, Inc.",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/22/29,658,112,112,(9)(21)(23)(32)
+59,Access Information,,,,,,,
+60,"Access CIG, LLC",Second Lien Secured Debt,"L+  775  ,  0.00   Floor",02/27/26,15900,15850,15662,(28)
+61,AlpineX,,,,,,,
+62,"Alpinex Opco, LLC",First Lien Secured Debt,"SOFR+  626  ,  1.00   Floor",12/27/27,21435,21043,21162,(9)(32)
+63,"Alpinex Opco, LLC",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",12/27/27,1489,563,588,(9)(21)(23)(32)
+64,Ambrosia Buyer Corp.,,,,,,,
+65,Ambrosia Buyer Corp.,Second Lien Secured Debt,8.00,08/28/25,21429,17307,6129,(14)
+66,AML Rightsource,,,,,,,
+67,"Gabriel Partners, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",09/21/26,31134,30698,30506,(9)(31)
+68,"Gabriel Partners, LLC",First Lien Secured Debt - Revolver,P+  475,09/21/26,665,123,116,(9)(21)(23)(25)
+69,Continuum,,,,,,,
+70,"Continuum Global Solutions, LLC",Preferred Equity - Preferred Equity,N/A,N/A,775  Shares,78,78,(9)(13)
+71,Electro Rent Corporation,,,,,,,
+72,Electro Rent Corporation,Second Lien Secured Debt,"L+  900  ,  1.00   Floor",01/31/25,34235,33957,34064,(9)(28)
+73,Elo Touch,,,,,,,
+74,TGG TS Acquisition Company,First Lien Secured Debt - Revolver,"L+  650  ,  0.00   Floor",12/14/23,1750,0,(  17,(8)(21)(23)
+75,Ensemble Health,,,,,,,
+76,"EHL Merger Sub, LLC",First Lien Secured Debt - Revolver,"L+  325  ,  0.00   Floor",08/01/24,4155,(  103,(  125,(8)(21)(23)
+77,HMA,,,,,,,
+78,"Health Management Associates Superholdings, Inc.",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/30/29,4716,3863,3863,(9)(21)(23)(32)
+79,"Health Management Associates Superholdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",03/30/29,284,(  9,(  9,(8)(9)(21)(23)
+80,IRP,,,,,,,
+81,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/08/28,10117,9932,9814,(9)(32)
+82,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/08/28,1000,970,970,(9)(32)
+83,Precision Refrigeration & Air Conditioning LLC,First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/08/28,1705,540,517,(9)(21)(23)(32)
+84,"SMC IR Holdings, LLC",Common Equity - Common Stock,N/A,N/A,134  Shares,145,234,(9)
+85,Jacent,,,,,,,
+86,Jacent Strategic Merchandising,First Lien Secured Debt,"L+  725  ,  1.00   Floor",04/23/24,22186,22115,21421,(9)(26)
+87,Jacent Strategic Merchandising,First Lien Secured Debt - Revolver,"L+  725  ,  1.00   Floor",04/23/24,3500,3447,3373,(9)(21)(23)(26)
+88,Jacent Strategic Merchandising,Common Equity - Common Stock,N/A,N/A,"5,000  Shares",500,4,(9)(13)
+89,"JSM Equity Investors, L.P.",Preferred Equity - Class P Partnership Units,N/A,N/A,114  Shares,11,11,(9)(13)
+90,Jones & Frank,,,,,,,
+91,"JF Acquisition, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",07/31/26,13066,12957,12767,(9)(26)
+92,"JF Acquisition, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",07/31/26,1569,1367,1345,(9)(21)(23)(26)
+93,Naviga,,,,,,,
+94,"Naviga Inc. (fka Newscycle Solutions, Inc.)",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",12/29/23,13262,13206,13262,(9)(32)
+95,"Naviga Inc. (fka Newscycle Solutions, Inc.)",First Lien Secured Debt - Revolver,"SOFR+  700  ,  1.00   Floor",12/29/23,500,443,444,(9)(21)(23)(32)
+96,PSE,,,,,,,
+97,"Graffiti Buyer, Inc.",First Lien Secured Debt,"L+  550  ,  1.00   Floor",08/10/27,8359,6307,6288,(9)(21)(23)(28)
+98,"Graffiti Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",08/10/27,1067,513,513,(9)(21)(23)(28)
+99,"Graffiti Buyer, Inc.",First Lien Secured Debt - Revolver,P+  450,08/10/27,240,234,233,(9)(21)(23)(25)
+100,"Graffiti Parent, LP",Common Equity - Common Stock,N/A,N/A,"2,439  Shares",244,307,(9)(13)
+101,"PSI Services, LLC",,,,,,,
+102,"Lifelong Learner Holdings, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",10/19/26,33628,33276,32077,(9)(28)
+103,"Lifelong Learner Holdings, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",10/20/25,2985,2956,2874,(9)(21)(23)(28)
+104,Soliant,,,,,,,
+105,"Soliant Health, Inc.",Common Equity - Membership Interests,N/A,N/A,300  Shares,300,1412,(9)
+106,Trench Plate,,,,,,,
+107,Trench Plate Rental Co.,First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",12/03/26,18045,17813,17775,(9)(32)
+108,Trench Plate Rental Co.,First Lien Secured Debt - Revolver,"SOFR+  550  ,  1.00   Floor",12/03/26,1818,460,455,(9)(20)(21)(23)  (32)
+109,"Trench Safety Solutions Holdings, LLC",Common Equity - Common Stock,N/A,N/A,331  Shares,50,43,(9)(13)(24)
+110,US Legal Support,,,,,,,
+111,"US Legal Support Investment Holdings, LLC",Common Equity - Series A-1 Units,N/A,N/A,"631,972  Shares",632,720,(9)(13)
+112,"USLS Acquisition, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/02/24,19245,19118,18941,(9)(31)
+113,"USLS Acquisition, Inc.",First Lien Secured Debt,"SOFR+  585  ,  1.00   Floor",12/02/24,4510,4476,4439,(9)(31)
+114,"USLS Acquisition, Inc.",First Lien Secured Debt - Revolver,"SOFR+  590  ,  1.00   Floor",12/02/24,1608,1024,1020,(9)(20)(21)(23)(31)
+115,Wilson Language Training,,,,,,,
+116,"Owl Acquisition, LLC",First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",02/04/28,9635,9473,9538,(9)(31)
+117,"Owl Parent Holdings, LLC",Common Equity - Common Stock,N/A,N/A,100  Shares,100,175,(9)(13)
+119,"Chemicals, Plastics & Rubber",,,,,,,
+120,Carbonfree Chemicals SPE I LLC (f/k/a Maxus Capital Carbon SPE I LLC),,,,,,,
+121,Carbonfree Chemicals Holdings LLC (4),Common Equity - Common Equity / Interest,N/A,N/A,"1,246  Shares",56505,19478,(13)(16)(24)
+122,FC2 LLC (4),Common Equity - Common Stock,N/A,N/A,5  Shares,0,0,(13)(24)
+123,FC2 LLC (4),Secured Debt - Promissory Note,6.50,10/14/27,12500,12500,12500,
+124,"Westfall Technik, Inc.",,,,,,,
+125,"Westfall Technik, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",09/13/24,21248,21121,20762,(9)(32)
+126,"Westfall Technik, Inc.",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",09/13/24,2039,2029,1993,(9)(23)(32)
+128,Construction & Building,,,,,,,
+129,Englert,,,,,,,
+130,"Gutter Buyer, Inc.",First Lien Secured Debt,"L+  625  ,  1.00   Floor",03/06/25,28894,28654,27991,(9)(28)
+131,"Gutter Buyer, Inc.",First Lien Secured Debt - Revolver,P+  525,03/06/24,2727,2566,2531,(9)(20)(21)(23)  (25)
+132,"Gutter Holdings, LP",Common Equity - Common Stock,N/A,N/A,500  Shares,500,149,(9)(13)
+133,Pave America,,,,,,,
+134,"Pavement Partners Interco, LLC",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",02/07/28,11558,9801,9788,(9)(21)(23)(32)
+135,"Pavement Partners Interco, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",02/07/28,942,287,286,(9)(21)(23)(33)
+136,Yak Access,,,,,,,
+137,Yak Access LLC,First Lien Secured Debt - Revolver,"SOFR+  475  ,  1.00   Floor",09/10/27,5000,1176,1175,(9)(21)(23)(31)
+139,Consumer Goods - Durable,,,,,,,
+140,A&V,,,,,,,
+141,"A&V Holdings Midco, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",03/10/25,1505,397,413,(21)(23)(26)
+142,KDC,,,,,,,
+143,KDC US Holdings,First Lien Secured Debt - Revolver,"L+  325  ,  0.00   Floor",12/21/23,6020,781,744,(20)(21)(23)  (26)
+144,"KLO Holdings, LLC",,,,,,,
+145,1244311 B.C. Ltd. (4),First Lien Secured Debt,"L+  500  ,  1.00   Floor",09/30/25,2978,2978,2828,(17)(28)
+146,1244311 B.C. Ltd. (4),First Lien Secured Debt,"L+  500  PIK,  1.00   Floor",09/30/25,1158,1158,1093,(17)(28)
+147,1244311 B.C. Ltd. (4),Common Equity - Common Stock,N/A,N/A,"1,000,032  Shares",1000,806,(2)(13)(17)(24)
+148,GSC Technologies Inc. (1244311 BC LTD) (4),First Lien Secured Debt,"L+  500  Cash plus  5.00   PIK,  1.00   Floor",09/30/25,186,186,175,(17)(28)
+149,NSi Industries,,,,,,,
+150,"Wildcat BuyerCo, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",02/27/26,16987,16595,16742,(32)
+151,"Wildcat BuyerCo, Inc.",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",02/27/26,725,108,106,(20)(21)(23)  (32)
+152,Wildcat Parent LP,Common Equity - Common Stock,N/A,N/A,"1,070  Shares",107,218,(13)
+153,"Sorenson Holdings, LLC",,,,,,,
+154,"Sorenson Holdings, LLC",Common Equity - Membership Interests,N/A,N/A,587  Shares,0,323,(10)(13)
+156,Consumer Goods - Non-durable,,,,,,,
+157,3D Protein,,,,,,,
+158,"Protein For Pets Opco, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",05/31/24,2219,(  14,0,(9)(21)(23)
+159,Dan Dee,,,,,,,
+160,"Project Comfort Buyer, Inc.",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",02/01/25,22251,22044,21657,(9)(31)
+161,"Project Comfort Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  700  ,  1.00   Floor",02/01/25,3462,(  28,(  94,(8)(9)(21)(23)
+162,"Project Comfort Buyer, Inc.",Preferred Equity - Preferred Equity,N/A,N/A,"491,405  Shares",492,69,(9)(13)(24)
+163,LashCo,,,,,,,
+164,"Lash OpCo, LLC",First Lien Secured Debt,"L+  700  ,  1.00   Floor",03/18/26,43030,42373,42267,(9)(29)
+165,"Lash OpCo, LLC",First Lien Secured Debt - Revolver,"L+  700  ,  1.00   Floor",09/18/25,1612,1114,1124,(9)(21)(23)(26)  (28)(29)
+166,Paladone,,,,,,,
+167,Paladone Group Bidco Limited,First Lien Secured Debt,"L+  550  ,  1.00   Floor",11/12/27,6043,5947,5975,(9)(17)(28)
+168,Paladone Group Bidco Limited,First Lien Secured Debt,"L+  575  ,  1.00   Floor",11/12/27,1883,(  10,(  21,(8)(9)(17)(21)  (23)
+169,Paladone Group Bidco Limited,First Lien Secured Debt - Revolver,"SON+  575  ,  1.00   Floor",11/12/27,353,(  7,(  5,(8)(9)(17)(21)  (23)
+170,Paladone Group Bidco Limited,First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",11/12/27,1412,(  22,(  16,(8)(9)(17)(21)  (23)
+171,Paladone Group Holdings Limited,Common Equity - Common Stock,N/A,N/A,"94,151  Shares",94,85,(9)(13)(17)
+172,"Sequential Brands Group, Inc.",,,,,,,
+173,Gainline Galaxy Holdings LLC,Common Equity - Common Stock,N/A,N/A,"10,854  Shares",2041,1061,(13)(16)(17)
+174,Sequential Avia Holdings LLC,First Lien Secured Debt,"L+  525  ,  1.00   Floor",11/12/26,1225,1225,1221,(17)(29)
+175,"Sequential Brands Group, Inc.",Second Lien Secured Debt,8.75,02/07/24,1293,0,233,(14)(17)
+176,"Swisstech IP CO, LLC",First Lien Secured Debt,6   PIK,11/29/24,281,26,276,(17)
+178,Consumer Services,,,,,,,
+179,Activ,,,,,,,
+180,"Activ Software Holdings, LLC",First Lien Secured Debt,"L+  625  ,  1.00   Floor",05/04/27,29566,29136,28827,(9)(30)
+181,"Activ Software Holdings, LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/04/27,2800,2721,2731,(9)(33)
+182,"Activ Software Holdings, LLC",First Lien Secured Debt - Revolver,"L+  625  ,  1.00   Floor",05/04/27,2407,(  33,(  72,(8)(9)(21)(23)
+183,Bird,,,,,,,
+184,"Bird US Opco, LLC",First Lien Secured Debt,"SOFR+  750  ,  1.00   Floor",01/13/25,14202,13996,14085,(9)(31)
+185,Clarus Commerce,,,,,,,
+186,"Marlin DTC-LS Midco 2, LLC",First Lien Secured Debt,"L+  650  ,  1.00   Floor",07/01/25,21492,21276,21294,(28)
+187,"Marlin DTC-LS Midco 2, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",07/01/25,685,0,(  6,(8)(21)(23)
+188,Go Car Wash,,,,,,,
+189,Go Car Wash Management Corp.,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/31/26,26336,10871,10573,(9)(21)(23)(31)
+190,Go Car Wash Management Corp.,First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",12/31/26,417,(  2,(  8,(8)(9)(21)(23)
+191,Lending Point,,,,,,,
+192,LendingPoint LLC,First Lien Secured Debt,"SOFR+  1050  ,  1.00   Floor",12/30/26,32500,32165,32162,(9)(32)
+193,LendingPoint LLC,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/30/26,4167,4136,4124,(9)(32)
+194,LendingPoint LLC,First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",12/30/26,8333,4111,4082,(9)(21)(23)(32)
+195,Renovo,,,,,,,
+196,"HomeRenew Buyer, Inc.",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",11/23/27,17929,15039,14863,(9)(21)(23)(31)  (32)(33)
+197,"HomeRenew Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  660  ,  1.00   Floor",11/23/27,1958,946,930,(9)(21)(23)(31)  (32)
+198,The Club Company,,,,,,,
+199,Eldrickco Limited,First Lien Secured Debt,"SON+  575  ,  0.50   Floor",11/26/25,14914,14633,14002,(9)(17)(21)(23)  (27)
+200,Eldrickco Limited,First Lien Secured Debt - Revolver,"SON+  575  ,  0.50   Floor",11/26/25,356,413,432,(9)(17)(23)(27)
+201,Eldrickco Limited,First Lien Secured Debt - Revolver,"SON+  525  ,  0.50   Floor",05/26/25,345,0,(  7,(8)(9)(17)(21)  (23)
+202,US Auto,,,,,,,
+203,"U.S. Auto Finance, Inc.",First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",04/17/24,20000,9584,8715,(9)(21)(23)(31)
+204,"U.S. Auto Finance, Inc.",First Lien Secured Debt,"SOFR+  900  ,  1.00   Floor",04/17/25,3550,3511,3492,(9)(31)
+205,"U.S. Auto Finance, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",04/17/24,13333,12700,12301,(9)(21)(23)(31)
+207,"Diversified Investment Vehicles, Banking, Finance, Real Estate",,,,,,,
+208,Celink,,,,,,,
+209,Compu-Link Corporation,First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",06/11/24,2273,(  12,(  13,(8)(9)(21)(23)
+210,"Peer Advisors, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",06/11/24,12841,12769,12766,(9)(31)
+211,Definiti LLC,,,,,,,
+212,Greylock Holdings LLC,Common Equity - Common Stock,N/A,N/A,"100,000  Shares",100,100,(9)(13)(24)
+213,RHI Acquisition LLC,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/16/29,9240,5863,5862,(9)(21)(23)(33)
+214,RHI Acquisition LLC,First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",03/16/29,660,(  20,(  20,(8)(9)(21)(23)
+215,Golden Bear,,,,,,,
+216,"Golden Bear 2016-R, LLC (4)",Structured Products and Other - Membership Interests,N/A,09/20/42,N/A,17103,10902,(3)(17)
+217,"Purchasing Power, LLC",,,,,,,
+218,"Purchasing Power Funding I, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  0.00   Floor",02/24/25,9113,3378,3378,(9)(21)(23)(26)
+219,Spectrum Automotive,,,,,,,
+220,Shelby 2021 Holdings Corp.,First Lien Secured Debt,"L+  575  ,  0.75   Floor",06/29/28,14358,13281,13230,(9)(21)(23)(28)
+221,Shelby 2021 Holdings Corp.,First Lien Secured Debt - Revolver,"L+  575  ,  0.75   Floor",06/29/27,420,(  4,(  6,(8)(9)(21)(23)
+223,Education,,,,,,,
+224,NFA Group,,,,,,,
+225,SSCP Spring Bidco Limited,First Lien Secured Debt,"SON+  600  ,  0.50   Floor",07/30/25,30000,36437,36697,(9)(17)(27)
+227,Energy - Electricity,,,,,,,
+228,"Renew Financial LLC (f/k/a Renewable Funding, LLC)",,,,,,,
+229,"AIC SPV Holdings II, LLC (4)",Preferred Equity - Preferred Stock,N/A,N/A,"534,375  Shares",534,111,(15)(17)(24)
+230,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Preferred Equity,N/A,N/A,"1,000,000  Shares",1000,1960,(13)(17)(24)
+231,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series B Preferred Stock,N/A,N/A,"1,505,868  Shares",8343,0,(13)(24)
+232,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Preferred Equity - Series D Preferred Stock,N/A,N/A,"436,689  Shares",5568,0,(13)(24)
+233,"Renew Financial LLC (f/k/a Renewable Funding, LLC) (4)",Common Equity - Common Stock,N/A,N/A,"441,576  Shares",1902,0,(13)(17)(24)
+234,Renew JV LLC (4),Common Equity - Membership Interests,N/A,N/A,"360,302  Shares",360,428,(13)(17)(24)
+235,Solarplicity Group Limited (f/k/a AMP Solar UK),,,,,,,
+236,Solarplicity UK Holdings Limited,First Lien Secured Debt,4.00,03/08/23,5562,7231,2011,(11)(14)(17)
+237,Solarplicity UK Holdings Limited,Preferred Equity - Preferred Stock,N/A,N/A,"4,286  Shares",5623,0,(2)(13)(17)
+238,Solarplicity UK Holdings Limited,Common Equity - Ordinary Shares,N/A,N/A,"2,825  Shares",4,0,(2)(13)(17)
+240,Energy - Oil & Gas,,,,,,,
+241,Pelican,,,,,,,
+242,"Pelican Energy, LLC (4)",Common Equity - Membership Interests,N/A,N/A,"1,444  Shares",12271,195,(13)(16)(17)(24)
+243,Spotted Hawk,,,,,,,
+244,"SHD Oil & Gas, LLC (5)",Common Equity - Series C Units,N/A,N/A,"50,952,525  Shares",43454,480,(13)(16)(24)
+245,"SHD Oil & Gas, LLC (5)",Common Equity - Series A Units,N/A,N/A,"7,600,000  Shares",1411,0,(13)(16)(24)
+247,Healthcare & Pharmaceuticals,,,,,,,
+248,83bar,,,,,,,
+249,"83Bar, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.50   Floor",07/02/26,3445,3435,3385,(9)(31)
+250,Akoya,,,,,,,
+251,"Akoya Biosciences, Inc.",First Lien Secured Debt,"SOFR+  680  ,  2.50   Floor",11/01/27,22500,19113,19125,(9)(23)(31)
+252,Alcami,,,,,,,
+253,Alcami Corporation,First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",12/21/28,8884,7901,7888,(9)(21)(23)(31)
+254,Alcami Corporation,First Lien Secured Debt - Revolver,"SOFR+  700  ,  1.00   Floor",12/21/28,1096,(  37,(  38,(8)(9)(21)(23)
+255,Analogic,,,,,,,
+256,Analogic Corporation,First Lien Secured Debt,"L+  525  ,  1.00   Floor",06/22/24,17667,17563,17579,(9)(28)
+257,Analogic Corporation,First Lien Secured Debt - Revolver,"L+  525  ,  1.00   Floor",06/22/23,1826,1301,1304,(9)(21)(23)(28)
+258,Carbon6,,,,,,,
+259,"Carbon6 Technologies, Inc.",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",08/01/27,12500,2489,2413,(9)(23)(31)
+260,"Carbon6 Technologies, Inc.",Preferred Equity - Preferred Equity,N/A,N/A,"280,899  Shares",250,250,(9)(13)(24)
+261,Cato Research,,,,,,,
+262,"LS Clinical Services Holdings, Inc.",First Lien Secured Debt,"L+  675  ,  1.00   Floor",12/16/27,12961,12702,12610,(9)(28)
+263,"LS Clinical Services Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  675  ,  1.00   Floor",12/16/26,1875,1839,1828,(9)(23)(28)
+264,Celerion,,,,,,,
+265,"Celerion Buyer, Inc.",First Lien Secured Debt,"SOFR+  650  ,  0.75   Floor",11/05/29,9340,7795,7828,(9)(21)(23)(32)
+266,"Celerion Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.75   Floor",11/03/28,639,(  18,(  16,(8)(9)(21)(23)
+267,Cerus,,,,,,,
+268,Cerus Corporation,First Lien Secured Debt,"SOFR+  545  ,  1.80   Floor",03/01/28,16500,16464,16418,(9)(17)(31)
+269,Cerus Corporation,First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",03/01/28,6000,(  30,(  30,(8)(9)(17)(23)
+270,Cerus Corporation,First Lien Secured Debt - Revolver,"SOFR+  375  ,  1.00   Floor",03/01/28,2000,435,434,(9)(17)(21)(23)  (31)
+271,CNSI,,,,,,,
+272,"CNSI Holdings, LLC",First Lien Secured Debt,"SOFR+  650  ,  0.50   Floor",12/17/28,17955,17370,17327,(9)(32)
+273,"CNSI Holdings, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.50   Floor",12/17/27,2000,(  65,(  70,(8)(9)(21)(23)
+274,Compass Health,,,,,,,
+275,"Roscoe Medical, Inc",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",09/30/24,7525,7254,7149,(9)(31)
+276,"Roscoe Medical, Inc",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",09/30/24,1393,1341,1323,(9)(23)(31)
+277,EmpiRx,,,,,,,
+278,EmpiRx Health LLC,First Lien Secured Debt,"SOFR+  500  ,  1.00   Floor",08/05/27,8977,8842,8910,(9)(32)
+279,EmpiRx Health LLC,First Lien Secured Debt - Revolver,"SOFR+  500  ,  1.00   Floor",08/05/27,909,(  13,(  7,(8)(9)(20)(21)  (23)
+280,Forge Biologics,,,,,,,
+281,"Forge Biologics, Inc.",First Lien Secured Debt,"SOFR+  675  ,  0.50   Floor",12/03/26,26667,13234,13245,(9)(23)(31)
+282,Gateway Services,,,,,,,
+283,"Gateway US Holdings, Inc.",First Lien Secured Debt,"SOFR+  650  ,  0.75   Floor",09/22/26,9657,9510,9448,(9)(21)(23)(32)
+284,"Gateway US Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  0.75   Floor",09/22/26,304,164,162,(9)(21)(23)(32)
+285,Gossamer,,,,,,,
+286,"GB001, Inc.",First Lien Secured Debt,"SOFR+  700  ,  2.00   Floor",01/01/25,4258,4264,4259,(9)(17)(31)
+287,"GB001, Inc.",First Lien Secured Debt,"L+  700  ,  2.00   Floor",01/01/25,24000,(  77,0,(9)(17)(23)
+288,Health & Safety Institute,,,,,,,
+289,"HSI HALO Acquisition, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",08/31/26,16225,16046,15709,(9)(31)
+290,"HSI HALO Acquisition, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",08/31/26,2459,2411,2411,(9)(31)
+291,"HSI HALO Acquisition, Inc.",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",09/02/25,813,674,663,(9)(21)(23)(31)  (33)
+292,"HSI HALO Acquisition, Inc.",Common Equity - Common Stock,N/A,N/A,500  Shares,500,1462,(9)(13)
+293,"HSI Halo Holdings, LLC",Common Equity - Common Stock,N/A,N/A,104  Shares,16,15,(9)(24)
+294,"HSI Halo Holdings, LLC",Unsecured Debt - Convertible Bond,10.00,09/28/27,33,33,31,(9)
+295,IMA Group,,,,,,,
+296,"IMA Group Management Company, LLC",First Lien Secured Debt,"L+  500  ,  1.00   Floor",05/30/24,12576,12505,12513,(28)
+297,"IMA Group Management Company, LLC",First Lien Secured Debt - Revolver,"L+  500  ,  1.00   Floor",05/30/24,289,173,172,(21)(23)(28)
+298,KureSmart,,,,,,,
+299,"Clearway Corporation (f/k/a NP/Clearway Holdings, Inc.)",Common Equity - Common Stock,N/A,N/A,133  Shares,133,224,(9)(13)
+300,"Kure Pain Holdings, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",08/27/25,21436,21305,21213,(9)(31)
+301,"Kure Pain Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  500  ,  1.00   Floor",08/27/24,2654,(  16,(  18,(8)(9)(21)(23)
+302,LucidHealth,,,,,,,
+303,"Premier Imaging, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",01/02/25,12399,7982,7907,(9)(21)(23)(26)
+304,Mannkind Corporation,,,,,,,
+305,Mannkind Corporation,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",08/01/25,13867,13814,13859,(9)(31)
+306,Mannkind Corporation,Common Equity - Common Stock,N/A,N/A,"334,226  Shares",76,1370,(9)(10)(13)(17)
+307,"Maxor National Pharmacy Services, LLC",,,,,,,
+308,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt,"SOFR+  675  ,  1.00   Floor",03/01/29,13420,13020,13017,(9)(33)
+309,"Maxor National Pharmacy Services, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  1.00   Floor",03/01/29,1530,873,872,(9)(21)(23)(31)  (33)
+310,"Maxor Topco, L.P.",Preferred Equity - Preferred Equity,N/A,N/A,"50,000  Shares",50,50,(9)(13)(24)
+311,Medical Guardian,,,,,,,
+312,"Medical Guardian, LLC",First Lien Secured Debt,"L+  650  ,  1.00   Floor",10/26/26,35798,30672,30742,(9)(21)(23)(26)
+313,"Medical Guardian, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",10/26/26,3810,607,640,(9)(21)(23)(26)
+314,Midwest Vision,,,,,,,
+315,"Midwest Vision Partners Management, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",01/12/27,24041,21285,21022,(9)(21)(23)(32)
+316,"Midwest Vision Partners Management, LLC",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",01/12/27,612,604,596,(9)(23)(32)
+317,Orchard,,,,,,,
+318,Orchard Therapeutics PLC,First Lien Secured Debt,"SOFR+  595  ,  1.00   Floor",05/28/26,9952,9932,9953,(9)(17)(31)
+319,Ovation Fertility,,,,,,,
+320,"FPG Services, LLC",First Lien Secured Debt,"L+  550  ,  1.00   Floor",06/13/25,18879,14742,14855,(9)(21)(23)(26)
+321,"FPG Services, LLC",First Lien Secured Debt - Revolver,P+  450,06/13/24,632,625,629,(9)(21)(23)(25)
+322,"FPG Services, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",06/13/24,1474,417,420,(9)(21)(23)(26)
+323,Paragon 28,,,,,,,
+324,"Paragon 28, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",05/01/26,10000,7481,7450,(9)(23)(31)
+325,"Paragon 28, Inc.",First Lien Secured Debt - Revolver,"SOFR+  375  ,  1.00   Floor",05/01/26,2000,(  9,(  10,(8)(9)(21)(23)
+326,"Partner Therapeutics, Inc",,,,,,,
+327,"Partner Therapeutics, Inc",Preferred Equity - Preferred Equity,N/A,N/A,"55,556  Shares",333,629,(9)(13)
+328,"Partner Therapeutics, Inc",Warrants - Warrants,N/A,N/A,73,389,461,(9)(13)
+329,PHS,,,,,,,
+330,"PHS Buyer, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",01/31/27,24862,24538,23992,(9)(31)
+331,"PHS Buyer, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",01/31/27,2000,960,930,(9)(21)(23)(31)
+332,RHA Health Services,,,,,,,
+333,"Pace Health Companies, LLC",First Lien Secured Debt,"SOFR+  450  ,  1.00   Floor",08/02/24,3758,3737,3739,(9)(32)
+334,"Pace Health Companies, LLC",First Lien Secured Debt - Revolver,"L+  450  ,  1.00   Floor",08/02/24,500,0,(  3,(8)(9)(20)(21)  (23)
+335,Rigel Pharmaceuticals,,,,,,,
+336,"Rigel Pharmaceuticals, Inc.",First Lien Secured Debt,"SOFR+  565  ,  1.50   Floor",09/01/26,18000,17996,17957,(9)(31)
+337,"TELA Bio, Inc.",,,,,,,
+338,"TELA Bio, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",05/01/27,16667,13277,13333,(9)(23)(31)
+339,TissueTech,,,,,,,
+340,"TissueTech, Inc.",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",04/01/27,17500,12199,12250,(9)(23)(31)
+341,"TissueTech, Inc.",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",04/01/27,1000,(  4,0,(9)(21)(23)
+342,Treace,,,,,,,
+343,"Treace Medical Concepts, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",04/01/27,35000,14522,14408,(9)(17)(23)(31)
+344,"Treace Medical Concepts, Inc.",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",04/01/27,3000,388,370,(9)(17)(21)(23)  (31)
+345,Unchained Labs,,,,,,,
+346,"Unchained Labs, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",08/09/27,6718,4079,4086,(9)(21)(23)(31)
+347,"Unchained Labs, LLC",First Lien Secured Debt - Revolver,"SOFR+  550  ,  1.00   Floor",08/09/27,726,(  11,(  7,(8)(9)(21)(23)
+348,ViewRay,,,,,,,
+349,ViewRay Inc.,First Lien Secured Debt,P+  350,11/01/27,12500,12445,12438,(9)(17)(25)
+350,ViewRay Inc.,First Lien Secured Debt,"L+  350  ,  0.00   Floor",11/01/27,4167,(  19,(  21,(8)(9)(17)(23)
+351,ViewRay Inc.,First Lien Secured Debt - Revolver,P+  050,11/01/27,750,211,210,(9)(17)(21)(23)  (25)
+352,"WellDyneRx, LLC",,,,,,,
+353,"WelldyneRX, LLC",First Lien Secured Debt,"SOFR+  675  ,  0.75   Floor",03/09/27,17896,17586,17447,(9)(32)
+354,"WelldyneRX, LLC",First Lien Secured Debt - Revolver,"SOFR+  675  ,  0.75   Floor",03/09/26,1923,(  28,(  48,(8)(9)(21)(23)
+356,High Tech Industries,,,,,,,
+357,Acronis AG,,,,,,,
+358,ACRONIS AG,First Lien Secured Debt,"L+  585  ,  1.00   Floor",04/01/27,21000,20944,21000,(9)(17)(26)
+359,American Megatrends,,,,,,,
+360,AMI US Holdings Inc.,First Lien Secured Debt,"SOFR+  525  ,  1.00   Floor",04/01/25,21209,21056,21103,(9)(31)
+361,AMI US Holdings Inc.,First Lien Secured Debt - Revolver,"SOFR+  525  ,  0.00   Floor",04/01/24,2907,(  12,0,(9)(21)(23)
+362,BarTender,,,,,,,
+363,Sigma Buyer LLC,First Lien Secured Debt,"SOFR+  675  ,  0.75   Floor",01/04/28,6000,5825,5820,(9)(33)
+364,Sigma Buyer LLC,First Lien Secured Debt - Revolver,"SOFR+  675  ,  0.75   Floor",01/04/28,1500,(  43,(  45,(8)(9)(21)(23)
+365,"Calero Holdings, Inc.",,,,,,,
+366,"Telesoft Holdings, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",12/16/25,22045,21813,21644,(26)(28)
+367,"Telesoft Holdings, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/16/25,2273,204,185,(21)(23)(26)
+368,ChyronHego Corporation,,,,,,,
+369,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  350  Cash plus  1.50   PIK,  1.75   Floor",12/31/24,86581,86490,86581,(32)
+370,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  1025  PIK,  1.75   Floor",12/31/24,2866,2806,2866,(32)
+371,ChyronHego Corporation (5),First Lien Secured Debt,"SOFR+  650  Cash plus  1.50   PIK,  1.00   Floor",12/31/24,2019,1915,2019,(32)
+372,ChyronHego Corporation (5),First Lien Secured Debt - Revolver,"SOFR+  500  ,  1.75   Floor",12/31/24,10000,8945,8956,(21)(23)(32)
+373,ChyronHego Corporation (5),Preferred Equity - Preferred Equity,N/A,N/A,"7,800  Shares",6000,23390,(13)(24)
+374,ChyronHego US Holding Corporation (5),First Lien Secured Debt,"SOFR+  950  ,  1.75   Floor",12/31/24,5000,2911,3010,(23)(32)
+375,Dairy.com,,,,,,,
+376,Momentx Corporation,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",06/24/27,15162,14936,14851,(9)(32)
+377,Momentx Corporation,First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",06/24/27,1367,1339,1361,(9)(32)
+378,Momentx Corporation,First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",06/24/27,1257,(  18,(  27,(8)(9)(21)(23)
+379,Digital.ai,,,,,,,
+380,"Digital.ai Software Holdings, Inc.",First Lien Secured Debt,"SOFR+  700  ,  1.00   Floor",02/10/27,22129,21709,21576,(9)(32)
+381,"Digital.ai Software Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  650  ,  1.00   Floor",02/10/27,2419,518,492,(9)(21)(23)(32)
+382,GoHealth,,,,,,,
+383,"Norvax, LLC",First Lien Secured Debt - Revolver,"L+  650  ,  1.00   Floor",09/13/24,3182,(  23,0,(9)(21)(23)
+384,"International Cruise & Excursion Gallery, Inc.",,,,,,,
+385,"International Cruise & Excursion Gallery, Inc.",First Lien Secured Debt,"SOFR+  535  ,  1.00   Floor",06/06/25,14288,14197,13802,(31)
+386,Litify,,,,,,,
+387,Litify Holdings Inc.,Common Equity - Common Stock,N/A,N/A,"83,330  Shares",83,83,(9)(13)(24)
+388,Litify LLC,First Lien Secured Debt,"SOFR+  725  ,  1.00   Floor",02/03/29,11667,11328,11317,(9)(32)
+389,Litify LLC,First Lien Secured Debt - Revolver,"SOFR+  725  ,  1.00   Floor",02/03/29,833,(  24,(  25,(8)(9)(21)(23)
+390,Modern Campus,,,,,,,
+391,"Destiny Solutions U.S., Inc.",First Lien Secured Debt,"L+  575  ,  1.00   Floor",06/08/26,25573,25139,25062,(19)(26)
+392,"RMCF IV CIV XXXV, L.P.",Common Equity - Common Stock,N/A,N/A,482  Shares,1000,1571,(13)
+393,MYCOM,,,,,,,
+394,Magnate Holding Corp.,First Lien Secured Debt,"SOFR+  600  ,  0.50   Floor",12/16/24,18998,18937,18821,(9)(17)(32)
+395,Magnate Holding Corp.,First Lien Secured Debt - Revolver,"SOFR+  600  ,  0.50   Floor",12/14/23,3150,3141,3124,(9)(17)(23)(32)
+396,"New Era Technology, Inc.",,,,,,,
+397,"New Era Technology, Inc.",First Lien Secured Debt,"L+  625  ,  1.00   Floor",10/31/26,32870,31707,31422,(9)(21)(23)(28)
+398,"New Era Technology, Inc.",First Lien Secured Debt - Revolver,"L+  625  ,  1.00   Floor",10/30/26,1732,1274,1260,(9)(21)(23)(28)
+399,Pro Vigil,,,,,,,
+400,"Pro-Vigil Holding Company, LLC",First Lien Secured Debt,"SOFR+  850  ,  1.00   Floor",01/11/25,23095,17770,17997,(9)(21)(23)(32)  (33)
+401,Schlesinger Group,,,,,,,
+402,"Schlesinger Global, LLC",First Lien Secured Debt,"SOFR+  600  Cash plus  0.50   PIK,  1.00   Floor",07/12/25,10283,10168,10194,(9)(31)
+403,"Schlesinger Global, LLC",First Lien Secured Debt,"SOFR+  785  ,  1.00   Floor",07/12/25,951,942,951,(9)(31)
+404,Simeio,,,,,,,
+405,"Simeio Group Holdings, Inc.",First Lien Secured Debt,"L+  550  ,  1.00   Floor",02/02/26,8178,8119,7933,(9)(26)
+406,"Simeio Group Holdings, Inc.",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",02/02/26,1731,1142,1102,(9)(21)(23)(26)
+407,Sirsi Corporation,,,,,,,
+408,Sirsi Corporation,First Lien Secured Debt,"L+  450  ,  1.00   Floor",03/15/24,5046,5031,4945,(9)(26)
+409,Sirsi Corporation,First Lien Secured Debt - Revolver,"SOFR+  450  ,  1.00   Floor",03/15/24,429,(  1,(  9,(8)(9)(21)(23)
+410,Springbrook,,,,,,,
+411,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  585  ,  1.00   Floor",12/23/26,9132,9042,8781,(33)
+412,"Springbrook Holding Company, LLC",First Lien Secured Debt,"L+  575  ,  1.00   Floor",12/23/26,5058,4989,4863,(28)
+413,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.00   Floor",12/23/26,2349,2319,2311,(33)
+414,"Springbrook Holding Company, LLC",First Lien Secured Debt,"SOFR+  550  ,  1.00   Floor",12/23/26,1578,1566,1517,(31)
+415,"Springbrook Holding Company, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/23/26,1463,(  14,(  56,(8)(21)(23)
+416,Tax Slayer,,,,,,,
+417,"MEP-TS Midco, LLC",First Lien Secured Debt,"L+  600  ,  1.00   Floor",12/31/26,13244,13046,12912,(9)(26)
+418,"MEP-TS Midco, LLC",First Lien Secured Debt - Revolver,"L+  600  ,  1.00   Floor",12/31/26,1452,0,(  36,(8)(9)(21)(23)
+419,UpStack,,,,,,,
+420,Upstack Holdco Inc.,First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",08/20/27,31630,30996,30918,(9)(33)
+421,Upstack Holdco Inc.,First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",08/20/27,3000,(  61,(  67,(8)(9)(20)(21)  (23)
+423,"Hotel, Gaming, Leisure, Restaurants",,,,,,,
+424,Cave,,,,,,,
+425,"Cave Enterprises Operations, LLC",First Lien Secured Debt,"SOFR+  650  ,  1.50   Floor",08/09/28,10000,8499,8493,(9)(23)(31)
+426,Guernsey,,,,,,,
+427,Guernsey Holdings SDI LA LLC,First Lien Secured Debt,6.95,11/18/26,1912,1898,1779,(9)
+428,Guernsey Holdings SDI LA LLC,First Lien Secured Debt,"L+  595  ,  1.00   Floor",11/18/26,1167,0,(  6,(8)(9)(23)
+429,PARS Group LLC,,,,,,,
+430,PARS Group LLC,First Lien Secured Debt,"SOFR+  675  ,  1.50   Floor",04/03/28,10000,8924,8898,(9)(23)(31)
+431,Taco Cabana,,,,,,,
+432,"YTC Enterprises, LLC",First Lien Secured Debt,"L+  625  ,  1.00   Floor",08/16/26,9754,9667,9559,(9)(26)
+434,Insurance,,,,,,,
+435,High Street Insurance,,,,,,,
+436,"High Street Buyer, Inc.",First Lien Secured Debt,"SOFR+  600  ,  0.75   Floor",04/14/28,29810,29390,29288,(9)(32)
+437,"High Street Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  600  ,  0.75   Floor",04/16/27,2203,(  30,(  39,(8)(9)(21)(23)
+438,PGM Holdings Corporation,,,,,,,
+439,"Turbo Buyer, Inc.",First Lien Secured Debt,"L+  600  ,  1.00   Floor",12/02/25,19034,18814,18654,(9)(28)
+440,"Turbo Buyer, Inc.",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",12/02/25,923,(  10,(  18,(8)(9)(21)(23)
+441,Relation Insurance,,,,,,,
+442,"AQ Sunshine, Inc.",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",04/15/25,34507,34102,34213,(9)(32)
+443,"AQ Sunshine, Inc.",First Lien Secured Debt - Revolver,"SOFR+  625  ,  1.00   Floor",04/15/24,1785,1607,1605,(9)(20)(21)(23)(32)
+445,"Manufacturing, Capital Equipment",,,,,,,
+446,"AVAD, LLC",,,,,,,
+447,"Surf Opco, LLC",First Lien Secured Debt - Revolver,"SOFR+  400  ,  1.00   Floor",03/17/26,16667,13389,13296,(9)(16)(20)(21)  (23)(31)
+448,"Surf Opco, LLC",Preferred Equity - Class P-1 Preferred,N/A,N/A,"33,333  Shares",3333,6667,(9)(13)(16)
+449,"Surf Opco, LLC",Preferred Equity - Class P-2 Preferred,N/A,N/A,"85,164  Shares",8516,3177,(9)(13)(16)
+450,"Surf Opco, LLC",Common Equity - Class A-1 Common,N/A,N/A,"3,333  Shares",0,140,(9)(13)(16)
+451,Kauffman,,,,,,,
+452,"Kauffman Holdco, LLC",Common Equity - Common Stock,N/A,N/A,"250,000  Shares",250,230,(9)(13)
+453,"Kauffman Intermediate, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",05/08/25,16106,15995,15763,(9)(32)
+454,"Kauffman Intermediate, LLC",First Lien Secured Debt - Revolver,"L+  575  ,  1.00   Floor",05/08/25,1243,(  2,(  26,(8)(9)(21)(23)
+455,MedPlast Holdings Inc.,,,,,,,
+456,"Viant Medical Holdings, Inc. (fka MedPlast Holdings, Inc.)",Second Lien Secured Debt,"L+  775  ,  0.00   Floor",07/02/26,8000,7972,7425,(26)
+458,Media - Diversified & Production,,,,,,,
+459,Sonar Entertainment,,,,,,,
+460,"Sonar Entertainment, Inc.",First Lien Secured Debt,"L+  760  ,  1.25   Floor",11/15/21,738,737,576,(9)(11)(26)
+461,"Sonar Entertainment, Inc.",First Lien Secured Debt - Revolver,"L+  760  ,  1.25   Floor",11/15/21,563,521,439,(9)(11)(23)(26)
+463,Retail,,,,,,,
+464,IPS,,,,,,,
+465,"SI Holdings, Inc.",First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",07/25/25,30688,30441,30421,(9)(33)
+466,"SI Holdings, Inc.",First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",07/25/24,3413,1398,1396,(9)(21)(23)(33)
+468,Telecommunications,,,,,,,
+469,"Securus Technologies Holdings, Inc.",,,,,,,
+470,"Securus Technologies Holdings, Inc.",Second Lien Secured Debt,"L+  825  ,  1.00   Floor",11/01/25,7128,7098,5845,
+472,"Transportation - Cargo, Distribution",,,,,,,
+473,Beacon Mobility,,,,,,,
+474,Beacon Mobility Corp.,First Lien Secured Debt,"SOFR+  600  ,  1.00   Floor",05/22/24,29223,29023,28854,(9)(31)(32)
+475,Beacon Mobility Corp.,First Lien Secured Debt,"SOFR+  610  ,  1.00   Floor",05/22/24,13814,13703,13640,(9)(31)
+476,Beacon Mobility Corp.,First Lien Secured Debt - Revolver,"SOFR+  600  ,  1.00   Floor",05/22/24,4145,265,254,(9)(20)(21)(23)(31)
+477,Beacon Mobility Corp.,First Lien Secured Debt - Revolver,4.00,05/22/24,50000,0,0,(9)(22)(23)
+478,Heniff and Superior,,,,,,,
+479,"Heniff Holdco, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",12/03/26,29909,29547,29461,(9)(32)
+480,"Heniff Holdco, LLC",First Lien Secured Debt - Revolver,"SOFR+  575  ,  1.00   Floor",12/03/24,3925,745,752,(9)(20)(21)(23)(31)
+481,MSEA Tankers LLC,,,,,,,
+482,MSEA Tankers LLC (5),Common Equity - Class A Units,N/A,N/A,19397,3692,(13)(17)(18)(24),
+484,Utilities - Electric,,,,,,,
+485,Congruex,,,,,,,
+486,Congruex Group LLC,First Lien Secured Debt,"SOFR+  575  ,  0.75   Floor",05/03/29,14888,14562,14553,(9)(32)
+488,Wholesale,,,,,,,
+489,Banner Solutions,,,,,,,
+490,"Banner Buyer, LLC",First Lien Secured Debt,"SOFR+  575  ,  1.00   Floor",10/31/25,15142,15024,15018,(9)(31)
+491,"Banner Buyer, LLC",First Lien Secured Debt - Revolver,"SOFR+  575  ,  0.00   Floor",10/31/25,1935,370,371,(9)(21)(23)(31)
+492,"Banner Parent Holdings, Inc.",Common Equity - Common Stock,N/A,N/A,"6,125  Shares",613,665,(9)(13)
+493,Thomas Scientific,,,,,,,
+494,"BSP-TS, LP",Common Equity - Common Stock,N/A,N/A,185  Shares,185,195,(9)(13)
+495,"Thomas Scientific, LLC",First Lien Secured Debt,"SOFR+  625  ,  1.00   Floor",12/14/27,31493,30991,31010,(9)(32)
+496,"Thomas Scientific, LLC",First Lien Secured Debt - Revolver,"L+  550  ,  1.00   Floor",12/14/27,2963,(  47,(  45,(8)(9)(21)(23)
