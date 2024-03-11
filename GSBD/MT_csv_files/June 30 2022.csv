@@ -1,0 +1,346 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+1,"CFS Management, LLC (dba Center for Sight Management)",Health Care Providers & Services,8.57,S + 6.25,1.00,07/01/24,,3424,,,3315,,,3364,,(2) (3)
+2,"CFS Management, LLC (dba Center for Sight Management)",Health Care Providers & Services,8.57,S + 6.25,1.00,07/01/24,,2012,,,1994,,,1977,,(2) (3)
+3,"Checkmate Finance Merger Sub, LLC",Entertainment,8.75,L + 6.50,1.00,12/31/27,,31336,,,30752,,,30788,,(2) (3)
+4,"Checkmate Finance Merger Sub, LLC",Entertainment,,L + 6.50,1.00,12/31/27,,3140,,,(58,,,(55,,(2) (3) (4)
+5,Chronicle Bidco Inc. (dba Lexitas),Professional Services,7.44,L + 6.00,1.00,05/18/29,,16911,,,16068,,,16911,,(2)
+6,Chronicle Bidco Inc. (dba Lexitas),Professional Services,7.44,L + 6.00,1.00,05/18/29,,11229,,,10918,,,11229,,(2)
+7,Chronicle Bidco Inc. (dba Lexitas),Professional Services,7.45,L + 6.00,1.00,05/18/29,,11052,,,10774,,,11052,,(2)
+8,Chronicle Bidco Inc. (dba Lexitas),Professional Services,7.45,L + 6.00,1.00,05/18/29,,7123,,,6767,,,7123,,(2)
+9,Chronicle Bidco Inc. (dba Lexitas),Professional Services,,S + 6.00,1.00,05/18/29,,4753,,,(107,,,0,,(2) (4)
+10,CivicPlus LLC,Software,7.51,L + 6.00,0.75,08/24/27,,6300,,,6173,,,6158,,(2) (3)
+11,CivicPlus LLC,Software,7.69,S + 6.00,0.75,08/24/27,,6247,,,6122,,,6106,,(2) (3)
+12,CivicPlus LLC,Software,7.94,L + 6.25,0.75,08/24/27,,2960,,,2898,,,2893,,(2) (3)
+13,CivicPlus LLC,Software,,L + 6.00,0.75,08/24/27,,1217,,,(24,,,(27,,(2) (3) (4)
+14,"CloudBees, Inc.",Software,8.67,L + 7.00(incl. 2.50PIK),1.00,11/24/26,,28376,,,26741,,,27879,,(2) (3)
+15,"CloudBees, Inc.",Software,,L + 7.00(incl. 2.50PIK),1.00,11/24/26,,12900,,,(516,,,(226,,(2) (3) (4)
+16,"Coding Solutions Acquisition, Inc.",Health Care Providers & Services,7.07,S + 5.75,0.75,05/11/28,,14867,,,14574,,,14569,,(2)
+17,"Coding Solutions Acquisition, Inc.",Health Care Providers & Services,,S + 5.75,0.75,05/11/28,,2120,,,(41,,,(42,,(2) (4)
+18,"Coding Solutions Acquisition, Inc.",Health Care Providers & Services,,S + 5.75,0.75,05/11/28,,4460,,,(44,,,(45,,(2) (4)
+19,CORA Health Holdings Corp,Health Care Providers & Services,7.04,L + 5.75,1.00,06/15/27,,22549,,,22261,,,22042,,(2) (3)
+20,CORA Health Holdings Corp,Health Care Providers & Services,7.06,L + 5.75,1.00,06/15/27,,8897,,,324,,,182,,(2) (3) (4)
+21,"Cordeagle US Finco, Inc. (dba Condeco)",Software,7.99,L + 6.75,1.00,07/30/27,,25223,,,24771,,,24656,,(1) (2) (3)
+22,"Cordeagle US Finco, Inc. (dba Condeco)",Software,,L + 6.75,1.00,07/30/27,,2461,,,(42,,,(55,,(1) (2) (3) (4)
+23,CorePower Yoga LLC,Diversified Consumer Services,9.25,L + 7.00(incl. 5.00PIK),1.00,05/14/25,,25612,,,23629,,,20938,,(2) (3)
+24,CorePower Yoga LLC,Diversified Consumer Services,,L + 7.00(incl. 5.00PIK),1.00,05/14/25,,1687,,,(106,,,(308,,(2) (3) (4)
+25,CST Buyer Company (dba Intoxalock),Diversified Consumer Services,7.17,L + 5.50,1.00,10/03/25,,28163,,,27444,,,27881,,(2) (3)
+26,CST Buyer Company (dba Intoxalock),Diversified Consumer Services,7.17,L + 5.50,1.00,10/27/25,,14781,,,14546,,,14634,,(2) (3)
+27,CST Buyer Company (dba Intoxalock),Diversified Consumer Services,,L + 5.50,1.00,10/03/25,,2170,,,(10,,,(22,,(2) (3) (4)
+28,DECA Dental Holdings LLC,Health Care Providers & Services,8.00,L + 5.75,0.75,08/28/28,,21507,,,21119,,,20647,,(2) (3)
+29,DECA Dental Holdings LLC,Health Care Providers & Services,8.00,L + 5.75,0.75,08/28/28,,7396,,,2177,,,1968,,(2) (3) (4)
+30,DECA Dental Holdings LLC,Health Care Providers & Services,8.00,L + 5.75,0.75,08/26/27,,1711,,,541,,,502,,(2) (3) (4)
+31,Diligent Corporation,Professional Services,7.25,L + 6.25,1.00,08/04/25,€,37869,,,42861,,,39883,,(2) (3)
+32,Diligent Corporation,Professional Services,9.13,L + 6.25,1.00,08/04/25,,24477,,,23655,,,24599,,(2) (3)
+33,Diligent Corporation,Professional Services,8.49,L + 6.25,1.00,08/04/25,,3100,,,1505,,,1566,,(2) (3) (4)
+34,"EDB Parent, LLC (dba Enterprise DB)",Software,,S + 6.00,0.75,07/07/28,,29826,,,0,,,0,,(2) (4)
+35,"EDB Parent, LLC (dba Enterprise DB)",Software,,S + 6.00,0.75,07/07/28,,7849,,,0,,,0,,(2) (4)
+36,"EDB Parent, LLC (dba Enterprise DB)",Software,,S + 6.00,0.75,07/07/28,,2616,,,0,,,0,,(2) (4)
+37,"Elemica Parent, Inc.",Chemicals,7.56,L + 5.50,1.00,09/18/25,,6984,,,6607,,,6844,,(2) (3)
+38,"Elemica Parent, Inc.",Chemicals,7.11,L + 5.50,1.00,09/18/25,,1489,,,1457,,,1459,,(2) (3)
+39,"Elemica Parent, Inc.",Chemicals,7.33,L + 5.50,1.00,09/18/25,,1369,,,1313,,,1342,,(2) (3)
+40,"Elemica Parent, Inc.",Chemicals,7.33,L + 5.50,1.00,09/18/25,,558,,,546,,,546,,(2) (3)
+41,"Elemica Parent, Inc.",Chemicals,7.04,L + 5.50,1.00,09/18/25,,930,,,419,,,432,,(2) (3) (4)
+42,"Eptam Plastics, Ltd.",Health Care Equipment & Supplies,7.13,S + 5.50,1.00,12/06/25,,10422,,,10049,,,10318,,(2) (3)
+43,"Eptam Plastics, Ltd.",Health Care Equipment & Supplies,7.13,S + 5.50,1.00,12/06/25,,4903,,,4836,,,4854,,(2) (3)
+44,"Eptam Plastics, Ltd.",Health Care Equipment & Supplies,7.13,S + 5.50,1.00,12/06/25,,4492,,,4406,,,4447,,(2) (3)
+45,"Eptam Plastics, Ltd.",Health Care Equipment & Supplies,7.07,S + 5.50,1.00,12/06/25,,2269,,,1508,,,1565,,(2) (3) (4)
+46,"ESO Solutions, Inc",Health Care Technology,9.06,S + 7.00,1.00,05/03/27,,39908,,,39231,,,39309,,(2) (3)
+47,"ESO Solutions, Inc",Health Care Technology,,S + 7.00,1.00,05/03/27,,3620,,,(59,,,(54,,(2) (3) (4)
+48,"Experity, Inc.",Health Care Technology,7.42,L + 5.75,0.75,02/24/28,,914,,,910,,,910,,(2) (3)
+49,"Experity, Inc.",Health Care Technology,,L + 5.75,0.75,02/24/28,,81,,,0,,,0,,(2) (3) (4)
+50,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+51,Four Seasons Heating And Air Conditioning Inc,Diversified Consumer Services,7.27,L + 5.75,0.75,11/17/26,,34158,,,33701,,,33561,,(2) (3)
+52,Fullsteam Operations LLC,Diversified Financial Services,9.75,L + 7.50(Incl. 4.50PIK),1.50,10/04/27,,57693,,,56440,,,56251,,(2) (3)
+53,Fullsteam Operations LLC,Diversified Financial Services,9.75,L + 7.50,1.50,10/04/27,,22131,,,21628,,,21578,,(2) (3)
+54,Fullsteam Operations LLC,Diversified Financial Services,9.75,L + 7.50(Incl. 4.50PIK),1.50,10/04/27,,3380,,,1104,,,1094,,(2) (3) (4)
+55,"Gainsight, Inc.",Software,7.99,L + 6.75PIK,0.75,07/30/27,,42727,,,42094,,,41338,,(2) (3)
+56,"Gainsight, Inc.",Software,,L + 6.75,0.75,07/30/27,,5320,,,(79,,,(173,,(2) (3) (4)
+57,GHA Buyer Inc. (dba Cedar Gate),Health Care Technology,8.67,L + 7.00,1.00,06/24/25,,14775,,,14568,,,14480,,(2) (3)
+58,GHA Buyer Inc. (dba Cedar Gate),Health Care Technology,8.67,L + 7.00,1.00,06/24/25,,2593,,,2556,,,2541,,(2) (3)
+59,GHA Buyer Inc. (dba Cedar Gate),Health Care Technology,8.67,L + 7.00,1.00,06/24/25,,1880,,,1354,,,1341,,(2) (3) (4)
+60,GHA Buyer Inc. (dba Cedar Gate),Health Care Technology,8.67,L + 7.00,1.00,06/24/25,,966,,,948,,,947,,(2) (3)
+61,"GovDelivery Holdings, LLC (dba Granicus, Inc.)",Software,8.75,L + 6.50,1.00,01/29/27,,29219,,,28629,,,29073,,(2)
+62,"GovDelivery Holdings, LLC (dba Granicus, Inc.)",Software,8.25,L + 6.00,1.00,01/29/27,,3789,,,2233,,,2265,,(2) (4)
+63,"GovDelivery Holdings, LLC (dba Granicus, Inc.)",Software,,L + 6.50,1.00,01/29/27,,2583,,,(30,,,(13,,(2) (4)
+64,"Governmentjobs.com, Inc. (dba NeoGov)",Software,7.17,L + 5.50,0.75,12/01/28,,42281,,,42183,,,41541,,(2) (3)
+65,"Governmentjobs.com, Inc. (dba NeoGov)",Software,,L + 5.50,0.75,12/02/27,,4710,,,(11,,,(82,,(2) (3) (4)
+66,"Governmentjobs.com, Inc. (dba NeoGov)",Software,,L + 5.50,0.75,12/01/28,,14718,,,(17,,,(258,,(2) (3) (4)
+67,"GS AcquisitionCo, Inc. (dba Insightsoftware)",Diversified Financial Services,7.25,L + 5.75,1.00,05/22/26,,23973,,,23722,,,23313,,(2)
+68,"GS AcquisitionCo, Inc. (dba Insightsoftware)",Diversified Financial Services,8.63,L + 5.75,1.00,05/22/26,,982,,,234,,,219,,(2) (4)
+69,"GS AcquisitionCo, Inc. (dba Insightsoftware)",Diversified Financial Services,,L + 5.75,1.00,05/22/26,,2025,,,(7,,,(56,,(2) (4)
+70,"Halo Branded Solutions, Inc.",Commercial Services & Supplies,6.17,L + 4.50,1.00,06/30/25,,6324,,,6293,,,5631,,
+71,"HealthEdge Software, Inc.",Health Care Technology,9.00,L + 7.00,1.00,04/09/26,,35400,,,34769,,,34603,,(2) (3)
+72,"HealthEdge Software, Inc.",Health Care Technology,9.00,L + 7.00,1.00,04/09/26,,5030,,,1449,,,1336,,(2) (3) (4)
+73,"HealthEdge Software, Inc.",Health Care Technology,,L + 6.25,1.00,04/09/26,,3800,,,(67,,,(86,,(2) (3) (4)
+74,"HealthEdge Software, Inc.",Health Care Technology,,L + 6.25,1.00,04/09/26,,9500,,,(83,,,(214,,(2) (3) (4)
+75,"Helios Buyer, Inc. (dba Heartland)",Diversified Consumer Services,7.62,L + 6.00,1.00,12/15/26,,19084,,,18819,,,18893,,(2) (3)
+76,"Helios Buyer, Inc. (dba Heartland)",Diversified Consumer Services,7.67,L + 6.00,1.00,12/15/26,,14924,,,14793,,,14775,,(2) (3)
+77,"Helios Buyer, Inc. (dba Heartland)",Diversified Consumer Services,7.67,L + 6.00,1.00,12/15/26,,7864,,,7730,,,7785,,(2) (3)
+78,"Helios Buyer, Inc. (dba Heartland)",Diversified Consumer Services,7.12,L + 6.00,1.00,12/15/26,,2363,,,212,,,225,,(2) (3) (4)
+79,Hollander Sleep & Décor (dba SureFit),Household Products,14.01,L + 9.75,1.00,07/13/23,,39138,,,37760,,,37768,,(2) (3)
+80,"Honor HN Buyer, Inc",Health Care Providers & Services,8.25,L + 6.00,1.00,10/15/27,,24235,,,23797,,,23689,,(2) (3)
+81,"Honor HN Buyer, Inc",Health Care Providers & Services,8.25,L + 6.00,1.00,10/15/27,,15262,,,6860,,,6720,,(2) (3) (4)
+82,"Honor HN Buyer, Inc",Health Care Providers & Services,,L + 6.00,1.00,10/15/27,,2802,,,(50,,,(63,,(2) (3) (4)
+83,HowlCO LLC (dba Lone Wolf),Real Estate Mgmt. & Development,7.32,L + 6.00,1.00,10/23/26,,35135,,,34672,,,34345,,(1) (2) (3)
+84,HowlCO LLC (dba Lone Wolf),Real Estate Mgmt. & Development,7.50,L + 6.00,1.00,10/23/26,,11370,,,11273,,,11115,,(1) (2) (3)
+85,HowlCO LLC (dba Lone Wolf),Real Estate Mgmt. & Development,7.61,L + 6.00,1.00,10/23/26,,10777,,,10689,,,10535,,(1) (2) (3)
+86,"HS4 AcquisitionCo, Inc. (dba HotSchedules & Fourth)","Hotels, Restaurants & Leisure",9.00,L + 6.75,1.00,07/09/25,,57082,,,54106,,,55226,,(2) (3)
+87,"HS4 AcquisitionCo, Inc. (dba HotSchedules & Fourth)","Hotels, Restaurants & Leisure",8.98,L + 6.75,1.00,07/09/25,,4688,,,557,,,551,,(2) (3) (4)
+88,"iCIMS, Inc.",Software,6.72,L + 5.50,1.00,09/12/24,,72489,,,70533,,,72489,,(2) (3)
+89,"iCIMS, Inc.",Software,6.72,L + 5.50,1.00,09/12/24,,13350,,,12985,,,13350,,(2) (3)
+90,"iCIMS, Inc.",Software,6.72,L + 5.50,1.00,09/12/24,,4531,,,4488,,,4531,,(2) (3)
+91,"iCIMS, Inc.",Software,,L + 5.50,1.00,05/02/28,,5797,,,0,,,0,,(2) (4)
+92,"iCIMS, Inc.",Software,,L + 5.50,1.00,05/02/28,,60870,,,0,,,0,,(2) (4)
+93,"Intelligent Medical Objects, Inc.",Health Care Technology,7.65,S + 6.00,0.75,05/11/29,,12525,,,12278,,,12275,,(2)
+94,"Intelligent Medical Objects, Inc.",Health Care Technology,7.24,S + 6.00,0.75,05/11/28,,1490,,,120,,,119,,(2) (4)
+95,"Intelligent Medical Objects, Inc.",Health Care Technology,,S + 6.00,0.75,05/11/29,,2985,,,(29,,,(30,,(2) (4)
+96,"Internet Truckstop Group, LLC (dba Truckstop)",Transportation Infrastructure,7.76,L + 5.50,1.00,04/02/25,,52467,,,50695,,,52336,,(2) (3)
+97,"Internet Truckstop Group, LLC (dba Truckstop)",Transportation Infrastructure,,L + 5.50,1.00,04/02/25,,4400,,,(61,,,(11,,(2) (3) (4)
+98,"Iracore International Holdings, Inc.",Energy Equipment & Services,11.38,L + 9.00,1.00,04/12/24,,2361,,,2361,,,2361,,^ (3)
+99,Jill Acquisition LLC (dba J. Jill),Specialty Retail,6.00,L + 5.00,1.00,05/08/24,,5825,,,5790,,,5338,,
+100,Kaseya Inc.,IT Services,8.29,S + 5.75,0.75,06/25/29,,18500,,,18223,,,18223,,(2)
+101,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+102,Kaseya Inc.,IT Services,,S + 5.75,0.75,06/25/29,,1100,,,(8,,,(8,,(2) (4)
+103,Kaseya Inc.,IT Services,,S + 5.75,0.75,06/25/29,,1100,,,(16,,,(17,,(2) (4)
+104,Kawa Solar Holdings Limited,Construction & Engineering,,,,12/31/22,,3917,,,3603,,,1308,,^ (1) (3) (5)
+105,Kawa Solar Holdings Limited,Construction & Engineering,,,,12/31/22,,3318,,,800,,,0,,^ (1) (3) (5)
+106,"Lithium Technologies, Inc.",Interactive Media & Services,9.03,L + 8.00,1.00,10/03/22,,89013,,,88267,,,87678,,(2) (3)
+107,"Lithium Technologies, Inc.",Interactive Media & Services,9.00,L + 8.00,1.00,10/03/22,,5110,,,2022,,,1967,,(2) (3) (4)
+108,"LS Clinical Services Holdings, Inc (dba CATO)",Pharmaceuticals,8.42,L + 6.75,1.00,12/16/27,,15320,,,14965,,,14937,,(2) (3)
+109,"LS Clinical Services Holdings, Inc (dba CATO)",Pharmaceuticals,,L + 6.75,1.00,12/16/26,,2200,,,(49,,,(55,,(2) (3) (4)
+110,"MedeAnalytics, Inc.",Health Care Technology,10.20,S + 8.00(incl. 1.50PIK),1.00,10/09/26,,966,,,927,,,915,,(2) (3)
+111,"MerchantWise Solutions, LLC (dba HungerRush)",Diversified Financial Services,7.40,S + 6.00,0.75,06/01/28,,21746,,,21316,,,21311,,(2)
+112,"MerchantWise Solutions, LLC (dba HungerRush)",Diversified Financial Services,7.40,S + 6.00,0.75,06/01/28,,2718,,,626,,,625,,(2) (4)
+113,"MerchantWise Solutions, LLC (dba HungerRush)",Diversified Financial Services,,S + 6.00,0.75,06/01/28,,5436,,,(54,,,(54,,(2) (4)
+114,"Mervin Manufacturing, Inc.",Leisure Products,9.17,L + 7.50,1.00,09/30/22,,10613,,,10613,,,10560,,(3)
+115,"Millstone Medical Outsourcing, LLC",Health Care Providers & Services,8.75,P + 4.00,,12/15/27,,10322,,,10131,,,10116,,(2) (3)
+116,"Millstone Medical Outsourcing, LLC",Health Care Providers & Services,8.75,P + 4.00,,12/15/27,,2217,,,292,,,288,,(2) (3) (4)
+117,"MMIT Holdings, LLC (dba Managed Markets Insight & Technology)",Health Care Technology,8.50,L + 6.25,1.00,09/15/27,,65971,,,64796,,,64652,,(2) (3)
+118,"MMIT Holdings, LLC (dba Managed Markets Insight & Technology)",Health Care Technology,8.50,L + 6.25,1.00,09/15/27,,6878,,,6754,,,6740,,(2) (3)
+119,"MMIT Holdings, LLC (dba Managed Markets Insight & Technology)",Health Care Technology,,L + 6.25,1.00,09/15/27,,5923,,,(103,,,(118,,(2) (3) (4)
+120,MRI Software LLC,Real Estate Mgmt. & Development,7.75,L + 5.50,1.00,02/10/26,,23338,,,22433,,,23153,,
+121,MRI Software LLC,Real Estate Mgmt. & Development,7.75,L + 5.50,1.00,02/10/26,,6569,,,6542,,,6517,,
+122,MRI Software LLC,Real Estate Mgmt. & Development,,L + 5.50,1.00,02/10/26,,1612,,,(27,,,(13,,(4)
+123,"NFM & J, L.P. (dba the Facilities Group)",Professional Services,7.42,L + 5.75,1.00,11/30/27,,17167,,,16852,,,16823,,(2) (3)
+124,"NFM & J, L.P. (dba the Facilities Group)",Professional Services,7.30,L + 5.75,1.00,11/30/27,,17406,,,9626,,,9528,,(2) (3) (4)
+125,"NFM & J, L.P. (dba the Facilities Group)",Professional Services,7.15,L + 5.75,1.00,11/30/27,,2992,,,394,,,389,,(2) (3) (4)
+126,One GI LLC,Health Care Providers & Services,8.42,L + 6.75,1.00,12/22/25,,22760,,,22420,,,21963,,(2) (3)
+127,One GI LLC,Health Care Providers & Services,8.42,L + 6.75,1.00,12/22/25,,12147,,,11932,,,11722,,(2) (3)
+128,One GI LLC,Health Care Providers & Services,8.42,L + 6.75,1.00,12/22/25,,9358,,,9220,,,9030,,(2) (3)
+129,One GI LLC,Health Care Providers & Services,,L + 6.75,1.00,12/22/25,,3610,,,(54,,,(126,,(2) (3) (4)
+130,One GI LLC,Health Care Providers & Services,,L + 6.75,1.00,12/22/25,,6659,,,(58,,,(233,,(2) (3) (4)
+131,"Output Services Group, Inc.",Diversified Consumer Services,6.01,L + 4.50,1.00,03/27/24,,3842,,,3836,,,2835,,
+132,"PDDS Holdco, Inc. (dba Planet DDS)",Health Care Technology,,S + 6.75,0.75,06/01/29,,26700,,,0,,,0,,(2) (4)
+133,"PDDS Holdco, Inc. (dba Planet DDS)",Health Care Technology,,S + 6.75,0.75,06/01/29,,3080,,,0,,,0,,(2) (4)
+134,"PDDS Holdco, Inc. (dba Planet DDS)",Health Care Technology,,S + 6.75,0.75,06/01/29,,3080,,,0,,,0,,(2) (4)
+135,"PDDS Holdco, Inc. (dba Planet DDS)",Health Care Technology,,S + 6.75,0.75,06/01/27,,2050,,,0,,,0,,(2) (4)
+136,Picture Head Midco LLC,Entertainment,8.28,S + 6.75,1.00,08/31/23,,45536,,,43785,,,44967,,(2) (3)
+137,"Pioneer Buyer I, LLC",Software,9.25,L + 7.00PIK,0.75,11/01/28,,24977,,,24541,,,24477,,(2) (3)
+138,"Pioneer Buyer I, LLC",Software,,L + 6.50,0.75,11/01/27,,4300,,,(77,,,(86,,(2) (3) (4)
+139,"PlanSource Holdings, Inc.",Health Care Technology,7.25,L + 6.25,1.00,04/22/25,,56720,,,54488,,,56011,,(2) (3)
+140,"PlanSource Holdings, Inc.",Health Care Technology,7.25,L + 6.25,1.00,04/22/25,,905,,,893,,,893,,(2) (3)
+141,"PlanSource Holdings, Inc.",Health Care Technology,7.25,L + 6.25,1.00,04/22/25,,905,,,892,,,893,,(2) (3)
+142,"PlanSource Holdings, Inc.",Health Care Technology,,L + 6.25,1.00,04/22/25,,7824,,,(150,,,(98,,(2) (3) (4)
+143,"Pluralsight, Inc",Professional Services,9.00,L + 8.00,1.00,04/06/27,,75915,,,74636,,,74207,,(2) (3)
+144,"Pluralsight, Inc",Professional Services,,L + 8.00,1.00,04/06/27,,5100,,,(81,,,(115,,(2) (3) (4)
+145,"Premier Care Dental Management, LLC",Health Care Providers & Services,7.42,L + 5.75,0.75,08/05/28,,18729,,,18394,,,18355,,(2) (3)
+146,"Premier Care Dental Management, LLC",Health Care Providers & Services,7.42,L + 5.75,0.75,08/05/28,,10153,,,5940,,,5819,,(2) (3) (4)
+147,"Premier Care Dental Management, LLC",Health Care Providers & Services,7.42,L + 5.75,0.75,08/05/27,,3052,,,19,,,10,,(2) (3) (4)
+148,"Premier Imaging, LLC (dba Lucid Health)",Health Care Providers & Services,7.35,L + 5.75,1.00,01/02/25,,27277,,,26184,,,26596,,(2) (3)
+149,"Premier Imaging, LLC (dba Lucid Health)",Health Care Providers & Services,6.75,L + 5.75,1.00,01/02/25,,7616,,,7521,,,7425,,(2) (3)
+150,"Premier Imaging, LLC (dba Lucid Health)",Health Care Providers & Services,7.42,L + 5.75,1.00,01/02/25,,6124,,,6046,,,5971,,(2) (3)
+151,"Premier Imaging, LLC (dba Lucid Health)",Health Care Providers & Services,7.40,L + 5.75,1.00,01/02/25,,5770,,,1588,,,1516,,(2) (3) (4)
+152,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+153,Professional Physical Therapy,Health Care Providers & Services,9.50,L + 8.50(incl. 2.50PIK),1.00,12/16/22,,5995,,,5883,,,5156,,(3)
+154,"Project Eagle Holdings, LLC (dba Exostar)",Aerospace & Defense,8.42,L + 6.75,1.00,07/06/26,,35539,,,34920,,,34828,,(2) (3)
+155,"Project Eagle Holdings, LLC (dba Exostar)",Aerospace & Defense,,L + 6.75,1.00,07/06/26,,75,,,(1,,,(2,,(2) (3) (4)
+156,Prophix Software Inc. (dba Pound Bidco),Diversified Financial Services,7.83,L + 6.50,1.00,01/30/26,,18948,,,18662,,,18948,,(1) (2) (3)
+157,Prophix Software Inc. (dba Pound Bidco),Diversified Financial Services,7.83,L + 6.50,1.00,01/30/26,,7752,,,7619,,,7752,,(1) (2) (3)
+158,Prophix Software Inc. (dba Pound Bidco),Diversified Financial Services,,L + 6.50,1.00,01/30/26,,3445,,,(50,,,0,,(1) (2) (3) (4)
+159,"PT Intermediate Holdings III, LLC (dba Parts Town)",Trading Companies & Distributors,7.75,L + 5.50,0.75,11/01/28,,22905,,,22693,,,22218,,(2)
+160,"PT Intermediate Holdings III, LLC (dba Parts Town)",Trading Companies & Distributors,7.75,L + 5.50,0.75,11/01/28,,2035,,,2015,,,1974,,(2)
+161,"PT Intermediate Holdings III, LLC (dba Parts Town)",Trading Companies & Distributors,7.75,L + 5.50,0.75,11/01/28,,1970,,,1952,,,1911,,(2)
+162,"PT Intermediate Holdings III, LLC (dba Parts Town)",Trading Companies & Distributors,7.75,L + 5.50,0.75,11/01/28,,1407,,,1394,,,1365,,(2)
+163,"Purfoods, LLC",Health Care Providers & Services,7.67,L + 6.25,1.00,08/12/26,,590,,,569,,,576,,(2) (3)
+164,"Purfoods, LLC",Health Care Providers & Services,7.81,L + 6.25,1.00,08/12/26,,398,,,317,,,314,,(2) (3) (4)
+165,"Qualawash Holdings, LLC",Commercial Services & Supplies,6.83,L + 5.75,1.00,08/31/26,,11377,,,11218,,,11207,,(2)
+166,"Qualawash Holdings, LLC",Commercial Services & Supplies,7.26,L + 5.75,1.00,08/31/26,,2859,,,1271,,,1258,,(2) (4)
+167,"Qualawash Holdings, LLC",Commercial Services & Supplies,,L + 5.75,1.00,08/31/26,,2859,,,(40,,,(21,,(2) (4)
+168,"Riverpoint Medical, LLC",Health Care Equipment & Supplies,7.74,L + 5.50,1.00,06/21/25,,21643,,,20835,,,21156,,(2) (3)
+169,"Riverpoint Medical, LLC",Health Care Equipment & Supplies,7.74,L + 5.50,1.00,06/21/25,,1639,,,1623,,,1602,,(2) (3)
+170,"Riverpoint Medical, LLC",Health Care Equipment & Supplies,,L + 5.50,1.00,06/21/25,,4094,,,(63,,,(92,,(2) (3) (4)
+171,Rodeo Buyer Company (dba Absorb Software),Professional Services,7.92,L + 6.25,1.00,05/25/27,,21167,,,20808,,,20796,,(1) (2) (3)
+172,Rodeo Buyer Company (dba Absorb Software),Professional Services,,L + 6.25,1.00,05/25/27,,3387,,,(56,,,(59,,(1) (2) (3) (4)
+173,"Rubrik,Inc.",Software,8.19,S + 6.50,1.00,06/10/27,,35173,,,34476,,,34470,,(2)
+174,"Rubrik,Inc.",Software,,S + 6.50,1.00,06/10/27,,4020,,,0,,,0,,(2) (4)
+175,"Smarsh, Inc.",Software,7.25,S + 6.50,0.75,02/16/29,,26667,,,26411,,,26400,,(3)
+176,"Smarsh, Inc.",Software,,S + 6.50,0.75,02/16/29,,1667,,,(16,,,(17,,(3) (4)
+177,"Smarsh, Inc.",Software,,S + 6.50,0.75,02/16/29,,6667,,,(32,,,(67,,(3) (4)
+178,"SPay, Inc. (dba Stack Sports)",Interactive Media & Services,10.92,L + 9.25(incl. 3.50PIK),1.00,06/17/24,,29285,,,27780,,,27821,,(2) (3)
+179,"SPay, Inc. (dba Stack Sports)",Interactive Media & Services,10.99,L + 9.25(incl. 3.50PIK),1.00,06/17/24,,2097,,,1984,,,1992,,(2) (3)
+180,"SPay, Inc. (dba Stack Sports)",Interactive Media & Services,10.26,L + 9.25(incl. 3.50PIK),1.00,06/17/24,,1049,,,994,,,997,,(2) (3)
+181,"SpendMend, LLC",Health Care Providers & Services,7.38,S + 5.75,1.00,03/01/28,,637,,,627,,,625,,(2) (3)
+182,"SpendMend, LLC",Health Care Providers & Services,7.38,S + 5.75,1.00,03/01/28,,83,,,10,,,9,,(2) (3) (4)
+183,"SpendMend, LLC",Health Care Providers & Services,,S + 5.75,1.00,03/01/28,,278,,,(2,,,(6,,(2) (3) (4)
+184,"StarCompliance Intermediate, LLC",Diversified Financial Services,9.00,L + 6.75,1.00,01/12/27,,15600,,,15352,,,15405,,(2) (3)
+185,"StarCompliance Intermediate, LLC",Diversified Financial Services,9.00,L + 6.75,1.00,01/12/27,,2514,,,2469,,,2482,,(2) (3)
+186,"StarCompliance Intermediate, LLC",Diversified Financial Services,8.42,L + 6.75,1.00,01/12/27,,2500,,,212,,,219,,(2) (3) (4)
+187,"Sundance Group Holdings, Inc. (dba NetDocuments)",Software,7.25,L + 6.25,1.00,07/02/27,,41043,,,40493,,,40325,,(2) (3)
+188,"Sundance Group Holdings, Inc. (dba NetDocuments)",Software,8.14,L + 6.25,1.00,07/02/27,,4925,,,2562,,,2541,,(2) (3) (4)
+189,"Sundance Group Holdings, Inc. (dba NetDocuments)",Software,,L + 6.25,1.00,07/02/27,,12313,,,(80,,,(215,,(2) (3) (4)
+190,"Sunstar Insurance Group, LLC",Insurance,8.00,L + 5.75,1.00,10/09/26,,20533,,,8923,,,8879,,(2) (3) (4)
+191,"Sunstar Insurance Group, LLC",Insurance,8.00,L + 5.75,1.00,10/09/26,,4034,,,3988,,,3994,,(2) (3)
+192,"Sunstar Insurance Group, LLC",Insurance,8.00,L + 5.75,1.00,10/09/26,,339,,,333,,,335,,(2) (3)
+193,"Sunstar Insurance Group, LLC",Insurance,,L + 5.75,1.00,10/09/26,,111,,,(2,,,(1,,(2) (3) (4)
+194,"Superman Holdings, LLC (dba Foundation Software)",Construction & Engineering,8.75,L + 6.50,1.00,08/31/27,,31636,,,31049,,,30845,,(2) (3)
+195,"Superman Holdings, LLC (dba Foundation Software)",Construction & Engineering,8.75,L + 6.50,1.00,08/31/27,,957,,,922,,,933,,(2) (3)
+196,"Superman Holdings, LLC (dba Foundation Software)",Construction & Engineering,,L + 6.50,1.00,08/31/26,,122,,,(2,,,(3,,(2) (3) (4)
+197,Sweep Purchaser LLC,Commercial Services & Supplies,8.00,L + 5.75,1.00,11/30/26,,28250,,,27812,,,27968,,(2) (3)
+198,Sweep Purchaser LLC,Commercial Services & Supplies,7.11,L + 5.75,1.00,11/30/26,,8968,,,8828,,,8879,,(2) (3)
+199,Sweep Purchaser LLC,Commercial Services & Supplies,7.10,L + 5.75,1.00,11/30/26,,7191,,,7073,,,7119,,(2) (3)
+200,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+201,Sweep Purchaser LLC,Commercial Services & Supplies,7.16,L + 5.75,1.00,11/30/26,,4995,,,4825,,,4866,,(2) (3) (4)
+202,Sweep Purchaser LLC,Commercial Services & Supplies,9.50,L + 5.75,1.00,11/30/26,,4541,,,1458,,,1480,,(2) (3) (4)
+203,"Syntellis Performance Solutions, LLC (dba Axiom)",Health Care Technology,,L + 7.00,1.00,07/31/27,,16449,,,0,,,0,,(2) (4)
+204,"Syntellis Performance Solutions, LLC (dba Axiom)",Health Care Technology,8.24,L + 7.00,1.00,08/02/27,,824,,,789,,,804,,(2) (3)
+205,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)",Health Care Providers & Services,6.80,S + 5.50,1.00,08/15/25,,4712,,,4633,,,4630,,(2) (3)
+206,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)",Health Care Providers & Services,7.13,S + 5.50,1.00,08/15/25,,26192,,,25073,,,25734,,(2) (3)
+207,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)",Health Care Providers & Services,7.13,S + 5.50,1.00,08/15/25,,7917,,,4008,,,3977,,(2) (3) (4)
+208,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)",Health Care Providers & Services,9.25,P + 4.50,,08/15/25,,4565,,,2181,,,2202,,(2) (3) (4)
+209,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)",Health Care Providers & Services,,S + 5.50,1.00,08/15/25,,2120,,,(17,,,(37,,(2) (3) (4)
+210,"Thrasio, LLC",Internet & Direct Marketing Retail,9.25,L + 7.00,1.00,12/18/26,,39331,,,38773,,,39331,,(2) (3)
+211,"Thrasio, LLC",Internet & Direct Marketing Retail,,L + 7.00,1.00,12/18/26,,14686,,,(63,,,0,,(2) (3) (4)
+212,Total Vision LLC,Health Care Providers & Services,6.96,S + 5.75,1.00,07/15/26,,17100,,,16771,,,16758,,(2) (3)
+213,Total Vision LLC,Health Care Providers & Services,7.25,S + 5.75,1.00,07/15/26,,5032,,,4947,,,4931,,(2) (3)
+214,Total Vision LLC,Health Care Providers & Services,7.01,S + 5.75,1.00,07/15/26,,2505,,,2463,,,2455,,(2) (3)
+215,Total Vision LLC,Health Care Providers & Services,7.33,S + 5.75,1.00,07/15/26,,10400,,,1097,,,998,,(2) (3) (4)
+216,Total Vision LLC,Health Care Providers & Services,,L + 5.75,1.00,07/15/26,,1270,,,(21,,,(25,,(2) (3) (4)
+217,Tronair Parent Inc.,Air Freight & Logistics,7.65,L + 6.25(incl. 0.50PIK),1.00,09/08/23,,6318,,,6287,,,5823,,
+218,USN Opco LLC (dba Global Nephrology Solutions),Health Care Providers & Services,7.13,S + 5.50,1.00,12/21/26,,21763,,,21422,,,21599,,(2) (3)
+219,USN Opco LLC (dba Global Nephrology Solutions),Health Care Providers & Services,7.13,S + 5.50,1.00,12/21/26,,7564,,,7438,,,7507,,(2) (3)
+220,USN Opco LLC (dba Global Nephrology Solutions),Health Care Providers & Services,7.13,S + 5.50,1.00,12/21/26,,9676,,,3454,,,3475,,(2) (3) (4)
+221,USN Opco LLC (dba Global Nephrology Solutions),Health Care Providers & Services,7.69,S + 5.50,1.00,12/21/26,,3023,,,559,,,582,,(2) (3) (4)
+222,"Viant Medical Holdings, Inc.",Health Care Equipment & Supplies,7.92,L + 6.25,1.00,07/02/25,,31302,,,29940,,,30832,,(2)
+223,"Volt Bidco, Inc. (dba Power Factors)",Independent Power and Renewable Electricity Producers,7.90,L + 6.50,1.00,08/11/27,,22800,,,34184,,,34217,,(2) (3)
+224,"Volt Bidco, Inc. (dba Power Factors)",Independent Power and Renewable Electricity Producers,7.90,L + 6.50,1.00,08/11/27,,2644,,,1325,,,1193,,(2) (3) (4)
+225,"Volt Bidco, Inc. (dba Power Factors)",Independent Power and Renewable Electricity Producers,,L + 6.50,1.00,08/11/27,,3685,,,(67,,,(64,,(2) (3) (4)
+226,"VRC Companies, LLC (dba Vital Records Control)",Commercial Services & Supplies,8.38,L + 5.50,0.75,06/29/27,,28032,,,27670,,,27121,,(2) (3)
+227,"VRC Companies, LLC (dba Vital Records Control)",Commercial Services & Supplies,8.38,L + 5.50,0.75,06/29/27,,4709,,,2377,,,2283,,(2) (3) (4)
+228,"VRC Companies, LLC (dba Vital Records Control)",Commercial Services & Supplies,9.25,P + 4.50,,06/29/27,,944,,,224,,,205,,(2) (3) (4)
+229,"WebPT, Inc.",Health Care Technology,8.32,L + 6.75,1.00,01/18/28,,25126,,,23511,,,24372,,(2) (3)
+230,"WebPT, Inc.",Health Care Technology,7.79,L + 6.75,1.00,01/18/28,,5534,,,5456,,,5368,,(2) (3)
+231,"WebPT, Inc.",Health Care Technology,8.46,L + 6.75,1.00,01/18/28,,2617,,,460,,,445,,(2) (3) (4)
+232,"WebPT, Inc.",Health Care Technology,,L + 6.75,1.00,01/18/28,,2617,,,(18,,,(79,,(2) (3) (4)
+233,"Wellness AcquisitionCo, Inc. (dba SPINS)",IT Services,6.50,L + 5.50,1.00,01/20/27,,21889,,,21536,,,21889,,(2) (3)
+234,"Wellness AcquisitionCo, Inc. (dba SPINS)",IT Services,,L + 5.50,1.00,01/20/27,,2600,,,(40,,,0,,(2) (3) (4)
+235,"Wellness AcquisitionCo, Inc. (dba SPINS)",IT Services,,L + 5.50,1.00,01/20/27,,4000,,,(37,,,0,,(2) (3) (4)
+236,WhiteWater Holding Company LLC,Diversified Consumer Services,8.00,L + 5.75,0.75,12/21/27,,17431,,,17108,,,17083,,(2) (3)
+237,WhiteWater Holding Company LLC,Diversified Consumer Services,8.00,L + 5.75,0.75,12/21/27,,5814,,,5707,,,5698,,(2) (3)
+238,WhiteWater Holding Company LLC,Diversified Consumer Services,6.99,L + 5.75,0.75,12/21/27,,5840,,,1486,,,1438,,(2) (3) (4)
+239,Investment *#,Industry,InterestRate (+),Reference Rateand Spread (+),Floor(+),Maturity,Par(++),,Cost,,FairValue,,Footnotes,,,
+240,WhiteWater Holding Company LLC,Diversified Consumer Services,7.39,L + 5.75,0.75,12/21/27,,2340,,,554,,,550,,(2) (3) (4)
+241,"Wine.com, LLC",Beverages,8.44,L + 7.00,1.00,11/14/24,,15400,,,15048,,,15400,,(2) (3)
+242,"Wine.com, LLC",Beverages,8.44,L + 7.00,1.00,11/14/24,,3700,,,3650,,,3700,,(2) (3)
+243,"WorkForce Software, LLC",Software,8.82,L + 7.25(incl. 3.00PIK),1.00,07/31/25,,22185,,,21441,,,21797,,(2) (3)
+244,"WorkForce Software, LLC",Software,8.82,L + 7.25(incl. 3.00PIK),1.00,07/31/25,,3129,,,3074,,,3074,,(2) (3)
+245,"WorkForce Software, LLC",Software,7.51,L + 6.50,1.00,07/31/25,,1894,,,1868,,,1861,,(2) (3)
+246,"WorkForce Software, LLC",Software,,L + 7.25,1.00,07/31/25,,2319,,,(20,,,(41,,(2) (3) (4)
+247,"WSO2, Inc.",IT Services,8.62,L + 7.50(incl. 3.00PIK),1.00,11/04/26,,31622,,,31072,,,30990,,(2) (3)
+248,Xactly Corporation,IT Services,8.49,L + 7.25,1.00,07/31/23,,62025,,,60995,,,61870,,(2) (3)
+249,Xactly Corporation,IT Services,8.80,L + 7.25,1.00,07/31/23,,3874,,,2350,,,2367,,(2) (3) (4)
+250,"Zarya Intermediate, LLC (dba iOFFICE)",Real Estate Mgmt. & Development,7.56,L + 6.50,1.00,07/01/27,,35480,,,34867,,,35303,,(2) (3)
+251,"Zarya Intermediate, LLC (dba iOFFICE)",Real Estate Mgmt. & Development,8.12,L + 6.50,1.00,07/01/27,,27870,,,27379,,,27731,,(2) (3)
+252,"Zarya Intermediate, LLC (dba iOFFICE)",Real Estate Mgmt. & Development,,L + 6.50,1.00,07/01/27,,6757,,,(114,,,(34,,(2) (3) (4)
+253,"Zodiac Intermediate, LLC (dba Zipari)",Health Care Technology,9.67,L + 8.00,1.00,12/21/26,,50230,,,49055,,,49100,,(2) (3)
+254,"Zodiac Intermediate, LLC (dba Zipari)",Health Care Technology,,L + 8.00,1.00,12/22/25,,7500,,,(157,,,(169,,(2) (3) (4)
+255,Total 1st Lien/Senior Secured Debt,,,,,,,,,3156027,,,3155522,,,
+256,1st Lien/Last-Out Unitranche (6) - 6.26,,,,,,,,,,,,,,,
+257,"Doxim, Inc.",Diversified Financial Services,7.67,L + 6.00,1.00,02/28/24,,38967,,,37792,,,37798,,(2) (3)
+258,"Doxim, Inc.",Diversified Financial Services,8.39,L + 6.75,1.00,02/28/24,,24875,,,24527,,,23942,,(2) (3)
+259,"Doxim, Inc.",Diversified Financial Services,7.62,L + 6.00,1.00,02/28/24,,22863,,,21996,,,22178,,(2) (3)
+260,"Doxim, Inc.",Diversified Financial Services,8.64,L + 7.00,1.00,02/28/24,,6700,,,6601,,,6465,,(2) (3)
+261,"Doxim, Inc.",Diversified Financial Services,9.25,L + 8.00,1.00,02/28/24,,5202,,,5119,,,5098,,(2) (3)
+262,"Doxim, Inc.",Diversified Financial Services,9.67,L + 8.00,1.00,02/28/24,,3898,,,3844,,,3820,,(2) (3)
+263,Total 1st Lien/Last-Out Unitranche,,,,,,,,,99879,,,99301,,,
+264,2nd Lien/Senior Secured Debt - 15.26,,,,,,,,,,,,,,,
+265,"Animal Supply Intermediate, LLC",Distributors,7.00,7.00PIK,,11/14/25,,9416,,,9030,,,6992,,^ (3)
+266,"Bolttech Mannings, Inc.",Commercial Services & Supplies,10.25,L + 8.00PIK,,08/20/23,,12166,,,11429,,,11558,,^^ (3) (7)
+267,"Chase Industries, Inc. (dba Senneca Holdings)",Building Products,,10.00PIK,,11/11/25,,12150,,,9714,,,1701,,(2) (3) (7)
+268,"Chase Industries, Inc. (dba Senneca Holdings)",Building Products,,,,05/11/26,,15511,,,0,,,0,,(2) (3) (5)
+269,Genesis Acquisition Co. (dba ProCare Software),Diversified Financial Services,8.46,L + 7.50,,07/31/25,,17000,,,15938,,,16447,,(2) (3)
+270,Genesis Acquisition Co. (dba ProCare Software),Diversified Financial Services,8.46,L + 7.50,0.75,07/31/25,,13890,,,13653,,,13439,,(2) (3)
+271,Genesis Acquisition Co. (dba ProCare Software),Diversified Financial Services,8.46,L + 7.50,,07/31/25,,4939,,,4805,,,4778,,(2) (3)
+272,Genesis Acquisition Co. (dba ProCare Software),Diversified Financial Services,8.46,L + 7.50,,07/31/25,,4300,,,4032,,,4160,,(2) (3)
+273,IHS Intermediate Inc. (dba Interactive Health Solutions),Health Care Providers & Services,,L + 8.25,1.00,07/20/22,,10000,,,9902,,,0,,(3) (7)
+274,"MPI Engineered Technologies, LLC",Auto Components,12.00,12.00,,07/15/25,,15305,,,15305,,,13315,,(3)
+275,MPI Products LLC,Auto Components,,,,07/15/25,,7412,,,0,,,0,,(3) (5)
+276,"National Spine and Pain Centers, LLC",Health Care Providers & Services,9.25,L + 8.25,1.00,12/02/24,,36500,,,35268,,,35040,,(2) (3)
+277,Odyssey Logistics & Technology Corporation,Road & Rail,9.24,L + 8.00,1.00,10/12/25,,45348,,,40950,,,42769,,(2)
+278,"Spectrum Plastics Group, Inc.",Containers & Packaging,8.67,L + 7.00,1.00,01/31/26,,12525,,,11494,,,11298,,(2)
+279,"YI, LLC (dba Young Innovations)",Health Care Equipment & Supplies,9.42,L + 7.75,1.00,11/07/25,,36844,,,34356,,,35370,,(2) (3)
+280,Zep Inc.,Chemicals,10.50,L + 8.25,1.00,08/11/25,,53049,,,47986,,,45092,,(2)
+281,Total 2nd Lien/Senior Secured Debt,,,,,,,,,263862,,,241959,,,
+282,Unsecured Debt - 0.49,,,,,,,,,,,,,,,
+283,ATX Networks Corp.,Communications Equipment,10.00,10.00PIK,,09/01/28,,1836,,,1552,,,1523,,^ (1) (3)
+284,CivicPlus LLC,Software,12.93,S + 11.75,0.75,08/24/27,,6247,,,6060,,,6060,,(2) (3)
+285,Conergy Asia & ME Pte. LTD.,Construction & Engineering,,,,06/30/23,,1266,,,1055,,,182,,^ (1) (3) (5)
+286,Total Unsecured Debt,,,,,,,,,8667,,,7765,,,
+287,Investment *#,Industry,InterestRate,InitialAcquisitionDate(8),Par/Shares(++),,Cost,,FairValue,,Footnotes,,,,,
+288,Preferred Stock - 3.01,,,,,,,,,,,,,,,
+289,"Broadway Parent, LLC",Diversified Financial Services,,01/25/21,,4000000,,,4019,,,4000,,(2) (3) (5),,
+290,"CloudBees, Inc.",Software,,11/24/21,,1152957,,,12899,,,12706,,(2) (3) (5),,
+291,Foundation Software,Construction & Engineering,,08/31/20,,22,,,21,,,26,,(2) (3) (5),,
+292,"Governmentjobs.com, Inc. (dba NeoGov)",Software,,12/02/21,,10597,,,10332,,,10971,,(2) (3) (5),,
+293,Kawa Solar Holdings Limited,Construction & Engineering,8.00PIK,10/25/16,,77164,,,778,,,0,,^ (1) (3) (7),,
+294,"MedeAnalytics, Inc.",Health Care Technology,,10/09/20,,42600,,,41,,,4,,(2) (3) (5),,
+295,"Wine.com, LLC",Beverages,,11/14/18,,535226,,,8225,,,8376,,(2) (3) (5),,
+296,"Wine.com, LLC",Beverages,,03/03/21,,124040,,,3067,,,3286,,(2) (3) (5),,
+297,"WSO2, Inc.",IT Services,,11/04/21,,561918,,,8876,,,8440,,(2) (3) (5),,
+298,Total Preferred Stock,,,,,,,48258,,,47809,,,,,
+299,Common Stock - 2.45,,,,,,,,,,,,,,,
+300,"Abacus Data Holdings, Inc. (dba Clutch Intermediate Holdings)",Software,,03/10/21,,29326,,,2933,,,2654,,(2) (3) (5),,
+301,"Animal Supply Holdings, LLC",Distributors,,08/14/20,,37500,,,126,,,0,,^ (3) (5),,
+302,"Animal Supply Holdings, LLC",Distributors,,08/14/20,,83333,,,13745,,,0,,^ (3) (5),,
+303,"ATX Parent Holdings, LLC - Class A Units",Communications Equipment,,09/01/21,,332,,,167,,,1773,,^ (1) (3) (5),,
+304,"Bolttech Mannings, Inc.",Commercial Services & Supplies,,12/22/17,,4145602,,,22366,,,6177,,^^ (3) (5),,
+305,"Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Class B",Health Care Providers & Services,,03/30/18,,20183,,,2916,,,4012,,^^^ (2) (3),,
+306,"Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Performance Units",Health Care Providers & Services,,03/30/18,,19048,,,514,,,1364,,^^^ (1) (2) (3) (5),,
+307,Conergy Asia & ME Pte. LTD.,Construction & Engineering,,01/11/21,,3126780,,,5300,,,0,,^ (1) (3) (5),,
+308,Country Fresh Holding Company Inc.,Food Products,,04/29/19,,1514,,,888,,,0,,(2) (3) (5),,
+309,"Elah Holdings, Inc.",Capital Markets,,05/09/18,,111650,,,5238,,,5396,,^ (2) (3) (5),,
+310,Exostar LLC - Class B,Aerospace & Defense,,07/06/20,,31407,,,0,,,20,,(2) (3) (5),,
+311,Foundation Software - Class B,Construction & Engineering,,08/31/20,,11826,,,0,,,6,,(2) (3) (5),,
+312,"Iracore International Holdings, Inc.",Energy Equipment & Services,,04/13/17,,28898,,,7003,,,5888,,^ (3) (5),,
+313,Jill Acquisition LLC (dba J. Jill),Specialty Retail,,09/30/20,,18869,,,56,,,345,,(5),,
+314,Kawa Solar Holdings Limited,Construction & Engineering,,08/17/16,,1399556,,,0,,,0,,^ (1) (3) (5),,
+315,"National Spine and Pain Centers, LLC",Health Care Providers & Services,,06/02/17,,1100,,,883,,,329,,(2) (3) (5),,
+316,"Prairie Provident Resources, Inc.","Oil, Gas & Consumable Fuels",,,,3579988,,,9237,,,612,,(1) (5),,
+317,Total Vision LLC,Health Care Providers & Services,,07/15/21,,122571,,,2270,,,2260,,(2) (3) (5),,
+318,"Volt Bidco, Inc. (dba Power Factors)",Independent Power and Renewable Electricity Producers,,08/11/21,,3355,,,3407,,,3138,,(2) (3) (5),,
+319,WhiteWater Holding Company LLC,Diversified Consumer Services,,12/21/21,,23400,,,2340,,,2465,,(2) (3) (5),,
+320,"Yasso, Inc.",Food Products,,03/23/17,,1640,,,1368,,,2339,,(2) (3) (5),,
+321,Total Common Stock,,,,,,,80757,,,38778,,,,,
+322,Warrants - 0.05,,,,,,,,,,,,,,,
+323,"CloudBees, Inc.",Software,,11/24/21,,333980,,,1849,,,742,,(2) (3) (5),,
+324,KDOR Holdings Inc. (dba Senneca Holdings),Building Products,,06/22/20,,59,,,0,,,0,,(2) (3) (5),,
+325,KDOR Holdings Inc. (dba Senneca Holdings),Building Products,,05/29/20,,2812,,,0,,,0,,(2) (3) (5),,
+326,KDOR Holdings Inc. (dba Senneca Holdings),Building Products,,05/29/20,,294,,,0,,,0,,(2) (3) (5),,
+327,Total Warrants,,,,,,,1849,,,742,,,,,
+328,Total Investments - 226.52,,,,3659299,,,3591876,,,,,,,,
+329,*,Assets are pledged as collateral for the Revolving Credit Facility. See Note 6 “Debt”.,,,,,,,,,,,,,,
+330,(+),"Represents the actual interest rate for partially or fully funded debt in effect as of the reporting date. Variable rate loans bear interest at a rate that may be determined by the larger of the floor or the reference to either LIBOR (""L""), SOFR (""S"") or alternate base rate (commonly based on the U.S. Prime Rate (""P""), unless otherwise noted) at the borrower’s option, which reset periodically based on the terms of the credit agreement. L and S loans are typically indexed to 12 month, 6 month, 3 month or 1 month L or S rates. As of June 30, 2022, rates for the 12 month, 6 month, 3 month and 1 month L are 3.62 , 2.94 , 2.29and 1.79 , respectively. As of June 30, 2022, 1 month S was 1.09 , 3 month S was 0.70 , P was 4.75 , and Canadian Prime rate (""CDN P"") was 3.70 . For investments with multiple reference rates or alternate base rates, the interest rate shown is the weighted average interest rate in effect at June 30, 2022.",,,,,,,,,,,,,,
+331,(++),"Par amount is presented for debt investments, while the number of shares or units owned is presented for equity investments. Par amount is denominated in U.S. Dollars (""$"") unless otherwise noted, Euro (""€""), Great British Pound (“GBP”), or Canadian dollar (""CAD"").",,,,,,,,,,,,,,
+332,#,Percentages are based on net assets.,,,,,,,,,,,,,,
+333,^,"As defined in the Investment Company Act of 1940, as amended (the “Investment Company Act”), the investment is deemed to be an “affiliated person” of the Company because the Company owns, either directly or indirectly, 5or more of the portfolio company’s outstanding voting securities. See Note 3 “Significant Agreements and Related Party Transactions”.",,,,,,,,,,,,,,
+334,^^,"As defined in the Investment Company Act, the investment is deemed to be a “controlled affiliated person” of the Company because the Company owns, either directly or indirectly, 25or more of the portfolio company’s outstanding voting securities or has the power to exercise control over management or policies of such portfolio company. See Note 3 “Significant Agreements and Related Party Transactions”.",,,,,,,,,,,,,,
+335,^^^,The investment is otherwise deemed to be an “affiliated person” of the Company. See Note 3 “Significant Agreements and Related Party Transactions”.,,,,,,,,,,,,,,
+336,(1),"The investment is not a qualifying asset under Section 55(a) of the Investment Company Act. The Company may not acquire any non-qualifying asset unless, at the time of acquisition, qualifying assets represent at least 70of the Company’s total assets. As of June 30, 2022 the aggregate fair value of these securities is $162,757 or 4.42of the Company’s total assets.",,,,,,,,,,,,,,
+337,(2),Represent co-investments made with the Company’s affiliates in accordance with the terms of the exemptive relief received from the U.S. Securities and Exchange Commission. See Note 3 “Significant Agreements and Related Party Transactions”.,,,,,,,,,,,,,,
+338,(3),The fair value of the investment was determined using significant unobservable inputs. See Note 5 “Fair Value Measurement”.,,,,,,,,,,,,,,
+339,(4),"Position or portion thereof is an unfunded loan commitment, and no interest is being earned on the unfunded portion. The unfunded loan commitment may be subject to a commitment termination date that may expire prior to the maturity date stated. The negative cost, if applicable, is the result of the capitalized discount being greater than the principal amount outstanding on the loan. The negative fair value, if applicable, is the result of the capitalized discount on the loan. See Note 8 ""Commitments and Contingencies"".",,,,,,,,,,,,,,
+340,(5),Non-income producing security.,,,,,,,,,,,,,,
+341,(6),"In exchange for the greater risk of loss, the “last-out” portion of the Company's unitranche loan investment generally earns a higher interest rate than the “first-out” portions. The “first-out” portion would generally receive priority with respect to payment of principal, interest and any other amounts due thereunder over the “last-out” portion.",,,,,,,,,,,,,,
+342,(7),"The investment is on non-accrual status. See Note 2 ""Significant Accounting Policies"".",,,,,,,,,,,,,,
+343,(8),"Securities exempt from registration under the Securities Act of 1933, and may be deemed to be “restricted securities”. As of June 30, 2022, the aggregate fair value of these securities is $86,717 or 5.47of the Company's net assets. The initial acquisition dates have been included for such securities.",,,,,,,,,,,,,,
+344,,PIK – Payment-In-Kind,,,,,,,,,,,,,,

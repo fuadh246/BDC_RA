@@ -1,0 +1,231 @@
+,0,1,2,3,4,5,6,7
+0,Investment *,Industry,Interest Rate (+),Reference Rate andSpread (+),Maturity,ParAmount/Shares(++),Cost,Fair Value
+1,1st Lien/Senior Secured Debt * # - 180.63,,,,,,,
+2,"3SI Security Systems, Inc.(1)",Commercial Services & Supplies,6.75,L + 5.75 ; 1.00Floor,06/16/2023,"$ 14,736","$ 14,618","$ 14,183"
+3,"A Place For Mom, Inc.",Diversified Consumer Services,4.75,L + 3.75 ; 1.00Floor,08/10/2024,8820,8813,7497
+4,"Accuity Delivery Systems, LLC^ (1) (2)",Health Care Providers & Services,8.00,L + 7.00 ; 1.00Floor,06/13/2023,10170,9959,10272
+5,"Acquia, Inc.(1) (2)",Software,8.58,L + 7.00 ; 1.00Floor,10/31/2025,12364,12130,11746
+6,"Acquia, Inc.(1) (2) (3)",Software,,L + 7.00 ; 1.00Floor,10/31/2025,1322,(25),(66)
+7,"Animal Supply Holdings, LLC^^ (1) (4)",Distributors,11.78,L + 10.00(incl. 2.50PIK); 1.50Floor,02/22/2022,3894,3869,3641
+8,"Ansira Partners, Inc.",Professional Services,7.36,L + 5.75 ; 1.00Floor,12/20/2022,4566,4543,4018
+9,"Ansira Partners, Inc.(3)",Professional Services,6.98,L + 5.75 ; 1.00Floor,12/20/2022,281,184,152
+10,"Apptio, Inc.(1) (2)",IT Services,8.25,L + 7.25 ; 1.00Floor,01/10/2025,32702,32149,31803
+11,"Apptio, Inc.(1) (2) (3)",IT Services,,L + 7.25 ; 1.00Floor,01/10/2025,2225,(36),(61)
+12,"Associations, Inc.(1) (2)",Real Estate Management & Development,8.91,L + 7.00(incl. 3.00PIK); 1.00Floor,07/30/2024,13650,13523,12660
+13,"Associations, Inc.(1) (2) (3)",Real Estate Management & Development,8.91,L + 7.00(incl. 3.00PIK); 1.00Floor,07/30/2024,2995,2117,1928
+14,"Associations, Inc.(1) (2)",Real Estate Management & Development,8.00,L + 6.00 ; 1.00Floor,07/30/2024,587,581,544
+15,ATX Networks Corp.,Communications Equipment,8.45,L + 7.00(incl. 1.00PIK); 1.00Floor,06/11/2021,7303,7285,5697
+16,ATX Networks Corp.,Communications Equipment,8.45,L + 7.00(incl. 1.00PIK); 1.00Floor,06/11/2021,464,460,362
+17,"Badger Sportswear, Inc.","Textiles, Apparel & Luxury Goods",6.25,L + 5.00 ; 1.00Floor,09/11/2023,7150,7095,5506
+18,"Barbri, Inc.",Diversified Consumer Services,5.77,L + 4.25 ; 1.00Floor,12/01/2023,6243,6223,5119
+19,BJH Holdings III Corp. (dba Jack's Family Restaurants)(1) (2),"Hotels, Restaurants & Leisure",7.20,L + 5.75 ; 1.00Floor,08/19/2025,6193,6136,5899
+20,"Brillio, LLC(1)(2)",IT Services,5.75,L + 4.75 ; 1.00Floor,02/06/2025,4486,4448,4239
+21,"Brillio, LLC(1) (2) (3)",IT Services,5.75,L + 4.75 ; 1.00Floor,02/06/2025,1510,755,672
+22,"Bullhorn, Inc.(1) (2)",Professional Services,6.57,L + 5.50 ; 1.00Floor,10/01/2025,10967,10814,10474
+23,"Bullhorn, Inc.(1) (2)",Professional Services,6.50,L + 5.50 ; 1.00Floor,10/01/2025,545,538,521
+24,"Bullhorn, Inc.(1) (2)",Professional Services,6.57,L + 5.50 ; 1.00Floor,10/01/2025,181,179,173
+25,"Bullhorn, Inc.(1) (2) (3)",Professional Services,6.57,L + 5.50 ; 1.00Floor,10/01/2025,727,126,104
+26,"Businessolver.com, Inc.(1) (2)",Health Care Technology,9.19,L + 7.50 ; 1.00Floor,05/15/2023,12549,12379,11922
+27,"Businessolver.com, Inc.(1) (2)",Health Care Technology,8.50,L + 7.50 ; 1.00Floor,05/15/2023,11175,10955,10616
+28,"Businessolver.com, Inc.(1) (2)",Health Care Technology,9.15,L + 7.50 ; 1.00Floor,05/15/2023,1882,1855,1788
+29,"Businessolver.com, Inc.(1) (2) (3)",Health Care Technology,,L + 7.50 ; 1.00Floor,05/15/2023,1569,(20),(78)
+30,"CFS Management, LLC (dba Center for Sight Management)(1) (2)",Health Care Providers & Services,7.34,L + 5.75 ; 1.00Floor,07/01/2024,4785,4743,4558
+31,"CFS Management, LLC (dba Center for Sight Management)(1) (2) (3)",Health Care Providers & Services,,L + 5.75 ; 1.00Floor,07/01/2024,1418,(12),(67)
+32,Chronicle Bidco Inc. (dba Lexitas)(1) (2),Professional Services,7.45,L + 5.75 ; 1.00Floor,11/14/2025,6983,6850,6738
+33,Chronicle Bidco Inc. (dba Lexitas)(1) (2) (3),Professional Services,7.38,L + 5.75 ; 1.00Floor,11/14/2025,2936,1540,1481
+34,Chronicle Bidco Inc. (dba Lexitas)(1) (2) (3),Professional Services,,L + 5.75 ; 1.00Floor,11/14/2025,880,(17),(31)
+35,"Collaborative Imaging, LLC (dba Texas Radiology Associates)^^^ (1) (2)",Health Care Providers & Services,8.12,L + 6.50 ; 1.00Floor,03/28/2025,8900,8797,8611
+36,"Collaborative Imaging, LLC (dba Texas Radiology Associates)^^^ (1) (2)",Health Care Providers & Services,8.12,L + 6.50 ; 1.00Floor,03/28/2025,6602,6510,6387
+37,"ConnectWise, LLC(1) (2)",IT Services,7.07,L + 6.00 ; 1.00Floor,02/28/2025,13532,13276,12551
+38,"ConnectWise, LLC(1) (2) (3)",IT Services,,L + 6.00 ; 1.00Floor,02/28/2025,1036,(19),(75)
+39,"Convene 237 Park Avenue, LLC (dba Convene)(1) (2)",Real Estate Management & Development,9.09,L + 7.50 ; 1.50Floor,08/30/2024,21200,20816,18020
+40,"Convene 237 Park Avenue, LLC (dba Convene)(1) (2) (3)",Real Estate Management & Development,9.24,L + 7.50 ; 1.50Floor,08/30/2024,6220,3148,2301
+41,CorePower Yoga LLC(2),Diversified Consumer Services,5.47,L + 4.50,05/14/2025,9939,9809,8945
+42,CorePower Yoga LLC(2) (3),Diversified Consumer Services,,L + 4.50,05/14/2025,158,(2),(16)
+43,CorePower Yoga LLC(2) (3),Diversified Consumer Services,,L + 4.75,05/14/2025,678,(9),(68)
+44,CST Buyer Company (dba Intoxalock)(2),Diversified Consumer Services,6.82,L + 5.75 ; 1.00Floor,10/03/2025,12311,12163,10464
+45,CST Buyer Company (dba Intoxalock)(2) (3),Diversified Consumer Services,6.82,L + 5.75 ; 1.00Floor,10/03/2025,876,515,394
+46,Investment *,Industry,Interest Rate (+),Reference Rate andSpread (+),Maturity,ParAmount/Shares(++),Cost,Fair Value
+47,"DDS USA Holding, Inc.(1) (2)",Health Care Equipment & Supplies,6.13,L + 4.75 ; 1.00Floor,06/30/2022,"$ 3,795","$ 3,783","$ 3,662"
+48,"DDS USA Holding, Inc.(1) (2)",Health Care Equipment & Supplies,6.13,L + 4.75 ; 1.00Floor,06/30/2022,3589,3577,3463
+49,"DDS USA Holding, Inc.(1) (2)",Health Care Equipment & Supplies,7.00,P + 3.75 ; 1.00Floor,06/30/2022,1079,1076,1041
+50,Diligent Corporation(1) (2),Professional Services,7.42,L + 5.50 ; 1.00Floor,04/14/2022,"€ 15,975",18349,17443
+51,Diligent Corporation(1) (2),Professional Services,6.93,L + 5.50 ; 1.00Floor,04/14/2022,3821,3791,3783
+52,Diligent Corporation(1) (2),Professional Services,7.42,L + 5.50 ; 1.00Floor,04/14/2022,1472,1460,1457
+53,Diligent Corporation(1) (2) (3),Professional Services,6.92,L + 5.50 ; 1.00Floor,04/14/2022,1300,1125,1131
+54,Diligent Corporation(1) (2),Professional Services,6.57,L + 5.50 ; 1.00Floor,04/14/2022,505,501,500
+55,Diligent Corporation(1) (2),Professional Services,7.42,L + 5.50 ; 1.00Floor,04/14/2022,245,242,242
+56,Diligent Corporation(1) (2) (3),Professional Services,,L + 5.50 ; 1.00Floor,04/14/2022,4268,(33),(43)
+57,"DocuTAP, Inc.(1) (2)",Health Care Technology,6.50,L + 5.50 ; 1.00Floor,05/12/2025,24033,23505,23012
+58,"E2open, LLC(1) (2)",Software,7.36,L + 5.75 ; 1.00Floor,11/26/2024,16219,16075,15489
+59,"Elemica Parent, Inc.(1) (2)",Chemicals,6.39,L + 5.50,09/18/2025,2898,2831,2681
+60,"Elemica Parent, Inc.(1) (2) (3)",Chemicals,6.68,L + 5.50,09/18/2025,380,270,250
+61,"Elemica Parent, Inc.(1) (2) (3)",Chemicals,,L + 5.50,09/18/2025,560,(6),(42)
+62,"Empirix, Inc.(1) (2)",Diversified Telecommunication Services,7.71,L + 6.25 ; 1.00Floor,09/25/2024,22030,21725,19387
+63,"Empirix, Inc.(1) (2)",Diversified Telecommunication Services,7.63,L + 6.25 ; 1.00Floor,09/25/2023,1300,1284,1144
+64,"Eptam Plastics, Ltd.(1) (2)",Health Care Equipment & Supplies,6.50,L + 5.50 ; 1.00Floor,12/06/2025,4300,4238,4117
+65,"Eptam Plastics, Ltd.(1) (2)",Health Care Equipment & Supplies,6.50,L + 5.50 ; 1.00Floor,12/06/2025,915,902,876
+66,"Eptam Plastics, Ltd.(1) (2) (3)",Health Care Equipment & Supplies,,L + 5.50 ; 1.00Floor,12/06/2025,1830,(13),(78)
+67,Fenergo Finance 3 Limited(1) (2) (5),Diversified Financial Services,7.70,L + 6.25 ; 1.00Floor,09/05/2024,"€ 17,800",20404,18699
+68,Fenergo Finance 3 Limited(1) (2) (3) (5),Diversified Financial Services,,L + 6.25 ; 1.00Floor,09/05/2024,1182,(15),(56)
+69,Fenergo Finance 3 Limited(1) (2) (3) (5),Diversified Financial Services,,L + 6.25 ; 1.00Floor,09/05/2024,"€ 1,500",(23),(79)
+70,FWR Holding Corporation (dba First Watch Restaurants)(1),"Hotels, Restaurants & Leisure",6.77,L + 5.50 ; 1.00Floor,08/21/2023,4438,4369,4182
+71,FWR Holding Corporation (dba First Watch Restaurants)(1),"Hotels, Restaurants & Leisure",6.77,L + 5.50 ; 1.00Floor,08/21/2023,887,873,836
+72,FWR Holding Corporation (dba First Watch Restaurants)(1),"Hotels, Restaurants & Leisure",6.77,L + 5.50 ; 1.00Floor,08/21/2023,561,552,528
+73,FWR Holding Corporation (dba First Watch Restaurants)(1) (3),"Hotels, Restaurants & Leisure",6.77,L + 5.50 ; 1.00Floor,08/21/2023,587,388,363
+74,"Gastro Health Holdco, LLC(1) (2)",Health Care Providers & Services,6.86,L + 5.50 ; 1.00Floor,09/04/2024,9728,9576,9242
+75,"Gastro Health Holdco, LLC(1) (2)",Health Care Providers & Services,6.95,L + 5.50 ; 1.00Floor,09/04/2024,5071,4990,4818
+76,"Gastro Health Holdco, LLC(1) (2)",Health Care Providers & Services,7.71,L + 5.50 ; 1.00Floor,09/04/2024,4865,4798,4622
+77,"Gastro Health Holdco, LLC(1) (2)",Health Care Providers & Services,6.95,L + 5.50 ; 1.00Floor,09/04/2023,2000,1972,1900
+78,GH Holding Company (dba Grace Hill)(1),Real Estate Management & Development,5.49,L + 4.50,02/28/2023,7350,7327,7019
+79,GI Revelation Acquisition LLC (dba Consilio),IT Services,5.99,L + 5.00,04/16/2025,4670,4652,3596
+80,"GK Holdings, Inc. (dba Global Knowledge)",IT Services,7.45,L + 6.00 ; 1.00Floor,01/20/2021,8527,8518,5799
+81,"GlobalTranz Enterprises, Inc.(2)",Road & Rail,5.93,L + 5.00,05/15/2026,7662,7523,5421
+82,"Governmentjobs.com, Inc. (dba NeoGov)(1) (2)",Software,8.24,L + 6.50 ; 1.00Floor,02/05/2026,18305,17946,17893
+83,"Governmentjobs.com, Inc. (dba NeoGov)(1) (2) (3)",Software,,L + 6.50 ; 1.00Floor,02/05/2026,2441,(48),(55)
+84,"Granicus, Inc.(2)",Software,5.75,L + 4.75 ; 1.00Floor,09/07/2022,9921,9847,9326
+85,"Halo Branded Solutions, Inc.",Commercial Services & Supplies,5.50,L + 4.50 ; 1.00Floor,06/30/2025,6474,6421,5179
+86,"HS4 AcquisitionCo, Inc. (dba HotSchedules & Fourth)(1) (2)","Hotels, Restaurants & Leisure",8.20,L + 6.75 ; 1.00Floor,07/09/2025,23157,22845,20841
+87,"HS4 AcquisitionCo, Inc. (dba HotSchedules & Fourth)(1) (2) (3)","Hotels, Restaurants & Leisure",7.75,L + 6.75 ; 1.00Floor,07/09/2025,1883,1058,894
+88,Investment *,Industry,Interest Rate (+),Reference Rate andSpread (+),Maturity,ParAmount/Shares(++),Cost,Fair Value
+89,Hygiena Borrower LLC,Life Sciences Tools & Services,5.45,L + 4.00 ; 1.00Floor,08/26/2022,"$ 12,489","$ 12,408","$ 11,864"
+90,Hygiena Borrower LLC(3),Life Sciences Tools & Services,,L + 4.00 ; 1.00Floor,08/26/2022,715,(3),(36)
+91,Hygiena Borrower LLC(3),Life Sciences Tools & Services,,L + 4.00 ; 1.00Floor,08/26/2022,1313,(10),(66)
+92,"iCIMS, Inc.(1) (2)",Software,7.50,L + 6.50 ; 1.00Floor,09/12/2024,29895,29425,28475
+93,"iCIMS, Inc.(1) (2)",Software,7.50,L + 6.50 ; 1.00Floor,09/12/2024,5506,5409,5244
+94,"iCIMS, Inc.(1) (2) (3)",Software,,L + 6.50 ; 1.00Floor,09/12/2024,1868,(28),(89)
+95,Infinity Sales Group(1),Media,11.96,L + 10.50 ; 1.00Floor,11/23/2022,25579,25579,26218
+96,Instructure Holdings(2),Diversified Consumer Services,8.21,L + 7.00 ; 1.00Floor,03/24/2026,25863,25541,25540
+97,Instructure Holdings(2) (3),Diversified Consumer Services,,L + 7.00 ; 1.00Floor,03/24/2026,2000,(25),(25)
+98,"Integral Ad Science, Inc.(1) (2)",Interactive Media & Services,8.25,L + 7.25(incl. 1.25PIK); 1.00Floor,07/19/2024,25734,25344,24769
+99,"Integral Ad Science, Inc.(1) (2) (3)",Interactive Media & Services,,L + 6.00 ; 1.00Floor,07/19/2023,1815,(24),(68)
+100,"Internet Truckstop Group, LLC (dba Truckstop)(1) (2)",Transportation Infrastructure,6.96,L + 5.50 ; 1.00Floor,04/02/2025,22153,21675,21266
+101,"Internet Truckstop Group, LLC (dba Truckstop)(1) (2) (3)",Transportation Infrastructure,,L + 5.50 ; 1.00Floor,04/02/2025,1800,(38),(72)
+102,"Iracore International Holdings, Inc.^ (1)",Energy Equipment & Services,10.00,L + 9.00 ; 1.00Floor,04/12/2021,2917,2917,2888
+103,Jill Acquisition LLC (dba J. Jill),Specialty Retail,6.78,L + 5.00 ; 1.00Floor,05/08/2022,6681,6660,4718
+104,Kawa Solar Holdings Limited^ (1) (5) (6),Construction & Engineering,,,05/26/2020,3917,3603,3244
+105,Kawa Solar Holdings Limited^ (1) (5) (6),Construction & Engineering,,,05/26/2020,5201,2683,0
+106,"Lithium Technologies, Inc.(1) (2)",Interactive Media & Services,9.00,L + 8.00 ; 1.00Floor,10/03/2022,38966,38420,36920
+107,"Lithium Technologies, Inc.(1) (2) (3)",Interactive Media & Services,,L + 8.00 ; 1.00Floor,10/03/2022,2684,(34),(141)
+108,"Mailgun Technologies, Inc.(1) (2)",Interactive Media & Services,7.08,L + 6.00 ; 1.00Floor,03/26/2025,15856,15579,15063
+109,"Mailgun Technologies, Inc.(1) (2) (3)",Interactive Media & Services,,L + 6.00 ; 1.00Floor,03/26/2025,993,0,(50)
+110,"Mervin Manufacturing, Inc.(1)",Leisure Products,8.50,L + 7.50 ; 1.00Floor,09/30/2022,10859,10857,10289
+111,"Midwest Transport, Inc.(1) (2)",Road & Rail,8.07,L + 7.00 ; 1.00Floor,10/02/2023,11748,11660,11513
+112,"MMIT Holdings, LLC (dba Managed Markets Insight & Technology)(1) (2)",Health Care Technology,7.28,L + 5.50 ; 1.00Floor,11/15/2024,20661,20315,19938
+113,"MMIT Holdings, LLC (dba Managed Markets Insight & Technology)(1) (2) (3)",Health Care Technology,7.59,L + 5.50 ; 1.00Floor,11/15/2024,3188,2628,2566
+114,MRI Software LLC,Real Estate Management & Development,6.57,L + 5.50 ; 1.00Floor,02/10/2026,7842,7766,6822
+115,MRI Software LLC(3),Real Estate Management & Development,6.57,L + 5.50 ; 1.00Floor,02/10/2026,622,305,230
+116,MRI Software LLC(3),Real Estate Management & Development,,L + 5.50 ; 1.00Floor,02/10/2026,1363,(8),(177)
+117,Netvoyage Corporation (dba NetDocuments)(1) (2),Software,8.83,L + 7.75 ; 1.00Floor,03/22/2024,8493,8385,8089
+118,Netvoyage Corporation (dba NetDocuments)(1) (2),Software,8.83,L + 7.75 ; 1.00Floor,03/22/2024,3980,3907,3791
+119,Netvoyage Corporation (dba NetDocuments)(1) (2),Software,8.83,L + 7.75 ; 1.00Floor,03/24/2022,801,785,763
+120,Netvoyage Corporation (dba NetDocuments)(1) (2) (3),Software,,L + 7.75 ; 1.00Floor,03/24/2022,654,(5),(31)
+121,"Output Services Group, Inc.",Diversified Consumer Services,6.11,L + 4.50 ; 1.00Floor,03/27/2024,3932,3919,2988
+122,Pharmalogic Holdings Corp.(1),Health Care Equipment & Supplies,4.99,L + 4.00,06/11/2023,3230,3225,3036
+123,Pharmalogic Holdings Corp.(1),Health Care Equipment & Supplies,4.99,L + 4.00,06/11/2023,1755,1752,1650
+124,Pharmalogic Holdings Corp.(1),Health Care Equipment & Supplies,4.99,L + 4.00,06/11/2023,1725,1718,1621
+125,Investment *,Industry,Interest Rate (+),Reference Rate andSpread (+),Maturity,ParAmount/Shares(++),Cost,Fair Value
+126,Pharmalogic Holdings Corp.(1),Health Care Equipment & Supplies,4.99,L + 4.00,06/11/2023,$ 927,$ 926,$ 872
+127,Picture Head Midco LLC(1) (2),Entertainment,7.75,L + 6.75 ; 1.00Floor,08/31/2023,18437,18158,16686
+128,"PlanSource Holdings, Inc.(1)(2)",Health Care Technology,7.95,L + 6.25 ; 1.00Floor,04/22/2025,22780,22382,21527
+129,"PlanSource Holdings, Inc.(1) (2) (3)",Health Care Technology,,L + 6.25 ; 1.00Floor,04/22/2025,3142,(53),(173)
+130,"Power Stop, LLC(2)",Auto Components,5.95,L + 4.50,10/19/2025,7505,7489,6755
+131,"Premier Imaging, LLC (dba Lucid Health)(1) (2)",Health Care Providers & Services,6.50,L + 5.50 ; 1.00Floor,01/02/2025,11741,11574,11095
+132,Professional Physical Therapy(1),Health Care Providers & Services,8.33,L + 6.75(incl. 5.75PIK); 1.00Floor,12/16/2022,5824,5177,4659
+133,"PT Intermediate Holdings III, LLC (dba Parts Town)(2)",Trading Companies & Distributors,6.95,L + 5.50 ; 1.00Floor,10/15/2025,11731,11675,9619
+134,"Riverpoint Medical, LLC(1) (2)",Health Care Equipment & Supplies,5.75,L + 4.75 ; 1.00Floor,06/21/2025,8975,8935,8302
+135,"Riverpoint Medical, LLC(1) (2) (3)",Health Care Equipment & Supplies,5.75,L + 4.75 ; 1.00Floor,06/21/2025,1644,815,699
+136,"Selectquote, Inc.(2)",Insurance,7.03,L + 6.00 ; 1.00Floor,11/05/2024,10700,10501,9630
+137,"SF Home Décor, LLC (dba SureFit Home Décor)(1) (2)",Household Products,11.21,L + 9.75 ; 1.00Floor,07/13/2022,18859,18481,17350
+138,"Shopatron, LLC (dba Kibo)(1) (2)",Internet & Direct Marketing Retail,9.08,L + 8.00 ; 1.00Floor,12/18/2020,5996,5920,5846
+139,"Shopatron, LLC (dba Kibo)(1) (2) (4)",Internet & Direct Marketing Retail,9.08,L + 8.00 ; 1.00Floor,12/18/2020,1848,1837,1802
+140,"SMS Systems Maintenance Services, Inc.",IT Services,6.45,L + 5.00 ; 1.00Floor,10/30/2023,7256,7235,4817
+141,"SPay, Inc. (dba Stack Sports)(1) (2)",Interactive Media & Services,6.82,L + 5.75 ; 1.00Floor,06/17/2024,10332,10178,9273
+142,"SPay, Inc. (dba Stack Sports)(1) (2) (3)",Interactive Media & Services,6.75,L + 5.75 ; 1.00Floor,06/17/2024,1140,743,643
+143,"SPay, Inc. (dba Stack Sports)(1) (2)",Interactive Media & Services,7.63,L + 5.75 ; 1.00Floor,06/17/2024,381,379,342
+144,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)(1) (2)",Health Care Providers & Services,6.25,L + 5.25 ; 1.00Floor,08/15/2025,10904,10755,10332
+145,"The Center for Orthopedic and Research Excellence, Inc. (dba HOPCo)(1) (2)",Health Care Providers & Services,6.28,L + 5.25 ; 1.00Floor,08/15/2025,1857,1832,1760
+146,Tronair Parent Inc.,Air Freight & Logistics,6.46,L + 4.75 ; 1.00Floor,09/08/2023,6755,6719,5269
+147,"U.S. Acute Care Solutions, LLC",Health Care Providers & Services,6.07,L + 5.00 ; 1.00Floor,05/17/2021,6289,6270,5660
+148,"US Med Acquisition, Inc.(1)",Health Care Equipment & Supplies,9.95,L + 8.50 ; 1.00Floor,08/13/2021,29566,29397,28605
+149,"Viant Medical Holdings, Inc.(1) (2)",Health Care Equipment & Supplies,7.70,L + 6.25 ; 1.00Floor,07/02/2025,12957,12749,11337
+150,Villa Bidco Inc (dba Authority Brands)(2),Diversified Consumer Services,6.75,L + 5.75 ; 1.00Floor,03/21/2025,10785,10545,10543
+151,Villa Bidco Inc (dba Authority Brands)(2)(3),Diversified Consumer Services,8.00,L + 5.75 ; 1.00Floor,03/21/2025,865,219,219
+152,"VRC Companies, LLC (dba Vital Records Control)",Commercial Services & Supplies,7.95,L + 6.50 ; 1.00Floor,03/31/2023,18645,18461,18272
+153,"VRC Companies, LLC (dba Vital Records Control)",Commercial Services & Supplies,7.95,L + 6.50 ; 1.00Floor,03/31/2022,882,874,864
+154,"WebPT, Inc.(1) (2)",Health Care Technology,8.36,L + 6.75 ; 1.00Floor,08/28/2024,10192,10008,9351
+155,"WebPT, Inc.(1) (2)",Health Care Technology,7.95,L + 6.75 ; 1.00Floor,08/28/2024,1062,1043,974
+156,"WebPT, Inc.(1) (2) (3)",Health Care Technology,,L + 6.75 ; 1.00Floor,08/28/2024,1274,(11),(105)
+157,"Wine.com, LLC(1) (2)",Beverages,8.93,L + 7.00 ; 1.00Floor,11/14/2024,6400,6296,6144
+158,Wolfpack IP Co. (dba Lone Wolf Technologies)(1) (2) (5),Real Estate Management & Development,7.50,L + 6.50 ; 1.00Floor,06/13/2025,31694,31128,30902
+159,Wolfpack IP Co. (dba Lone Wolf Technologies)(1) (2) (3) (5),Real Estate Management & Development,,L + 6.50 ; 1.00Floor,06/13/2025,3169,(55),(79)
+160,"WorkForce Software, LLC(1) (2)",Software,8.11,L + 6.50 ; 1.00Floor,07/31/2025,8735,8576,8167
+161,"WorkForce Software, LLC(1) (2) (3)",Software,,L + 6.50 ; 1.00Floor,07/31/2025,771,(14),(50)
+162,"Wrike, Inc.(1) (2)",Professional Services,7.83,L + 6.75 ; 1.00Floor,12/31/2024,22704,22306,22023
+163,"Wrike, Inc.(1) (2) (3)",Professional Services,,L + 6.75 ; 1.00Floor,12/31/2024,1600,(25),(48)
+164,Xactly Corporation(1) (2),IT Services,8.25,L + 7.25 ; 1.00Floor,07/29/2022,27173,26862,26222
+165,Xactly Corporation(1) (2) (3),IT Services,,L + 7.25 ; 1.00Floor,07/29/2022,1697,(16),(59)
+166,"Yasso, Inc.(1) (2)",Food Products,8.82,L + 7.75 ; 1.00Floor,03/23/2022,8005,7933,7685
+167,Total 1st Lien/Senior Secured Debt,,,,,,1144910,1074489
+168,Investment *,Industry,Interest Rate (+),Reference Rate andSpread (+),Maturity,ParAmount/Shares(++),Cost,Fair Value
+169,1st Lien/Last-Out Unitranche(7)- 5.74,,,,,,,
+170,"Doxim, Inc.(1) (2)",Diversified Financial Services,7.45,L + 6.00 ; 1.00Floor,02/28/2024,"$ 11,900","$ 11,626","$ 11,126"
+171,"Doxim, Inc.(1) (2)",Diversified Financial Services,7.00,L + 6.00 ; 1.00Floor,02/28/2024,624,610,584
+172,"RugsUSA, LLC(1) (2)",Household Products,7.96,L + 6.50 ; 1.00Floor,04/30/2023,5840,5801,5636
+173,"Smarsh, Inc.(1) (2)",Interactive Media & Services,8.88,L + 7.88 ; 1.00Floor,03/31/2021,17357,17266,16836
+174,Total 1st Lien/Last-Out Unitranche,,,,,,35303,34182
+175,2nd Lien/Senior Secured Debt - 33.76,,,,,,,
+176,"American Dental Partners, Inc.(1) (2)",Health Care Providers & Services,9.95,L + 8.50 ; 1.00Floor,09/25/2023,5738,5649,5192
+177,"Bolttech Mannings, Inc.^^ (1)",Commercial Services & Supplies,9.58,L + 8.00PIK,11/20/2022,12355,12108,12107
+178,"DiscoverOrg, LLC(2)",Software,10.08,L + 8.50,02/01/2027,10000,9864,9000
+179,"ERC Finance, LLC (dba Eating Recovery Center)(1) (2)",Health Care Providers & Services,9.22,L + 8.22 ; 1.00Floor,09/22/2025,19800,19460,18761
+180,Genesis Acquisition Co. (dba ProCare Software)(1) (2),Diversified Financial Services,9.41,L + 7.50,07/31/2025,7000,6857,6283
+181,Genesis Acquisition Co. (dba ProCare Software)(1) (2) (3),Diversified Financial Services,,L + 7.50,07/31/2025,1800,(17),(185)
+182,"GK Holdings, Inc. (dba Global Knowledge)(8)",IT Services,,L + 10.25 ; 1.00Floor,01/20/2022,3000,2977,1500
+183,Hygiena Borrower LLC(1),Life Sciences Tools & Services,9.20,L + 7.75 ; 1.00Floor,08/26/2023,1860,1833,1716
+184,Hygiena Borrower LLC(1) (3),Life Sciences Tools & Services,9.20,L + 7.75 ; 1.00Floor,08/26/2023,680,92,44
+185,"ICP Industrial, Inc.(1) (2)",Chemicals,9.25,L + 8.25 ; 1.00Floor,05/03/2024,20400,20043,19176
+186,IHS Intermediate Inc. (dba Interactive Health Solutions)(1) (8),Health Care Providers & Services,,L + 8.25 ; 1.00Floor,07/20/2022,10000,9902,250
+187,"Market Track, LLC(1) (2)",Media,9.53,L + 7.75 ; 1.00Floor,06/05/2025,22200,21713,20701
+188,"MPI Engineered Technologies, LLC(1)",Auto Components,12.00,12.00PIK,07/15/2025,13123,13123,12205
+189,MPI Products LLC(1) (6),Auto Components,,,07/15/2025,7412,0,0
+190,"National Spine and Pain Centers, LLC(1) (2)",Health Care Providers & Services,9.25,L + 8.25 ; 1.00Floor,12/02/2024,19100,18695,16856
+191,Odyssey Logistics & Technology Corporation(2),Road & Rail,9.07,L + 8.00 ; 1.00Floor,10/12/2025,18722,18392,12980
+192,"SMB Shipping Logistics, LLC (dba Worldwide Express)(1) (2)",Air Freight & Logistics,9.70,L + 8.00 ; 1.00Floor,02/03/2025,41667,41128,37396
+193,"Spectrum Plastics Group, Inc.(2)",Containers & Packaging,8.07,L + 7.00,01/31/2026,6248,6223,4113
+194,"YI, LLC (dba Young Innovations)(1) (2)",Health Care Equipment & Supplies,8.82,L + 7.75 ; 1.00Floor,11/07/2025,15235,14880,13217
+195,Zep Inc.(2),Chemicals,9.32,L + 8.25 ; 1.00Floor,08/11/2025,23800,23348,9520
+196,Total 2nd Lien/Senior Secured Debt,,,,,,246270,200832
+197,Unsecured Debt - 1.24,,,,,,,
+198,"CB-HDT Holdings, Inc. (dba Hunter Defense Technologies)^ (1)",Aerospace & Defense,12.00PIK,,03/06/2021,4417,4417,4417
+199,"CB-HDT Holdings, Inc. (dba Hunter Defense Technologies)^ (1)",Aerospace & Defense,12.00PIK,,03/06/2021,1928,1928,1928
+200,Conergy Asia & ME Pte. LTD.^ (1) (5),Construction & Engineering,10.00,,05/26/2020,1064,1064,1055
+201,Total Unsecured Debt,,,,,,7409,7400
+202,Investment *,Industry,Interest Rate,ParAmount/Shares(++),Cost,Fair Value,,
+203,Preferred Stock - 9.05,,,,,,,
+204,"Accuity Delivery Systems, LLC^ (1) (2) (6) (9)",Health Care Providers & Services,,97130,"$ 3,200","$ 5,760",,
+205,"Animal Supply Holdings, LLC^^ (1) (6) (9)",Distributors,,250000,25000,23490,,
+206,"CB-HDT Holdings, Inc. (dba Hunter Defense Technologies)^ (1) (6) (9)",Aerospace & Defense,,1108333,10186,22621,,
+207,"Conergy Asia Holdings, Ltd.^(1) (5) (6) (9)",Construction & Engineering,,600000,600,0,,
+208,Kawa Solar Holdings Limited^ (1) (5) (8) (9),Construction & Engineering,8.00PIK,64539,778,0,,
+209,"Wine.com, LLC(1) (2) (6) (9)",Beverages,,221072,1900,1943,,
+210,Total Preferred Stock,,,,41664,53814,,
+211,Common Stock - 8.75,,,,,,,
+212,"Animal Supply Holdings, LLC^^ (1) (6) (9)",Distributors,,406226,29230,19361,,
+213,"Bolttech Mannings, Inc.^^ (1) (6) (9)",Commercial Services & Supplies,,309142,14885,8514,,
+214,"CB-HDT Holdings, Inc. (dba Hunter Defense Technologies)^ (1) (6) (9)",Aerospace & Defense,,453383,2393,9231,,
+215,"Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Class B^^^ (1) (2) (9)",Health Care Providers & Services,,8464,1141,1458,,
+216,"Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Performance Units^^^ (1) (2) (5) (6) (9)",Health Care Providers & Services,,7988,159,284,,
+217,"Conergy Asia Holdings, Ltd.^ (1) (5) (6) (9)",Construction & Engineering,,2000,4700,0,,
+218,Country Fresh Holding Company Inc.(1)(2) (6) (9),Food Products,,671,839,229,,
+219,"Elah Holdings, Inc.^ (1) (2) (6) (9)",Capital Markets,,46214,2234,2234,,
+220,"Iracore International Holdings, Inc.^ (1) (6) (9)",Energy Equipment & Services,,28898,7003,5994,,
+221,Kawa Solar Holdings Limited^ (1) (5)(6) (9),Construction & Engineering,,1399556,0,0,,
+222,"National Spine and Pain Centers, LLC(1) (2) (6) (9)",Health Care Providers & Services,,600,600,80,,
+223,"Prairie Provident Resources, Inc.^^^ (5) (6)","Oil, Gas & Consumable Fuels",,3579988,9237,38,,
+224,"Wrike, Inc.(1) (2) (6) (9)",Professional Services,,3484784,2165,4182,,
+225,"Yasso, Inc.(1) (2) (6) (9)",Food Products,,850,850,425,,
+226,Total Common Stock,,,,75436,52030,,
+227,,,Yield,Shares,Cost,Fair Value,,
+228,Investments in Affiliated Money Market Fund * - 10.81,,,,,,,
+229,Goldman Sachs Financial Square Government Fund - Institutional Shares^^^ (10),,0.34,64305925,64306,64306,,
