@@ -113,7 +113,15 @@ def parse_and_trim(content, content_type='HTML'):
         for tag in soup.recursiveChildGenerator():
             if hasattr(tag, 'attrs'):
                 tag.attrs = None
+        # Loop through each td element in the BeautifulSoup object
+        for td in soup.find_all('td'):
+            # Check if the td element is empty or contains only whitespace
+            if not td.text.strip():
+                # Remove the empty td element
+                td.extract()
         for linebreak in soup.find_all('br'):
+            linebreak.extract()
+        for linebreak in soup.find_all(''):
             linebreak.extract()
         return soup
     except AttributeError as e:
@@ -187,7 +195,7 @@ def fetch_filing_data(cik, headers):
                 axis=1
             )
             filtered_df['txtFileLink'] = filtered_df.apply(
-                lambda row: f"https://www.sec.gov/Archives/edgar/data/{cik}/{row['accessionNumber']}.txt",
+                lambda row: f"https://www.sec.gov/Archives/edgar/data/{cik}/{row['accessionNumber'].replace('-', '')}/{row['accessionNumber']}.txt",
                 axis=1
             )
             # Drop 'index' column if present
