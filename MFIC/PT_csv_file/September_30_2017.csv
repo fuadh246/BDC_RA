@@ -1,0 +1,191 @@
+,Investment,Industry,Interest_Rate,Maturity_Date,Par_Shares,Cost,Fair_Value,ASC 820 Level
+0,Non-Controlled/Non-Affiliated Investments,,,,,,,
+1,Corporate Debt,,,,,,,
+2,Secured Debt,,,,,,,
+3,First Lien Secured Debt,,,,,,,
+4,First Lien Secured Debt (excluding Revolvers and Letters of Credit),,,,,,,
+5,"American Media, Inc. (16)","Advertising, Printing & Publishing","10.24% (1M L+900, 1.00% Floor)",8/24/20,14667,14324,15033,Level 3
+6,"Simplifi Holdings, Inc. (9)(16)","Advertising, Printing & Publishing","7.74% (1M L+650, 1.00% Floor)",9/28/22,12200,11835,11834,Level 3
+7,Dodge Data & Analytics LLC,Business Services,"10.13% (3M L+875, 1.00% Floor)",10/31/19,50478,50055,49090,Level 3
+8,"PSI Services, LLC (9)(16)",Business Services,"6.24% (1M L+500, 1.00% Floor)",1/20/23,4142,4050,4070,Level 3
+9,"RA Outdoors, LLC (9)(16)",Business Services,"5.99% (1M L+475, 1.00% Floor)",9/11/24,8800,8625,8624,Level 3
+10,"Maxus Capital Carbon SPE I, LLC","Chemicals, Plastics & Rubber",5.22% PIK,12/31/18,59305,59305,49544,Level 3
+11,KLO / 9357-5991 Quebec Inc,Consumer Goods – Durable,"9.00% (1M L+775, 0.75% Floor)",4/7/22,9382,9276,9273,Level 3
+12,KLO Acquisition LLC,Consumer Goods – Durable,"9.00% (1M L+775, 0.75% Floor)",4/7/22,5466,5404,5403,Level 3
+13,Westinghouse Electric Co LLC (9),Energy – Electricity,"7.50% (1M L+625, 1.25% Floor)",3/31/18,40000,39449,40000,Level 3
+14,"Bumble Bee Holdings, Inc.",Food & Grocery,"9.32% (3M L+800, 1.00% Floor)",8/15/23,15585,15278,15273,Level 3
+15,Connors Bros Clover Leaf Seafoods Company,Food & Grocery,"9.32% (3M L+800, 1.00% Floor)",8/15/23,4415,4328,4327,Level 3
+16,Altasciences / 9360-1367 Quebec Inc. (9)(16)(17),Healthcare & Pharmaceuticals,"7.62% (3M L+625, 1.00% Floor)",6/9/23,2430,1771,1900,Level 3
+17,Altasciences / 9360-1367 Quebec Inc. (9)(16)(17),Healthcare & Pharmaceuticals,"7.58% (3M L+625, 1.00% Floor)",6/9/23,2913,2851,2848,Level 3
+18,"Altasciences US Acquistion, Inc. (9)(16)",Healthcare & Pharmaceuticals,"7.58% (3M L+625, 1.00% Floor)",6/9/23,5261,5149,5143,Level 3
+19,"Altasciences US Acquistion, Inc., Unfunded Delayed Draw (8)(9)(16)(21)(23)(28)",Healthcare & Pharmaceuticals,0.50% Unfunded,6/9/23,2851,(34),(64),Level 3
+20,Aptevo Therapeutics Inc. (9)(16)(23),Healthcare & Pharmaceuticals,8.84% (1M L+760),2/1/21,8571,8664,8508,Level 3
+21,"Aptevo Therapeutics Inc., Unfunded Delayed Draw (8)(9)(16)(21)(23)",Healthcare & Pharmaceuticals,0.00% Unfunded,2/1/21,6429,(24),(48),Level 3
+22,"Invuity, Inc. (9)(16)",Healthcare & Pharmaceuticals,"8.00% (1M L+650, 1.50% Floor)",3/1/22,10000,9914,9808,Level 3
+23,"Oxford Immunotec, Inc. (9)(16)(17)",Healthcare & Pharmaceuticals,8.84% (1M L+760),10/1/21,9750,9824,9859,Level 3
+24,"PTC Therapeutics, Inc (9)(16)(17)",Healthcare & Pharmaceuticals,"7.39% (1M L+615, 1.00% Floor)",5/1/21,12667,12610,12667,Level 3
+25,"PTC Therapeutics, Inc, Unfunded Delayed Draw (9)(16)(17)(21)(23)",Healthcare & Pharmaceuticals,0.00% Unfunded,5/1/21,6333,-,-,Level 3
+26,"RiteDose Holdings I, Inc. (9)(16)",Healthcare & Pharmaceuticals,"7.82% (1M L + 650, 1.00% Floor)",9/13/23,15000,14516,14513,Level 3
+27,"Teladoc, Inc. (16)(17)",Healthcare & Pharmaceuticals,"8.49% (1M L + 725, 1.00% Floor)",7/14/22,20000,19805,20400,Level 3
+28,ChyronHego Corporation (18),High Tech Industries,"7.43% (3M L+643, 1.00% Floor)",3/9/20,35743,35349,34670,Level 3
+29,LabVantage Solutions Inc.,High Tech Industries,"9.24% (1M L+800, 1.00% Floor)",12/29/20,14063,13763,13922,Level 3
+30,LabVantage Solutions Limited (16)(17),High Tech Industries,"9.00% (3M E+800, 1.00% Floor)",12/29/20,12883,13558,15077,Level 3
+31,"Nextech Systems, LLC (18)",High Tech Industries,"8.40% (1M L+725, 1.00% Floor)",6/22/21,21435,21034,21006,Level 3
+32,Telestream Holdings Corporation (18),High Tech Industries,"7.61% (3M L +6.45%, 1.00% Floor)",3/24/22,36933,36595,36194,Level 3
+33,GFRC Holdings LLC,"Hotel, Gaming, Leisure, Restaurants","9.50% (1M L+800 Cash (L+800 PIK Toggle), 1.50% Floor)",2/1/22,2500,2500,2500,Level 3
+34,"Magnetation, LLC (14)",Metals & Mining,9.15% (3M L+800 Cash (PIK Toggle),12/31/19,1898,1819,654,Level 3
+35,UniTek Global Services Inc. (16),Telecommunications,"9.84% (3M L+750 Cash plus 1.00% PIK, 1.00% Floor)",1/13/19,1941,1941,1941,Level 3
+36,UniTek Global Services Inc. (16),Telecommunications,"9.84% (3M L+850, 1.00% Floor)",1/13/19,32367,32367,33014,Level 3
+37,"Sunedison, Inc.",Utilities – Electric,"8.74% (1M L+750, 1.00% Floor)",5/2/18,13698,13648,13758,Level 2
+38,Revolvers and Letters of Credit,,,,,,,
+39,"American Media, Inc., Letter of Credit (16)(23)","Advertising, Printing & Publishing",L+900,8/24/20,154,-,-,Level 3
+40,"American Media, Inc., Revolver (16)(23)","Advertising, Printing & Publishing","10.34% (3M L+900, 1.00% Floor)",8/24/20,1244,1245,1275,Level 3
+41,"American Media, Inc., Revolver (16)(23)","Advertising, Printing & Publishing",12.25% (P+800),8/24/20,237,237,243,Level 3
+42,"American Media, Inc., Unfunded Revolver (16)(21)(23)","Advertising, Printing & Publishing",0.50% Unfunded,8/24/20,143,(39),0,Level 3
+43,"Simplifi Holdings, Inc., Unfunded Revolver (8)(9)(16)(21)(23)","Advertising, Printing & Publishing",0.50% Unfunded,9/28/22,2400,(72),(72),Level 3
+44,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,9/30/18,103,-,(2),Level 3
+45,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,12/10/18,37,-,(1),Level 3
+46,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,4/1/18,277,-,(4),Level 3
+47,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,10/31/17,73,-,(1),Level 3
+48,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,11/28/17,670,-,(10),Level 3
+49,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,6/25/18,3,-,-,Level 3
+50,"Erickson Inc, Letter of Credit (8)(9)(16)(23)",Aerospace & Defense,7.50%,12/31/17,180,-,(3),Level 3
+51,"Erickson Inc, Revolver (9)(16)(23)",Aerospace & Defense,8.84% (3M L+750),4/28/22,26062,26062,25672,Level 3
+52,"Erickson Inc, Unfunded Revolver (8)(9)(16)(21)(23)",Aerospace & Defense,0.50% Unfunded,4/28/22,17595,(514),(264),Level 3
+53,"PSI Services, LLC, Revolver (9)(16)(23)",Business Services,"6.24% (1M L+500, 1.00% Floor)",1/20/22,278,278,273,Level 3
+54,"PSI Services, LLC, Unfunded Revolver (8)(9)(16)(21)(23)",Business Services,0.50% Unfunded,1/20/22,119,(9),(1),Level 3
+55,"PSI Services, LLC, Unfunded Revolver (9)(16)(21)(23)",Business Services,0.50% Unfunded,1/20/22,47,-,-,Level 3
+56,"RA Outdoors, LLC, Unfunded Revolver (8)(9)(16)(21)(23)",Business Services,0.50% Unfunded,9/9/22,1200,(24),(24),Level 3
+57,"Avantor Performance Materials Holdings, LLC, Letter of Credit (8)(16)(23)","Chemicals, Plastics & Rubber",4.00%,3/10/22,122,-,(1),Level 3
+58,"Avantor Performance Materials Holdings, LLC, Unfunded Revolver (8)(16)(21)(23)","Chemicals, Plastics & Rubber",0.50% Unfunded,3/10/22,4878,(555),(32),Level 3
+59,"TricorBraun Holdings, Inc., Revolver (23)","Containers, Packaging & Glass",6.50% (P+225),11/30/21,323,323,323,Level 3
+60,"TricorBraun Holdings, Inc., Unfunded Revolver (21)(23)","Containers, Packaging & Glass",0.50% Unfunded,11/30/21,5303,(422),-,Level 3
+61,"Purchasing Power, LLC, Revolver (9)(16)(23)","Diversified Investment Vehicles, Banking, Finance, Real Estate","9.24% (1M L + 800, 1.00% Floor)",7/10/19,2021,2021,2004,Level 3
+62,"Purchasing Power, LLC, Unfunded Revolver (8)(9)(16)(21)(23)","Diversified Investment Vehicles, Banking, Finance, Real Estate",1.50% Unfunded,7/10/19,6329,(74),(53),Level 3
+63,"Ten-X, LLC, Unfunded Revolver (8)(21)(23)","Diversified Investment Vehicles, Banking, Finance, Real Estate",0.50% Unfunded,9/29/22,4680,(421),(421),Level 3
+64,"Altasciences US Acquistion, Inc., Unfunded Revolver (8)(9)(16)(21)(23)(28)",Healthcare & Pharmaceuticals,0.25% Unfunded,6/9/23,1426,(30),(32),Level 3
+65,"Invuity, Inc., Revolver (9)(16)(23)",Healthcare & Pharmaceuticals,"4.75% (1M L+325, 1.00% Floor)",3/1/22,1024,1024,1018,Level 3
+66,"Invuity, Inc., Unfunded Revolver (8)(9)(16)(21)(23)",Healthcare & Pharmaceuticals,0.50% Unfunded,3/1/22,976,(9),(5),Level 3
+67,"Oxford Immunotec, Inc., Unfunded Revolver (9)(16)(17)(21)(23)",Healthcare & Pharmaceuticals,0.50% Unfunded,10/1/21,1000,(4),-,Level 3
+68,"RiteDose Holdings I, Inc., Unfunded Revolver (8)(9)(16)(21)(23)",Healthcare & Pharmaceuticals,0.50% Unfunded,9/13/22,2000,(64),(65),Level 3
+69,"Teladoc, Inc., Unfunded Revolver (8)(16)(17)(21)(23)",Healthcare & Pharmaceuticals,0.50% Unfunded,7/14/20,1667,(67),(67),Level 3
+70,"Wright Medical Group, Inc., Revolver (9)(16)(17)(23)",Healthcare & Pharmaceuticals,"5.49% (1M L+425, 0.75% Floor)",12/23/21,18333,18333,18333,Level 3
+71,"Wright Medical Group, Inc., Unfunded Revolver (9)(16)(17)(21)(23)",Healthcare & Pharmaceuticals,0.50% Unfunded,12/23/21,31667,(423),-,Level 3
+72,"LabVantage Solutions Limited, Unfunded Revolver (8)(16)(17)(21)(23)",High Tech Industries,0.50% Unfunded,12/29/20,3435,(77),(41),Level 3
+73,"Tibco Software Inc., Unfunded Revolver (8)(21)(23)",High Tech Industries,0.50% Unfunded,12/5/19,6000,-,(840),Level 3
+74,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,5/4/17,8,-,-,Level 3
+75,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,7/29/17,80,-,(3),Level 3
+76,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,10/3/17,8,-,-,Level 3
+77,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,11/30/17,37,-,(1),Level 3
+78,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,4/23/18,37,-,(1),Level 3
+79,"Alliant Holdings Intermediate, LLC, Letter of Credit (8)(16)(23)",Insurance,3.375%,7/30/18,17,-,(1),Level 3
+80,"Alliant Holdings Intermediate, LLC, Unfunded Revolver (8)(16)(21)(23)",Insurance,0.50% Unfunded,8/14/20,14813,(981),(509),Level 3
+81,"SESAC Holdco II LLC, Unfunded Revolver (8)(16)(21)(23)",Media – Diversified & Production,0.50% Unfunded,2/23/22,587,(46),(44),Level 3
+82,"UniTek Global Services Inc., Letter of Credit (16)(23)",Telecommunications,7.50%,1/13/19,7762,-,-,Level 3
+83,"UniTek Global Services Inc., Unfunded Revolver (16)(21)(23)",Telecommunications,0.50% Unfunded,1/13/19,5000,-,-,Level 3
+84,Second Lien Secured Debt,,,,,,,
+85,A-L Parent LLC,"Advertising, Printing & Publishing","8.49% (1M L+725, 1.00% Floor)",12/2/24,10048,9957,10098,Level 3
+86,PAE Holding Corporation,Aerospace & Defense,"10.74% (1M L+950, 1.00% Floor)",10/20/23,28097,27363,28272,Level 2
+87,"K&N Parent, Inc.",Automotive,"9.99% (1M L+875, 1.00% Floor)",10/21/24,27000,26517,26730,Level 3
+88,"Access CIG, LLC",Business Services,"9.98% (1M L+875, 1.00% Floor)",10/17/22,50970,49356,50608,Level 3
+89,"Almonde, Inc (17)",Business Services,"8.57% (3M L+725, 1.00% Floor)",6/13/25,2316,2293,2364,Level 2
+90,Ambrosia Buyer Corp.,Business Services,9.27% (3M L + 800),8/28/25,21429,20900,20896,Level 3
+91,"Appriss Holdings, Inc.",Business Services,"10.58% (3M L+925, 1.00% Floor)",5/21/21,23309,23104,23309,Level 3
+92,"Aptean, Inc.",Business Services,"10.84% (3M L+950, 1.00% Floor)",12/20/23,9548,9419,9613,Level 2
+93,"CT Technologies Intermediate Hldgs, Inc (9)",Business Services,"10.24% (1M L+900, 1.00% Floor)",12/1/22,31253,30387,30315,Level 3
+94,Electro Rent Corporation (9),Business Services,"10.27% (1M L+900, 1.00% Floor)",1/31/25,52863,51338,51806,Level 3
+95,"Institutional Shareholder Services, Inc.",Business Services,"9.74% (1M L+850, 1.00% Floor)",4/30/22,8232,8173,8232,Level 3
+96,"Ministry Brands, LLC",Business Services,"10.49% (1M L+925, 1.00% Floor)",6/2/23,10000,9868,9859,Level 3
+97,"Poseidon Merger Sub, Inc.",Business Services,"9.81% (3M L+850, 1.00% Floor)",8/15/23,18000,17602,18000,Level 3
+98,"PSI Services, LLC (9)(16)",Business Services,"10.24% (1M L+900, 1.00% Floor)",1/20/24,25714,25018,25134,Level 3
+99,"RA Outdoors, LLC (9)(16)",Business Services,"9.99% (1M L+875, 1.00% Floor)",9/11/25,34200,33351,33345,Level 3
+100,"STG-Fairway Acquisitions, Inc.",Business Services,"10.57% (3M L+925, 1.00% Floor)",6/30/23,15000,14730,13499,Level 3
+101,"Velocity Technology Solutions, Inc.",Business Services,"9.58% (3M L+825, 1.25% Floor)",9/28/20,16500,16347,16583,Level 3
+102,"Avantor Performance Materials Holdings, LLC (16)","Chemicals, Plastics & Rubber","9.49% (1M L+825, 1.00% Floor)",3/10/25,1629,1614,1633,Level 3
+103,"Hare Bidco, Inc.","Chemicals, Plastics & Rubber","9.75% (3M L+875, 1.00% Floor)",8/1/24,13574,14402,15727,Level 3
+104,"Hayward Industries, Inc.",Consumer Goods – Durable,9.48% (1M L+825),8/4/25,25110,24618,24616,Level 3
+105,"ABG Intermdiate Holdings 2, LLC",Consumer Goods – Non-durable,"9.75% (1M L+775, 2.00% Floor)",9/29/25,8094,8033,8195,Level 2
+106,"Sequential Brands Group, Inc. (17)",Consumer Goods – Non-durable,10.24% (1M L+900),7/1/22,17336,17163,17096,Level 3
+107,"Sprint Industrial Holdings, LLC (16)(30)","Containers, Packaging & Glass",13.50% PIK,11/14/19,16163,15775,6491,Level 3
+108,"Sprint Industrial Holdings, LLC (16)(31)","Containers, Packaging & Glass",13.50% PIK,11/14/19,1688,1688,1688,Level 3
+109,Armor Holding II LLC,"Diversified Investment Vehicles, Banking, Finance, Real Estate","10.34% (3M L+900, 1.25% Floor)",12/26/20,8000,7930,8110,Level 3
+110,"Grocery Outlet, Inc.",Food & Grocery,"9.58% (3M L+825, 1.00% Floor)",10/21/22,25000,24761,25281,Level 2
+111,"Avalign Technologies, Inc.",Healthcare & Pharmaceuticals,"9.57% (6M L+825, 1.00% Floor)",9/2/24,5500,5446,5445,Level 3
+112,"BioClinica Holding I, LP",Healthcare & Pharmaceuticals,"9.56% (3M L+825, 1.00% Floor)",10/21/24,24612,24175,24174,Level 2
+113,"Elements Behavioral Health, Inc.",Healthcare & Pharmaceuticals,"13.32% (3M L+1200 PIK, 1.00% Floor)",2/11/20,11946,11909,9199,Level 3
+114,"Lanai Holdings III, Inc.",Healthcare & Pharmaceuticals,"10.00% (6M L+850, 1.00% Floor)",8/28/23,17391,16954,16957,Level 3
+115,"DigiCert Holding, Inc.",High Tech Industries,"9.33% (3M L+800, 1.00% Floor)",9/19/25,20196,20095,20405,Level 2
+116,"Smokey Merger Sub, Inc. (9)",High Tech Industries,"9.75% (3M L+875, 1.00% Floor)",5/24/24,30000,29145,29100,Level 3
+117,SMG,"Hotel, Gaming, Leisure, Restaurants","9.49% (1M L+825, 1.00% Floor)",2/27/21,19649,19649,19600,Level 2
+118,Confie Seguros Holding II Co.,Insurance,"11.00% (1M L+975, 1.25% Floor)",5/8/19,21844,21791,21462,Level 2
+119,"ATS Consolidated, Inc.","Manufacturing, Capital Equipment","9.74% (1M L+850, 1.00% Floor)",5/30/25,15000,14710,15038,Level 3
+120,MedPlast Holdings Inc.,"Manufacturing, Capital Equipment","10.02% (3M L+875, 1.00% Floor)",6/6/23,8000,7816,7800,Level 3
+121,"Power Products, LLC (9)","Manufacturing, Capital Equipment","10.31% (3M L+900, 1.00% Floor)",12/20/23,32500,31488,32022,Level 3
+122,SESAC Holdco II LLC (16),Media – Diversified & Production,"8.49% (1M L+725, 1.00% Floor)",2/24/25,3241,3211,3237,Level 3
+123,"Parfums Holding Company, Inc.",Retail,"10.09% (3M L+875, 1.00% Floor)",6/30/25,7000,6791,6872,Level 2
+124,"Securus Technologies Holdings, Inc.",Telecommunications,"9.46% (1M L+825, 1.00% Floor)",6/20/25,12878,12749,12991,Level 2
+125,"Wave Holdco Merger Sub, Inc.",Telecommunications,"10.49% (1M L+925, 1.00% Floor)",5/27/23,10000,9792,9880,Level 3
+126,Unsecured Debt,,,,,,,
+127,"U.S. Security Associates Holdings, Inc.",Business Services,11.00%,1/28/20,80000,80000,80000,Level 3
+128,"Sorenson Holdings, LLC (11)",Consumer Goods – Durable,13.85% Cash (13.85% PIK Toggle),10/31/21,52,35,46,Level 2
+129,UniTek Global Services Inc. (16),Telecommunications,15.00% PIK,7/13/19,9203,9203,9387,Level 3
+130,"American Tire Distributors, Inc. (11)","Transportation – Cargo, Distribution",10.25%,3/1/22,14741,14803,15442,Level 2
+131,Structured Products and Other,,,,,,,
+132,"Craft 2014-1A, Credit-Linked Note (11)(17)","Diversified Investment Vehicles, Banking, Finance, Real Estate",10.20% (3M L+965),5/15/21,33877,33740,33058,Level 3
+133,"Craft 2015-2, Credit-Linked Note (11)(17)","Diversified Investment Vehicles, Banking, Finance, Real Estate",10.76% (3M L+925),1/16/24,26000,25777,25148,Level 3
+134,Asset Repackaging Trust Six B.V. (11)(17)(19),Utilities – Electric,13.12%,5/18/27,58411,25827,32148,Level 3
+135,Equity,,,,,,,
+136,Common Equity/Interests,Shares,,,,,,
+137,"Skyline Data, News and Analytics LLC, Class A Common Unit (13)",Business Services,N/A,N/A,4500000,4500,4500,Level 3
+138,"Sorenson Holdings, LLC, Membership Interests (13)",Consumer Goods – Durable,N/A,N/A,586,-,424,Level 3
+139,"Accelerate Parent Corp., Common Stock (13)","Transportation – Cargo, Distribution",N/A,N/A,1664045,1714,1740,Level 3
+140,Warrants,Warrants,,,,,,
+141,"Sprint Industrial Holdings, LLC, Warrants (13)(29)","Containers, Packaging & Glass",N/A,N/A,7341,-,-,Level 3
+142,"Invuity, Inc., Warrants (9)(13)",Healthcare & Pharmaceuticals,N/A,N/A,16873,80,105,Level 3
+143,Non-Controlled/Affiliated Investments (4),,,,,,,
+144,Corporate Debt,,,,,,,
+145,Secured Debt,,,,,,,
+146,First Lien Secured Debt,,,,,,,
+147,Solarplicity Group Limited (3)(17),Energy – Electricity,8.00% PIK (8.00% Cash Toggle),11/30/22,130501,151662,134079,Level 3
+148,Unsecured Debt,,,,,,,
+149,Solarplicity UK Holdings Limited (17),Energy – Electricity,8.00% PIK (8.00% Cash Toggle),2/24/22,2000,2499,2684,Level 3
+150,Structured Products and Other,,,,,,,
+151,"Golden Bear 2016-R, LLC, Membership Interests (3)(17)","Diversified Investment Vehicles, Banking, Finance, Real Estate",N/A,9/20/42,N/A,16459,14905,Level 3
+152,"Ivy Hill Middle Market Credit Fund IX, Ltd., Subordinated Notes (3)(11)(17)(22)","Diversified Investment Vehicles, Banking, Finance, Real Estate",17.16%,10/18/25,12500,8834,8951,Level 3
+153,"Ivy Hill Middle Market Credit Fund X, Ltd., Subordinated Notes (3)(11)(17)(22)","Diversified Investment Vehicles, Banking, Finance, Real Estate",14.95%,7/26/27,14000,10667,10058,Level 3
+154,Equity,,,,,,,
+155,Preferred Equity,Shares,,,,,,
+156,"Renew Financial LLC (f/k/a Renewable Funding, LLC), Series B Preferred Stock (13)",Energy – Electricity,N/A,N/A,1505868,8343,19028,Level 3
+157,"Renew Financial LLC (f/k/a Renewable Funding, LLC), Series D Preferred Stock (13)",Energy – Electricity,N/A,N/A,436689,5568,6751,Level 3
+158,Common Equity/Interests,Shares,,,,,,
+159,"AIC SPV Holdings II, LLC, Membership Interests (13)(15)(17)",Energy – Electricity,N/A,N/A,534375,534,1140,Level 3
+160,"AMP Solar Group, Inc., Class A Common Unit (13)(17)",Energy – Electricity,N/A,N/A,243646,10000,5196,Level 3
+161,"Renew JV LLC, Membership Interests (13)(17)",Energy – Electricity,N/A,N/A,3758815,4023,5359,Level 3
+162,"Solarplicity Group Limited, Class B Common Shares (2)(3)(13)(17)(26)",Energy – Electricity,N/A,N/A,2825,2472,-,Level 3
+163,"Solarplicity UK Holdings Limited, Ordinary Shares (2)(13)(17)",Energy – Electricity,N/A,N/A,2825,4,4934,Level 3
+164,"Pelican Energy, LLC, Membership Interests (13)(17)",Energy – Oil & Gas,N/A,N/A,1444,25018,11796,Level 3
+165,Controlled Investments (5),,,,,,,
+166,Corporate Debt,,,,,,,
+167,Secured Debt,,,,,,,
+168,First Lien Secured Debt,,,,,,,
+169,First Lien Secured Debt (excluding Revolvers and Letters of Credit),,,,,,,
+170,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (16)(23)",Energy – Oil & Gas,8.00% Cash (10.00% PIK Toggle),3/29/19,15000,15000,15000,Level 3
+171,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.), Unfunded Delayed Draw (16)(21)(23)",Energy – Oil & Gas,0.00% Unfunded,3/29/19,5000,-,-,Level 3
+172,"SHD Oil & Gas, LLC, Tranche A Note (16)",Energy – Oil & Gas,14.00% (8.00% Cash plus 6.00% PIK),12/31/19,42148,42148,43412,Level 3
+173,"SHD Oil & Gas, LLC, Tranche B Note (14)(16)",Energy – Oil & Gas,14.00% PIK,12/31/19,68311,44380,29550,Level 3
+174,"SHD Oil & Gas, LLC, Tranche C Note (16)",Energy – Oil & Gas,12.00%,12/31/19,15750,15749,16223,Level 3
+175,"SHD Oil & Gas, LLC, Unfunded Delayed Draw (16)(21)(23)",Energy – Oil & Gas,0.00% Unfunded,12/31/19,2250,-,-,Level 3
+176,Revolvers and Letters of Credit,,,,,,,
+177,"Merx Aviation Finance Assets Ireland Limited, Letter of Credit (16)(23)",Aviation and Consumer Transport,2.25%,10/1/18,3600,-,-,Level 3
+178,"Merx Aviation Finance, LLC, Letter of Credit (16)(23)",Aviation and Consumer Transport,2.25%,7/13/17,177,-,-,Level 3
+179,"Merx Aviation Finance, LLC, Revolver (16)(23)",Aviation and Consumer Transport,12.00%,10/31/18,386500,386500,386500,Level 3
+180,"Dynamic Product Tankers, LLC, Letter of Credit (17)(23)","Transportation – Cargo, Distribution",2.25%,9/20/17,2250,-,-,Level 3
+181,Second Lien Secured Debt,,,,,,,
+182,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.) (16)",Energy – Oil & Gas,10.00% PIK Toggle (8.00% Cash),3/29/21,29028,29028,29028,Level 3
+183,Equity,,,,,,,
+184,Common Equity/Interests,Shares,,,,,,
+185,"Merx Aviation Finance, LLC, Membership Interests",Aviation and Consumer Transport,N/A,N/A,-,15000,42664,Level 3
+186,"Glacier Oil & Gas Corp. (f/k/a Miller Energy Resources, Inc.), Common Stock (13)",Energy – Oil & Gas,N/A,N/A,5000000,30079,17715,Level 3
+187,"SHD Oil & Gas, LLC, Series A Units (13)",Energy – Oil & Gas,N/A,N/A,7600000,1412,-,Level 3
+188,"Dynamic Product Tankers, LLC, Class A Units (13)(17)(24)","Transportation – Cargo, Distribution",N/A,N/A,-,48106,42811,Level 3
+189,"MSEA Tankers LLC, Class A Units (17)(25)","Transportation – Cargo, Distribution",N/A,N/A,-,74450,71442,Level 3

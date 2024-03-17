@@ -1,0 +1,6 @@
+# add .env file to .gitignore
+.DS_store
+/venv
+
+/ARCC/csv_file/
+/ARCC/clean_csv_file/

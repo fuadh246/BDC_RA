@@ -1,0 +1,1176 @@
+,Industry,Company,Investment Type,Spread Above Index,Interest Rate,Maturity Date,Principal Shares,Amortized Cost,Percentage of Net Assets,Fair Value
+0,Investments,Investments,,,,,,,,
+1,Non-controlled/non-affiliate company investments,Non-controlled/non-affiliate company investments,,,,,,,,
+2,Debt investments,Debt investments,,,,,,,,
+3,Aerospace and Defense,Aerospace and Defense,,,,,,,,
+4,Aerospace and Defense,NTS Technical Systems*#~^,Senior loan,L + 5.50(c),6.50,06/2023,40477,40070,1.6,39870
+5,Aerospace and Defense,NTS Technical Systems~,Second lien,L + 9.75(c),10.75,12/2023,4589,4502,0.2,4497
+6,Aerospace and Defense,NTS Technical Systems(5),Senior loan,L + 5.50,N/A(6),06/2023,-,(48),-,(61)
+7,Aerospace and Defense,NTS Technical Systems(5),Senior loan,L + 5.50,N/A(6),06/2023,-,(76),-,(81)
+8,Aerospace and Defense,"Tronair Parent, Inc.+Senior loan",Senior loan,L + 4.75(e),5.75,09/2023,716,710,-,638
+9,Aerospace and Defense,"Tronair Parent, Inc.",Senior loan,L + 4.50(c),4.71,09/2021,160,159,-,154
+10,Aerospace and Defense,Whitcraft LLC*#+~,One stop,L + 6.00(c),7.00,04/2023,63735,64087,2.5,59912
+11,Aerospace and Defense,Whitcraft LLC(5),One stop,L + 6.00,N/A(6),04/2023,-,(2),-,(18)
+12,Airlines,Airlines,One stop,,,,,,,
+13,Airlines,Aurora Lux Finco S.A.R.L.(8)(13),One stop,L + 5.75(c),6.75,12/2026,993,971,-,893
+14,Auto Components,Auto Components,One stop,,,,,,,
+15,Auto Components,Polk Acquisition Corp.*#,Senior loan,L + 6.50(a),3.50 cash/4.00 PIK,12/2023,18167,18011,0.7,17077
+16,Auto Components,Polk Acquisition Corp.,Senior loan,L + 6.50(a),3.50 cash/4.00 PIK,12/2023,108,106,-,100
+17,Auto Components,Polk Acquisition Corp.,Senior loan,L + 6.50(a),3.50 cash/4.00 PIK,12/2023,18,16,-,4
+18,Auto Components,"Power Stop, LLC+~",Senior loan,L + 4.50(a),4.65,10/2025,2835,2886,0.1,2835
+19,Automobiles,Automobiles,Senior loan,,,,,,,
+20,Automobiles,JHCC Holdings LLC,One stop,L + 5.50(c),6.50,09/2025,15591,15347,0.6,15591
+21,Automobiles,JHCC Holdings LLC,One stop,L + 5.50(c),6.50,09/2025,78,76,-,78
+22,Automobiles,JHCC Holdings LLC,One stop,L + 5.50(c)(f),7.10,09/2025,55,54,-,55
+23,Automobiles,"MOP GM Holding, LLC+~",One stop,L + 5.75(c),6.75,11/2026,24404,24104,1.0,24160
+24,Automobiles,"MOP GM Holding, LLC",One stop,L + 5.75(c)(f),6.85,11/2026,130,128,-,128
+25,Automobiles,"MOP GM Holding, LLC(5)",One stop,L + 5.75,N/A(6),11/2026,-,(56),-,(45)
+26,Automobiles,"Quick Quack Car Wash Holdings, LLC*#",One stop,L + 6.50(a),7.50,10/2024,13050,13069,0.5,12919
+27,Automobiles,"Quick Quack Car Wash Holdings, LLC#",One stop,L + 6.50(a),7.50,04/2023,2355,2327,0.1,2331
+28,Automobiles,"Quick Quack Car Wash Holdings, LLC",One stop,L + 6.50(a),7.50,10/2024,2199,2103,0.1,2101
+29,Automobiles,"Quick Quack Car Wash Holdings, LLC*+One stop",One stop,L + 6.50(a),7.50,04/2023,2057,2103,0.1,2036
+30,Automobiles,"Quick Quack Car Wash Holdings, LLC*+One stop",One stop,L + 6.50(a),7.50,04/2023,1375,1405,0.1,1361
+31,Automobiles,"Quick Quack Car Wash Holdings, LLC*",One stop,L + 6.50(a),7.50,10/2024,1120,1163,-,1108
+32,Automobiles,"Quick Quack Car Wash Holdings, LLC(5)",One stop,L + 6.50,N/A(6),04/2023,-,-,-,(2)
+33,Automobiles,"TWAS Holdings, LLC+One stop",One stop,L + 6.75(a),7.75,12/2026,31111,30722,1.3,30800
+34,Automobiles,"TWAS Holdings, LLC(5)",One stop,L + 6.75,N/A(6),12/2026,-,(4),-,(4)
+35,Automobiles,"TWAS Holdings, LLC(5)",One stop,L + 6.75,N/A(6),12/2026,-,(90),-,(80)
+36,Beverages,Beverages,One stop,,,,,,,
+37,Beverages,"Abita Brewing Co., L.L.C.(7)",One stop,L + 7.25(c),8.25,04/2021,9982,9969,0.4,8485
+38,Beverages,"Abita Brewing Co., L.L.C.(7)",One stop,L + 7.25(c),8.25,04/2021,40,39,-,34
+39,Beverages,"Fintech Midco, LLC*#",One stop,L + 5.00(c),6.00,08/2024,24349,24671,1.0,24349
+40,Beverages,"Fintech Midco, LLC#",One stop,L + 5.00(c),6.00,08/2024,1128,1163,-,1128
+41,Beverages,"Fintech Midco, LLC(5)",One stop,L + 5.00,N/A(6),08/2024,-,(1),-,-
+42,Biotechnology,Biotechnology,One stop,,,,,,,
+43,Biotechnology,"BIO18 Borrower, LLC",One stop,L + 4.75(a),5.75,11/2024,11047,11081,0.4,11047
+44,Biotechnology,"BIO18 Borrower, LLC*#",One stop,L + 4.75(a),5.75,11/2024,3953,3921,0.2,3953
+45,Biotechnology,"BIO18 Borrower, LLC",One stop,L + 4.75(a),5.75,11/2024,210,210,-,210
+46,Biotechnology,"BIO18 Borrower, LLC(5)",One stop,L + 4.75,N/A(6),11/2024,-,(1),-,-
+47,Building Products,Building Products,One stop,,,,,,,
+48,Building Products,"Jensen Hughes, Inc.+Senior loan",One stop,L + 4.50(b)(c)(f),5.50,03/2024,4181,4181,0.2,4097
+49,Building Products,"Jensen Hughes, Inc.",Senior loan,L + 4.50(a)(b)(c)(f),5.50,03/2024,1252,1283,0.1,1223
+50,Building Products,"Jensen Hughes, Inc.+Senior loan",Senior loan,L + 4.50(b)(c)(d)(f),5.50,03/2024,911,924,-,893
+51,Building Products,"Jensen Hughes, Inc.",Senior loan,L + 4.50(c)(f),5.50,03/2024,438,450,-,429
+52,Building Products,"Jensen Hughes, Inc.+Senior loan",Senior loan,L + 4.50(b)(c)(f),5.50,03/2024,279,282,-,273
+53,Building Products,"Jensen Hughes, Inc.",Senior loan,L + 4.50(c)(f),5.50,03/2024,218,218,-,214
+54,Building Products,"Jensen Hughes, Inc.+Senior loan",Senior loan,L + 4.50(c)(f),5.50,03/2024,116,116,-,114
+55,Chemicals,Chemicals,Senior loan,,,,,,,
+56,Chemicals,Inhance Technologies Holdings LLC#,One stop,L + 6.00(c),7.00,07/2024,12671,12782,0.5,12207
+57,Chemicals,Inhance Technologies Holdings LLC,One stop,L + 6.00(c),7.00,07/2024,1925,1913,0.1,1854
+58,Chemicals,Inhance Technologies Holdings LLC,One stop,L + 6.00(c),7.00,07/2024,80,80,-,72
+59,Commercial Services & Supplies,Commercial Services & Supplies,One stop,,,,,,,
+60,Commercial Services & Supplies,"EGD Security Systems, LLC*#^",One stop,L + 5.65(c),6.65,06/2023,30092,30418,1.2,30092
+61,Commercial Services & Supplies,"EGD Security Systems, LLC*",One stop,L + 5.65(c),6.65,06/2023,1258,1257,0.1,1258
+62,Commercial Services & Supplies,"EGD Security Systems, LLC",One stop,L + 5.65(c),6.65,06/2023,767,760,-,767
+63,Commercial Services & Supplies,"EGD Security Systems, LLC#",One stop,L + 5.65(c),6.65,06/2023,644,661,-,644
+64,Commercial Services & Supplies,"EGD Security Systems, LLC#",One stop,L + 5.65(c),6.65,06/2023,575,572,-,575
+65,Commercial Services & Supplies,"EGD Security Systems, LLC",One stop,L + 5.65(c),6.65,06/2023,40,39,-,40
+66,Commercial Services & Supplies,"EGD Security Systems, LLC(5)",One stop,L + 5.65,N/A(6),06/2023,-,(28),-,-
+67,Commercial Services & Supplies,"Bazaarvoice, Inc.*#+~^",One stop,L + 5.75(c),6.75,02/2024,48006,48576,2.0,47526
+68,Commercial Services & Supplies,"Bazaarvoice, Inc.+One stop",One stop,L + 5.75(c),6.75,02/2024,21094,20886,0.9,20883
+69,Commercial Services & Supplies,"Bazaarvoice, Inc.(5)",One stop,L + 5.75,N/A(6),02/2024,-,(3),-,(4)
+70,Commercial Services & Supplies,Hydraulic Authority III Limited~(8)(9)(10),One stop,L + 6.00(h),7.00,11/2025,11709,11907,0.5,12198
+71,Commercial Services & Supplies - (continued),Commercial Services & Supplies - (continued),One stop,,,,,,,
+72,Commercial Services & Supplies - (continued),Hydraulic Authority III Limited(8)(9)(10),One stop,No Value,11.00 PIK,11/2028,222,225,-,239
+73,Commercial Services & Supplies - (continued),Hydraulic Authority III Limited(5)(8)(9)(10),One stop,L + 6.00,N/A(6),11/2025,-,-,-,(6)
+74,Commercial Services & Supplies - (continued),"PT Intermediate Holdings III, LLC+~^",One stop,L + 5.50(c),6.50,10/2025,29700,29331,1.2,28512
+75,Commercial Services & Supplies - (continued),WRE Holding Corp.*#,Senior loan,L + 5.25(b)(c),6.25,01/2023,2270,2302,0.1,2270
+76,Commercial Services & Supplies - (continued),WRE Holding Corp.^,Senior loan,L + 5.25(b)(c),6.25,01/2023,938,962,-,938
+77,Commercial Services & Supplies - (continued),WRE Holding Corp.,Senior loan,L + 5.25(c),6.25,01/2023,688,687,-,688
+78,Commercial Services & Supplies - (continued),WRE Holding Corp.,Senior loan,L + 5.25(b)(c),6.25,01/2023,407,407,-,407
+79,Commercial Services & Supplies - (continued),WRE Holding Corp.,Senior loan,L + 5.25(b)(c),6.25,01/2023,23,23,-,23
+80,Commercial Services & Supplies - (continued),WRE Holding Corp.,Senior loan,L + 5.25(a)(c),6.25,01/2023,16,17,-,16
+81,Commercial Services & Supplies - (continued),WRE Holding Corp.,Senior loan,L + 5.25,N/A(6),01/2023,-,8,-,-
+82,Construction & Engineering,Construction & Engineering,Senior loan,,,,,,,
+83,Construction & Engineering,"Reladyne, Inc.*#^",Senior loan,L + 5.00(d),6.00,07/2022,32778,32967,1.4,32778
+84,Construction & Engineering,"Reladyne, Inc.~",Senior loan,L + 5.00(d),6.00,07/2022,3473,3524,0.1,3473
+85,Construction & Engineering,"Reladyne, Inc.+Senior loan",Senior loan,L + 5.00(a),6.00,07/2022,3386,3354,0.1,3386
+86,Construction & Engineering,"Reladyne, Inc.",Senior loan,L + 5.00(c)(d),6.00,07/2022,2750,2789,0.1,2750
+87,Construction & Engineering,"Reladyne, Inc.*#",Senior loan,L + 5.00(d),6.00,07/2022,1880,1908,0.1,1880
+88,Construction & Engineering,"Reladyne, Inc.#~",Senior loan,L + 5.00(d),6.00,07/2022,1621,1645,0.1,1621
+89,Construction & Engineering,"Reladyne, Inc.#",Senior loan,L + 5.00(d),6.00,07/2022,1541,1578,0.1,1541
+90,Construction & Engineering,"Reladyne, Inc.#~",Senior loan,L + 5.00(d),6.00,07/2022,738,749,-,738
+91,Containers and Packaging,Containers and Packaging,Senior loan,,,,,,,
+92,Containers and Packaging,AmerCareRoyal LLC+Senior loan,Senior loan,L + 5.00(a),6.00,11/2025,820,813,-,820
+93,Containers and Packaging,AmerCareRoyal LLC+(8),Senior loan,L + 5.00(a),6.00,11/2025,152,151,-,152
+94,Containers and Packaging,Fortis Solutions Group LLC+Senior loan,Senior loan,L + 5.00(a),6.00,12/2023,2424,2377,0.1,2376
+95,Containers and Packaging,Fortis Solutions Group LLC+Senior loan,Senior loan,L + 5.00(a),6.00,12/2023,1582,1570,0.1,1550
+96,Containers and Packaging,Fortis Solutions Group LLC+Senior loan,Senior loan,L + 5.00(a),6.00,12/2023,630,625,-,617
+97,Containers and Packaging,Fortis Solutions Group LLC+Senior loan,Senior loan,L + 5.00(a),6.00,12/2023,605,600,-,594
+98,Containers and Packaging,Fortis Solutions Group LLC(5),Senior loan,L + 5.00,N/A(6),12/2023,-,-,-,(1)
+99,Containers and Packaging,"Plano Molding Company, LLC+One stop",Senior loan,L + 9.00(c),8.50 cash/1.50 PIK,05/2022,14653,14617,0.5,12454
+100,Containers and Packaging,"Plano Molding Company, LLC",One stop,L + 9.00(c),8.50 cash/1.50 PIK,05/2022,1186,1177,0.1,1186
+101,Distributors,Distributors,One stop,,,,,,,
+102,Distributors,"PetroChoice Holdings, Inc.#^",Senior loan,L + 5.00(c),6.00,08/2022,3267,3273,0.1,3104
+103,Diversified Consumer Services,Diversified Consumer Services,Senior loan,,,,,,,
+104,Diversified Consumer Services,EWC Growth Partners LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,03/2026,914,899,-,832
+105,Diversified Consumer Services,EWC Growth Partners LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,03/2026,30,29,-,27
+106,Diversified Consumer Services,EWC Growth Partners LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,03/2026,18,18,-,16
+107,Diversified Consumer Services,Excelligence Learning Corporation#,One stop,L + 7.00(c),8.00,04/2023,10466,10233,0.3,8373
+108,Diversified Consumer Services,"Learn-it Systems, LLC",Senior loan,L + 5.00(c),5.00 cash/0.50 PIK,03/2025,2542,2588,0.1,2542
+109,Diversified Consumer Services,"Learn-it Systems, LLC",Senior loan,L + 5.00(c),5.50,03/2025,608,607,-,608
+110,Diversified Consumer Services,"Learn-it Systems, LLC",Senior loan,L + 4.50,N/A(6),03/2025,-,-,-,-
+111,Diversified Consumer Services,"Liminex, Inc.~",One stop,L + 7.25(a),8.25,11/2026,25462,24988,1.0,25207
+112,Diversified Consumer Services,"Liminex, Inc.(5)",One stop,L + 7.25,N/A(6),11/2026,-,(2),-,(2)
+113,Diversified Consumer Services,Litera Bidco LLC+^,One stop,L + 5.25(a),6.25,05/2026,3740,3760,0.2,3568
+114,Diversified Consumer Services,Litera Bidco LLC+One stop,One stop,L + 6.00(c),7.00,05/2026,1307,1291,0.1,1291
+115,Diversified Consumer Services,Litera Bidco LLC,One stop,L + 5.25(a),5.40,05/2026,701,725,-,669
+116,Diversified Consumer Services,Litera Bidco LLC,One stop,L + 5.25(a),6.25,05/2026,701,725,-,669
+117,Diversified Consumer Services,Litera Bidco LLC(5),One stop,L + 5.25,N/A(6),05/2025,-,-,-,(2)
+118,Diversified Consumer Services,"PADI Holdco, Inc.*#",One stop,L + 8.75(c),8.25 cash/1.50 PIK,04/2024,21686,21859,0.8,18429
+119,Diversified Consumer Services,"PADI Holdco, Inc.+~(8)(9)",One stop,E + 5.75(g),4.25 cash/1.50 PIK,04/2024,20634,20892,0.8,18343
+120,Diversified Consumer Services,"PADI Holdco, Inc.~",One stop,L + 7.25(c),6.75 cash/1.50 PIK,04/2024,803,797,-,682
+121,Diversified Consumer Services,"PADI Holdco, Inc.",One stop,L + 7.25(a),6.75 cash/1.50 PIK,04/2023,180,179,-,146
+122,Diversified Consumer Services,"PADI Holdco, Inc.",One stop,L + 8.75(c),8.25 cash/1.50 PIK,04/2024,166,165,-,141
+123,Diversified Financial Services,Diversified Financial Services,One stop,,,,,,,
+124,Diversified Financial Services,"Higginbotham Insurance Agency, Inc.+One stop",One stop,L + 5.75(c),6.50,11/2026,3614,3561,0.1,3560
+125,Diversified Financial Services,"Higginbotham Insurance Agency, Inc.(5)",One stop,L + 5.75,N/A(6),11/2026,-,(8),-,(8)
+126,Diversified Financial Services,Institutional Shareholder Services*,Senior loan,L + 4.50(c),4.75,03/2026,18727,19096,0.8,18727
+127,Diversified Financial Services,Institutional Shareholder Services,Senior loan,L + 4.50(c),4.74,03/2024,190,187,-,190
+128,Diversified Financial Services,Sovos Compliance*+^,One stop,L + 4.75(a),5.75,04/2024,19614,20117,0.8,19614
+129,Diversified Financial Services,Sovos Compliance,Second lien,No Value,12.00 PIK,04/2025,9221,9448,0.4,9221
+130,Diversified Financial Services,Sovos Compliance+One stop,Second lien,L + 4.75(a),5.75,04/2024,4322,4242,0.2,4322
+131,Diversified Financial Services,Sovos Compliance*#,One stop,L + 4.75(a),5.75,04/2024,1903,1952,0.1,1903
+132,Diversified Financial Services,Sovos Compliance,Second lien,No Value,12.00 PIK,04/2025,1260,1296,-,1260
+133,Diversified Financial Services,Sovos Compliance*#,One stop,L + 4.75(a),5.75,04/2024,768,789,-,768
+134,Diversified Financial Services,Sovos Compliance,One stop,L + 4.75(a),5.75,04/2024,96,95,-,96
+135,Diversified Financial Services,Sovos Compliance,One stop,L + 4.75(a),5.75,04/2024,85,84,-,85
+136,Diversified Financial Services,Sovos Compliance(5),One stop,L + 4.75,N/A(6),04/2024,-,(21),-,-
+137,Electric Utilities,Electric Utilities,One stop,,,,,,,
+138,Electric Utilities,"Arcos, LLC#^",One stop,L + 5.00(c),6.00,02/2021,11368,11395,0.5,11368
+139,Electric Utilities,"Arcos, LLC",One stop,L + 5.00,N/A(6),02/2021,-,-,-,-
+140,"Electronic Equipment, Instruments & Components","Electronic Equipment, Instruments & Components",One stop,,,,,,,
+141,"Electronic Equipment, Instruments & Components",CST Buyer Company+One stop,One stop,L + 6.00(d),7.00,10/2025,20580,20331,0.8,20374
+142,"Electronic Equipment, Instruments & Components",CST Buyer Company+~,One stop,L + 6.00(a),7.00,10/2025,10189,10084,0.4,10087
+143,"Electronic Equipment, Instruments & Components",CST Buyer Company,One stop,L + 6.00,N/A(6),10/2025,-,-,-,-
+144,"Electronic Equipment, Instruments & Components",ES Acquisition LLC,Senior loan,L + 5.00(c),6.00,11/2025,660,649,-,659
+145,"Electronic Equipment, Instruments & Components",ES Acquisition LLC,Senior loan,L + 5.00(c),6.00,11/2025,140,138,-,139
+146,"Electronic Equipment, Instruments & Components","ES Acquisition, LLC",Senior loan,L + 5.50(c),6.50,11/2025,89,86,-,91
+147,"Electronic Equipment, Instruments & Components","ES Acquisition, LLC",Senior loan,L + 5.00(c),6.00,11/2025,46,46,-,46
+148,"Electronic Equipment, Instruments & Components",ES Acquisition LLC,Senior loan,L + 5.00(c),6.00,11/2025,45,44,-,45
+149,"Electronic Equipment, Instruments & Components",ES Acquisition LLC,Second lien,L + 5.00(c),6.00,11/2025,36,35,-,36
+150,"Electronic Equipment, Instruments & Components","Pasternack Enterprises, Inc. and Fairview Microwave, Inc+~",Senior loan,L + 4.00(a),4.15,07/2025,23578,23790,1.0,23342
+151,"Electronic Equipment, Instruments & Components","Pasternack Enterprises, Inc. and Fairview Microwave, Inc",Senior loan,L + 4.00,N/A(6),07/2023,-,-,-,-
+152,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.*#+One stop",Senior loan,L + 5.50(a),6.50,04/2021,14303,14099,0.6,14303
+153,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.(5)",One stop,L + 5.50,N/A(6),04/2021,-,(9),-,-
+154,"Electronic Equipment, Instruments & Components","Watchfire Enterprises, Inc.",Second lien,L + 8.00(a),9.00,10/2021,9435,9410,0.4,9435
+155,Food & Staples Retailing,Food & Staples Retailing,Second lien,,,,,,,
+156,Food & Staples Retailing,"Cafe Rio Holding, Inc.*#",One stop,L + 5.50(c),6.50,09/2023,18562,18743,0.8,18562
+157,Food & Staples Retailing,"Cafe Rio Holding, Inc.",One stop,L + 5.50(c),6.50,09/2023,2415,2414,0.1,2415
+158,Food & Staples Retailing,"Cafe Rio Holding, Inc.#",One stop,L + 5.50(c),6.50,09/2023,2243,2308,0.1,2243
+159,Food & Staples Retailing,"Cafe Rio Holding, Inc.*#",One stop,L + 5.50(c),6.50,09/2023,1423,1465,0.1,1423
+160,Food & Staples Retailing,"Cafe Rio Holding, Inc.#",One stop,L + 5.50(c),6.50,09/2023,1257,1293,-,1257
+161,Food & Staples Retailing,"Cafe Rio Holding, Inc.",One stop,L + 5.50(c),6.50,09/2023,181,181,-,181
+162,Food & Staples Retailing,"Cafe Rio Holding, Inc.",One stop,L + 5.50,N/A(6),09/2023,-,-,-,-
+163,Food & Staples Retailing,"Captain D's, LLC#",Senior loan,L + 4.50(c),5.50,12/2023,13688,13729,0.6,13688
+164,Food & Staples Retailing,"Captain D's, LLC",Senior loan,L + 4.50(c),5.50,12/2023,120,121,-,120
+165,Food & Staples Retailing,"Feeders Supply Company, LLC#+One stop",Senior loan,L + 6.00(a),7.00,04/2023,9101,9049,0.4,9101
+166,Food & Staples Retailing,"Feeders Supply Company, LLC",Subordinated debt,No Value,12.50 cash/7.00 PIK,04/2021,155,155,-,155
+167,Food & Staples Retailing,"Feeders Supply Company, LLC",One stop,L + 6.00(a),7.00,04/2021,10,10,-,10
+168,Food & Staples Retailing,FWR Holding Corporation#,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,10398,10382,0.4,9566
+169,Food & Staples Retailing,FWR Holding Corporation#,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,1819,1871,0.1,1673
+170,Food & Staples Retailing,FWR Holding Corporation#,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,1149,1183,-,1058
+171,Food & Staples Retailing,FWR Holding Corporation#,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,364,373,-,335
+172,Food & Staples Retailing,FWR Holding Corporation,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,274,273,-,252
+173,Food & Staples Retailing,FWR Holding Corporation#,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,272,279,-,250
+174,Food & Staples Retailing,FWR Holding Corporation,One stop,L + 7.00(c),6.50 cash/1.50 PIK,08/2023,131,130,-,121
+175,Food & Staples Retailing,FWR Holding Corporation(5),One stop,L + 7.00,N/A(6),08/2023,-,-,-,(10)
+176,Food & Staples Retailing,FWR Holding Corporation,One stop,L + 7.00,N/A(6),08/2023,-,-,-,-
+177,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,834,855,-,834
+178,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,655,672,-,655
+179,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,643,640,-,643
+180,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,316,315,-,316
+181,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,316,314,-,316
+182,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,156,155,-,156
+183,Food & Staples Retailing,"Mendocino Farms, LLC",One stop,L + 8.50(a),2.00 cash/7.50 PIK,06/2023,95,94,-,95
+184,Food & Staples Retailing,"Mendocino Farms, LLC(5)",One stop,L + 8.50,N/A(6),06/2023,-,(2),-,-
+185,Food & Staples Retailing,"NBC Intermediate, LLC+~",Senior loan,L + 6.00(d),7.00,09/2023,18536,18356,0.8,18350
+186,Food & Staples Retailing,"NBC Intermediate, LLC#+~",Senior loan,L + 6.00(c),7.00,09/2023,9657,9624,0.4,9561
+187,Food & Staples Retailing,"NBC Intermediate, LLC*#+~",Senior loan,L + 6.00(c),7.00,09/2023,5047,5059,0.2,4996
+188,Food & Staples Retailing,"NBC Intermediate, LLC#+~",Senior loan,L + 6.00(a)(c),7.00,09/2023,4301,4341,0.2,4257
+189,Food & Staples Retailing,"NBC Intermediate, LLC#",Senior loan,L + 6.00(a),7.00,09/2023,667,660,-,660
+190,Food & Staples Retailing,"NBC Intermediate, LLC(5)",Senior loan,L + 6.00,N/A(6),09/2023,-,-,-,(1)
+191,Food & Staples Retailing,"Ruby Slipper Cafe LLC, The*",One stop,L + 8.50(c),8.50 cash/1.00 PIK,01/2023,2046,2040,0.1,1719
+192,Food & Staples Retailing,"Ruby Slipper Cafe LLC, The",One stop,L + 8.50(c),8.50 cash/1.00 PIK,01/2023,414,426,-,348
+193,Food & Staples Retailing,"Ruby Slipper Cafe LLC, The",One stop,L + 8.50(c),8.50 cash/1.00 PIK,01/2023,30,30,-,25
+194,Food & Staples Retailing,"Wetzel's Pretzels, LLC*#",One stop,L + 7.25(c),7.75 cash/0.50 PIK,09/2021,16929,17030,0.7,16082
+195,Food & Staples Retailing,"Wetzel's Pretzels, LLC",One stop,L + 7.25(c),7.75 cash/0.50 PIK,09/2021,100,101,-,96
+196,Food & Staples Retailing,Wood Fired Holding Corp.*#,One stop,L + 7.75(c),6.75 cash/2.00 PIK,12/2023,14163,14354,0.6,13739
+197,Food & Staples Retailing,Wood Fired Holding Corp.,One stop,L + 7.75(c),6.75 cash/2.00 PIK,12/2023,701,701,-,680
+198,Food & Staples Retailing,Wood Fired Holding Corp.,One stop,L + 7.75(c),6.75 cash/2.00 PIK,12/2023,202,201,-,196
+199,Food Products,Food Products,One stop,,,,,,,
+200,Food Products,"FCID Merger Sub, Inc.+~",One stop,L + 6.00(c),7.00,12/2026,13694,13490,0.5,13556
+201,Food Products,"FCID Merger Sub, Inc.(5)",One stop,L + 6.00,N/A(6),12/2026,-,(1),-,(1)
+202,Food Products,"FCID Merger Sub, Inc.(5)",One stop,L + 6.00,N/A(6),12/2026,-,(42),-,(43)
+203,Food Products,"Flavor Producers, LLC#~",Senior loan,L + 5.75(c),5.75 cash/1.00 PIK,12/2023,5006,4907,0.2,4605
+204,Food Products,"Flavor Producers, LLC(5)",Senior loan,L + 4.75(c),N/A(6),12/2022,-,(4),-,(2)
+205,Food Products,"MAPF Holdings, Inc.+~",One stop,L + 6.00(c),7.00,12/2026,29386,29094,1.2,29092
+206,Food Products,"MAPF Holdings, Inc.(5)",One stop,L + 6.00,N/A(6),12/2026,-,(44),-,(45)
+207,Food Products,"MAPF Holdings, Inc.(5)",One stop,L + 6.00,N/A(6),12/2026,-,(3),-,(3)
+208,Food Products,"Purfoods, LLC",One stop,No Value,7.00 PIK,05/2026,76,80,-,76
+209,Health Care Equipment & Supplies,Health Care Equipment & Supplies,One stop,,,,,,,
+210,Health Care Equipment & Supplies,"Aspen Medical Products, LLC+~",One stop,L + 5.00(c),6.00,06/2025,4249,4314,0.2,4249
+211,Health Care Equipment & Supplies,"Aspen Medical Products, LLC+One stop",One stop,L + 5.00(c),6.00,06/2025,271,269,-,271
+212,Health Care Equipment & Supplies,"Aspen Medical Products, LLC",One stop,L + 5.00,N/A(6),06/2025,-,-,-,-
+213,Health Care Equipment & Supplies,"Belmont Instrument, LLC+^",Senior loan,L + 4.75(c),5.75,12/2023,5243,5203,0.2,5243
+214,Health Care Equipment & Supplies,"Blades Buyer, Inc.+~^",Senior loan,L + 4.75(c),5.75,08/2025,6618,6605,0.3,6518
+215,Health Care Equipment & Supplies,"Blades Buyer, Inc.(5)",Senior loan,L + 4.75,N/A(6),08/2025,-,-,-,(2)
+216,Health Care Equipment & Supplies,"Blades Buyer, Inc.(5)",Senior loan,L + 4.75,N/A(6),08/2025,-,(20),-,(21)
+217,Health Care Equipment & Supplies,"Blue River Pet Care, LLC",One stop,L + 5.00(a),5.15,07/2026,27621,27671,1.1,27621
+218,Health Care Equipment & Supplies,"Blue River Pet Care, LLC",One stop,L + 5.00(a),5.15,07/2026,2756,2669,0.1,2756
+219,Health Care Equipment & Supplies,"Blue River Pet Care, LLC",One stop,L + 5.00(c),5.24,08/2025,400,396,-,398
+220,Health Care Equipment & Supplies,"CCSL Holdings, LLC+One stop",One stop,L + 5.75(c),6.75,12/2026,15672,15476,0.6,15516
+221,Health Care Equipment & Supplies,"CCSL Holdings, LLC(5)",One stop,L + 5.75,N/A(6),12/2026,-,(2),-,(2)
+222,Health Care Equipment & Supplies,"CCSL Holdings, LLC(5)",One stop,L + 5.75,N/A(6),12/2026,-,(63),-,(56)
+223,Health Care Equipment & Supplies,CMI Parent Inc.#+^,Senior loan,L + 4.25(c),5.25,08/2025,6616,6738,0.3,6484
+224,Health Care Equipment & Supplies,CMI Parent Inc.(5),Senior loan,L + 4.25,N/A(6),08/2025,-,(2),-,(6)
+225,Health Care Equipment & Supplies,"Flexan, LLC+^",One stop,L + 5.25(c),6.25,02/2022,8428,8391,0.3,8428
+226,Health Care Equipment & Supplies,"Flexan, LLC*#",One stop,L + 5.25(c),6.25,02/2022,3264,3250,0.1,3264
+227,Health Care Equipment & Supplies,"Flexan, LLC+One stop",One stop,L + 5.25(c),6.25,02/2022,2341,2330,0.1,2341
+228,Health Care Equipment & Supplies,"Flexan, LLC#",One stop,L + 5.25(c),6.25,02/2022,1536,1529,0.1,1536
+229,Health Care Equipment & Supplies,"Flexan, LLC(5)",One stop,L + 5.25,N/A(6),02/2022,-,(4),-,-
+230,Health Care Equipment & Supplies,"G & H Wire Company, Inc.#^",One stop,L + 7.75(a),8.00 cash/0.75 PIK,09/2023,11153,11107,0.5,10930
+231,Health Care Equipment & Supplies,"G & H Wire Company, Inc.",One stop,L + 7.75(a),N/A(6),09/2022,-,-,-,-
+232,Health Care Equipment & Supplies,"Joerns Healthcare, LLC*",One stop,L + 6.00(c),7.00,08/2024,1873,1829,0.1,1833
+233,Health Care Equipment & Supplies,"Joerns Healthcare, LLC",One stop,L + 6.00(c),7.00,08/2024,1800,1774,0.1,1764
+234,Health Care Equipment & Supplies,"Katena Holdings, Inc.#",One stop,L + 6.50(c),7.50,06/2021,12696,12740,0.5,12441
+235,Health Care Equipment & Supplies,"Katena Holdings, Inc.#",One stop,L + 6.50(c),7.50,06/2021,1240,1245,0.1,1215
+236,Health Care Equipment & Supplies,"Katena Holdings, Inc.+One stop",One stop,L + 6.50(c),7.50,06/2021,927,924,-,909
+237,Health Care Equipment & Supplies,"Katena Holdings, Inc.#",One stop,L + 6.50(c),7.50,06/2021,849,852,-,832
+238,Health Care Equipment & Supplies,"Katena Holdings, Inc.",One stop,L + 6.50(c),7.50,06/2021,200,200,-,196
+239,Health Care Equipment & Supplies,"Lombart Brothers, Inc.*#~",One stop,L + 8.25(c),8.25 cash/1.00 PIK,04/2023,28940,29159,1.1,26625
+240,Health Care Equipment & Supplies,"Lombart Brothers, Inc.#(8)",One stop,L + 8.25(c),8.25 cash/1.00 PIK,04/2023,3116,3141,0.1,2867
+241,Health Care Equipment & Supplies,"Lombart Brothers, Inc.",One stop,L + 9.25(a)(c),9.25 cash/1.00 PIK,04/2023,280,280,-,258
+242,Health Care Equipment & Supplies,"Lombart Brothers, Inc.(8)",One stop,L + 9.25(a),9.25 cash/1.00 PIK,04/2023,50,49,-,46
+243,Health Care Equipment & Supplies,"Orthotics Holdings, Inc.*#",One stop,L + 6.00(c),7.00,06/2021,7728,7728,0.3,7574
+244,Health Care Equipment & Supplies,"Orthotics Holdings, Inc.*#",One stop,L + 16.00(c),7.00 cash/10.00 PIK,06/2021,3994,3994,0.2,3675
+245,Health Care Equipment & Supplies,"Orthotics Holdings, Inc.*#(8)",One stop,L + 6.00(c),7.00,06/2021,1267,1267,0.1,1242
+246,Health Care Equipment & Supplies,"Orthotics Holdings, Inc.*#(8)",One stop,L + 16.00(c),7.00 cash/10.00 PIK,06/2021,655,655,-,603
+247,Health Care Equipment & Supplies,"Orthotics Holdings, Inc.",One stop,L + 6.00,N/A(6),06/2021,-,-,-,-
+248,Health Care Providers & Services,Health Care Providers & Services,One stop,,,,,,,
+249,Health Care Providers & Services,"Active Day, Inc.#",One stop,L + 6.50(c),7.50,12/2021,24504,24654,0.9,20829
+250,Health Care Providers & Services,"Active Day, Inc.#",One stop,L + 6.50(c),7.50,12/2021,1891,1904,0.1,1607
+251,Health Care Providers & Services,"Active Day, Inc.*#",One stop,L + 6.50(c),7.50,12/2021,1219,1227,0.1,1036
+252,Health Care Providers & Services,"Active Day, Inc.",One stop,L + 6.50(c),7.50,12/2021,971,988,-,825
+253,Health Care Providers & Services,"Active Day, Inc.",One stop,L + 6.50(c),7.50,12/2021,856,853,-,728
+254,Health Care Providers & Services,"Active Day, Inc.*#",One stop,L + 6.50(c),7.50,12/2021,842,848,-,716
+255,Health Care Providers & Services,"Active Day, Inc.",One stop,L + 6.50(c),7.50,12/2021,102,102,-,86
+256,Health Care Providers & Services,"Active Day, Inc.",One stop,L + 6.50(c),N/A(6),12/2021,-,-,-,-
+257,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,7166,7193,0.3,6944
+258,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC#",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,6051,6110,0.2,5864
+259,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC~",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,5630,5730,0.2,5456
+260,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC~",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,3285,3379,0.1,3183
+261,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,795,814,-,769
+262,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,293,291,-,284
+263,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 13.00(c),7.25 cash/6.75 PIK,03/2024,248,246,-,273
+264,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 8.25(c),7.25 cash/2.00 PIK,03/2024,151,150,-,146
+265,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",One stop,L + 13.00(c),7.25 cash/6.75 PIK,03/2024,151,150,-,166
+266,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC(5)",One stop,L + 6.25(c),7.25,03/2024,1,(2),-,15
+267,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC*#",One stop,L + 5.75(d),6.75,05/2022,41764,42115,1.7,41764
+268,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC*#",One stop,L + 5.75(d),6.75,05/2022,210,211,-,210
+269,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC",One stop,L + 5.75(d),6.75,05/2022,190,189,-,190
+270,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC*",One stop,L + 5.75(d),6.75,05/2022,162,164,-,162
+271,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC*#",One stop,L + 5.75(d),6.75,05/2022,62,63,-,62
+272,Health Care Providers & Services,"Advanced Pain Management Holdings, Inc.(7)",Senior loan,L + 5.00(c),6.25,03/2021,11433,6860,-,259
+273,Health Care Providers & Services,"Advanced Pain Management Holdings, Inc.(7)",Senior loan,L + 8.50(c),9.75,03/2021,4082,7,-,-
+274,Health Care Providers & Services,"Advanced Pain Management Holdings, Inc.(7)",Senior loan,L + 5.00(c),6.25,03/2021,782,469,-,18
+275,Health Care Providers & Services,"Advanced Pain Management Holdings, Inc.(5)(7)",Senior loan,L + 5.00(c),6.25,03/2021,347,(21),-,8
+276,Health Care Providers & Services,"Agilitas USA, Inc.*#",One stop,L + 5.50(c),6.50,04/2022,9227,9257,0.4,9042
+277,Health Care Providers & Services,"Agilitas USA, Inc.",One stop,L + 5.50(c),6.50,04/2022,100,100,-,98
+278,Health Care Providers & Services,"CRH Healthcare Purchaser, Inc.+~",Senior loan,L + 4.50(c),5.50,12/2024,19502,19555,0.8,19306
+279,Health Care Providers & Services,"CRH Healthcare Purchaser, Inc.",Senior loan,L + 4.50(c),5.50,12/2024,4185,4172,0.2,4143
+280,Health Care Providers & Services,"CRH Healthcare Purchaser, Inc.(5)",Senior loan,L + 4.50,N/A(6),12/2024,-,(1),-,(4)
+281,Health Care Providers & Services,"DCA Investment Holding, LLC*#+One stop",Senior loan,L + 5.25(c),6.25,07/2021,31324,31460,1.3,31324
+282,Health Care Providers & Services,"DCA Investment Holding, LLC*#+~",One stop,L + 5.25(c),6.25,07/2021,27140,27306,1.1,27140
+283,Health Care Providers & Services,"DCA Investment Holding, LLC*#",One stop,L + 5.25(c),6.25,07/2021,8297,8368,0.3,8297
+284,Health Care Providers & Services,"DCA Investment Holding, LLC~",One stop,L + 5.25(c),6.25,07/2021,4023,4072,0.2,4023
+285,Health Care Providers & Services,"DCA Investment Holding, LLC#",One stop,L + 5.25(c),6.25,07/2021,3659,3705,0.2,3659
+286,Health Care Providers & Services,"DCA Investment Holding, LLC",One stop,L + 5.25(c),6.25,07/2021,2737,2735,0.1,2737
+287,Health Care Providers & Services,"DCA Investment Holding, LLC*#",One stop,L + 5.25(c),6.25,07/2021,2505,2536,0.1,2505
+288,Health Care Providers & Services,"DCA Investment Holding, LLC#",One stop,L + 5.25(c),6.25,07/2021,1246,1255,0.1,1246
+289,Health Care Providers & Services - (continued),Health Care Providers & Services - (continued),One stop,,,,,,,
+290,Health Care Providers & Services - (continued),"DCA Investment Holding, LLC*~",One stop,L + 5.25(c),6.25,07/2021,296,298,-,296
+291,Health Care Providers & Services - (continued),"DCA Investment Holding, LLC*~",One stop,L + 5.25(c),6.25,07/2021,92,93,-,92
+292,Health Care Providers & Services - (continued),Deca Dental Management LLC*#,One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,11311,11413,0.5,11311
+293,Health Care Providers & Services - (continued),Deca Dental Management LLC#~,One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,1377,1391,0.1,1377
+294,Health Care Providers & Services - (continued),Deca Dental Management LLC+~,One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,994,1003,-,994
+295,Health Care Providers & Services - (continued),Deca Dental Management LLC,One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,737,747,-,737
+296,Health Care Providers & Services - (continued),Deca Dental Management LLC,One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,100,100,-,100
+297,Health Care Providers & Services - (continued),Deca Dental Management LLC(5),One stop,L + 7.50(c),7.00 cash/1.50 PIK,12/2021,2,(1),-,2
+298,Health Care Providers & Services - (continued),Encorevet Group LLC,One stop,L + 5.25(c),6.25,11/2024,709,699,-,700
+299,Health Care Providers & Services - (continued),Encorevet Group LLC,Senior loan,L + 5.25(c),6.25,11/2024,249,247,-,246
+300,Health Care Providers & Services - (continued),Encorevet Group LLC,Senior loan,L + 5.25(c),6.25,11/2024,112,112,-,111
+301,Health Care Providers & Services - (continued),Encorevet Group LLC,Senior loan,L + 5.25(c),6.25,11/2024,69,68,-,69
+302,Health Care Providers & Services - (continued),Encorevet Group LLC,Senior loan,L + 5.25(c),6.25,11/2024,58,57,-,57
+303,Health Care Providers & Services - (continued),Encorevet Group LLC,Senior loan,L + 5.25(c),6.25,11/2024,10,10,-,10
+304,Health Care Providers & Services - (continued),Encorevet Group LLC(5),Senior loan,L + 5.25,N/A(6),11/2024,-,-,-,(1)
+305,Health Care Providers & Services - (continued),"ERG Buyer, LLC*#",One stop,L + 5.50(c),6.50,05/2024,19084,19039,0.7,15649
+306,Health Care Providers & Services - (continued),"ERG Buyer, LLC",One stop,P + 4.50(f),7.75,05/2024,300,296,-,246
+307,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC+One stop,One stop,L + 6.25(c),7.25,05/2023,18183,18266,0.7,17274
+308,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*,One stop,L + 6.25(c),7.25,05/2023,7976,8090,0.3,7577
+309,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*#,One stop,L + 6.25(c),7.25,05/2023,6985,7092,0.3,6636
+310,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC,One stop,L + 6.25(c),7.25,05/2023,5140,5159,0.2,4884
+311,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*+One stop,One stop,L + 6.25(c),7.25,05/2023,2385,2420,0.1,2266
+312,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*,One stop,L + 6.25(c),7.25,05/2023,1530,1554,0.1,1454
+313,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*#,One stop,L + 6.25(c),7.25,05/2023,1131,1149,0.1,1075
+314,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*#,One stop,L + 6.25(c),7.25,05/2023,997,1012,-,947
+315,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC*+One stop,One stop,L + 6.25(c),7.25,05/2023,644,651,-,612
+316,Health Care Providers & Services - (continued),Eyecare Services Partners Holdings LLC,One stop,L + 6.25(c),7.25,05/2023,400,399,-,380
+317,Health Care Providers & Services - (continued),"FYI Optical Acquisitions, Inc. & FYI USA, Inc.~(8)(9)(12)",One stop,L + 5.00(k),5.51,03/2027,11802,11698,0.5,12035
+318,Health Care Providers & Services - (continued),"FYI Optical Acquisitions, Inc. & FYI USA, Inc.(8)(9)(12)",One stop,L + 5.00(k),5.51,03/2027,96,93,-,99
+319,Health Care Providers & Services - (continued),"FYI Optical Acquisitions, Inc. & FYI USA, Inc.(8)(12)",One stop,L + 5.00(c),6.00,03/2027,20,19,-,20
+320,Health Care Providers & Services - (continued),"Krueger-Gilbert Health Physics, LLC~",Senior loan,L + 5.25(c),6.25,05/2025,2353,2342,0.1,2353
+321,Health Care Providers & Services - (continued),"Krueger-Gilbert Health Physics, LLC",Senior loan,L + 5.25(c),6.25,05/2025,1111,1147,0.1,1111
+322,Health Care Providers & Services - (continued),"Krueger-Gilbert Health Physics, LLC",Senior loan,L + 5.25(c),6.25,05/2025,918,916,-,918
+323,Health Care Providers & Services - (continued),"Krueger-Gilbert Health Physics, LLC",Senior loan,L + 5.25(c),6.25,05/2025,50,50,-,50
+324,Health Care Providers & Services - (continued),"MD Now Holdings, Inc.+One stop",Senior loan,L + 5.00(c),6.00,08/2024,14506,14652,0.6,14506
+325,Health Care Providers & Services - (continued),"MD Now Holdings, Inc.",One stop,L + 5.00(c),6.00,08/2024,622,622,-,622
+326,Health Care Providers & Services - (continued),"MD Now Holdings, Inc.(5)",One stop,L + 5.00,N/A(6),08/2024,-,(1),-,-
+327,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC",One stop,L + 5.75(c),6.75,07/2025,11360,11205,0.5,11247
+328,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC",One stop,L + 5.75(c),6.75,07/2025,6565,6428,0.3,6452
+329,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC^",One stop,L + 5.75(c),6.75,07/2025,4263,4202,0.2,4220
+330,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC",One stop,L + 5.75(c),6.75,07/2025,4120,4088,0.2,4079
+331,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC#",One stop,L + 5.75(c),6.75,07/2025,1022,1014,-,1012
+332,Health Care Providers & Services - (continued),"Midwest Veterinary Partners, LLC",One stop,L + 5.75(c),6.75,07/2025,78,78,-,75
+333,Health Care Providers & Services - (continued),Health Care Providers & Services - (continued),One stop,,,,,,,
+334,Health Care Providers & Services - (continued),"MWD Management, LLC & MWD Services, Inc.#+One stop",One stop,L + 5.75(c),6.75,06/2023,9358,9311,0.4,9358
+335,Health Care Providers & Services - (continued),"MWD Management, LLC & MWD Services, Inc.#",One stop,L + 5.75(c),6.75,06/2023,4506,4567,0.2,4506
+336,Health Care Providers & Services - (continued),"MWD Management, LLC & MWD Services, Inc.(5)",One stop,L + 5.75,N/A(6),06/2022,-,(1),-,-
+337,Health Care Providers & Services - (continued),"NVA Holdings, Inc.~",Senior loan,L + 3.50(a),3.69,02/2026,2877,2852,0.1,2877
+338,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,19295,17639,0.5,12770
+339,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,2239,1906,0.1,1482
+340,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),1.00,05/2022,2122,1929,0.1,1404
+341,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,1606,1367,0.1,1063
+342,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,1419,1208,-,939
+343,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,1235,1052,-,818
+344,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,962,819,-,637
+345,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,834,710,-,552
+346,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,514,438,-,340
+347,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c)(f),7.25,05/2022,290,266,-,193
+348,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,98,89,-,65
+349,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,5/1/2022,89,81,-,59
+350,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,5/1/2022,69,63,-,46
+351,Health Care Providers & Services - (continued),"Oliver Street Dermatology Holdings, LLC(7)",One stop,L + 6.25(c),7.25,05/2022,64,58,-,42
+352,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.#",One stop,L + 6.25(c),7.25,01/2023,19080,19170,0.8,19080
+353,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.*",One stop,L + 6.25(c),7.25,01/2023,7612,7563,0.3,7612
+354,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.#",One stop,L + 6.25(c),7.25,01/2023,1566,1570,0.1,1566
+355,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.^",One stop,L + 6.25(c),7.25,01/2023,707,713,-,707
+356,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.",One stop,L + 6.25(c),7.25,01/2023,186,188,-,186
+357,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.^",One stop,L + 6.25(c),7.25,01/2023,106,107,-,106
+358,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.",One stop,L + 6.25(c),7.25,01/2023,38,37,-,38
+359,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.",One stop,L + 6.25,N/A(6),01/2023,-,1,-,-
+360,Health Care Providers & Services - (continued),"Pinnacle Treatment Centers, Inc.",One stop,L + 6.25,N/A(6),01/2023,-,-,-,-
+361,Health Care Providers & Services - (continued),"PPT Management Holdings, LLC+One stop",One stop,L + 8.50(c),7.00 cash/2.50 PIK,12/2022,25061,23907,0.9,21542
+362,Health Care Providers & Services - (continued),"PPT Management Holdings, LLC",One stop,L + 8.50(c),7.00 cash/2.50 PIK,12/2022,304,292,-,262
+363,Health Care Providers & Services - (continued),"PPT Management Holdings, LLC",One stop,L + 8.50(c),7.00 cash/2.50 PIK,12/2022,180,173,-,154
+364,Health Care Providers & Services - (continued),"PPT Management Holdings, LLC",One stop,L + 8.50(c),7.00 cash/2.50 PIK,12/2022,88,71,-,76
+365,Health Care Providers & Services - (continued),"PPT Management Holdings, LLC(5)",One stop,L + 8.50(c),7.00 cash/2.50 PIK,12/2022,18,(3),-,(40)
+366,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.*+One stop",One stop,L + 6.50(c),7.50,08/2022,14942,14821,0.6,14942
+367,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.",One stop,L + 6.50(c),7.50,8/1/2022,461,457,-,461
+368,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.",One stop,L + 6.50(c),7.50,08/2022,333,329,-,333
+369,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.",One stop,L + 6.50(c),7.50,08/2022,290,288,-,290
+370,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.",One stop,L + 6.50(c),7.50,08/2022,112,110,-,112
+371,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.",One stop,L + 6.50(c),7.50,08/2022,45,44,-,45
+372,Health Care Providers & Services - (continued),"Pyramid Healthcare, Inc.(5)",One stop,L + 6.50,N/A(6),08/2022,-,(6),-,-
+373,Health Care Providers & Services - (continued),"Riverchase MSO, LLC*#",Senior loan,L + 6.75(c),6.75 cash/1.00 PIK,10/2022,9624,9710,0.4,9431
+374,Health Care Providers & Services - (continued),"Riverchase MSO, LLC",Senior loan,L + 6.75(c),6.75 cash/1.00 PIK,10/2022,130,130,-,128
+375,Health Care Providers & Services - (continued),RXH Buyer Corporation*#,One stop,L + 5.75(c),6.75,09/2022,27452,27521,1.1,27452
+376,Health Care Providers & Services - (continued),RXH Buyer Corporation*#,One stop,L + 5.75(c),6.75,09/2022,3107,3115,0.1,3107
+377,Health Care Providers & Services - (continued),Health Care Providers & Services - (continued),One stop,,,,,,,
+378,Health Care Providers & Services - (continued),RXH Buyer Corporation,One stop,L + 5.75,N/A(6),09/2022,-,-,-,-
+379,Health Care Providers & Services - (continued),"Summit Behavioral Healthcare, LLC*#+Senior loan",One stop,L + 5.00(c),6.00,10/2023,29568,29273,1.2,29272
+380,Health Care Providers & Services - (continued),"Summit Behavioral Healthcare, LLC",Senior loan,L + 5.00(c),6.00,10/2023,100,96,-,98
+381,Health Care Providers & Services - (continued),"Summit Behavioral Healthcare, LLC(5)",Senior loan,L + 5.00,N/A(6),10/2023,-,(30),-,(31)
+382,Health Care Providers & Services - (continued),"Veterinary Specialists of North America, LLC*#",Senior loan,L + 4.25(a),4.40,04/2025,41546,42882,1.7,41546
+383,Health Care Providers & Services - (continued),"Veterinary Specialists of North America, LLC",Senior loan,L + 4.25(a),4.40,04/2025,11809,11805,0.5,11809
+384,Health Care Providers & Services - (continued),"Veterinary Specialists of North America, LLC#",Senior loan,L + 4.25(a),4.40,04/2025,2864,2845,0.1,2864
+385,Health Care Providers & Services - (continued),"Veterinary Specialists of North America, LLC*",Senior loan,L + 4.25(a),4.40,04/2025,1441,1490,0.1,1441
+386,Health Care Providers & Services - (continued),"Veterinary Specialists of North America, LLC",Senior loan,L + 4.25(a),4.40,04/2025,835,832,-,835
+387,Health Care Providers & Services - (continued),"WHCG Management, LLC*#",Senior loan,L + 4.50(c),5.50,03/2023,16026,16110,0.7,16026
+388,Health Care Providers & Services - (continued),"WHCG Management, LLC",Senior loan,L + 4.50(c),5.50,03/2023,5613,5579,0.2,5613
+389,Health Care Providers & Services - (continued),"WHCG Management, LLC",Senior loan,L + 4.50(c),5.50,03/2023,1978,1973,0.1,1978
+390,Health Care Providers & Services - (continued),"WHCG Management, LLC",Senior loan,L + 4.50(c),5.50,03/2023,338,336,-,338
+391,Health Care Providers & Services - (continued),"WHCG Management, LLC",Senior loan,L + 4.50(d),5.50,3/1/2023,116,118,-,116
+392,Health Care Technology,Health Care Technology,Senior loan,,,,,,,
+393,Health Care Technology,"Connexin Software, Inc.~",One stop,L + 8.50(a),9.50,02/2024,7550,7612,0.3,7550
+394,Health Care Technology,"Connexin Software, Inc.",One stop,L + 8.50,N/A(6),02/2024,-,-,-,-
+395,Health Care Technology,"HealthcareSource HR, Inc.*#",One stop,L + 6.25(c),7.25,05/2023,33652,33679,1.4,33652
+396,Health Care Technology,"HealthcareSource HR, Inc.(5)",One stop,L + 6.25,N/A(6),05/2023,-,(1),-,-
+397,Health Care Technology,"HealthEdge Software, Inc.",One stop,L + 6.25(a),7.25,04/2026,2000,1960,0.1,1955
+398,Health Care Technology,"HealthEdge Software, Inc.",One stop,L + 6.25(a),7.25,04/2026,1008,1008,-,985
+399,Health Care Technology,"HealthEdge Software, Inc.",One stop,L + 6.25(a),7.25,04/2026,225,223,-,220
+400,Health Care Technology,"HealthEdge Software, Inc.(5)",One stop,L + 6.25,N/A(6),04/2026,-,(1),-,(1)
+401,Health Care Technology,"HSI Halo Acquisition, Inc.+~",One stop,L + 5.75(c),6.75,08/2026,6297,6260,0.3,6234
+402,Health Care Technology,"HSI Halo Acquisition, Inc.+One stop",One stop,L + 5.75(c),6.75,08/2026,1977,1957,0.1,1957
+403,Health Care Technology,"HSI Halo Acquisition, Inc.",One stop,L + 5.75(c),6.75,08/2026,647,641,-,640
+404,Health Care Technology,"HSI Halo Acquisition, Inc.",One stop,L + 5.75(c),6.75,09/2025,18,17,-,17
+405,Health Care Technology,"HSI Halo Acquisition, Inc.(5)",One stop,L + 5.75,N/A(6),08/2026,-,(14),-,(14)
+406,Health Care Technology,"Kareo, Inc.",One stop,L + 9.00(a),10.00,06/2022,10273,10371,0.4,10371
+407,Health Care Technology,"Kareo, Inc.",One stop,L + 9.00(a),10.00,06/2022,941,953,-,950
+408,Health Care Technology,"Kareo, Inc.",One stop,L + 9.00(a),10.00,06/2022,753,763,-,760
+409,Health Care Technology,"Kareo, Inc.",One stop,P + 8.00(f),11.25,06/2022,80,80,-,80
+410,Health Care Technology,"Nextech Holdings, LLC^",One stop,L + 5.50(c),5.71,06/2025,4002,4065,0.2,3841
+411,Health Care Technology,"Nextech Holdings, LLC",One stop,L + 5.50(c),5.72,06/2025,1951,1938,0.1,1873
+412,Health Care Technology,"Nextech Holdings, LLC(5)",One stop,L + 5.50,N/A(6),06/2025,-,(3),-,(24)
+413,Health Care Technology,"Nextech Holdings, LLC(5)",One stop,L + 5.50,N/A(6),06/2025,-,(3),-,(16)
+414,Health Care Technology,"Qgenda Intermediate Holdings, LLC^",One stop,L + 5.50(c),6.50,06/2025,15238,15238,0.6,15086
+415,Health Care Technology,"Qgenda Intermediate Holdings, LLC+~",One stop,L + 5.50(c),6.50,06/2025,12412,12290,0.5,12288
+416,Health Care Technology,"Qgenda Intermediate Holdings, LLC~",One stop,L + 5.50(c),6.50,06/2025,990,990,-,980
+417,Health Care Technology,"Qgenda Intermediate Holdings, LLC(5)",One stop,L + 5.50,N/A(6),06/2025,-,-,-,(2)
+418,Health Care Technology,"Transaction Data Systems, Inc.*#+~^",One stop,L + 5.38(c),6.38,06/2021,83264,83778,3.4,83264
+419,Health Care Technology,"Transaction Data Systems, Inc.",One stop,L + 5.38(c),6.38,06/2021,240,241,-,240
+420,Health Care Technology,Verisys Corporation*#,One stop,L + 8.25(c),8.75 cash/0.50 PIK,01/2023,8483,8577,0.4,8313
+421,Health Care Technology,Verisys Corporation,One stop,L + 8.25(c),8.75 cash/0.50 PIK,01/2023,40,40,-,40
+422,"Hotels, Restaurants & Leisure","Hotels, Restaurants & Leisure",One stop,,,,,,,
+423,"Hotels, Restaurants & Leisure",BJH Holdings III Corp.+~,One stop,L + 5.25(c),6.25,08/2025,45068,46339,1.9,45068
+424,"Hotels, Restaurants & Leisure",BJH Holdings III Corp.(5),One stop,L + 5.25,N/A(6),08/2025,-,(6),-,-
+425,"Hotels, Restaurants & Leisure","CR Fitness Holdings, LLC+~",Senior loan,L + 4.25(c),5.25,07/2025,1993,2005,0.1,1854
+426,"Hotels, Restaurants & Leisure","CR Fitness Holdings, LLC",Senior loan,L + 4.25(a),5.25,07/2025,268,262,-,208
+427,"Hotels, Restaurants & Leisure","CR Fitness Holdings, LLC",Senior loan,L + 4.25(a)(c),5.25,07/2025,74,74,-,70
+428,"Hotels, Restaurants & Leisure","Davidson Hotel Company, LLC+One stop",Senior loan,L + 6.75(a)(c),6.25 cash/1.50 PIK,07/2024,7007,6954,0.2,4905
+429,"Hotels, Restaurants & Leisure","Davidson Hotel Company, LLC",One stop,L + 6.75(a)(c),6.25 cash/1.50 PIK,07/2024,1077,1073,-,754
+430,"Hotels, Restaurants & Leisure","Davidson Hotel Company, LLC(5)",One stop,L + 6.75,N/A(6),07/2024,-,(2),-,(30)
+431,"Hotels, Restaurants & Leisure","Davidson Hotel Company, LLC(5)",One stop,L + 6.75,N/A(6),07/2024,-,(18),-,-
+432,"Hotels, Restaurants & Leisure","EOS Fitness Opco Holdings, LLC*#",One stop,L + 5.25(c),6.25,01/2025,8653,8760,0.3,7788
+433,"Hotels, Restaurants & Leisure","EOS Fitness Opco Holdings, LLC",One stop,L + 5.25(c),6.25,01/2025,911,922,-,820
+434,"Hotels, Restaurants & Leisure","EOS Fitness Opco Holdings, LLC",One stop,L + 5.25(c),6.25,01/2025,120,120,-,108
+435,"Hotels, Restaurants & Leisure",Planet Fit Indy 10 LLC+One stop,One stop,L + 5.25(c),6.25,07/2025,17342,17141,0.6,14914
+436,"Hotels, Restaurants & Leisure",Planet Fit Indy 10 LLC#,One stop,L + 5.25(c),6.25,07/2025,2313,2360,0.1,1990
+437,"Hotels, Restaurants & Leisure",Planet Fit Indy 10 LLC#,One stop,L + 5.25(c),6.25,07/2025,1256,1239,0.1,1080
+438,"Hotels, Restaurants & Leisure",Planet Fit Indy 10 LLC,One stop,L + 5.25(c),6.25,07/2025,200,199,-,172
+439,"Hotels, Restaurants & Leisure","Self Esteem Brands, LLC*#^",Senior loan,L + 4.25(a),5.25,02/2022,45724,46017,1.8,44811
+440,"Hotels, Restaurants & Leisure","Self Esteem Brands, LLC",Senior loan,P + 3.25(f),6.50,02/2022,2338,2335,0.1,2292
+441,"Hotels, Restaurants & Leisure","SSRG Holdings, LLC",One stop,L + 5.25(c),6.25,11/2025,916,901,-,897
+442,"Hotels, Restaurants & Leisure","SSRG Holdings, LLC",One stop,L + 5.25(c),6.25,11/2025,55,54,-,54
+443,"Hotels, Restaurants & Leisure","Sunshine Sub, LLC#~",One stop,L + 4.75(c),5.75,05/2024,12891,12984,0.5,12117
+444,"Hotels, Restaurants & Leisure","Sunshine Sub, LLC#",One stop,L + 4.75(c),5.75,05/2024,5640,5811,0.2,5302
+445,"Hotels, Restaurants & Leisure","Sunshine Sub, LLC(5)",One stop,L + 4.75,N/A(6),05/2024,-,(1),-,(12)
+446,"Hotels, Restaurants & Leisure","Tropical Smoothie Cafe Holdings, LLC+Senior loan",One stop,L + 5.50(a)(b)(c),6.50,09/2026,16978,16817,0.7,16978
+447,"Hotels, Restaurants & Leisure","Tropical Smoothie Cafe Holdings, LLC",Senior loan,L + 5.50(a),6.50,09/2026,15,14,-,15
+448,"Hotels, Restaurants & Leisure","Velvet Taco Holdings, Inc.~",One stop,L + 8.00(b)(c)(e),8.00 cash/1.00 PIK,03/2026,1777,1757,0.1,1599
+449,"Hotels, Restaurants & Leisure","Velvet Taco Holdings, Inc.",One stop,L + 11.00(c),8.00 cash/4.00 PIK,03/2026,91,90,-,91
+450,"Hotels, Restaurants & Leisure","Velvet Taco Holdings, Inc.",One stop,L + 7.00,N/A(6),03/2026,-,-,-,-
+451,Household Durables,Household Durables,One stop,,,,,,,
+452,Household Durables,Groundworks LLC^,Senior loan,L + 6.25(c),7.25,01/2026,4697,4637,0.2,4627
+453,Household Durables,Groundworks LLC,Senior loan,L + 6.25(c),7.25,01/2026,325,309,-,309
+454,Household Durables,Groundworks LLC,Senior loan,L + 6.25(c),7.25,01/2026,84,83,-,83
+455,Household Durables,Groundworks LLC(5),Senior loan,L + 6.25,N/A(6),01/2026,-,-,-,(1)
+456,Household Products,Household Products,Senior loan,,,,,,,
+457,Household Products,"WU Holdco, Inc. #^",One stop,L + 5.25(c),6.25,03/2026,3419,3491,0.2,3419
+458,Household Products,"WU Holdco, Inc.",One stop,L + 5.25(c),6.25,03/2026,391,391,-,391
+459,Household Products,"WU Holdco, Inc.",One stop,L + 5.25(c),5.50,03/2025,10,9,-,8
+460,Industrial Conglomerates,Industrial Conglomerates,One stop,,,,,,,
+461,Industrial Conglomerates,Arch Global CCT Holdings Corp.#^,Senior loan,L + 4.75(c),5.00,04/2026,4183,4216,0.2,4099
+462,Industrial Conglomerates,Arch Global CCT Holdings Corp.(5),Senior loan,L + 4.75,N/A(6),04/2025,-,-,-,(2)
+463,Industrial Conglomerates,Arch Global CCT Holdings Corp.(5),Senior loan,L + 4.75,N/A(6),04/2026,-,-,-,(1)
+464,Industrial Conglomerates,Madison Safety & Flow LLC^,Senior loan,L + 4.00(a),4.15,03/2025,490,489,-,485
+465,Industrial Conglomerates,Madison Safety & Flow LLC,Senior loan,L + 4.00,N/A(6),03/2025,-,-,-,-
+466,Industrial Conglomerates,Specialty Measurement Bidco Limited(8)(9)(10),One stop,L + 6.25(c),7.25,11/2027,7969,7753,0.3,7946
+467,Industrial Conglomerates,Specialty Measurement Bidco Limited(8)(10),One stop,L + 6.25(c),7.25,11/2027,7961,7745,0.3,7742
+468,Industrial Conglomerates,Specialty Measurement Bidco Limited(5)(8)(9)(10),One stop,L + 6.25,N/A(6),11/2027,-,(53),-,(109)
+469,Insurance,Insurance,One stop,,,,,,,
+470,Insurance,"Captive Resources Midco, LLC*#+~^",One stop,L + 5.75(c),6.75,05/2025,52723,52884,2.2,52723
+471,Insurance,"Captive Resources Midco, LLC#",One stop,L + 5.75(c),6.75,05/2025,1436,1424,0.1,1436
+472,Insurance,"Captive Resources Midco, LLC(5)",One stop,L + 5.75,N/A(6),05/2025,-,(16),-,-
+473,Insurance,"High Street Insurance Partners, Inc.+Senior loan",One stop,L + 6.25(c),7.25,12/2025,870,850,-,870
+474,Insurance,"High Street Insurance Partners, Inc.",Senior loan,L + 6.25(d),7.25,12/2025,202,195,-,202
+475,Insurance,"Integrity Marketing Acquisition, LLC^",Senior loan,L + 5.50(c),6.50,08/2025,2464,2465,0.1,2464
+476,Insurance,"Integrity Marketing Acquisition, LLC",Senior loan,L + 5.50(c)(d),6.50,08/2025,788,784,-,788
+477,Insurance,"Integrity Marketing Acquisition, LLC",Senior loan,L + 5.50(c)(d),6.50,08/2025,476,474,-,476
+478,Insurance,"Integrity Marketing Acquisition, LLC",Senior loan,L + 5.50(c),6.50,08/2025,249,247,-,249
+479,Insurance,"Integrity Marketing Acquisition, LLC",Senior loan,L + 5.50,N/A(6),08/2025,-,-,-,-
+480,Insurance,"J.S. Held Holdings, LLC#^",One stop,L + 6.00(c),7.00,07/2025,6152,6124,0.2,6152
+481,Insurance,"J.S. Held Holdings, LLC",One stop,P + 5.00(f),8.25,07/2025,72,66,-,72
+482,Insurance,"J.S. Held Holdings, LLC(5)",One stop,L + 6.00,N/A(6),07/2025,-,(4),-,-
+483,Insurance,Majesco+One stop,One stop,L + 7.75(c),8.75,09/2027,12303,12067,0.5,12303
+484,Insurance,Majesco(5),One stop,L + 7.75,N/A(6),09/2026,-,(3),-,-
+485,Insurance,"Orchid Underwriters Agency, LLC^",Senior loan,L + 4.50(c),5.50,12/2024,4114,4162,0.2,4114
+486,Insurance,"Orchid Underwriters Agency, LLC",Senior loan,L + 4.25(d),5.25,12/2024,542,542,-,542
+487,Insurance,"Orchid Underwriters Agency, LLC",Senior loan,L + 4.25,N/A(6),12/2024,-,-,-,-
+488,Insurance,"RSC Acquisition, Inc.+~^",One stop,L + 5.50(c),6.50,10/2026,26097,25623,1.1,26097
+489,Insurance,"RSC Acquisition, Inc.+One stop",One stop,L + 5.50(c),6.50,10/2026,1303,1253,0.1,1303
+490,Insurance,"RSC Acquisition, Inc.",One stop,L + 5.50(c),6.50,10/2026,312,107,-,312
+491,Insurance,"RSC Acquisition, Inc.(5)",One stop,L + 5.50,N/A(6),10/2026,-,(1),-,-
+492,Insurance,"Sunstar Insurance Group, LLC+Senior loan",One stop,L + 5.50(c),6.50,10/2026,629,617,-,616
+493,Insurance,"Sunstar Insurance Group, LLC",Senior loan,L + 5.50,N/A(6),10/2026,-,-,-,-
+494,Insurance,"Sunstar Insurance Group, LLC(5)",Senior loan,L + 5.50,N/A(6),10/2026,-,(8),-,(8)
+495,Internet & Catalog Retail,Internet & Catalog Retail,Senior loan,,,,,,,
+496,Internet & Catalog Retail,"AutoQuotes, LLC",One stop,L + 6.00(c),7.00,11/2024,9887,10014,0.4,9097
+497,Internet & Catalog Retail,"AutoQuotes, LLC(5)",One stop,L + 6.00,N/A(6),11/2024,-,-,-,(8)
+498,IT Services,IT Services,One stop,,,,,,,
+499,IT Services,"Acquia, Inc.~",One stop,L + 7.00(c),8.00,10/2025,7118,7060,0.3,7118
+500,IT Services,"Acquia, Inc.",One stop,L + 7.00,N/A(6),10/2025,-,-,-,-
+501,IT Services,"Appriss Holdings, Inc.+~^",One stop,L + 5.25(c),5.50,05/2026,24906,25580,1.0,24792
+502,IT Services,"Appriss Holdings, Inc.(5)",One stop,L + 5.25,N/A(6),05/2025,-,(3),-,(2)
+503,IT Services,"Arctic Wolf Networks, Inc. and Arctic Wolf Networks Canada, Inc.",One stop,L + 7.50(b),8.50 cash/1.00 PIK,08/2025,4630,4461,0.2,4721
+504,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.",One stop,L + 7.50,N/A(6),08/2025,-,-,-,-
+505,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.(5)",One stop,L + 7.50,N/A(6),08/2025,-,(3),-,-
+506,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.(5)",One stop,L + 7.50,N/A(6),08/2025,-,(13),-,-
+507,IT Services,Centrify Corporation*#,One stop,L + 8.25(c),9.25,08/2024,23179,23218,1.0,23179
+508,IT Services,Centrify Corporation,One stop,P + 7.25(f),10.50,08/2024,200,202,-,200
+509,IT Services,"E2open, LLC*#+~^",One stop,L + 5.75(c),6.75,11/2024,85686,86504,3.5,85686
+510,IT Services,"E2open, LLC",One stop,L + 5.75(a)(d),6.75,11/2024,370,365,-,370
+511,IT Services,"Episerver, Inc.~(8)(9)",One stop,L + 6.00(c)(d),6.00,10/2024,20489,20779,0.9,21951
+512,IT Services,"Episerver, Inc.#^",One stop,L + 5.75(c)(d),6.75,10/2024,12154,12331,0.5,12154
+513,IT Services,"Episerver, Inc.(5)",One stop,L + 5.75,N/A(6),10/2024,-,(2),-,-
+514,IT Services,"Gamma Technologies, LLC*#^",One stop,L + 5.00(c),6.00,06/2024,47092,47390,1.9,47092
+515,IT Services,"Gamma Technologies, LLC(5)",One stop,L + 5.00,N/A(6),06/2024,-,(1),-,-
+516,IT Services,"Infinisource, Inc.~^",One stop,L + 4.50(c),5.50,10/2026,29108,28703,1.2,29108
+517,IT Services,"Infinisource, Inc.",One stop,L + 4.50(c),5.50,10/2026,244,241,-,244
+518,IT Services,"Infinisource, Inc.",One stop,L + 4.50(c),5.50,10/2026,110,109,-,110
+519,IT Services,"Infinisource, Inc.(5)",One stop,L + 4.50,N/A(6),10/2026,-,(1),-,-
+520,IT Services,Maverick Bidco Inc.*#+~,One stop,L + 6.25(c),7.25,04/2023,48427,48539,2.0,47942
+521,IT Services,Maverick Bidco Inc.+One stop,One stop,L + 6.25(c),7.25,04/2023,3638,3553,0.2,3602
+522,IT Services,Maverick Bidco Inc.*#,One stop,L + 6.25(c),7.25,04/2023,3174,3224,0.1,3143
+523,IT Services,Maverick Bidco Inc.+One stop,One stop,L + 6.25(c),7.25,04/2023,2814,2751,0.1,2786
+524,IT Services,Maverick Bidco Inc.^,One stop,L + 6.25(c),7.25,04/2023,1689,1631,0.1,1672
+525,IT Services,Maverick Bidco Inc.(5),One stop,L + 6.25,N/A(6),04/2023,-,(1),-,(3)
+526,IT Services,Maverick Bidco Inc.(5),One stop,L + 6.25,N/A(6),04/2023,-,(107),-,(94)
+527,IT Services,"PCS Intermediate II Holdings, LLC~",One stop,L + 5.25(c),6.25,01/2026,14456,14334,0.6,14456
+528,IT Services,"PCS Intermediate II Holdings, LLC(5)",One stop,L + 5.50,N/A(6),01/2026,-,(1),-,-
+529,IT Services,"Recordxtechnologies, LLC+One stop",One stop,L + 5.50(c),6.50,12/2025,741,734,-,719
+530,IT Services,"Recordxtechnologies, LLC",One stop,L + 5.50(c),6.50,12/2025,116,114,-,111
+531,IT Services,"Recordxtechnologies, LLC",One stop,L + 5.50(c),6.50,12/2025,42,41,-,39
+532,IT Services,"Red Dawn SEI Buyer, Inc.^",Senior loan,L + 4.25(c),5.25,11/2025,750,742,-,734
+533,IT Services,"Red Dawn SEI Buyer, Inc.(5)",Senior loan,L + 4.25,N/A(6),11/2025,-,(1),-,(2)
+534,IT Services,"Red Dawn SEI Buyer, Inc.(5)",Senior loan,L + 4.25,N/A(6),11/2025,-,(1),-,(3)
+535,IT Services,"Red Dawn SEI Buyer, Inc.(5)(8)(9)",Senior loan,L + 4.50,N/A(6),11/2025,-,-,-,(236)
+536,IT Services,"Red Dawn SEI Buyer, Inc.(5)",Senior loan,L + 4.50,N/A(6),11/2025,-,-,-,(56)
+537,Leisure Products,Leisure Products,Senior loan,,,,,,,
+538,Leisure Products,WBZ Investment LLC#,One stop,L + 7.50(c),6.50 cash/2.00 PIK,09/2024,8510,8565,0.3,7659
+539,Leisure Products,WBZ Investment LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,09/2024,1219,1212,0.1,1097
+540,Leisure Products,WBZ Investment LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,09/2024,848,874,-,763
+541,Leisure Products,WBZ Investment LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,09/2024,433,448,-,390
+542,Leisure Products,WBZ Investment LLC,One stop,L + 7.50(c),6.50 cash/2.00 PIK,09/2024,80,80,-,70
+543,Life Sciences Tools & Services,Life Sciences Tools & Services,One stop,,,,,,,
+544,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,29562,29619,1.2,29562
+545,Life Sciences Tools & Services,"Pace Analytical Services, LLC+One stop",One stop,L + 5.75(c),6.75,04/2024,7028,6933,0.3,7028
+546,Life Sciences Tools & Services,"Pace Analytical Services, LLC",One stop,L + 5.75(c),6.75,04/2024,3523,3415,0.1,3523
+547,Life Sciences Tools & Services,"Pace Analytical Services, LLC#^",One stop,L + 5.75(c),6.75,04/2024,2749,2757,0.1,2749
+548,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,1647,1675,0.1,1647
+549,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,1515,1523,0.1,1515
+550,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,1261,1260,0.1,1261
+551,Life Sciences Tools & Services,"Pace Analytical Services, LLC#^",One stop,L + 5.75(c),6.75,04/2024,1220,1240,0.1,1220
+552,Life Sciences Tools & Services,"Pace Analytical Services, LLC",One stop,L + 5.75(c),6.75,04/2024,990,971,-,990
+553,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,676,677,-,676
+554,Life Sciences Tools & Services,"Pace Analytical Services, LLC*#",One stop,L + 5.75(c),6.75,04/2024,558,567,-,558
+555,Life Sciences Tools & Services,"Pace Analytical Services, LLC*",One stop,L + 5.75(c),6.75,04/2024,187,190,-,187
+556,Life Sciences Tools & Services,"Pace Analytical Services, LLC(5)",One stop,L + 5.75,N/A(6),04/2024,-,(3),-,-
+557,Machinery,Machinery,One stop,,,,,,,
+558,Machinery,"Blackbird Purchaser, Inc. *+~^",Senior loan,L + 4.50(c)(f),4.75,04/2026,15961,16219,0.7,15481
+559,Machinery,"Blackbird Purchaser, Inc.",Senior loan,L + 4.50(c),4.74,04/2024,28,28,-,24
+560,Machinery,"Chase Industries, Inc.+~",Senior loan,L + 7.00(d),6.50 cash/1.50 PIK,05/2025,12059,12173,0.4,9787
+561,Machinery,"Chase Industries, Inc.",Senior loan,L + 7.00(d),6.50 cash/1.50 PIK,05/2025,985,1018,-,800
+562,Machinery,"Chase Industries, Inc.",Senior loan,L + 7.00(d),6.50 cash/1.50 PIK,05/2023,174,177,-,130
+563,Marine,Marine,Senior loan,,,,,,,
+564,Marine,Veson Nautical LLC+One stop,Senior loan,L + 5.50(a),6.50,11/2025,10594,10492,0.4,10488
+565,Marine,Veson Nautical LLC(5),One stop,L + 5.50,N/A(6),11/2025,-,(1),-,(1)
+566,Multiline Retail,Multiline Retail,One stop,,,,,,,
+567,Multiline Retail,Mills Fleet Farm Group LLC*#~^,One stop,L + 6.00(d),7.00,10/2024,46488,46378,1.9,46488
+568,"Oil, Gas & Consumable Fuels","Oil, Gas & Consumable Fuels",One stop,,,,,,,
+569,"Oil, Gas & Consumable Fuels","3ES Innovation, Inc.+~(8)(12)",One stop,L + 5.75(c),6.75,05/2025,13725,13956,0.6,13451
+570,"Oil, Gas & Consumable Fuels","3ES Innovation, Inc.(5)(8)(12)",One stop,L + 5.75,N/A(6),05/2025,-,(1),-,(4)
+571,"Oil, Gas & Consumable Fuels","Drilling Info Holdings, Inc.*#+~",Senior loan,L + 4.25(a),4.40,07/2025,36705,37162,1.5,36090
+572,"Oil, Gas & Consumable Fuels","Drilling Info Holdings, Inc.~",Senior loan,L + 4.50(a),4.65,07/2025,17298,16893,0.7,17184
+573,"Oil, Gas & Consumable Fuels","Drilling Info Holdings, Inc.",Senior loan,L + 4.25(a),4.40,07/2023,80,78,-,76
+574,"Oil, Gas & Consumable Fuels","Drilling Info Holdings, Inc.",Senior loan,L + 4.50(a),4.65,07/2023,34,32,-,34
+575,"Oil, Gas & Consumable Fuels","Drilling Info Holdings, Inc.(5)",Senior loan,L + 4.25,N/A(6),07/2025,-,(5),-,(17)
+576,"Oil, Gas & Consumable Fuels","Project Power Buyer, LLC#+^",One stop,L + 6.25(c),7.25,05/2026,15742,15883,0.6,15742
+577,"Oil, Gas & Consumable Fuels","Project Power Buyer, LLC(5)",One stop,L + 6.25,N/A(6),05/2025,-,(1),-,-
+578,Paper & Forest Products,Paper & Forest Products,One stop,,,,,,,
+579,Paper & Forest Products,"Messenger, LLC+~",One stop,L + 6.50(c)(f),7.50,08/2023,8990,9056,0.4,8630
+580,Paper & Forest Products,"Messenger, LLC(5)",One stop,L + 6.50,N/A(6),08/2023,-,-,-,(2)
+581,Personal Products,Personal Products,One stop,,,,,,,
+582,Personal Products,"IMPLUS Footwear, LLC+~",One stop,L + 7.75(c),8.75,04/2024,30897,31273,1.2,27808
+583,Personal Products,"IMPLUS Footwear, LLC+~",One stop,L + 7.75(c),8.75,04/2024,5277,5341,0.2,4749
+584,Personal Products,"IMPLUS Footwear, LLC*",One stop,L + 7.75(c),8.75,04/2024,761,783,-,685
+585,Pharmaceuticals,Pharmaceuticals,One stop,,,,,,,
+586,Pharmaceuticals,"ACP Ulysses Buyer, Inc.+^",Senior loan,L + 5.00(a),6.00,02/2026,13177,13064,0.6,13177
+587,Pharmaceuticals,"Apothecary Products, LLC+Senior loan",Senior loan,L + 4.25(a),5.25,07/2023,2904,3000,0.1,2904
+588,Pharmaceuticals,"Apothecary Products, LLC",Senior loan,L + 4.25(d),5.25,07/2023,78,78,-,78
+589,Pharmaceuticals,"BIOVT, LLC*#^",One stop,L + 5.75(a),6.75,07/2022,32726,32493,1.3,32726
+590,Pharmaceuticals,"BIOVT, LLC#^",One stop,L + 5.75(a),6.75,07/2022,1988,1974,0.1,1988
+591,Pharmaceuticals,"BIOVT, LLC*",One stop,L + 5.75(a),6.75,07/2022,1866,1853,0.1,1866
+592,Pharmaceuticals,"BIOVT, LLC(5)",One stop,L + 5.75,N/A(6),07/2022,-,(2),-,-
+593,Professional Services,Professional Services,One stop,,,,,,,
+594,Professional Services,"Brandmuscle, Inc.#",Senior loan,L + 4.75(c),5.75,12/2021,7665,7680,0.3,7663
+595,Professional Services,"Brandmuscle, Inc.#",Senior loan,L + 5.00(c),6.00,12/2021,1068,1079,-,1070
+596,Professional Services,"Brandmuscle, Inc.",Senior loan,L + 4.75,N/A(6),12/2021,-,-,-,-
+597,Professional Services,DISA Holdings Acquisition Subsidiary Corp.+~,Senior loan,L + 4.25(c),5.25,06/2022,9345,9411,0.4,8785
+598,Professional Services,DISA Holdings Acquisition Subsidiary Corp.(5),Senior loan,L + 4.25,N/A(6),06/2022,-,-,-,(87)
+599,Professional Services,Net Health Acquisition Corp.*#,One stop,L + 5.50(c),6.50,12/2023,8532,8605,0.3,8447
+600,Professional Services,Net Health Acquisition Corp.~^,One stop,L + 5.50(c),6.50,12/2023,6827,6921,0.3,6759
+601,Professional Services,Net Health Acquisition Corp.+One stop,One stop,L + 5.50(c),6.50,12/2023,4313,4271,0.2,4270
+602,Professional Services,Net Health Acquisition Corp.*#,One stop,L + 5.50(c),6.50,12/2023,1192,1202,0.1,1180
+603,Professional Services,Net Health Acquisition Corp.(5),One stop,L + 5.50,N/A(6),12/2023,-,(2),-,(2)
+604,Professional Services,"Nexus Brands Group, Inc.*#",One stop,L + 6.00(c),7.00,11/2023,9354,9439,0.4,8980
+605,Professional Services,"Nexus Brands Group, Inc.+~(8)(9)",One stop,L + 6.00(h),7.00,11/2023,7127,7235,0.3,7441
+606,Professional Services,"Nexus Brands Group, Inc.#",One stop,L + 6.00(c),7.00,11/2023,1981,2040,0.1,1902
+607,Professional Services,"Nexus Brands Group, Inc.#~",One stop,L + 6.00(c),7.00,11/2023,1433,1476,0.1,1376
+608,Professional Services,"Nexus Brands Group, Inc.(8)(9)",One stop,L + 6.00(c),7.00,11/2023,823,822,-,827
+609,Professional Services,"Nexus Brands Group, Inc.~",One stop,L + 6.00(c),7.00,11/2023,763,758,-,733
+610,Professional Services,"Nexus Brands Group, Inc.",One stop,L + 6.00(c),7.00,11/2023,517,517,-,507
+611,Professional Services,"Nexus Brands Group, Inc.",One stop,L + 6.00(c),7.00,11/2023,85,84,-,83
+612,Professional Services,"Nexus Brands Group, Inc.",One stop,L + 6.00(c),7.00,11/2023,54,53,-,53
+613,Professional Services,"Nexus Brands Group, Inc.",One stop,L + 6.00(c),7.00,11/2023,20,21,-,12
+614,Professional Services,"Nexus Brands Group, Inc.(5)(8)(9)",One stop,L + 6.00,N/A(6),11/2023,-,-,-,(4)
+615,Professional Services,"Nexus Brands Group, Inc.",One stop,L + 6.00,N/A(6),11/2023,-,-,-,-
+616,Professional Services,"PlanSource Holdings, Inc. ~",One stop,L + 6.25(d),7.25,04/2025,11416,11535,0.5,11416
+617,Professional Services,"PlanSource Holdings, Inc. (5)",One stop,L + 6.25,N/A(6),04/2025,-,(1),-,-
+618,Professional Services,"Teaching Company, The*#",One stop,L + 4.75(c),5.75,07/2023,17788,17949,0.7,17788
+619,Professional Services,"Teaching Company, The",One stop,L + 4.75,N/A(6),07/2023,-,-,-,-
+620,Real Estate Management & Development,Real Estate Management & Development,One stop,,,,,,,
+621,Real Estate Management & Development,"Property Brands, Inc.#",One stop,L + 5.75(d),6.75,01/2024,19794,19971,0.8,19794
+622,Real Estate Management & Development,"Property Brands, Inc.~^",One stop,L + 5.75(d),6.75,01/2024,13632,13427,0.6,13632
+623,Real Estate Management & Development,"Property Brands, Inc.*#",One stop,L + 5.75(d),6.75,01/2024,6636,6736,0.3,6636
+624,Real Estate Management & Development,"Property Brands, Inc.~^",One stop,L + 5.75(d),6.75,01/2024,3234,3332,0.1,3234
+625,Real Estate Management & Development,"Property Brands, Inc.",One stop,L + 5.75(d),6.75,01/2024,1421,1462,0.1,1421
+626,Real Estate Management & Development,"Property Brands, Inc.#",One stop,L + 5.75(d),6.75,01/2024,1202,1237,0.1,1202
+627,Real Estate Management & Development,"Property Brands, Inc.",One stop,L + 5.75(d),6.75,01/2024,1185,1221,-,1185
+628,Real Estate Management & Development,"Property Brands, Inc.",One stop,L + 5.75(d),6.75,01/2024,948,943,-,948
+629,Real Estate Management & Development,"Property Brands, Inc.",One stop,L + 5.75(d),6.75,01/2024,500,515,-,500
+630,Real Estate Management & Development,"Property Brands, Inc.",One stop,L + 5.75(d),6.75,01/2024,200,199,-,200
+631,Real Estate Management & Development,"Property Brands, Inc.(5)",One stop,L + 5.75,N/A(6),01/2024,-,(2),-,-
+632,Real Estate Management & Development,MRI Software LLC~^,One stop,L + 5.50(c),6.50,02/2026,14562,14441,0.6,14562
+633,Real Estate Management & Development,MRI Software LLC+One stop,One stop,L + 5.50(c),6.50,02/2026,1744,1703,0.1,1744
+634,Real Estate Management & Development,MRI Software LLC(5),One stop,L + 5.50,N/A(6),02/2026,-,(2),-,-
+635,Real Estate Management & Development,MRI Software LLC,One stop,L + 5.50,N/A(6),02/2026,-,-,-,-
+636,Real Estate Management & Development,MRI Software LLC(5),One stop,L + 5.50,N/A(6),02/2026,-,(3),-,-
+637,Road & Rail,Road & Rail,One stop,,,,,,,
+638,Road & Rail,Internet Truckstop Group LLC*#,One stop,L + 5.50(c),6.50,04/2025,22530,23076,0.9,22530
+639,Road & Rail,Internet Truckstop Group LLC(5),One stop,L + 5.50,N/A(6),04/2025,-,(2),-,-
+640,Software,Software,One stop,,,,,,,
+641,Software,"Accela, Inc.*#",One stop,L + 4.92(a),4.25 cash/1.67 PIK,09/2023,4498,4498,0.2,4429
+642,Software,"Accela, Inc.(5)",One stop,L + 7.00,N/A(6),09/2023,-,-,-,(2)
+643,Software,"Apptio, Inc.",One stop,L + 7.25(d),8.25,01/2025,57009,57680,2.3,57009
+644,Software,"Apptio, Inc. (5)",One stop,L + 7.25,N/A(6),01/2025,-,(1),-,-
+645,Software,"Astute Holdings, Inc.",One stop,L + 6.50(c),7.50,04/2025,10779,10907,0.4,10779
+646,Software,"Astute Holdings, Inc.",One stop,L + 6.50(c),7.50,04/2025,2760,2752,0.1,2760
+647,Software,"Astute Holdings, Inc. (5)",One stop,L + 6.50,N/A(6),04/2025,-,(1),-,-
+648,Software,Axiom Merger Sub Inc.~^,One stop,L + 5.25(c)(d),6.25,04/2026,5831,5884,0.2,5886
+649,Software,Axiom Merger Sub Inc.+~(8)(9),One stop,E + 5.50(g),5.50,04/2026,2404,2425,0.1,2615
+650,Software,Axiom Merger Sub Inc.,One stop,L + 5.25(d),6.25,04/2026,30,29,-,30
+651,Software,"Bearcat Buyer, Inc.+~",Senior loan,L + 4.25(c),5.25,07/2026,2921,2942,0.1,2828
+652,Software,"Bearcat Buyer, Inc.",Senior loan,L + 4.25(c),5.25,07/2026,522,521,-,505
+653,Software,"Bearcat Buyer, Inc.~",Senior loan,L + 4.25(c),5.25,07/2026,308,306,-,299
+654,Software,"Bearcat Buyer, Inc.",Senior loan,L + 4.25(c)(f),5.46,07/2024,6,6,-,6
+655,Software,"Bullhorn, Inc.*#+~^",One stop,L + 5.75(c),6.75,09/2026,67133,66027,2.8,67677
+656,Software,"Bullhorn, Inc.(8)(9)",One stop,L + 6.00(h),6.02,09/2026,11978,11776,0.5,13213
+657,Software,"Bullhorn, Inc.(8)(9)",One stop,L + 5.75(c),5.75,09/2026,4810,4728,0.2,5273
+658,Software,"Bullhorn, Inc.",One stop,L + 5.75(c),6.75,09/2026,97,96,-,98
+659,Software,"Bullhorn, Inc.",One stop,L + 5.75(c),6.75,09/2026,78,76,-,78
+660,Software,"Bullhorn, Inc.(5)",One stop,L + 5.75,N/A(6),09/2026,-,(4),-,2
+661,Software,"Bullhorn, Inc.(5)",One stop,L + 5.75,N/A(6),09/2026,-,(4),-,2
+662,Software,"Calabrio, Inc. ~",One stop,L + 6.50(c),7.50,06/2025,24880,24893,1.0,24880
+663,Software,"Calabrio, Inc.",One stop,L + 6.50,N/A(6),06/2025,-,1,-,-
+664,Software,"Clearwater Analytics, LLC",One stop,L + 6.25(c),7.25,10/2025,17398,17230,0.7,17224
+665,Software,"Clearwater Analytics, LLC*#",One stop,L + 6.25(c),7.25,10/2025,14242,14190,0.6,14101
+666,Software,"Clearwater Analytics, LLC*",One stop,L + 6.25(c),7.25,10/2025,6025,6025,0.2,5965
+667,Software,"Clearwater Analytics, LLC+One stop",One stop,L + 6.25(c),7.25,10/2025,988,971,-,978
+668,Software,"Clearwater Analytics, LLC(5)",One stop,L + 6.25,N/A(6),10/2025,-,(4),-,(3)
+669,Software,"Cloudbees, Inc.",One stop,L + 9.00(c),9.50 cash/0.50 PIK,05/2023,4220,4250,0.2,4220
+670,Software,"Cloudbees, Inc.",One stop,L + 9.00(c),9.50 cash/0.50 PIK,05/2023,2778,2703,0.1,2778
+671,Software,"Cloudbees, Inc.",One stop,L + 9.00(c),9.50 cash/0.50 PIK,05/2023,1471,1475,0.1,1471
+672,Software,"Cloudbees, Inc.",One stop,L + 9.00,N/A(6),05/2023,-,-,-,-
+673,Software,"Confluence Technologies, Inc.+~^",One stop,L + 5.75(a),6.75,03/2024,44890,44673,1.8,44890
+674,Software,"Confluence Technologies, Inc.",One stop,L + 5.75(a),6.75,03/2024,28,27,-,28
+675,Software,"Convercent, Inc.",One stop,L + 9.00(c),8.25 cash/2.75 PIK,12/2024,2815,2748,0.1,2860
+676,Software,"Convercent, Inc.",Subordinated debt,No Value,4.00,02/2021,138,138,-,185
+677,Software,"Convercent, Inc.",One stop,L + 9.00(c),N/A(6),12/2024,-,-,-,1
+678,Software,"Convercent, Inc.",One stop,L + 9.00,N/A(6),12/2024,-,-,-,-
+679,Software,Daxko Acquisition Corporation*#^,One stop,L + 6.00(c),7.00,09/2023,25614,25686,1.1,25614
+680,Software,Daxko Acquisition Corporation,One stop,L + 6.00,N/A(6),09/2023,-,-,-,-
+681,Software - (continued),Software - (continued),One stop,,,,,,,
+682,Software - (continued),"Digital Guardian, Inc.",One stop,L + 9.50(c),7.50 cash/3.00 PIK,06/2023,8798,9054,0.4,9329
+683,Software - (continued),"Digital Guardian, Inc.",Subordinated debt,No Value,8.00 PIK,06/2023,9,7,-,9
+684,Software - (continued),"Digital Guardian, Inc.",One stop,L + 8.00,N/A(6),06/2023,-,-,-,2
+685,Software - (continued),Diligent Corporation*#+~^,One stop,L + 6.25(c),7.25,08/2025,87836,88279,3.6,87836
+686,Software - (continued),Diligent Corporation,One stop,L + 6.25,N/A(6),08/2025,-,-,-,-
+687,Software - (continued),"GS Acquisitionco, Inc.*#+~^",One stop,L + 5.75(c),6.75,05/2024,53909,54275,2.2,53101
+688,Software - (continued),"GS Acquisitionco, Inc.*#",One stop,L + 5.75(c),6.75,05/2024,12723,13004,0.5,12532
+689,Software - (continued),"GS Acquisitionco, Inc.#",One stop,L + 5.75(c),6.75,05/2024,3278,3351,0.1,3229
+690,Software - (continued),"GS Acquisitionco, Inc.+~",One stop,L + 5.75(c),6.75,05/2024,3024,3092,0.1,2980
+691,Software - (continued),"GS Acquisitionco, Inc.#",One stop,L + 5.75(c),6.75,05/2024,1895,1937,0.1,1866
+692,Software - (continued),"GS Acquisitionco, Inc.",One stop,L + 5.75(c),6.75,05/2024,75,75,-,74
+693,Software - (continued),"GS Acquisitionco, Inc.",One stop,L + 5.75(d),6.75,05/2024,37,37,-,36
+694,Software - (continued),"GS Acquisitionco, Inc.(5)",One stop,L + 5.75,N/A(6),05/2024,-,(2),-,(4)
+695,Software - (continued),"ICIMS, Inc.~",One stop,L + 6.50(c),7.50,09/2024,14355,14535,0.6,14355
+696,Software - (continued),"ICIMS, Inc.~",One stop,L + 6.50(c),7.50,09/2024,4501,4571,0.2,4501
+697,Software - (continued),"ICIMS, Inc.~",One stop,L + 6.50(c),7.50,09/2024,2706,2680,0.1,2706
+698,Software - (continued),"ICIMS, Inc.",One stop,L + 6.50(c),7.50,09/2024,88,88,-,88
+699,Software - (continued),"Impartner, Inc.",One stop,L + 9.50(c),9.30 cash/2.00 PIK,08/2025,2931,2897,0.1,3037
+700,Software - (continued),"Impartner, Inc.(5)",One stop,L + 9.50,N/A(6),08/2025,-,(3),-,17
+701,Software - (continued),"Impartner, Inc.",One stop,L + 9.50,N/A(6),08/2025,-,-,-,-
+702,Software - (continued),"Infogix, Inc.*#",One stop,L + 6.00(c),7.00,04/2024,7160,7282,0.3,7160
+703,Software - (continued),"Infogix, Inc.*^",One stop,L + 6.00(c),7.00,04/2024,1105,1120,0.1,1105
+704,Software - (continued),"Infogix, Inc.",One stop,L + 6.00(c),7.00,04/2024,90,90,-,90
+705,Software - (continued),"Instructure, Inc.~",Senior loan,L + 7.00(c),8.00,03/2026,17285,16683,0.7,17285
+706,Software - (continued),"Integral Ad Science, Inc.~",One stop,L + 7.25(c),7.00 cash/1.25 PIK,07/2024,15899,16073,0.7,15899
+707,Software - (continued),"Integral Ad Science, Inc.(5)",One stop,L + 6.00,N/A(6),07/2023,-,(2),-,(2)
+708,Software - (continued),"Integration Appliance, Inc.*~",One stop,L + 7.25(c),8.25,08/2023,68335,69047,2.8,68335
+709,Software - (continued),"Integration Appliance, Inc.",One stop,L + 7.25(d),8.25,08/2023,487,483,-,487
+710,Software - (continued),"Invoice Cloud, Inc.",One stop,L + 6.50(c),4.25 cash/3.25 PIK,02/2024,6575,6611,0.3,6575
+711,Software - (continued),"Invoice Cloud, Inc.",One stop,L + 6.50(c),4.25 cash/3.25 PIK,02/2024,2204,2203,0.1,2204
+712,Software - (continued),"Invoice Cloud, Inc.(5)",One stop,L + 6.00,N/A(6),02/2024,-,-,-,(2)
+713,Software - (continued),"Juvare, LLC+One stop",One stop,L + 6.25(c),7.25,10/2026,7526,7435,0.3,7432
+714,Software - (continued),"Juvare, LLC",One stop,P + 5.25(f),8.50,10/2026,954,932,-,932
+715,Software - (continued),"Juvare, LLC(5)",One stop,L + 6.25,N/A(6),04/2026,-,(1),-,(1)
+716,Software - (continued),Kaseya Traverse Inc~,One stop,L + 7.00(c),5.00 cash/3.00 PIK,05/2025,37203,38061,1.5,37203
+717,Software - (continued),Kaseya Traverse Inc,One stop,L + 7.00(c),5.00 cash/3.00 PIK,05/2025,3852,3863,0.2,3852
+718,Software - (continued),Kaseya Traverse Inc,One stop,L + 6.50(b),7.50,05/2025,89,88,-,87
+719,Software - (continued),Kaseya Traverse Inc(5),One stop,L + 7.00,N/A(6),05/2025,-,(20),-,-
+720,Software - (continued),"Mindbody, Inc.~",One stop,L + 8.50(c),8.00 cash/1.50 PIK,02/2025,48777,49519,2.0,47802
+721,Software - (continued),"Mindbody, Inc.(5)",One stop,L + 8.00,N/A(6),02/2025,-,(1),-,(8)
+722,Software - (continued),"Ministry Brands, LLC^",Senior loan,L + 4.00(b),5.00,12/2022,1442,1457,0.1,1413
+723,Software - (continued),"Ministry Brands, LLC^",Senior loan,L + 4.00(b),5.00,12/2022,824,834,-,809
+724,Software - (continued),"Ministry Brands, LLC",Senior loan,L + 4.00(b),5.00,12/2022,376,386,-,368
+725,Software - (continued),Software - (continued),Senior loan,,,,,,,
+726,Software - (continued),"mParticle, Inc.",One stop,L + 9.75(c),7.50 cash/3.25 PIK,09/2025,3184,3130,0.1,3184
+727,Software - (continued),"mParticle, Inc.",One stop,L + 9.75,N/A(6),09/2025,-,-,-,-
+728,Software - (continued),"Namely, Inc.~",One stop,L + 7.50(c),8.25 cash/1.25 PIK,06/2024,3591,3431,0.2,3519
+729,Software - (continued),"Namely, Inc.",One stop,L + 7.50(c),8.25 cash/1.25 PIK,06/2024,2039,1918,0.1,1971
+730,Software - (continued),"Namely, Inc.",One stop,L + 7.50(a),8.25 cash/1.25 PIK,06/2024,70,70,-,68
+731,Software - (continued),"Onapsis, Inc., Virtual Forge GMBH and Onapsis GMBH",One stop,L + 7.75(c),7.50 cash/1.75 PIK,10/2024,2149,2132,0.1,2261
+732,Software - (continued),"Onapsis, Inc., Virtual Forge GMBH and Onapsis GMBH",One stop,L + 7.75,N/A(6),10/2024,-,-,-,1
+733,Software - (continued),"Onapsis, Inc., Virtual Forge GMBH and Onapsis GMBH",One stop,L + 7.75,N/A(6),10/2024,-,-,-,4
+734,Software - (continued),"PDI TA Holdings, Inc.",One stop,L + 4.50(a),5.50,10/2024,8559,8411,0.4,8473
+735,Software - (continued),"PDI TA Holdings, Inc.",Second lien,L + 8.50(a),9.50,10/2025,3424,3347,0.1,3372
+736,Software - (continued),"Personify, Inc.*+^",One stop,L + 5.75(c),6.75,09/2024,15216,15459,0.6,15064
+737,Software - (continued),"Personify, Inc.+One stop",One stop,P + 4.75(f),8.00,09/2024,9032,8943,0.4,8942
+738,Software - (continued),"Personify, Inc.",One stop,L + 5.75(c),6.75,09/2024,60,61,-,58
+739,Software - (continued),"RegEd Aquireco, LLC^",Senior loan,L + 4.25(a),5.25,12/2024,11387,11385,0.4,10818
+740,Software - (continued),"RegEd Aquireco, LLC",Senior loan,L + 4.25(a)(f),4.40,12/2024,62,61,-,44
+741,Software - (continued),Saturn Borrower Inc.+~,One stop,L + 6.50(c),7.50,09/2026,16284,15816,0.7,16284
+742,Software - (continued),Saturn Borrower Inc.(5),One stop,L + 6.50,N/A(6),09/2026,-,(3),-,-
+743,Software - (continued),"SnapLogic, Inc.",One stop,L + 8.75(c),5.75 cash/5.50 PIK,09/2024,6062,5999,0.3,6062
+744,Software - (continued),"SnapLogic, Inc.",One stop,L + 8.75(c),5.75 cash/5.50 PIK,09/2024,62,61,-,62
+745,Software - (continued),"SnapLogic, Inc.",One stop,L + 8.75,N/A(6),09/2024,-,-,-,-
+746,Software - (continued),"Sontatype, Inc.",One stop,L + 6.75(c),7.75,12/2025,851,843,-,851
+747,Software - (continued),"Sontatype, Inc.(5)",One stop,L + 6.75,N/A(6),12/2025,-,(2),-,-
+748,Software - (continued),Spartan Buyer Acquisition Co.+~,One stop,L + 6.50(c),7.50,12/2026,31916,31522,1.3,31556
+749,Software - (continued),Spartan Buyer Acquisition Co.(5),One stop,L + 6.50,N/A(6),12/2026,-,(3),-,(3)
+750,Software - (continued),Telesoft Holdings LLC^,One stop,L + 5.75(b),6.75,12/2025,902,885,-,902
+751,Software - (continued),Telesoft Holdings LLC(5),One stop,L + 5.75,N/A(6),12/2025,-,(2),-,-
+752,Software - (continued),"TI Intermediate Holdings, LLC^",Senior loan,L + 4.50(a),4.65,12/2024,3508,3563,0.1,3333
+753,Software - (continued),"TI Intermediate Holdings, LLC+Senior loan",Senior loan,L + 4.50(a),5.50,12/2024,927,904,-,903
+754,Software - (continued),"TI Intermediate Holdings, LLC(5)",Senior loan,L + 4.50,N/A(6),12/2024,-,-,-,(3)
+755,Software - (continued),"TI Intermediate Holdings, LLC(5)",Senior loan,L + 4.50,N/A(6),12/2024,-,(11),-,(11)
+756,Software - (continued),"Togetherwork Holdings, LLC*#",One stop,L + 5.75(a),6.75,03/2025,15524,15658,0.6,15524
+757,Software - (continued),"Togetherwork Holdings, LLC~^",One stop,L + 5.75(a),6.75,03/2025,1799,1857,0.1,1799
+758,Software - (continued),"Togetherwork Holdings, LLC",One stop,L + 5.75(a),6.75,03/2025,1746,1800,0.1,1746
+759,Software - (continued),"Togetherwork Holdings, LLC*#",One stop,L + 5.75(a),6.75,03/2025,1702,1757,0.1,1702
+760,Software - (continued),"Togetherwork Holdings, LLC~^",One stop,L + 5.75(a),6.75,03/2025,1644,1674,0.1,1644
+761,Software - (continued),"Togetherwork Holdings, LLC*^",One stop,L + 5.75(a),6.75,03/2025,1584,1636,0.1,1584
+762,Software - (continued),"Togetherwork Holdings, LLC",One stop,L + 5.75(a),6.75,03/2025,1477,1522,0.1,1477
+763,Software - (continued),"Togetherwork Holdings, LLC*#",One stop,L + 5.75(a),6.75,03/2025,1210,1227,0.1,1210
+764,Software - (continued),"Togetherwork Holdings, LLC",One stop,L + 5.75(a),6.75,03/2025,666,687,-,666
+765,Software - (continued),"Togetherwork Holdings, LLC+One stop",One stop,L + 5.75(a),6.75,03/2025,461,456,-,461
+766,Software - (continued),"Togetherwork Holdings, LLC^",One stop,L + 5.75(a),6.75,03/2025,446,442,-,446
+767,Software - (continued),"Togetherwork Holdings, LLC",One stop,L + 5.75(a),6.75,03/2024,300,299,-,300
+768,Software - (continued),"Togetherwork Holdings, LLC",One stop,L + 5.75(a),6.75,03/2025,64,66,-,64
+769,Software - (continued),Software - (continued),One stop,,,,,,,
+770,Software - (continued),"Togetherwork Holdings, LLC~",One stop,L + 5.75(a),6.75,03/2025,59,61,-,59
+771,Software - (continued),"Transact Holdings, Inc.+~",Senior loan,L + 4.75(a),4.90,04/2026,3071,3111,0.1,3002
+772,Software - (continued),"Trintech, Inc.*#^",One stop,L + 6.00(c),7.00,12/2023,22343,22654,0.9,22343
+773,Software - (continued),"Trintech, Inc.#^",One stop,L + 6.00(c),7.00,12/2023,9263,9434,0.4,9263
+774,Software - (continued),"Trintech, Inc.",One stop,L + 6.00(c),7.00,12/2023,300,301,-,300
+775,Software - (continued),Vector CS Midco Limited & Cloudsense Ltd.~(8)(9)(10),One stop,No Value,4.50 cash/3.55 PIK,05/2024,7929,8049,0.4,8515
+776,Software - (continued),Vector CS Midco Limited & Cloudsense Ltd.(8)(9)(10),One stop,L + 8.05(h),4.50 cash/3.55 PIK,05/2024,134,133,-,140
+777,Software - (continued),"Vendavo, Inc.*~",One stop,L + 6.50(c),7.50,10/2022,35278,35246,1.5,35278
+778,Software - (continued),"Vendavo, Inc.(5)",One stop,L + 6.50,N/A(6),10/2022,-,(2),-,-
+779,Software - (continued),"Workforce Software, LLC~",One stop,L + 6.50(c),7.50,07/2025,27266,27929,1.1,27266
+780,Software - (continued),"Workforce Software, LLC(5)",One stop,L + 6.50,N/A(6),07/2025,-,(2),-,-
+781,Specialty Retail,Specialty Retail,One stop,,,,,,,
+782,Specialty Retail,2nd Ave. LLC,One stop,L + 6.50(d),7.50,09/2025,5900,5819,0.2,5782
+783,Specialty Retail,2nd Ave. LLC,One stop,L + 6.50(d),7.50,09/2025,50,50,-,49
+784,Specialty Retail,Batteries Plus Holding Corporation#,One stop,L + 6.75(a),7.75,07/2022,21921,22072,0.9,21921
+785,Specialty Retail,Batteries Plus Holding Corporation(5),One stop,L + 6.75,N/A(6),07/2022,-,(1),-,-
+786,Specialty Retail,"Boot Barn, Inc.#+~",Senior loan,L + 4.50(c),5.50,06/2023,16778,16893,0.7,16778
+787,Specialty Retail,"Cycle Gear, Inc.#+^",One stop,L + 5.00(c),6.00,01/2024,21416,21727,0.9,21416
+788,Specialty Retail,"DTLR, Inc.*#+One stop",One stop,L + 7.00(c),7.50 cash/0.50 PIK,08/2022,41487,41823,1.7,41487
+789,Specialty Retail,Imperial Optical Midco Inc.~,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,3629,3671,0.2,3629
+790,Specialty Retail,Imperial Optical Midco Inc.*,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,2830,2812,0.1,2830
+791,Specialty Retail,Imperial Optical Midco Inc.#,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,1924,1967,0.1,1924
+792,Specialty Retail,Imperial Optical Midco Inc.#,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,1252,1280,0.1,1252
+793,Specialty Retail,Imperial Optical Midco Inc.*,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,1141,1165,0.1,1141
+794,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,331,329,-,331
+795,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,241,239,-,241
+796,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,191,189,-,191
+797,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,163,160,-,163
+798,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,134,133,-,134
+799,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,130,129,-,130
+800,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,97,96,-,97
+801,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,83,83,-,83
+802,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,76,76,-,76
+803,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,69,68,-,69
+804,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,63,63,-,63
+805,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,55,55,-,55
+806,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,43,42,-,43
+807,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,41,41,-,41
+808,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,35,35,-,35
+809,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,28,27,-,28
+810,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,24,24,-,24
+811,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,21,21,-,21
+812,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,20,19,-,20
+813,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,19,18,-,19
+814,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,17,17,-,17
+815,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,11,11,-,11
+816,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,11,11,-,11
+817,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,9,9,-,9
+818,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,9,9,-,9
+819,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,8,8,-,8
+820,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,7,7,-,7
+821,Specialty Retail,Imperial Optical Midco Inc.,One stop,L + 8.25(a),7.25 cash/2.00 PIK,08/2023,5,5,-,5
+822,Specialty Retail -. (continued),Specialty Retail -. (continued),One stop,,,,,,,
+823,Specialty Retail -. (continued),Imperial Optical Midco Inc.,One stop,L + 6.25,N/A(6),08/2023,-,-,-,-
+824,Specialty Retail -. (continued),Imperial Optical Midco Inc.(5),One stop,L + 6.25,N/A(6),08/2023,-,(15),-,-
+825,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.+~(8)(9)(12),One stop,L + 5.25(a),6.25,11/2024,17942,18203,0.8,18534
+826,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.*#(8)(12),One stop,L + 5.25(a),6.25,11/2024,12333,12557,0.5,12319
+827,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.+(8)(9)(12),One stop,L + 5.50(c),6.50,11/2024,5246,5197,0.2,5474
+828,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.#(8)(12)^,One stop,L + 5.25(a),6.25,11/2024,4295,4362,0.2,4291
+829,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.(8)(12)^,One stop,L + 5.25(a),6.25,11/2024,1577,1565,0.1,1576
+830,Specialty Retail -. (continued),Jet Equipment & Tools Ltd.(5)(8)(9)(12),One stop,L + 5.25,N/A(6),11/2024,-,(1),-,-
+831,Specialty Retail -. (continued),Pet Holdings ULC*#+(8)(12),One stop,L + 5.50(c),6.50,07/2022,46518,47211,1.9,46518
+832,Specialty Retail -. (continued),Pet Holdings ULC*#+(8)(12),One stop,L + 5.50(c),6.50,07/2022,240,241,-,240
+833,Specialty Retail -. (continued),Pet Holdings ULC(5)(8)(12),One stop,L + 5.50,N/A(6),07/2022,-,(1),-,-
+834,Specialty Retail -. (continued),"Pet Supplies Plus, LLC*+^",Senior loan,L + 4.25(c),5.25,12/2024,14144,14365,0.6,14144
+835,Specialty Retail -. (continued),"Pet Supplies Plus, LLC(5)",Senior loan,L + 4.25,N/A(6),12/2023,-,(1),-,-
+836,Specialty Retail -. (continued),"PetPeople Enterprises, LLC#",One stop,L + 5.75(c),6.75,09/2023,5338,5383,0.2,5232
+837,Specialty Retail -. (continued),"PetPeople Enterprises, LLC#",One stop,L + 5.75(c)(d),6.75,09/2023,1813,1837,0.1,1777
+838,Specialty Retail -. (continued),"PetPeople Enterprises, LLC",One stop,L + 5.75(d),6.75,09/2023,40,41,-,38
+839,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(d),7.50,05/2023,4908,4908,0.2,4908
+840,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,1164,1106,0.1,1164
+841,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,1073,1059,0.1,1073
+842,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,1034,1021,-,1034
+843,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,1007,1007,-,1007
+844,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,931,919,-,931
+845,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,776,766,-,776
+846,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,737,728,-,737
+847,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,602,602,-,602
+848,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,530,523,-,530
+849,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,434,418,-,434
+850,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50(a),7.50,05/2023,129,127,-,129
+851,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,No Value,7.90 PIK,05/2023,24,24,-,24
+852,Specialty Retail -. (continued),"PPV Intermediate Holdings II, LLC",One stop,L + 6.50,N/A(6),05/2023,-,-,-,-
+853,Specialty Retail -. (continued),"Sola Franchise, LLC and Sola Salon Studios, LLC#",One stop,L + 4.75(c),5.75,10/2024,7336,7349,0.3,7336
+854,Specialty Retail -. (continued),"Sola Franchise, LLC and Sola Salon Studios, LLC#",One stop,L + 4.75(c),5.75,10/2024,1704,1758,0.1,1704
+855,Specialty Retail -. (continued),"Sola Franchise, LLC and Sola Salon Studios, LLC",One stop,L + 4.75(c)(f),6.13,10/2024,66,65,-,66
+856,Specialty Retail -. (continued),"Titan Fitness, LLC*#+One stop",One stop,L + 4.75(b)(c),5.75,02/2025,30240,30656,1.1,27217
+857,Specialty Retail -. (continued),"Titan Fitness, LLC",One stop,L + 4.75(c),5.75,02/2025,1889,1876,0.1,1700
+858,Specialty Retail -. (continued),"Titan Fitness, LLC",One stop,L + 4.75(c),5.75,02/2025,474,472,-,424
+859,Specialty Retail -. (continued),"Titan Fitness, LLC(5)",One stop,L + 4.75,N/A(6),02/2025,-,(1),-,-
+860,Specialty Retail -. (continued),Vermont Aus Pty Ltd~(8)(9)(11),One stop,L + 4.75(c),4.81,12/2024,2199,2218,0.1,2452
+861,Specialty Retail -. (continued),Vermont Aus Pty Ltd(8)(9)(11),One stop,L + 4.75(c),4.81,12/2024,81,82,-,97
+862,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",One stop,,,,,,,
+863,"Technology Hardware, Storage & Peripherals",Agility Recovery Solutions Inc.*#^,One stop,L + 6.00(c),7.00,03/2023,22414,22524,0.9,21966
+864,"Technology Hardware, Storage & Peripherals",Agility Recovery Solutions Inc.,One stop,L + 6.00(c),7.00,03/2023,902,900,-,882
+865,"Textiles, Apparel & Luxury Goods","Textiles, Apparel & Luxury Goods",One stop,,,,,,,
+866,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,9571,9455,0.3,6700
+867,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,3848,3803,0.1,2693
+868,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,1980,1957,0.1,1386
+869,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,1192,1178,-,828
+870,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.*",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,657,650,-,459
+871,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,301,297,-,211
+872,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.*",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,287,285,-,201
+873,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",Senior loan,L + 6.25(c),2.00 cash/5.25 PIK,12/2021,42,41,-,30
+874,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC#",One stop,L + 5.50(c)(d),6.50,11/2023,10350,10440,0.4,9543
+875,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC*#",One stop,L + 5.50(c)(d),6.50,11/2023,6504,6565,0.3,5997
+876,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC+One stop",One stop,L + 5.50(c)(d),6.50,11/2023,1006,999,-,928
+877,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC#",One stop,L + 5.50(c)(d),6.50,11/2023,906,915,-,835
+878,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC*#",One stop,L + 5.50(c)(d),6.50,11/2023,635,643,-,586
+879,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC",One stop,L + 5.50(c)(d),6.50,11/2023,236,236,-,218
+880,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation~,Senior loan,L + 5.25(c),4.00 cash/2.25 PIK,04/2024,4035,4019,0.2,3631
+881,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation~,Senior loan,L + 5.23(c),4.00 cash/2.23 PIK,04/2024,44,44,-,39
+882,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation,Senior loan,L + 4.00(a)(c)(d),5.00,04/2024,35,34,-,35
+883,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation(5),Senior loan,L + 5.00,N/A(6),04/2024,-,(1),-,(8)
+884,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation,Senior loan,L + 5.00(c)(d),N/A(6),04/2024,-,-,-,-
+885,"Textiles, Apparel & Luxury Goods",SHO Holding I Corporation,Senior loan,L + 5.23(c)(d),N/A(6),04/2024,-,-,-,-
+886,Equity Investments (14)(15),Equity Investments (14)(15),Senior loan,,,,,,,
+887,Equity Investments (14)(15),NTS Technical Systems,Common Stock,No Value,No Value,No Value,2,1506,0.1,776
+888,Equity Investments (14)(15),NTS Technical Systems,Preferred stock,No Value,No Value,No Value,-,256,-,448
+889,Equity Investments (14)(15),NTS Technical Systems,Preferred stock,No Value,No Value,No Value,-,128,-,256
+890,Equity Investments (14)(15),Whitcraft LLC,Common Stock,No Value,No Value,No Value,11,2285,0.1,2766
+891,Auto Components,Auto Components,Common Stock,,,,,,,
+892,Auto Components,Polk Acquisition Corp.,LP interest,No Value,No Value,No Value,5,314,-,137
+893,Automobiles,Automobiles,LP interest,,,,,,,
+894,Automobiles,"MOP GM Holding, LLC",LLC units,No Value,No Value,No Value,-,323,-,323
+895,Automobiles,"Quick Quack Car Wash Holdings, LLC",LLC units,No Value,No Value,No Value,-,508,-,480
+896,Biotechnology,Biotechnology,LLC units,,,,,,,
+897,Biotechnology,"BIO18 Borrower, LLC(16)",LLC units,No Value,No Value,No Value,591,1190,0.1,1814
+898,Building Products,Building Products,LLC units,,,,,,,
+899,Building Products,"Brooks Equipment Company, LLC",Common Stock,No Value,No Value,No Value,10,1020,0.1,2180
+900,Chemicals,Chemicals,Common Stock,,,,,,,
+901,Chemicals,Inhance Technologies Holdings LLC,LLC units,No Value,No Value,No Value,-,124,-,73
+902,Commercial Services & Supplies,Commercial Services & Supplies,LLC units,,,,,,,
+903,Commercial Services & Supplies,Hydraulic Authority III Limited(8)(9)(10),Preferred stock,No Value,No Value,No Value,284,384,-,377
+904,Commercial Services & Supplies,Hydraulic Authority III Limited(8)(9)(10),Common Stock,No Value,No Value,No Value,6,43,-,-
+905,Construction & Engineering,Construction & Engineering,Common Stock,,,,,,,
+906,Construction & Engineering,"Reladyne, Inc.",LP units,No Value,No Value,No Value,1,931,0.1,1001
+907,Diversified Consumer Services,Diversified Consumer Services,LP units,,,,,,,
+908,Diversified Consumer Services,EWC Growth Partners LLC,LLC interest,No Value,No Value,No Value,-,12,-,4
+909,Diversified Consumer Services,"Liminex, Inc.",Common Stock,No Value,No Value,No Value,14,496,-,496
+910,Diversified Consumer Services,"PADI Holdco, Inc.",LLC units,No Value,No Value,No Value,1,969,-,138
+911,Diversified Consumer Services,"Spear Education, LLC",LLC units,No Value,No Value,No Value,-,7,-,20
+912,Diversified Consumer Services,"Spear Education, LLC",LLC units,No Value,No Value,No Value,1,1,-,-
+913,"Electronic Equipment, Instruments & Components","Electronic Equipment, Instruments & Components",LLC units,,,,,,,
+914,"Electronic Equipment, Instruments & Components",ES Acquisition LLC,LP interest,No Value,No Value,No Value,-,15,-,28
+915,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.",Preferred stock,No Value,No Value,No Value,1,372,-,131
+916,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.",LLC units,No Value,No Value,No Value,-,88,-,167
+917,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.",Preferred stock,No Value,No Value,No Value,-,20,-,42
+918,"Electronic Equipment, Instruments & Components","Inventus Power, Inc.",Common Stock,No Value,No Value,No Value,1,-,-,-
+919,Food & Staples Retailing,Food & Staples Retailing,Common Stock,,,,,,,
+920,Food & Staples Retailing,"Benihana, Inc.",LLC unit,No Value,No Value,No Value,43,699,-,39
+921,Food & Staples Retailing,"Cafe Rio Holding, Inc.",Common Stock,No Value,No Value,No Value,5,603,-,838
+922,Food & Staples Retailing,"Captain D's, LLC",LLC interest,No Value,No Value,No Value,158,156,-,422
+923,Food & Staples Retailing,"Feeders Supply Company, LLC",Preferred stock,No Value,No Value,No Value,4,400,-,284
+924,Food & Staples Retailing,"Feeders Supply Company, LLC",LLC units,No Value,No Value,No Value,-,-,-,-
+925,Food & Staples Retailing,"Hopdoddy Holdings, LLC",LLC units,No Value,No Value,No Value,44,217,-,44
+926,Food & Staples Retailing,"Hopdoddy Holdings, LLC",LLC units,No Value,No Value,No Value,20,61,-,13
+927,Food & Staples Retailing,"Mendocino Farms, LLC",Common Stock,No Value,No Value,No Value,169,770,0.1,946
+928,Food & Staples Retailing,"Ruby Slipper Cafe LLC, The",LLC units,No Value,No Value,No Value,31,373,-,65
+929,Food & Staples Retailing,"Ruby Slipper Cafe LLC, The",LP units,No Value,No Value,No Value,2,20,-,8
+930,Food & Staples Retailing,"Wetzel's Pretzels, LLC",Common Stock,No Value,No Value,No Value,-,416,-,170
+931,Food & Staples Retailing,Wood Fired Holding Corp.,LLC units,No Value,No Value,No Value,437,444,-,356
+932,Food & Staples Retailing,Wood Fired Holding Corp.,LLC units,No Value,No Value,No Value,437,-,-,-
+933,Food Products,Food Products,LLC units,,,,,,,
+934,Food Products,"C. J. Foods, Inc.",Preferred stock,No Value,No Value,No Value,-,75,0.1,558
+935,Food Products,"FCID Merger Sub, Inc.",Common Stock,No Value,No Value,No Value,3,325,-,325
+936,Food Products,"Purfoods, LLC",LLC interest,No Value,No Value,No Value,-,926,0.2,5325
+937,Health Care Equipment & Supplies,Health Care Equipment & Supplies,LLC interest,,,,,,,
+938,Health Care Equipment & Supplies,"Aspen Medical Products, LLC",Common Stock,No Value,No Value,No Value,-,77,-,103
+939,Health Care Equipment & Supplies,"Blue River Pet Care, LLC",LLC units,No Value,No Value,No Value,-,76,-,105
+940,Health Care Equipment & Supplies,"CCSL Holdings, LLC",LP units,No Value,No Value,No Value,-,312,-,312
+941,Health Care Equipment & Supplies,CMI Parent Inc.,LLC units,No Value,No Value,No Value,-,240,-,234
+942,Health Care Equipment & Supplies,CMI Parent Inc.,LLC units,No Value,No Value,No Value,2,3,-,-
+943,Health Care Equipment & Supplies,"Flexan, LLC",LLC units,No Value,No Value,No Value,-,137,-,227
+944,Health Care Equipment & Supplies,"Flexan, LLC",LLC interest,No Value,No Value,No Value,1,-,-,30
+945,Health Care Equipment & Supplies,"G & H Wire Company, Inc.",LLC interest,No Value,No Value,No Value,336,269,-,77
+946,Health Care Equipment & Supplies,"Joerns Healthcare, LLC*",Common Stock,No Value,No Value,No Value,432,4330,0.2,2569
+947,Health Care Equipment & Supplies,"Katena Holdings, Inc.",LLC units,No Value,No Value,No Value,1,572,-,330
+948,Health Care Equipment & Supplies,"Lombart Brothers, Inc.",Common Stock,No Value,No Value,No Value,1,440,-,-
+949,Health Care Providers & Services,Health Care Providers & Services,Common Stock,,,,,,,
+950,Health Care Providers & Services,"Active Day, Inc.",LLC interest,No Value,No Value,No Value,1,1099,-,372
+951,Health Care Providers & Services,"Acuity Eyecare Holdings, LLC",LLC interest,No Value,No Value,No Value,1158,1334,0.1,1563
+952,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC",Preferred stock,No Value,No Value,No Value,1,1119,0.1,944
+953,Health Care Providers & Services,"ADCS Clinics Intermediate Holdings, LLC",Common Stock,No Value,No Value,No Value,-,6,-,-
+954,Health Care Providers & Services,"CRH Healthcare Purchaser, Inc.(16)",LP interest,No Value,No Value,No Value,429,326,0.1,926
+955,Health Care Providers & Services,"DCA Investment Holding, LLC",LLC units,No Value,No Value,No Value,13890,1619,0.1,2088
+956,Health Care Providers & Services,"DCA Investment Holding, LLC",LLC units,No Value,No Value,No Value,140,218,-,-
+957,Health Care Providers & Services,Deca Dental Management LLC,LLC units,No Value,No Value,No Value,1008,1278,-,858
+958,Health Care Providers & Services,"Encore GC Acquisition, LLC",LLC units,No Value,No Value,No Value,26,272,-,305
+959,Health Care Providers & Services,"Encore GC Acquisition, LLC",LLC units,No Value,No Value,No Value,26,52,-,61
+960,Health Care Providers & Services,Encorevet Group LLC,Preferred stock,No Value,No Value,No Value,-,15,-,19
+961,Health Care Providers & Services,Encorevet Group LLC,LLC units,No Value,No Value,No Value,-,6,-,7
+962,Health Care Providers & Services,"ERG Buyer, LLC",LLC units,No Value,No Value,No Value,1,661,-,26
+963,Health Care Providers & Services,"ERG Buyer, LLC",LLC units,No Value,No Value,No Value,8,4,-,-
+964,Health Care Providers & Services,Eyecare Services Partners Holdings LLC,LLC units,No Value,No Value,No Value,-,262,-,-
+965,Health Care Providers & Services,Eyecare Services Partners Holdings LLC,LLC units,No Value,No Value,No Value,-,1,-,-
+966,Health Care Providers & Services,"Krueger-Gilbert Health Physics, LLC",LLC interest,No Value,No Value,No Value,168,187,-,193
+967,Health Care Providers & Services,"MD Now Holdings, Inc.",LLC units,No Value,No Value,No Value,15,153,-,189
+968,Health Care Providers & Services,"Midwest Veterinary Partners, LLC",LLC units,No Value,No Value,No Value,-,29,-,33
+969,Health Care Providers & Services,"Midwest Veterinary Partners, LLC",LLC units,No Value,No Value,No Value,6,-,-,62
+970,Health Care Providers & Services,"MWD Management, LLC & MWD Services, Inc.",LLC interest,No Value,No Value,No Value,412,335,-,304
+971,Health Care Providers & Services,"Oliver Street Dermatology Holdings, LLC",LLC units,No Value,No Value,No Value,452,234,-,-
+972,Health Care Providers & Services,"Pentec Acquisition Sub, Inc.",Preferred stock,No Value,No Value,No Value,1,116,-,185
+973,Health Care Providers & Services,"Pinnacle Treatment Centers, Inc.",Preferred stock,No Value,No Value,No Value,-,528,-,643
+974,Health Care Providers & Services,"Pinnacle Treatment Centers, Inc.",LLC units,No Value,No Value,No Value,5,74,-,577
+975,Health Care Providers & Services,"Radiology Partners, Inc.",LLC units,No Value,No Value,No Value,11,68,-,63
+976,Health Care Providers & Services,"Radiology Partners, Inc.",LLC units,No Value,No Value,No Value,43,55,-,250
+977,Health Care Providers & Services,RXH Buyer Corporation,LP interest,No Value,No Value,No Value,11,973,0.1,1437
+978,Health Care Providers & Services,"Sage Dental Management, LLC",LLC units,No Value,No Value,No Value,-,249,-,-
+979,Health Care Providers & Services,"Sage Dental Management, LLC",LLC units,No Value,No Value,No Value,3,3,-,-
+980,Health Care Providers & Services,SSH Corporation,Common Stock,No Value,No Value,No Value,-,40,-,115
+981,Health Care Providers & Services,"Summit Behavioral Healthcare, LLC",LLC interest,No Value,No Value,No Value,2,98,-,199
+982,Health Care Providers & Services,"Summit Behavioral Healthcare, LLC",LLC interest,No Value,No Value,No Value,2,-,-,-
+983,Health Care Providers & Services,"WHCG Management, LLC",LLC interest,No Value,No Value,No Value,1,414,-,583
+984,Health Care Technology,Health Care Technology,LLC interest,,,,,,,
+985,Health Care Technology,"Connexin Software, Inc.",LLC interest,No Value,No Value,No Value,154,192,-,265
+986,Health Care Technology,"HealthcareSource HR, Inc.",LLC interest,No Value,No Value,No Value,-,621,-,724
+987,Health Care Technology,"HSI Halo Acquisition, Inc.",Preferred stock,No Value,No Value,No Value,-,288,-,256
+988,Health Care Technology,"HSI Halo Acquisition, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+989,Health Care Technology,"Kareo, Inc.",Warrant,No Value,No Value,No Value,53,162,-,11
+990,Health Care Technology,"Kareo, Inc.",Preferred stock,No Value,No Value,No Value,1,8,-,13
+991,Health Care Technology,"Kareo, Inc.",Warrant,No Value,No Value,No Value,5,6,-,20
+992,Health Care Technology,"Caliper Software, Inc.",Preferred stock,No Value,No Value,No Value,3,2734,0.2,3211
+993,Health Care Technology,"Caliper Software, Inc.",Preferred stock,No Value,No Value,No Value,-,1427,0.1,1427
+994,Health Care Technology,"Caliper Software, Inc.",Common Stock,No Value,No Value,No Value,221,283,-,816
+995,Health Care Technology,"Caliper Software, Inc.",Preferred stock,No Value,No Value,No Value,-,64,-,64
+996,Health Care Technology,"Caliper Software, Inc.",Preferred stock,No Value,No Value,No Value,-,37,-,47
+997,Health Care Technology,Verisys Corporation,LLC interest,No Value,No Value,No Value,579,712,-,354
+998,"Hotels, Restaurants & Leisure","Hotels, Restaurants & Leisure",LLC interest,,,,,,,
+999,"Hotels, Restaurants & Leisure","LMP TR Holdings, LLC",LLC units,No Value,No Value,No Value,712,712,-,328
+1000,"Hotels, Restaurants & Leisure","SSRG Holdings, LLC",LLC units,No Value,No Value,No Value,6,61,-,41
+1001,"Hotels, Restaurants & Leisure","Tropical Smoothie Cafe Holdings, LLC(16)",LP units,No Value,No Value,No Value,5,550,-,640
+1002,Household Durables,Household Durables,LP units,,,,,,,
+1003,Household Durables,Groundworks LLC,LLC units,No Value,No Value,No Value,-,155,-,311
+1004,Insurance,Insurance,LLC units,,,,,,,
+1005,Insurance,"Captive Resources Midco, LLC",LLC units,No Value,No Value,No Value,425,-,-,445
+1006,Insurance,Majesco,LP units,No Value,No Value,No Value,-,264,-,270
+1007,Insurance,Majesco,LP units,No Value,No Value,No Value,59,-,-,113
+1008,Insurance,"Orchid Underwriters Agency, LLC",LP interest,No Value,No Value,No Value,92,103,-,79
+1009,IT Services,IT Services,LP interest,,,,,,,
+1010,IT Services,"Appriss Holdings, Inc.",Preferred stock,No Value,No Value,No Value,-,174,-,185
+1011,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.",Preferred stock,No Value,No Value,No Value,587,462,0.1,1481
+1012,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.",Preferred stock,No Value,No Value,No Value,154,423,-,427
+1013,IT Services,"Arctic Wolfs Networks, Inc. and Arctic Wolf Networks Canada, Inc.",Warrant,No Value,No Value,No Value,202,159,-,434
+1014,IT Services,Centrify Corporation,LP interest,No Value,No Value,No Value,1,691,-,458
+1015,IT Services,Centrify Corporation,LP interest,No Value,No Value,No Value,263,-,-,-
+1016,IT Services,"Episerver, Inc.",LLC units,No Value,No Value,No Value,76,807,-,565
+1017,IT Services,Maverick Bidco Inc.,LLC units,No Value,No Value,No Value,2,723,0.1,966
+1018,IT Services,"PCS Intermediate II Holdings, LLC",LLC units,No Value,No Value,No Value,37,367,-,424
+1019,IT Services,"Red Dawn SEI Buyer, Inc.",LP interest,No Value,No Value,No Value,13,13,-,15
+1020,Leisure Products,Leisure Products,LP interest,,,,,,,
+1021,Leisure Products,"Massage Envy, LLC",LLC interest,No Value,No Value,No Value,749,210,-,941
+1022,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,68,117,-,59
+1023,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,46,80,-,41
+1024,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,38,65,-,33
+1025,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,33,58,-,29
+1026,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,14,24,-,13
+1027,Leisure Products,WBZ Investment LLC,LLC interest,No Value,No Value,No Value,1,2,-,2
+1028,Life Sciences Tools & Services,Life Sciences Tools & Services,LLC interest,,,,,,,
+1029,Life Sciences Tools & Services,"Pace Analytical Services, LLC",LLC units,No Value,No Value,No Value,6,700,0.1,1054
+1030,"Oil, Gas and Consumable Fuels","Oil, Gas and Consumable Fuels",LLC units,,,,,,,
+1031,"Oil, Gas and Consumable Fuels",W3 Co.,LLC units,No Value,No Value,No Value,3,1632,0.1,2394
+1032,"Oil, Gas and Consumable Fuels",W3 Co.,Preferred stock,No Value,No Value,No Value,-,224,-,266
+1033,Pharmaceuticals,Pharmaceuticals,Preferred stock,,,,,,,
+1034,Pharmaceuticals,"BIOVT, LLC",LLC units,No Value,No Value,No Value,-,1223,0.1,2191
+1035,Professional Services,Professional Services,LLC units,,,,,,,
+1036,Professional Services,"Brandmuscle, Inc.",LLC interest,No Value,No Value,No Value,-,335,-,251
+1037,Professional Services,DISA Holdings Acquisition Subsidiary Corp.,Common Stock,No Value,No Value,No Value,-,154,-,272
+1038,Professional Services,Net Health Acquisition Corp.,LP interest,No Value,No Value,No Value,13,1440,0.1,1473
+1039,Professional Services,"Nexus Brands Group, Inc.",LP interest,No Value,No Value,No Value,-,547,-,686
+1040,Professional Services,"Vitalyst, LLC",Preferred stock,No Value,No Value,No Value,-,61,-,53
+1041,Professional Services,"Vitalyst, LLC",Common Stock,No Value,No Value,No Value,1,7,-,-
+1042,Real Estate Management & Development,Real Estate Management & Development,Common Stock,,,,,,,
+1043,Real Estate Management & Development,"Property Brands, Inc.",LLC units,No Value,No Value,No Value,63,434,-,593
+1044,Road & Rail,Road & Rail,LLC units,,,,,,,
+1045,Road & Rail,Internet Truckstop Group LLC,LP interest,No Value,No Value,No Value,408,447,-,325
+1046,Software,Software,LP interest,,,,,,,
+1047,Software,"Accela, Inc.",LLC units,No Value,No Value,No Value,670,418,-,81
+1048,Software,"Astute Holdings, Inc.",LP interest,No Value,No Value,No Value,-,294,-,570
+1049,Software,"Calabrio, Inc.",Common Stock,No Value,No Value,No Value,26,205,-,404
+1050,Software,"Cloudbees, Inc.",Preferred stock,No Value,No Value,No Value,71,466,-,353
+1051,Software,"Cloudbees, Inc.",Warrant,No Value,No Value,No Value,131,247,-,323
+1052,Software,"Confluence Technologies, Inc.",LLC interest,No Value,No Value,No Value,3,412,-,541
+1053,Software,"Convercent, Inc.",Warrant,No Value,No Value,No Value,325,63,-,148
+1054,Software,"Digital Guardian, Inc.",Preferred stock,No Value,No Value,No Value,356,434,-,375
+1055,Software,"Digital Guardian, Inc.",Warrant,No Value,No Value,No Value,122,225,-,290
+1056,Software,"Digital Guardian, Inc.",Preferred stock,No Value,No Value,No Value,74,142,-,177
+1057,Software,"Digital Guardian, Inc.",Preferred stock,No Value,No Value,No Value,67,123,-,174
+1058,Software,"Digital Guardian, Inc.",Warrant,No Value,No Value,No Value,124,33,-,70
+1059,Software,Diligent Corporation,Preferred stock,No Value,No Value,No Value,414,912,0.1,2162
+1060,Software,"GS Acquisitionco, Inc.",LP interest,No Value,No Value,No Value,2,290,0.1,872
+1061,Software,"MetricStream, Inc.",Warrant,No Value,No Value,No Value,168,263,-,188
+1062,Software,"mParticle, Inc.",Warrant,No Value,No Value,No Value,26,10,-,113
+1063,Software,"Namely, Inc.",Warrants,No Value,No Value,No Value,47,314,-,303
+1064,Software,"Namely, Inc.",Warrant,No Value,No Value,No Value,17,28,-,25
+1065,Software,"Onapsis, Inc., Virtual Forge GMBH and Onapsis GMBH",Warrant,No Value,No Value,No Value,4,9,-,25
+1066,Software,"Personify, Inc.",LLC units,No Value,No Value,No Value,716,942,0.1,1043
+1067,Software,"Pride Midco, Inc.(16)",Preferred stock,No Value,No Value,No Value,2,2594,0.1,3009
+1068,Software,"Project Alpha Intermediate Holding, Inc.",Common Stock,No Value,No Value,No Value,1,964,0.1,1190
+1069,Software,"Project Alpha Intermediate Holding, Inc.",Common Stock,No Value,No Value,No Value,202,329,0.1,1012
+1070,Software,Project Silverback Holdings Corp.,Preferred stock,No Value,No Value,No Value,3,6,-,665
+1071,Software,"RegEd Aquireco, LLC",LP interest,No Value,No Value,No Value,-,316,-,175
+1072,Software,"RegEd Aquireco, LLC",LP interest,No Value,No Value,No Value,3,21,-,0
+1073,Software,Saturn Borrower Inc.,LP units,No Value,No Value,No Value,328,328,-,328
+1074,Software,"SnapLogic, Inc.",Preferred stock,No Value,No Value,No Value,278,695,0.1,1090
+1075,Software,"SnapLogic, Inc.",Warrant,No Value,No Value,No Value,69,27,-,191
+1076,Software,Spartan Buyer Acquisition Co.,Common Stock,No Value,No Value,No Value,-,535,-,535
+1077,Software,Telesoft Holdings LLC,LP interest,No Value,No Value,No Value,6,6,-,6
+1078,Software,"Vendavo, Inc.",Preferred stock,No Value,No Value,No Value,1017,1017,0.1,1833
+1079,Software,"Workforce Software, LLC",Common Stock,No Value,No Value,No Value,-,973,-,558
+1080,Software,"Xmatters, Inc. and Alarmpoint, Inc.",Preferred stock,No Value,No Value,No Value,474,494,-,673
+1081,Software,"Xmatters, Inc. and Alarmpoint, Inc.",Warrant,No Value,No Value,No Value,84,64,-,31
+1082,Software,"Xmatters, Inc. and Alarmpoint, Inc.",Preferred stock,No Value,No Value,No Value,20,26,-,27
+1083,Specialty Retail,Specialty Retail,Preferred stock,,,,,,,
+1084,Specialty Retail,2nd Ave. LLC,LP interest,No Value,No Value,No Value,653,653,-,606
+1085,Specialty Retail,Batteries Plus Holding Corporation,LP interest,No Value,No Value,No Value,10,1287,0.1,1231
+1086,Specialty Retail,"Cycle Gear, Inc.",LLC units,No Value,No Value,No Value,27,462,0.1,1176
+1087,Specialty Retail,"DTLR, Inc.",LLC interest,No Value,No Value,No Value,4,411,0.1,969
+1088,Specialty Retail,Imperial Optical Midco Inc.,Preferred stock,No Value,No Value,No Value,-,122,-,131
+1089,Specialty Retail,Imperial Optical Midco Inc.,Preferred stock,No Value,No Value,No Value,-,46,-,47
+1090,Specialty Retail,Jet Equipment & Tools Ltd.(8)(9)(12),LLC units,No Value,No Value,No Value,1,948,0.1,3048
+1091,Specialty Retail,"Paper Source, Inc.",Common Stock,No Value,No Value,No Value,8,1387,-,-
+1092,Specialty Retail,Pet Holdings ULC(8)(12),LP interest,No Value,No Value,No Value,677,483,-,309
+1093,Specialty Retail,"Pet Supplies Plus, LLC",LLC units,No Value,No Value,No Value,144,181,-,482
+1094,Specialty Retail,"PPV Intermediate Holdings II, LLC",LLC interest,No Value,No Value,No Value,281,271,-,473
+1095,Specialty Retail,"Sola Franchise, LLC and Sola Salon Studios, LLC",LLC units,No Value,No Value,No Value,6,682,-,645
+1096,Specialty Retail,"Sola Franchise, LLC and Sola Salon Studios, LLC",LLC units,No Value,No Value,No Value,1,138,-,129
+1097,Specialty Retail,"Southern Veterinary Partners, LLC",LLC units,No Value,No Value,No Value,1,717,0.1,952
+1098,Specialty Retail,"Southern Veterinary Partners, LLC",LLC units,No Value,No Value,No Value,148,188,0.1,1523
+1099,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",LLC units,,,,,,,
+1100,"Technology Hardware, Storage & Peripherals",Agility Recovery Solutions Inc.,LLC units,No Value,No Value,No Value,97,604,-,688
+1101,"Textiles, Apparel & Luxury Goods","Textiles, Apparel & Luxury Goods",LLC units,,,,,,,
+1102,"Textiles, Apparel & Luxury Goods","Elite Sportswear, L.P.",LLC interest,No Value,No Value,No Value,-,165,-,-
+1103,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC",LLC interest,No Value,No Value,No Value,20,239,-,80
+1104,"Textiles, Apparel & Luxury Goods","Georgica Pine Clothiers, LLC",LLC units,No Value,No Value,No Value,-,-,-,-
+1105,"Textiles, Apparel & Luxury Goods",R.G. Barry Corporation,Preferred stock,No Value,No Value,No Value,-,161,-,134
+1106,Non-controlled/affiliate company investments(17),Non-controlled/affiliate company investments(17),Preferred stock,,,,,,,
+1107,Debt investments,Debt investments,Preferred stock,,,,,,,
+1108,Beverages,Beverages,Preferred stock,,,,,,,
+1109,Beverages,Uinta Brewing Company(7),One stop,L + 4.00(a),5.00,08/2021,962,923,-,212
+1110,Beverages,Uinta Brewing Company(7),One stop,L + 4.00(a),5.00,08/2021,508,503,-,361
+1111,Consumer Finance,Consumer Finance,One stop,,,,,,,
+1112,Consumer Finance,"Paradigm DKD Group, LLC(7)",Senior loan,L + 6.25(c),7.50,05/2022,3220,2099,0.1,2491
+1113,Consumer Finance,"Paradigm DKD Group, LLC(5)(7)",Senior loan,L + 6.25(c),N/A(6),05/2022,-,(142),-,3
+1114,"Electronic Equipment, Instruments and Components","Electronic Equipment, Instruments and Components",Senior loan,,,,,,,
+1115,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The(7)",One stop,L + 8.50(c),9.50,04/2023,4708,4074,0.2,3567
+1116,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The",One stop,L + 8.50(c),9.50,04/2023,667,667,-,667
+1117,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The(7)",One stop,L + 8.50(c),9.50,04/2023,312,271,-,237
+1118,"Energy, Equipment & Services","Energy, Equipment & Services",One stop,,,,,,,
+1119,"Energy, Equipment & Services","Benetech, Inc.+One stop",One stop,L + 6.00(a),7.25,08/2023,3973,3973,0.1,2384
+1120,"Energy, Equipment & Services","Benetech, Inc.",One stop,L + 6.00(a),7.25,08/2023,574,574,-,90
+1121,Food and Staples Retailing,Food and Staples Retailing,One stop,,,,,,,
+1122,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Senior loan,L + 8.00(a),9.25,12/2024,13059,12712,0.5,12667
+1123,Food and Staples Retailing,"Rubio's Restaurants, Inc.(5)",Senior loan,L + 8.00,N/A(6),12/2024,-,(19),-,(42)
+1124,Healthcare Providers and Services,Healthcare Providers and Services,Senior loan,,,,,,,
+1125,Healthcare Providers and Services,Dental Holdings Corporation*#,One stop,L + 6.00(c),7.00,03/2023,11262,11276,0.4,9571
+1126,Healthcare Providers and Services,Dental Holdings Corporation,One stop,L + 6.00(c),7.00,03/2023,116,116,-,116
+1127,Healthcare Providers and Services,Elite Dental Partners LLC,One stop,L + 5.25(c),6.25,06/2023,11309,11373,0.4,10970
+1128,Healthcare Providers and Services,Elite Dental Partners LLC,One stop,L + 5.25,N/A(6),06/2023,-,-,-,-
+1129,Software,Software,One stop,,,,,,,
+1130,Software,Switchfly LLC,One stop,L + 5.00(c),6.00,10/1/2023,5896,5743,0.2,4953
+1131,Software,Switchfly LLC,One stop,L + 5.00(c),6.00,10/1/2023,492,481,-,413
+1132,Software,Switchfly LLC,One stop,L + 5.00(b)(c),6.00,10/1/2023,38,37,-,32
+1133,Software,Switchfly LLC(5),One stop,L + 8.50(c),9.50,10/1/2023,2,2,-,(12)
+1134,Equity investments(14)(15),Equity investments(14)(15),One stop,,,,,,,
+1135,Beverages,Beverages,One stop,,,,,,,
+1136,Beverages,Uinta Brewing Company,Common Stock,No Value,No Value,No Value,153,17,-,-
+1137,Consumer Finance,Consumer Finance,Common Stock,,,,,,,
+1138,Consumer Finance,"Paradigm DKD Group, LLC+LLC units",Common Stock,No Value,No Value,No Value,354,116,-,3
+1139,Consumer Finance,"Paradigm DKD Group, LLC+LLC units",Common Stock,No Value,No Value,No Value,71,-,-,-
+1140,Consumer Finance,"Paradigm DKD Group, LLC+LLC units",Common Stock,No Value,No Value,No Value,2004,-,-,-
+1141,"Electronic Equipment, Instruments and Components","Electronic Equipment, Instruments and Components",Common Stock,,,,,,,
+1142,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The",LLC units,No Value,No Value,No Value,-,152,-,-
+1143,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The",LLC units,No Value,No Value,No Value,2,14,-,-
+1144,"Electronic Equipment, Instruments and Components","Sloan Company, Inc., The",Common Stock,No Value,No Value,No Value,-,41,-,-
+1145,"Energy, Equipment & Services","Energy, Equipment & Services",Common Stock,,,,,,,
+1146,"Energy, Equipment & Services","Benetech, Inc.(8)",LLC interest,No Value,N/A(6),No Value,59,-,-,-
+1147,"Energy, Equipment & Services","Benetech, Inc.(8)",LLC interest,No Value,N/A(6),No Value,59,-,-,-
+1148,Food and Staples Retailing,Food and Staples Retailing,LLC interest,,,,,,,
+1149,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Preferred stock,No Value,No Value,No Value,-,2276,0.1,2276
+1150,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,182,-,182
+1151,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,111,-,111
+1152,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,5,-,5
+1153,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,3,-,3
+1154,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1155,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1156,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1157,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1158,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1159,Food and Staples Retailing,"Rubio's Restaurants, Inc.",Common Stock,No Value,No Value,No Value,-,-,-,-
+1160,Healthcare Providers and Services,Healthcare Providers and Services,Common Stock,,,,,,,
+1161,Healthcare Providers and Services,Dental Holdings Corporation*#,Common Stock,No Value,No Value,No Value,-,390,-,406
+1162,Healthcare Providers and Services,Elite Dental Partners LLC,LLC units,No Value,No Value,No Value,-,2902,0.1,3103
+1163,Healthcare Providers and Services,Elite Dental Partners LLC,LLC units,No Value,No Value,No Value,-,1250,0.1,1074
+1164,Healthcare Providers and Services,Elite Dental Partners LLC,LLC units,No Value,No Value,No Value,-,-,-,195
+1165,Software,Software,LLC units,,,,,,,
+1166,Software,Switchfly LLC,LLC units,No Value,No Value,No Value,3418,2320,0.1,2173
+1167,Controlled affiliate company investments(18),Controlled affiliate company investments(18),LLC units,,,,,,,
+1168,Debt Investments,Debt Investments,LLC units,,,,,,,
+1169,IT Services,IT Services,LLC units,,,,,,,
+1170,IT Services,MMan Acquisition Co.*(7),One stop,L + 10.00(c),10.00 PIK,08/2023,22528,19746,0.7,16775
+1171,IT Services,MMan Acquisition Co.,One stop,L + 8.00(e),8.00 PIK,08/2023,1468,1468,-,1468
+1172,Equity Investments (14)(15),Equity Investments (14)(15),One stop,,,,,,,
+1173,IT Services,IT Services,One stop,,,,,,,
+1174,IT Services,MMan Acquisition Co.*+Common Stock,One stop,No Value,No Value,No Value,-,927,-,525
