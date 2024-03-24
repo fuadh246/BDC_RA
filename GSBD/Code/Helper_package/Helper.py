@@ -114,15 +114,16 @@ def parse_and_trim(content, content_type='HTML'):
             if hasattr(tag, 'attrs'):
                 tag.attrs = None
         # Loop through each td element in the BeautifulSoup object
-        for td in soup.find_all('td'):
-            # Check if the td element is empty or contains only whitespace
-            if not td.text.strip():
-                # Remove the empty td element
-                td.extract()
+        # for td in soup.find_all('td'):
+        #     # Check if the td element is empty or contains only whitespace
+        #     if not td.text.strip():
+        #         # Remove the empty td element
+        #         td.extract()
         for linebreak in soup.find_all('br'):
             linebreak.extract()
-        for linebreak in soup.find_all(''):
-            linebreak.extract()
+        for linebreak in soup.find_all(' '):
+            linebreak.replace_with("N/A")
+
         return soup
     except AttributeError as e:
         print(f"An attribute error occurred during parsing: {e}")
