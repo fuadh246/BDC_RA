@@ -1,5 +1,5 @@
 """Helper functions for fetching data, parsing content, and more."""
-"""
+'''
 List of functions defined in helper_functions.py:
 
 1. get_response(url, headers)
@@ -25,7 +25,7 @@ List of functions defined in helper_functions.py:
 6. fetch_filing_data(cik, headers)
     Parameters: cik (str), headers (dict)
     Returns: DataFrame containing recent filing data
-"""
+'''
 
 
 
