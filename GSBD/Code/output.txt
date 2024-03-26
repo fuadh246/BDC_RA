@@ -1,20 +1,5 @@
 <table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
+
 <tr>
 <td><p><span>Investment </span><span>(1)(4)</span></p></td>
 <td><p><span>Industry</span></p></td>

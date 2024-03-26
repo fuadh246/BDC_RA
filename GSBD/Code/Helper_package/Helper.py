@@ -119,9 +119,15 @@ def parse_and_trim(content, content_type='HTML'):
         #     if not td.text.strip():
         #         # Remove the empty td element
         #         td.extract()
+
+        for tr in soup.find_all('tr'):
+            # Check if the td element is empty or contains only whitespace
+            if not tr.text.strip():
+                # Remove the empty td element
+                tr.extract()
         for linebreak in soup.find_all('br'):
             linebreak.extract()
-        for linebreak in soup.find_all(' '):
+        for linebreak in soup.find_all(''):
             linebreak.replace_with("N/A")
 
         return soup
