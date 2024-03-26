@@ -1,36 +1,6 @@
 <table>
  <tr>
   <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
- </tr>
- <tr>
-  <td>
    <p>
     <span>
      Investment
@@ -237,7 +207,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      4,000,000
+      4000000
      </ix:nonfraction>
     </span>
    </p>
@@ -251,7 +221,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -259,7 +228,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      4,019
+      $4019
      </ix:nonfraction>
     </span>
    </p>
@@ -273,7 +242,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -281,7 +249,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      8,000
+      $8000
      </ix:nonfraction>
     </span>
    </p>
@@ -342,7 +310,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,152,957
+      1152957
      </ix:nonfraction>
     </span>
    </p>
@@ -363,7 +331,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      12,899
+      12899
      </ix:nonfraction>
     </span>
    </p>
@@ -384,7 +352,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      15,507
+      15507
      </ix:nonfraction>
     </span>
    </p>
@@ -548,7 +516,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      10,597
+      10597
      </ix:nonfraction>
     </span>
    </p>
@@ -569,7 +537,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      10,332
+      10332
      </ix:nonfraction>
     </span>
    </p>
@@ -590,7 +558,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      12,489
+      12489
      </ix:nonfraction>
     </span>
    </p>
@@ -657,7 +625,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      85,214
+      85214
      </ix:nonfraction>
     </span>
    </p>
@@ -855,7 +823,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      124,040
+      124040
      </ix:nonfraction>
     </span>
    </p>
@@ -876,7 +844,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,067
+      3067
      </ix:nonfraction>
     </span>
    </p>
@@ -956,7 +924,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      535,226
+      535226
      </ix:nonfraction>
     </span>
    </p>
@@ -977,7 +945,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      8,225
+      8225
      </ix:nonfraction>
     </span>
    </p>
@@ -1057,7 +1025,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      561,918
+      561918
      </ix:nonfraction>
     </span>
    </p>
@@ -1078,7 +1046,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      8,875
+      8875
      </ix:nonfraction>
     </span>
    </p>
@@ -1099,7 +1067,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      8,785
+      8785
      </ix:nonfraction>
     </span>
    </p>
@@ -1166,7 +1134,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      48,216
+      48216
      </ix:nonfraction>
     </span>
    </p>
@@ -1187,7 +1155,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      44,810
+      44810
      </ix:nonfraction>
     </span>
    </p>
@@ -1306,7 +1274,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      29,326
+      29326
      </ix:nonfraction>
     </span>
    </p>
@@ -1320,7 +1288,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -1328,7 +1295,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,933
+      $2933
      </ix:nonfraction>
     </span>
    </p>
@@ -1342,7 +1309,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -1350,7 +1316,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,639
+      $2639
      </ix:nonfraction>
     </span>
    </p>
@@ -1411,7 +1377,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      37,500
+      37500
      </ix:nonfraction>
     </span>
    </p>
@@ -1512,7 +1478,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      83,333
+      83333
      </ix:nonfraction>
     </span>
    </p>
@@ -1533,7 +1499,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      13,745
+      13745
      </ix:nonfraction>
     </span>
    </p>
@@ -1655,7 +1621,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,114
+      2114
      </ix:nonfraction>
     </span>
    </p>
@@ -1716,7 +1682,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      4,145,602
+      4145602
      </ix:nonfraction>
     </span>
    </p>
@@ -1737,7 +1703,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      22,366
+      22366
      </ix:nonfraction>
     </span>
    </p>
@@ -1817,7 +1783,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      20,183
+      20183
      </ix:nonfraction>
     </span>
    </p>
@@ -1838,7 +1804,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,916
+      2916
      </ix:nonfraction>
     </span>
    </p>
@@ -1859,7 +1825,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,209
+      3209
      </ix:nonfraction>
     </span>
    </p>
@@ -1920,7 +1886,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      19,048
+      19048
      </ix:nonfraction>
     </span>
    </p>
@@ -2023,7 +1989,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,126,780
+      3126780
      </ix:nonfraction>
     </span>
    </p>
@@ -2044,7 +2010,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      5,300
+      5300
      </ix:nonfraction>
     </span>
    </p>
@@ -2124,7 +2090,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,514
+      1514
      </ix:nonfraction>
     </span>
    </p>
@@ -2225,7 +2191,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      111,650
+      111650
      </ix:nonfraction>
     </span>
    </p>
@@ -2246,7 +2212,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      5,238
+      5238
      </ix:nonfraction>
     </span>
    </p>
@@ -2267,7 +2233,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      5,396
+      5396
      </ix:nonfraction>
     </span>
    </p>
@@ -2328,7 +2294,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      31,407
+      31407
      </ix:nonfraction>
     </span>
    </p>
@@ -2429,7 +2395,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      11,826
+      11826
      </ix:nonfraction>
     </span>
    </p>
@@ -2530,7 +2496,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      28,898
+      28898
      </ix:nonfraction>
     </span>
    </p>
@@ -2551,7 +2517,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      7,003
+      7003
      </ix:nonfraction>
     </span>
    </p>
@@ -2572,7 +2538,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      6,777
+      6777
      </ix:nonfraction>
     </span>
    </p>
@@ -2633,7 +2599,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,399,556
+      1399556
      </ix:nonfraction>
     </span>
    </p>
@@ -2831,7 +2797,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,293
+      1293
      </ix:nonfraction>
     </span>
    </p>
@@ -2925,7 +2891,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,579,988
+      3579988
      </ix:nonfraction>
     </span>
    </p>
@@ -2946,7 +2912,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      9,237
+      9237
      </ix:nonfraction>
     </span>
    </p>
@@ -3028,7 +2994,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,100
+      1100
      </ix:nonfraction>
     </span>
    </p>
@@ -3049,7 +3015,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,100
+      1100
      </ix:nonfraction>
     </span>
    </p>
@@ -3070,7 +3036,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,798
+      1798
      </ix:nonfraction>
     </span>
    </p>
@@ -3131,7 +3097,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      122,571
+      122571
      </ix:nonfraction>
     </span>
    </p>
@@ -3152,7 +3118,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,270
+      2270
      </ix:nonfraction>
     </span>
    </p>
@@ -3173,7 +3139,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,292
+      2292
      </ix:nonfraction>
     </span>
    </p>
@@ -3234,7 +3200,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,355
+      3355
      </ix:nonfraction>
     </span>
    </p>
@@ -3255,7 +3221,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,406
+      3406
      </ix:nonfraction>
     </span>
    </p>
@@ -3276,7 +3242,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,711
+      3711
      </ix:nonfraction>
     </span>
    </p>
@@ -3337,7 +3303,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      23,400
+      23400
      </ix:nonfraction>
     </span>
    </p>
@@ -3358,7 +3324,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,340
+      2340
      </ix:nonfraction>
     </span>
    </p>
@@ -3379,7 +3345,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,233
+      2233
      </ix:nonfraction>
     </span>
    </p>
@@ -3446,7 +3412,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      79,549
+      79549
      </ix:nonfraction>
     </span>
    </p>
@@ -3467,7 +3433,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      31,302
+      31302
      </ix:nonfraction>
     </span>
    </p>
@@ -3586,7 +3552,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      333,980
+      333980
      </ix:nonfraction>
     </span>
    </p>
@@ -3600,7 +3566,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -3608,7 +3573,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,849
+      $1849
      </ix:nonfraction>
     </span>
    </p>
@@ -3622,7 +3587,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -3630,7 +3594,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      327
+      $327
      </ix:nonfraction>
     </span>
    </p>
@@ -3790,7 +3754,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2,812
+      2812
      </ix:nonfraction>
     </span>
    </p>
@@ -3994,7 +3958,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1,849
+      1849
      </ix:nonfraction>
     </span>
    </p>
@@ -4082,7 +4046,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -4090,7 +4053,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,618,855
+      $3618855
      </ix:nonfraction>
     </span>
    </p>
@@ -4104,7 +4067,6 @@
   <td>
    <p>
     <span>
-     $
     </span>
    </p>
   </td>
@@ -4112,7 +4074,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3,438,696
+      $3438696
      </ix:nonfraction>
     </span>
    </p>
