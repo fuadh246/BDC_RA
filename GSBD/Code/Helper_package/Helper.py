@@ -127,8 +127,10 @@ def parse_and_trim(content, content_type='HTML'):
                 tr.extract()
         for linebreak in soup.find_all('br'):
             linebreak.extract()
-        for linebreak in soup.find_all(''):
-            linebreak.replace_with("N/A")
+        for linebreak in soup.find_all('span', string='('):
+            linebreak.replace_with("-")
+        for linebreak in soup.find_all('span', string=')'):
+            linebreak.replace_with("")
 
         return soup
     except AttributeError as e:

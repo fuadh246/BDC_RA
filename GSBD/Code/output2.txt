@@ -3,47 +3,6 @@
   <td>
    <p>
     <span>
-     Investment
-    </span>
-    <span>
-     (1)(4)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Industry
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Interest
-     Rate
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Initial
-     Acquisition
-     Date
-    </span>
-    <span>
-     (14)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Shares
-    </span>
-    <span>
-     (3)
     </span>
    </p>
   </td>
@@ -56,51 +15,7 @@
   <td>
    <p>
     <span>
-     Cost
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Fair
-     Value
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Footnotes
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Preferred Stock  -
-    </span>
-    <span>
-     <ix:nonfraction>
-      2.80
-     </ix:nonfraction>
-    </span>
-    <span>
-     %
+     For the Three Months Ended
     </span>
    </p>
   </td>
@@ -119,42 +34,7 @@
   <td>
    <p>
     <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     For the Nine Months Ended
     </span>
    </p>
   </td>
@@ -169,31 +49,26 @@
   <td>
    <p>
     <span>
-     Broadway Parent, LLC
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
-     Diversified Financial Services
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
+     September 30,
+     2023
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
-     <ix:nonnumeric>
-      <span>
-       01/25/21
-      </span>
-     </ix:nonnumeric>
     </span>
    </p>
   </td>
@@ -206,9 +81,8 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      4000000
-     </ix:nonfraction>
+     September 30,
+     2022
     </span>
    </p>
   </td>
@@ -227,9 +101,8 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      $4019
-     </ix:nonfraction>
+     September 30,
+     2023
     </span>
    </p>
   </td>
@@ -248,921 +121,8 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      $8000
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     CloudBees, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Software
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       11/24/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1152957
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      12899
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      15507
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Foundation Software
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Construction &amp; Engineering
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       08/31/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      22
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      21
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      29
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Governmentjobs.com, Inc. (dba NeoGov)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Software
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       12/02/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      10597
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      10332
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      12489
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Kawa Solar Holdings Limited
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Construction &amp; Engineering
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      8.00
-     </ix:nonfraction>
-    </span>
-    <span>
-     % PIK
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       10/25/16
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      85214
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      778
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (5) (7) (9) (11)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     MedeAnalytics, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Technology
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       10/09/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (11) (12) (15)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Wine.com, LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Beverages
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       03/03/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      124040
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      3067
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Wine.com, LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Beverages
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       11/14/18
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      535226
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      8225
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     WSO2, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     IT Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       11/04/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      561918
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      8875
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      8785
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Total Preferred Stock
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      48216
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      44810
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     September 30,
+     2022
     </span>
    </p>
   </td>
@@ -1177,15 +137,37 @@
   <td>
    <p>
     <span>
-     Common Stock  -
+     Investment income:
     </span>
+   </p>
+  </td>
+  <td>
+   <p>
     <span>
-     <ix:nonfraction>
-      1.96
-     </ix:nonfraction>
     </span>
+   </p>
+  </td>
+  <td>
+   <p>
     <span>
-     %
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1236,14 +218,7 @@
   <td>
    <p>
     <span>
-     Abacus Data Holdings, Inc. (dba Clutch Intermediate Holdings)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Software
+     From non-controlled/non-affiliated investments:
     </span>
    </p>
   </td>
@@ -1256,17 +231,88 @@
   <td>
    <p>
     <span>
-     <ix:nonnumeric>
-      <span>
-       03/10/21
-      </span>
-     </ix:nonnumeric>
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Interest income
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
     </span>
    </p>
   </td>
@@ -1274,7 +320,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      29326
+      109,117
      </ix:nonfraction>
     </span>
    </p>
@@ -1294,8 +340,15 @@
   <td>
    <p>
     <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      <ix:nonfraction>
-      $2933
+      88,326
      </ix:nonfraction>
     </span>
    </p>
@@ -1315,8 +368,15 @@
   <td>
    <p>
     <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      <ix:nonfraction>
-      $2639
+      309,199
      </ix:nonfraction>
     </span>
    </p>
@@ -1330,7 +390,28 @@
   <td>
    <p>
     <span>
-     (6) (7) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      231,605
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1339,46 +420,7 @@
   <td>
    <p>
     <span>
-     Animal Supply Holdings, LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Distributors
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       08/14/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      37500
-     </ix:nonfraction>
+     Payment-in-kind income
     </span>
    </p>
   </td>
@@ -1398,7 +440,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      126
+      9,221
      </ix:nonfraction>
     </span>
    </p>
@@ -1418,7 +460,15 @@
   <td>
    <p>
     <span>
-     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      5,154
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -1431,7 +481,54 @@
   <td>
    <p>
     <span>
-     (7) (11) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      25,673
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      14,266
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1440,46 +537,7 @@
   <td>
    <p>
     <span>
-     Animal Supply Holdings, LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Distributors
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       08/14/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      83333
-     </ix:nonfraction>
+     Other income
     </span>
    </p>
   </td>
@@ -1499,7 +557,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      13745
+      809
      </ix:nonfraction>
     </span>
    </p>
@@ -1519,7 +577,15 @@
   <td>
    <p>
     <span>
-     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      1,384
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -1532,7 +598,54 @@
   <td>
    <p>
     <span>
-     (7) (11) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      2,355
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      3,550
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1541,14 +654,7 @@
   <td>
    <p>
     <span>
-     ATX Parent Holdings, LLC - Class A Units
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Communications Equipment
+     From non-controlled affiliated investments:
     </span>
    </p>
   </td>
@@ -1561,11 +667,81 @@
   <td>
    <p>
     <span>
-     <ix:nonnumeric>
-      <span>
-       09/01/21
-      </span>
-     </ix:nonnumeric>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Dividend income
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1579,7 +755,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      332
+      256
      </ix:nonfraction>
     </span>
    </p>
@@ -1599,8 +775,14 @@
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      <ix:nonfraction>
-      167
+      133
      </ix:nonfraction>
     </span>
    </p>
@@ -1620,8 +802,14 @@
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      <ix:nonfraction>
-      2114
+      501
      </ix:nonfraction>
     </span>
    </p>
@@ -1635,7 +823,27 @@
   <td>
    <p>
     <span>
-     (5) (7) (11) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      258
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1644,46 +852,7 @@
   <td>
    <p>
     <span>
-     Bolttech Mannings, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Commercial Services &amp; Supplies
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       12/22/17
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      4145602
-     </ix:nonfraction>
+     Interest income
     </span>
    </p>
   </td>
@@ -1703,7 +872,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      22366
+      590
      </ix:nonfraction>
     </span>
    </p>
@@ -1723,7 +892,15 @@
   <td>
    <p>
     <span>
-     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      120
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -1736,7 +913,54 @@
   <td>
    <p>
     <span>
-     (7) (12) (16)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      1,629
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      469
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1745,46 +969,7 @@
   <td>
    <p>
     <span>
-     Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Class B
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Providers &amp; Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       03/30/18
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      20183
-     </ix:nonfraction>
+     Payment-in-kind income
     </span>
    </p>
   </td>
@@ -1804,8 +989,14 @@
    <p>
     <span>
      <ix:nonfraction>
-      2916
+      53
      </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1825,7 +1016,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      3209
+      101
      </ix:nonfraction>
     </span>
    </p>
@@ -1839,7 +1030,54 @@
   <td>
    <p>
     <span>
-     (6) (7) (11)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      153
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      553
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -1848,46 +1086,7 @@
   <td>
    <p>
     <span>
-     Collaborative Imaging Holdco, LLC (dba Texas Radiology Associates) - Performance Units
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Providers &amp; Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       03/30/18
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      19048
-     </ix:nonfraction>
+     Other income
     </span>
    </p>
   </td>
@@ -1907,7 +1106,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      514
+      10
      </ix:nonfraction>
     </span>
    </p>
@@ -1915,387 +1114,6 @@
   <td>
    <p>
     <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      746
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (5) (6) (7) (11)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Conergy Asia &amp; ME Pte. LTD.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Construction &amp; Engineering
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       01/11/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      3126780
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      5300
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (5) (7) (11) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Country Fresh Holding Company Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Food Products
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       04/29/19
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1514
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      888
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Elah Holdings, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Capital Markets
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       05/09/18
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      111650
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      5238
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      5396
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (11) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Exostar LLC - Class B
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Aerospace &amp; Defense
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       07/06/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      31407
-     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -2333,61 +1151,6 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      80
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Foundation Software - Class B
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Construction &amp; Engineering
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       08/31/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
     </span>
    </p>
   </td>
@@ -2395,8 +1158,14 @@
    <p>
     <span>
      <ix:nonfraction>
-      11826
+      33
      </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2416,6 +1185,288 @@
    <p>
     <span>
      —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     From controlled affiliated investments:
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Payment-in-kind income
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      259
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Interest income
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2446,10 +1497,124 @@
     </span>
    </p>
   </td>
+ </tr>
+ <tr>
   <td>
    <p>
     <span>
-     (6) (7) (12)
+     Total investment income
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      120,056
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      95,218
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      339,543
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      250,976
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2458,46 +1623,7 @@
   <td>
    <p>
     <span>
-     Iracore International Holdings, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Energy Equipment &amp; Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       04/13/17
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      28898
-     </ix:nonfraction>
+     Expenses:
     </span>
    </p>
   </td>
@@ -2516,9 +1642,6 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      7003
-     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -2537,9 +1660,6 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      6777
-     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -2552,7 +1672,30 @@
   <td>
    <p>
     <span>
-     (7) (11) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2561,14 +1704,7 @@
   <td>
    <p>
     <span>
-     Kawa Solar Holdings Limited
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Construction &amp; Engineering
+     Interest and other debt expenses
     </span>
    </p>
   </td>
@@ -2581,11 +1717,121 @@
   <td>
    <p>
     <span>
-     <ix:nonnumeric>
-      <span>
-       08/17/16
-      </span>
-     </ix:nonnumeric>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      28,174
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      21,979
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      83,213
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      53,823
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Incentive fees
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2599,8 +1845,14 @@
    <p>
     <span>
      <ix:nonfraction>
-      1399556
+      6,237
      </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -2638,59 +1890,6 @@
   <td>
    <p>
     <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (5) (7) (11) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     MedeAnalytics, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Technology
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       04/21/23
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
     </span>
    </p>
   </td>
@@ -2698,174 +1897,8 @@
    <p>
     <span>
      <ix:nonfraction>
-      9
+      36,376
      </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (7) (11) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     PPT Management Holdings, LLC (dba Pro-PT)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Providers &amp; Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       05/31/23
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1293
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Prairie Provident Resources, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Oil, Gas &amp; Consumable Fuels
     </span>
    </p>
   </td>
@@ -2891,556 +1924,8 @@
    <p>
     <span>
      <ix:nonfraction>
-      3579988
+      12,023
      </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      9237
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      291
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (5) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Southeast Mechanical, LLC (dba. SEM Holdings, LLC)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Diversified Consumer Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       07/06/22
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1100
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1100
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      1798
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (11) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Total Vision LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Health Care Providers &amp; Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       07/15/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      122571
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      2270
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      2292
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Volt Bidco, Inc. (dba Power Factors)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Independent Power and Renewable Electricity Producers
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       08/11/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      3355
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      3406
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      3711
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Whitewater Holding Company LLC
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Diversified Consumer Services
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       12/21/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      23400
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      2340
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      2233
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Total Common Stock
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      79549
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      31302
-     </ix:nonfraction>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
     </span>
    </p>
   </td>
@@ -3455,15 +1940,55 @@
   <td>
    <p>
     <span>
-     Warrants  -
+     Management fees
     </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
     <span>
      <ix:nonfraction>
-      0.02
+      8,870
      </ix:nonfraction>
     </span>
+   </p>
+  </td>
+  <td>
+   <p>
     <span>
-     %
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      9,157
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -3488,6 +2013,9 @@
   <td>
    <p>
     <span>
+     <ix:nonfraction>
+      26,761
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -3500,6 +2028,21 @@
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      26,933
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -3514,46 +2057,7 @@
   <td>
    <p>
     <span>
-     CloudBees, Inc.
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Software
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       11/24/21
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonfraction>
-      333980
-     </ix:nonfraction>
+     Professional fees
     </span>
    </p>
   </td>
@@ -3573,8 +2077,14 @@
    <p>
     <span>
      <ix:nonfraction>
-      $1849
+      982
      </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -3594,7 +2104,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      $327
+      814
      </ix:nonfraction>
     </span>
    </p>
@@ -3608,7 +2118,54 @@
   <td>
    <p>
     <span>
-     (6) (7) (12)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      2,748
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      2,559
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
     </span>
    </p>
   </td>
@@ -3617,31 +2174,13 @@
   <td>
    <p>
     <span>
-     KDOR Holdings Inc. (dba Senneca Holdings)
+     Directors’ fees
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
-     Building Products
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       06/22/20
-      </span>
-     </ix:nonnumeric>
     </span>
    </p>
   </td>
@@ -3655,7 +2194,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      59
+      204
      </ix:nonfraction>
     </span>
    </p>
@@ -3669,6 +2208,341 @@
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      209
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      619
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      616
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Other general and administrative expenses
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      1,137
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      1,041
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      3,220
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      3,301
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Total expenses
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      45,604
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      33,200
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      152,937
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      99,255
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Fee waivers
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
     </span>
    </p>
   </td>
@@ -3694,6 +2568,13 @@
   <td>
    <p>
     <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      —
     </span>
    </p>
@@ -3707,8 +2588,55 @@
   <td>
    <p>
     <span>
-     (6) (7) (12)
     </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      1,986
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      11,724
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
    </p>
   </td>
  </tr>
@@ -3716,14 +2644,7 @@
   <td>
    <p>
     <span>
-     KDOR Holdings Inc. (dba Senneca Holdings)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Building Products
+     Net expenses
     </span>
    </p>
   </td>
@@ -3736,17 +2657,7 @@
   <td>
    <p>
     <span>
-     <ix:nonnumeric>
-      <span>
-       05/29/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     $
     </span>
    </p>
   </td>
@@ -3754,7 +2665,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      2812
+      45,604
      </ix:nonfraction>
     </span>
    </p>
@@ -3774,78 +2685,7 @@
   <td>
    <p>
     <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     KDOR Holdings Inc. (dba Senneca Holdings)
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     Building Products
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     <ix:nonnumeric>
-      <span>
-       05/29/20
-      </span>
-     </ix:nonnumeric>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     $
     </span>
    </p>
   </td>
@@ -3853,7 +2693,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      294
+      33,200
      </ix:nonfraction>
     </span>
    </p>
@@ -3873,84 +2713,7 @@
   <td>
    <p>
     <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     —
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-     (6) (7) (12)
-    </span>
-   </p>
-  </td>
- </tr>
- <tr>
-  <td>
-   <p>
-    <span>
-     Total Warrants
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     $
     </span>
    </p>
   </td>
@@ -3958,7 +2721,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      1849
+      150,951
      </ix:nonfraction>
     </span>
    </p>
@@ -3978,15 +2741,16 @@
   <td>
    <p>
     <span>
-     <ix:nonfraction>
-      327
-     </ix:nonfraction>
+     $
     </span>
    </p>
   </td>
   <td>
    <p>
     <span>
+     <ix:nonfraction>
+      87,531
+     </ix:nonfraction>
     </span>
    </p>
   </td>
@@ -4001,15 +2765,7 @@
   <td>
    <p>
     <span>
-     Total Investments  -
-    </span>
-    <span>
-     <ix:nonfraction>
-      214.84
-     </ix:nonfraction>
-    </span>
-    <span>
-     %
+     Net investment income before taxes
     </span>
    </p>
   </td>
@@ -4022,30 +2778,7 @@
   <td>
    <p>
     <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
-    </span>
-   </p>
-  </td>
-  <td>
-   <p>
-    <span>
+     $
     </span>
    </p>
   </td>
@@ -4053,7 +2786,7 @@
    <p>
     <span>
      <ix:nonfraction>
-      $3618855
+      74,452
      </ix:nonfraction>
     </span>
    </p>
@@ -4073,8 +2806,15 @@
   <td>
    <p>
     <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
      <ix:nonfraction>
-      $3438696
+      62,018
      </ix:nonfraction>
     </span>
    </p>
@@ -4082,6 +2822,2294 @@
   <td>
    <p>
     <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      188,592
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      163,445
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Income tax expense, including excise tax
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      1,503
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      829
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      3,155
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      2,494
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net investment income after taxes
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      72,949
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      61,189
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      185,437
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      160,951
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net realized and unrealized gains (losses) on investment transactions:
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net realized gain (loss) from:
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Non-controlled/non-affiliated investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      5,180
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      44,394
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      5,054
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Controlled affiliated investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      2,035
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Foreign currency forward contracts
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      90
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      171
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Foreign currency and other transactions
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      10
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      1,565
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      185
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      2,413
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net change in unrealized appreciation (depreciation) from:
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Non-controlled/non-affiliated investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      17,813
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      50,069
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      6,578
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      89,028
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Non-controlled affiliated investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      2,089
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      3,529
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      1,912
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      1,585
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Controlled affiliated investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      18,685
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     —
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      19,746
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Foreign currency forward contracts
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      232
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      35
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      103
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      11
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Foreign currency translations and other transactions
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      3,568
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      4,974
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      57
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      10,051
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net realized and unrealized gains (losses)
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      21,292
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      68,819
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      39,497
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      109,628
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     (Provision) benefit for taxes on unrealized appreciation/depreciation on investments
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      62
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      130
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      618
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      12
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Net increase (decrease) in net assets from operations
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      51,595
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      7,500
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      145,322
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      51,335
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Weighted average shares outstanding
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      109,535,156
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      102,367,005
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      107,881,454
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      102,069,593
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Basic and diluted net investment income per share
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       0.67
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       0.60
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       1.72
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       1.58
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <p>
+    <span>
+     Basic and diluted earnings (loss) per share
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       0.47
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    -
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       0.07
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       1.35
+      </ix:nonfraction>
+     </ix:nonfraction>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     $
+    </span>
+   </p>
+  </td>
+  <td>
+   <p>
+    <span>
+     <ix:nonfraction>
+      <ix:nonfraction>
+       0.50
+      </ix:nonfraction>
+     </ix:nonfraction>
     </span>
    </p>
   </td>
